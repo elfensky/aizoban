@@ -1,0 +1,2729 @@
+{
+ "work": "jujutsu-kaisen",
+ "source": "MangaFreak",
+ "matchedTitle": "Jujutsu Kaisen",
+ "mangaId": "Manga/Jujutsu_Kaisen",
+ "fetchedAt": "2026-08-13T08:40:05.224Z",
+ "chapters": [
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_271",
+   "chapNum": 271,
+   "volume": 0,
+   "title": "Chapter 271 - From Here on Out",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_270",
+   "chapNum": 270,
+   "volume": 0,
+   "title": "Chapter 270",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_269",
+   "chapNum": 269,
+   "volume": 0,
+   "title": "Chapter 269",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_268",
+   "chapNum": 268,
+   "volume": 0,
+   "title": "Chapter 268 - Finale",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_267",
+   "chapNum": 267,
+   "volume": 0,
+   "title": "Chapter 267",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_266",
+   "chapNum": 266,
+   "volume": 0,
+   "title": "Chapter 266 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㊲",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_265",
+   "chapNum": 265,
+   "volume": 0,
+   "title": "Chapter 265 - That Day",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_264",
+   "chapNum": 264,
+   "volume": 0,
+   "title": "Chapter 264 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㊱",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_263",
+   "chapNum": 263,
+   "volume": 0,
+   "title": "Chapter 263 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉟",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_262e",
+   "chapNum": 262.5,
+   "volume": 0,
+   "title": "Chapter 262e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_262",
+   "chapNum": 262,
+   "volume": 0,
+   "title": "Chapter 262",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_261",
+   "chapNum": 261,
+   "volume": 0,
+   "title": "Chapter 261",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_260",
+   "chapNum": 260,
+   "volume": 0,
+   "title": "Chapter 260 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉜",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_259",
+   "chapNum": 259,
+   "volume": 0,
+   "title": "Chapter 259",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_258",
+   "chapNum": 258,
+   "volume": 0,
+   "title": "Chapter 258 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉚",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_257",
+   "chapNum": 257,
+   "volume": 0,
+   "title": "Chapter 257",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_256",
+   "chapNum": 256,
+   "volume": 0,
+   "title": "Chapter 256",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_255",
+   "chapNum": 255,
+   "volume": 0,
+   "title": "Chapter 255",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_254",
+   "chapNum": 254,
+   "volume": 0,
+   "title": "Chapter 254 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉖",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_253",
+   "chapNum": 253,
+   "volume": 0,
+   "title": "Chapter 253 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉕",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_252",
+   "chapNum": 252,
+   "volume": 0,
+   "title": "Chapter 252 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉔",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_251",
+   "chapNum": 251,
+   "volume": 0,
+   "title": "Chapter 251 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉓",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_250",
+   "chapNum": 250,
+   "volume": 0,
+   "title": "Chapter 250 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉒",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_249",
+   "chapNum": 249,
+   "volume": 0,
+   "title": "Chapter 249 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ㉑",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_248",
+   "chapNum": 248,
+   "volume": 0,
+   "title": "Chapter 248 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑳",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_247",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "Chapter 247 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑲",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_246",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "Chapter 246 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑱",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_245",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "Chapter 245 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑰",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_244",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "Chapter 244 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑯",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_243",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "Chapter 243 - Idiot Survivor!! ~Bounce Off the Walls~",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_242",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "Chapter 242 - Stupid Survivor!! Moving Up!!",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_241",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "Chapter 241 - Idiot Survivor!! ~Move On Up~",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_240",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "Chapter 240 - Idiot Survivor!! ~Live On~",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_239",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "Chapter 239 - Idiot Survivor!",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_238",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "Chapter 238 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑮",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_237",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "Chapter 237 - Inhuman Makyo Shinjuku Showdown, Part 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_236",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "Chapter 236 - Go South",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_235",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "Chapter 235 - Inhuman Makyo Shinjuku Showdown, Part 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_234",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "Chapter 234 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑫",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_233",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "Chapter 233 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑪",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_232",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "Chapter 232 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑩",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_231",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "Chapter 231 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑨",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_230",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "Chapter 230 - Inhuman Makyo Shinjuku Showdown, Part 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_229",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "Chapter 229 - Inhuman Makyo Shinjuku Showdown, Part 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_228",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "Chapter 228 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑥",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_227",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "Chapter 227 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ⑤",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_226",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "Chapter 226 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_225",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "Chapter 225 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_224",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "Chapter 224 - The Decisive Battle in the Uninhabited, Demon-Infested Shinjuku ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_223",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "Chapter 223 - The Decisive Battle in the uninhabited Demon-Infested Shinjuku ①",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_222",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "Chapter 222 - Omen",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_221",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "Chapter 221 - Gain & Loss",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_220",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "Chapter 220 - Self-Cleansing & Self Restraint",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_219",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "Chapter 219 - Bath ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_218",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "Chapter 218 - Bath ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_217",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "Chapter 217 - Bath ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_216",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "Chapter 216 - Bath",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_215",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "Chapter 215 - Cursed Womb: Under Heaven, Part 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_214",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "Chapter 214 - Cursed Womb: Under Heaven, Part 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_213",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "Chapter 213 - Cursed Womb: Under Heaven, Part 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_212",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "Chapter 212 - Ripen ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_211",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "Chapter 211 - Ripen",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_210",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "Chapter 210 - Offering to the Unknown ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_209",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "Chapter 209 - Offering to the Unknown",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_208",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "Chapter 208 - Star and Oil ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_207",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "Chapter 207 - Star and Oil ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_206",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "Chapter 206 - Star and Oil ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_205",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "Chapter 205 - Star and Oil",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_204",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "Chapter 204",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_203",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "Chapter 203 - Blood and Oil ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_202",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "Chapter 202",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_201",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "Chapter 201 - Direct Negotiations ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_200",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "Chapter 200 - Direct Negotiations①",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_199",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "Chapter 199",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_198",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "Chapter 198 - Sakurajima Colony ⑧",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_197",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "Chapter 197 - Sakurajima Colony ⑦",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_196",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "Chapter 196 - Sakurajima Colony ⑥",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_195",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "Chapter 195 - Sakurajima Colony ⑤",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_194",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "Chapter 194 - Sakurajima Colony ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_193",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "Chapter 193 - Sakurajima Colony ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_192",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "Chapter 192 - Sakurajima Colony ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_191",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "Chapter 191 - Sakurajima Colony ①",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_190",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "Chapter 190 - Tokyo No.2 Colony ⑨",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_189",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "Chapter 189 - Tokyo No.2 Colony ⑧",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_188",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "Chapter 188 - Tokyo No.2 Colony ⑦",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_187",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "Chapter 187 - Tokyo No.2 Colony ⑥",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_186",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "Chapter 186 - Tokyo No.2 Colony ⑤",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_185",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "Chapter 185 - Bye Bye",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_184",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "Chapter 184 - Tokyo No.2 Colony ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_183",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "Chapter 183 - Tokyo No.2 Colony ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_182",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "Chapter 182 - Tokyo No.2 Colony ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_181",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "Chapter 181 - Tokyo No.2 Colony ①",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_180",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "Chapter 180 - Sendai Colony ⑦",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_179",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "Chapter 179 - Sendai Colony ⑥",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_178",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "Chapter 178 - Sendai Colony ⑤",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_177",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "Chapter 177 - Sendai Colony ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_176",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "Chapter 176 - Sendai Colony ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_175",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "Chapter 175 - Sendai Colony ②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_174",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "Chapter 174 - Sendai Colony ①",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_173",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "Chapter 173 - Tokyo No.1 Colony ⑬",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_172",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "Chapter 172 - Tokyo No.1 Colony ⑫",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_171",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "Chapter 171 - Tokyo No.1 Colony ⑪",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_170",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "Chapter 170 - Tokyo No.1 Colony ⑩",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_169",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "Chapter 169 - Tokyo No.1 Colony ⑨",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_168",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "Chapter 168 - Tokyo No.1 Colony ⑧",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Chapter 167 - Tokyo No.1 Colony ⑦",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Chapter 166 - Tokyo No.1 Colony ⑥",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Chapter 165 - Tokyo No.1 Colony ⑤",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Chapter 164 - Tokyo No.1 Colony ④",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Chapter 163 - Tokyo No.1 Colony ③",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Chapter 162 - Tokyo No.1 Colony\t②",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Chapter 161 - Tokyo No.1 Colony",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Chapter 160 - Colony",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Chapter 159 - Judgement",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Chapter 158 - Kogane",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Chapter 157 - Cogs",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Chapter 156 - Twinkle Star",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Chapter 155 - Passion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Chapter 154 - Infiltration",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Chapter 153 - Gambling Match",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Chapter 152 - Perfect Preparation - Epilogue -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Chapter 151 - Perfect Preparation - Part 4 -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Chapter 150 - Perfect Preparation - Part 3 -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Chapter 149 - Perfect Preparation\t- Part 2 -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Chapter 148 - Perfect Preparation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Chapter 147 - Even A Panda",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Chapter 146 - About the Culling Game",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Chapter 145 - The Back",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Chapter 144 - That Place",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Chapter 143 - One More Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Chapter 142 - A Big Brother's Back",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Chapter 141 - The Front of the Back",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Chapter 140 - Execution",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Chapter 139 - Hunter",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Chapter 138 - The Zen'in Clan",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Chapter 137 - Hard and White",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Chapter 136 - The Shibuya Incident, Part 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Chapter 135 - The Shibuya Incident, Part 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Chapter 134 - The Shibuya Incident, Part 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Chapter 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Chapter 132 - The Shibuya Incident, Part 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Chapter 131 - The Shibuya Incident, Part 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Chapter 130 - The Shibuya Incident, Part 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Chapter 129 - The Shibuya Incident, Part 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Chapter 128 - The Shibuya Incident, Part 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Chapter 127 - The Shibuya Incident, Part 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Chapter 126 - The Shibuya Incident, Part 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Chapter 125 - A Story About That Girl",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Chapter 124 - The Shibuya Incident, Part 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Chapter 123 - The Shibuya Incident, Part 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Chapter 122 - The Shibuya Incident, Part 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Chapter 121 - The Shibuya Incident, Part 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Chapter 120 - The Shibuya Incident, Part 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Chapter 119 - The Shibuya Incident, Part 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Chapter 118 - The Shibuya Incident, Part 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Chapter 117 - The Shibuya Incident, Part 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Chapter 116 - The Shibuya Incident, Part 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Chapter 115 - The Shibuya Incident, Part 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Chapter 114 - The Shibuya Incident, Part 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Chapter 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Chapter 112 - Shibuya Incident XXX",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Chapter 111 - Shibuya Incident XXVIV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Chapter 110 - Shibuya Incident XXVIII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Chapter 109 - Shibuya Incident XXVII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Chapter 108 - Shibuya Incident XXVI",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Chapter 107 - Shibuya Incident XXV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Chapter 106 - Shibuya Incident XXIV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Chapter 105 - Shibuya Incident XXIII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Chapter 104 - Shibuya Incident XXII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Chapter 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Chapter 102 - XX",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Chapter 101 - Shibuya Incident XIX",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Chapter 100 - Shibuya Incident XVIII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_99",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Chapter 99 - Shibuya Incident XVII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_98",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Chapter 98 - Shibuya Incident XVI",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_97",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Chapter 97 - Shibuya Incident XV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_96",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Chapter 96 - Shibuya Incident XIV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_95",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Chapter 95 - Shibuya Incident XIII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_94",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Chapter 94 - Shibuya Incident XII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_93",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Chapter 93 - Shibuya Incident XI",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_92",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Chapter 92 - Shibuya Incident X",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_91",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Chapter 91 - Shibuya Incident IX",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_90",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Chapter 90 - Shibuya Incident VIII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_89",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Chapter 89 - Shibuya Incident VII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_88",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Chapter 88 - Shibuya Incident V",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_87",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Chapter 87 - Shibuya Incident V",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_86",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Chapter 86 - Shibuya Incident IV",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_85",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Chapter 85 - Shibuya Incident III",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_84",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Chapter 84 - Shibuya Incident II",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_83",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Chapter 83 - Shibuya Incident I",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_82",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Chapter 82 - Pre-Festival III",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_81",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Chapter 81 - Pre Festival II",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_80",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Chapter 80 - Pre-Festival",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_79",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Chapter 79 - A Taste of Things to Come",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_78",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Chapter 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_77",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Chapter 77 - Premature Death II",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_76",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Chapter 76 - Premature death",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_75",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Chapter 75 - Hidden Inventory XI",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_74",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Chapter 74 - Hidden Inventory X",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_73",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Chapter 73 - Hidden Inventory, Part 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_72",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Chapter 72 - Hidden Inventory, Part 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_71",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Chapter 71 - Hidden Inventory, Part 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_70",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Chapter 70 - Hidden Inventory Part 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_69",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Chapter 69 - Hidden Inventory Part 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_68",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Chapter 68 - Hidden Inventory, Part 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_67",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Chapter 67 - Hidden Inventory Part 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_66",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Chapter 66 - Hidden Inventory Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_65",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Chapter 65 - Hidden Inventory",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_64",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Chapter 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_63",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Chapter 63 - Accomplices",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_62",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Chapter 62 - The Origin of Obedience, Part 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_61",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Chapter 61 - Origin of Obedience VII",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_60",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Chapter 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_59",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Chapter 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_58",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Chapter 58 - The Origin of Obedience Part 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_57",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Chapter 57 - The Origin of Obedience Part 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_56",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Chapter 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_55",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Chapter 55 - The Origin of Obedience",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_54",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Chapter 54 - JuJutsu Koshien",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_53",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Chapter 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_52",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Chapter 52 - Non-Standard",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_51",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Chapter 51 - Flower",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_50",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Chapter 50 - Premonition",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_49",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Chapter 49 - Constrained",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_48",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Chapter 48 - Black Flash",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_47",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Chapter 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_46",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Chapter 46 - Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_45",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Chapter 45 - Wise Man",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_44",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Chapter 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_43",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Chapter 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_42",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Chapter 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_41",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Chapter 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_40",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Chapter 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_39",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Chapter 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_38",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Chapter 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_37",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Chapter 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_36",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Chapter 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_35",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Chapter 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_34",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Chapter 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_33",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Chapter 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_32",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Chapter 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_31",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Chapter 31 - See You Tomorrow",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_30",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Chapter 30 - Selfish",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_29",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Chapter 29 - Growth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_28",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Chapter 28 - I\"ll Kill You",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_27",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Chapter 27 - If",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_26",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Chapter 26 - To You of Someday",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_25",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Chapter 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_24",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Chapter 24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_23",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Chapter 23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_22",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Chapter 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_21",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Chapter 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_20",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Chapter 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_19",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Chapter 19 - Small Fry and Reverse Retribution",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_18",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Chapter 18 - Low Class",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_17",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Chapter 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_16",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Chapter 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_15",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Chapter 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_14",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Chapter 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_13",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Chapter 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_12",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Chapter 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_11",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Chapter 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_10",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Chapter 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_9",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Chapter 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_8",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Chapter 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_7",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Chapter 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_6",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Chapter 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_5",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Chapter 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_4",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Chapter 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_3",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Chapter 3 - For My Sake",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Chapter 2 - Covert Execution",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Jujutsu_Kaisen_1",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Chapter 1 - Double-Faced Specter",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-14T22:00:00.000Z"
+  }
+ ]
+}

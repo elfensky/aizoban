@@ -1,0 +1,16 @@
+Bug in @paperback/runtime-polyfills MockRequestManager.scheduleRequest: the
+interceptor loop passes the ORIGINAL request to every interceptor instead of the
+progressively-modified one, so with 2+ interceptors (the normal case: rate
+limiter + cookie store) earlier mutations are silently lost.
+
+Applied manually to node_modules after install (see aizoban#3 "Notes"):
+
+--- a/lib/RequestManager.js
++++ b/lib/RequestManager.js
+@@ -34,7 +34,7 @@
+         let finalRequest = request;
+         for (const interceptor of this.registeredInterceptors) {
+             const requestInterceptor = this.selectorRegistry.selector(interceptor.interceptRequestSelectorId);
+-            finalRequest = await requestInterceptor(request);
++            finalRequest = await requestInterceptor(finalRequest);
+         }

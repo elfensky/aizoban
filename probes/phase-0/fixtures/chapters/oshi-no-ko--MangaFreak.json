@@ -1,0 +1,1739 @@
+{
+ "work": "oshi-no-ko",
+ "source": "MangaFreak",
+ "matchedTitle": "Oshi no Ko",
+ "mangaId": "Manga/Oshi_No_Ko",
+ "fetchedAt": "2026-08-13T08:40:06.655Z",
+ "chapters": [
+  {
+   "chapterId": "Read1_Oshi_No_Ko_167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Chapter 167",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_166e",
+   "chapNum": 166.5,
+   "volume": 0,
+   "title": "Chapter 166e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Chapter 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Chapter 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Chapter 164 - FINALE",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Chapter 163 - You",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Chapter 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Chapter 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Chapter 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Chapter 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Chapter 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Chapter 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Chapter 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Chapter 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Chapter 154 - 15-YEAR LIE",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Chapter 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Chapter 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Chapter 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Chapter 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Chapter 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Chapter 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Chapter 147",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Chapter 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Chapter 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Chapter 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Chapter 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Chapter 142",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Chapter 141 - CHAIN",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Chapter 140 - IS THIS RIGHT?",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Chapter 139 - LOOKISM",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Chapter 138 - AMENDS",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Chapter 137 - Idol",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Chapter 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Chapter 135 - BY HER SIDE",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Chapter 134 -  DEPTHS",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Chapter 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Chapter 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Chapter 131 - ATONEMENT",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Chapter 130 - BASIC TACTIC",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Chapter 129 - PIECE",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Chapter 128 - SCRIPT READING",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Chapter 127 - SCOUTING A GIRL",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Chapter 126 - MANAGEMENT",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_125h",
+   "chapNum": 125.8,
+   "volume": 0,
+   "title": "Chapter 125h",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_125g",
+   "chapNum": 125.7,
+   "volume": 0,
+   "title": "Chapter 125g",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_125f",
+   "chapNum": 125.6,
+   "volume": 0,
+   "title": "Chapter 125f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_125e",
+   "chapNum": 125.5,
+   "volume": 0,
+   "title": "Chapter 125e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Chapter 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Chapter 124 - REVERSAL",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Chapter 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Chapter 122 - Doc",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Chapter 121 - SARINA TENDOUJI",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Chapter 120 - LACK OF ABILITY",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Chapter 119 - BIOLOGICAL MOTHER",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Chapter 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Chapter 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Chapter 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Chapter 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Chapter 114 - INTERPERSONAL AUDITION",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Chapter 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Chapter 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Chapter 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Chapter 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Chapter 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Chapter 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Chapter 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Chapter 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Chapter 105 - REPORTER",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Chapter 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Chapter 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Chapter 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Chapter 101 - PREDICAMENT",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Chapter 100 - BUSINESS",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_99",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Chapter 99 - DRINKING",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_98",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Chapter 98 - GOING ASTRAY",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_97",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Chapter 97 - TOGETHER",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_96",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Chapter 96 - WHITE ROSES",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_95",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Chapter 95 - Blindness",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_94",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Chapter 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_93",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Chapter 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_92",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Chapter 92 - Ritual Purification",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_91",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Chapter 91 - Dig Deep",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_90a",
+   "chapNum": 90.1,
+   "volume": 0,
+   "title": "Chapter 90a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_90",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Chapter 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_89",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Chapter 89 - Cosplay",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_88",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Chapter 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_87",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Chapter 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_86",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Chapter 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_85",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Chapter 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_84",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Chapter 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_83",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Chapter 83 - Fixation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_82",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Chapter 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_81",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Chapter 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_80",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Chapter 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_79",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Chapter 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_78",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Chapter 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_77",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Chapter 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_76",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Chapter 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_75",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Chapter 75 - Mother and Mother",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_74",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Chapter 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_73",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Chapter 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_72",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Chapter 72 - Freedom",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_71",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Chapter 71 - Overhead Bridge",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_70",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Chapter 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_69",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Chapter 69 - Room Tour",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_68",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Chapter 68 - Release",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_67",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Chapter 67 - Drinking Party",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_66",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Chapter 66 - Curtain Call",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_65",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Chapter 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_64",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Chapter 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_63",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Chapter 63 - Genius Actress",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_62",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Chapter 62 - Adlib",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_61",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Chapter 61 - Flexibility",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_60",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Chapter 60 - The Sun",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_59",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Chapter 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_58",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Chapter 58 - Growth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_57",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Chapter 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_56",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Chapter 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_55",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Chapter 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_54",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Chapter 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_53",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Chapter 53 - Pick-Up",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_52",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Chapter 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_51",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Chapter 51 - Deduction",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_50",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Chapter 50 - Emotional Acting",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_49",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Chapter 49 - Rewriting",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_48",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Chapter 48 - Crunch Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_47",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Chapter 47 - Workplace Visit",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_46",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Chapter 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_45",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Chapter 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_44",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Chapter 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_43",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Chapter 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_42",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Chapter 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_41",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Chapter 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_40",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Chapter 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_39",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Chapter 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_38",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Chapter 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_37",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Chapter 37 - Pressure",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_36",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Chapter 36 - The Night Before",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_35",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Chapter 35 - Sense of Responsibility",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_34",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Chapter 34 -  Center",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_33",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Chapter 33 - Motivation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_32",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Chapter 32 - The Proper Age",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_31",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Chapter 31 - LoveNow",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_30",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Chapter 30 - The First Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_29",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Chapter 29 - Carbon Copy",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_28",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Chapter 28 - Getting Into Character",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_27",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Chapter 27 - Buzz",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_26",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Chapter 26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_25",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Chapter 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_24",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Chapter 24 - Ego Search",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_23",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Chapter 23 - Leaving a Mark",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_22",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Chapter 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_21",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Chapter 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_20",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Chapter 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_19",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Chapter 19 - Performing Arts Program",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_18",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Chapter 18 - A Bit of Praise",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_17",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Chapter 17 - Staging",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_16",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Chapter 16 - Acting Ability",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_15",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Chapter 15 - Live Action Manga Adaptation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_14",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Chapter 14 - Connection",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_13",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Chapter 13 - Formalities",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_12",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Chapter 12 - The Third Option",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_11",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Chapter 11 - Audition",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_10",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Chapter 10 - Introduction",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_9",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Chapter 9 - Hoshino Ai - Fallout",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_8",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Chapter 8 - Hoshino Ai - Prequel",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_7",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Chapter 7 - Failure Stems From Fear of Failure",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_6",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Chapter 6 - Child Actors",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_5",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Chapter 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_4",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Chapter 4 - How To Creat A Smile",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_3",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Chapter 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Chapter 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Oshi_No_Ko_1",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Chapter 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-04T22:00:00.000Z"
+  }
+ ]
+}

@@ -1,0 +1,1739 @@
+{
+ "work": "oshi-no-ko",
+ "source": "MangaPill",
+ "matchedTitle": "Oshi no Ko",
+ "mangaId": "manga/5053/oshi-no-ko",
+ "fetchedAt": "2026-08-13T08:39:52.383Z",
+ "chapters": [
+  {
+   "chapterId": "chapters/5053-10166500/oshi-no-ko-chapter-166.5",
+   "chapNum": 166.5,
+   "volume": 0,
+   "title": "Chapter 166.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10166000/oshi-no-ko-chapter-166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Chapter 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10165000/oshi-no-ko-chapter-165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Chapter 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10164000/oshi-no-ko-chapter-164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Chapter 164",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10163000/oshi-no-ko-chapter-163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Chapter 163",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10162000/oshi-no-ko-chapter-162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Chapter 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10161000/oshi-no-ko-chapter-161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Chapter 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10160000/oshi-no-ko-chapter-160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Chapter 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10159000/oshi-no-ko-chapter-159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Chapter 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10158000/oshi-no-ko-chapter-158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Chapter 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10157000/oshi-no-ko-chapter-157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Chapter 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10156000/oshi-no-ko-chapter-156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Chapter 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10155000/oshi-no-ko-chapter-155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Chapter 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10154000/oshi-no-ko-chapter-154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Chapter 154",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10153000/oshi-no-ko-chapter-153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Chapter 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10152000/oshi-no-ko-chapter-152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Chapter 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10151000/oshi-no-ko-chapter-151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Chapter 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10150000/oshi-no-ko-chapter-150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Chapter 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10149000/oshi-no-ko-chapter-149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Chapter 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10148000/oshi-no-ko-chapter-148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Chapter 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10147000/oshi-no-ko-chapter-147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Chapter 147",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10146000/oshi-no-ko-chapter-146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Chapter 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10145000/oshi-no-ko-chapter-145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Chapter 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10144000/oshi-no-ko-chapter-144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Chapter 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10143000/oshi-no-ko-chapter-143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Chapter 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10142000/oshi-no-ko-chapter-142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Chapter 142",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10141000/oshi-no-ko-chapter-141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Chapter 141",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10140000/oshi-no-ko-chapter-140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Chapter 140",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10139000/oshi-no-ko-chapter-139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Chapter 139",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10138000/oshi-no-ko-chapter-138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Chapter 138",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10137000/oshi-no-ko-chapter-137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Chapter 137",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10136000/oshi-no-ko-chapter-136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Chapter 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10135000/oshi-no-ko-chapter-135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Chapter 135",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10134000/oshi-no-ko-chapter-134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Chapter 134",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10133000/oshi-no-ko-chapter-133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Chapter 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10132000/oshi-no-ko-chapter-132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Chapter 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10131000/oshi-no-ko-chapter-131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Chapter 131",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10130000/oshi-no-ko-chapter-130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Chapter 130",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10129000/oshi-no-ko-chapter-129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Chapter 129",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10128000/oshi-no-ko-chapter-128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Chapter 128",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10127000/oshi-no-ko-chapter-127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Chapter 127",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10126000/oshi-no-ko-chapter-126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Chapter 126",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10125800/oshi-no-ko-chapter-125.8",
+   "chapNum": 125.8,
+   "volume": 0,
+   "title": "Chapter 125.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10125700/oshi-no-ko-chapter-125.7",
+   "chapNum": 125.7,
+   "volume": 0,
+   "title": "Chapter 125.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10125600/oshi-no-ko-chapter-125.6",
+   "chapNum": 125.6,
+   "volume": 0,
+   "title": "Chapter 125.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10125500/oshi-no-ko-chapter-125.5",
+   "chapNum": 125.5,
+   "volume": 0,
+   "title": "Chapter 125.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10125000/oshi-no-ko-chapter-125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Chapter 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10124000/oshi-no-ko-chapter-124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Chapter 124",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10123000/oshi-no-ko-chapter-123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Chapter 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10122000/oshi-no-ko-chapter-122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Chapter 122",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10121000/oshi-no-ko-chapter-121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Chapter 121",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10120000/oshi-no-ko-chapter-120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Chapter 120",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10119000/oshi-no-ko-chapter-119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Chapter 119",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10118000/oshi-no-ko-chapter-118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Chapter 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10117000/oshi-no-ko-chapter-117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Chapter 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10116000/oshi-no-ko-chapter-116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Chapter 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10115000/oshi-no-ko-chapter-115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Chapter 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10114000/oshi-no-ko-chapter-114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Chapter 114",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10113000/oshi-no-ko-chapter-113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Chapter 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10112000/oshi-no-ko-chapter-112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Chapter 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10111000/oshi-no-ko-chapter-111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Chapter 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10110000/oshi-no-ko-chapter-110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Chapter 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10109000/oshi-no-ko-chapter-109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Chapter 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10108000/oshi-no-ko-chapter-108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Chapter 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10107000/oshi-no-ko-chapter-107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Chapter 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10106000/oshi-no-ko-chapter-106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Chapter 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10105000/oshi-no-ko-chapter-105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Chapter 105",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10104000/oshi-no-ko-chapter-104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Chapter 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10103000/oshi-no-ko-chapter-103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Chapter 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10102000/oshi-no-ko-chapter-102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Chapter 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10101000/oshi-no-ko-chapter-101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Chapter 101",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10100000/oshi-no-ko-chapter-100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Chapter 100",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10099000/oshi-no-ko-chapter-99",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Chapter 99",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10098000/oshi-no-ko-chapter-98",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Chapter 98",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10097000/oshi-no-ko-chapter-97",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Chapter 97",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10096000/oshi-no-ko-chapter-96",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Chapter 96",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10095000/oshi-no-ko-chapter-95",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Chapter 95",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10094000/oshi-no-ko-chapter-94",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Chapter 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10093000/oshi-no-ko-chapter-93",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Chapter 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10092000/oshi-no-ko-chapter-92",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Chapter 92",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10091000/oshi-no-ko-chapter-91",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Chapter 91",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10090000/oshi-no-ko-chapter-90",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Chapter 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10089000/oshi-no-ko-chapter-89",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Chapter 89",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10088000/oshi-no-ko-chapter-88",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Chapter 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10087000/oshi-no-ko-chapter-87",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Chapter 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10086000/oshi-no-ko-chapter-86",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Chapter 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10085000/oshi-no-ko-chapter-85",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Chapter 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10084000/oshi-no-ko-chapter-84",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Chapter 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10083000/oshi-no-ko-chapter-83",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Chapter 83",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10082000/oshi-no-ko-chapter-82",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Chapter 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10081000/oshi-no-ko-chapter-81",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Chapter 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10080000/oshi-no-ko-chapter-80",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Chapter 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10079000/oshi-no-ko-chapter-79",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Chapter 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10078000/oshi-no-ko-chapter-78",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Chapter 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10077000/oshi-no-ko-chapter-77",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Chapter 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10076000/oshi-no-ko-chapter-76",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Chapter 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10075000/oshi-no-ko-chapter-75",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Chapter 75",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10074000/oshi-no-ko-chapter-74",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Chapter 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10073000/oshi-no-ko-chapter-73",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Chapter 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10072000/oshi-no-ko-chapter-72",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Chapter 72",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10071000/oshi-no-ko-chapter-71",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Chapter 71",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10070000/oshi-no-ko-chapter-70",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Chapter 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10069000/oshi-no-ko-chapter-69",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Chapter 69",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10068000/oshi-no-ko-chapter-68",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Chapter 68",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10067000/oshi-no-ko-chapter-67",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Chapter 67",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10066000/oshi-no-ko-chapter-66",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Chapter 66",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10065000/oshi-no-ko-chapter-65",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Chapter 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10064000/oshi-no-ko-chapter-64",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Chapter 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10063000/oshi-no-ko-chapter-63",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Chapter 63",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10062000/oshi-no-ko-chapter-62",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Chapter 62",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10061000/oshi-no-ko-chapter-61",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Chapter 61",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10060000/oshi-no-ko-chapter-60",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Chapter 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10059000/oshi-no-ko-chapter-59",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Chapter 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10058000/oshi-no-ko-chapter-58",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Chapter 58",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10057000/oshi-no-ko-chapter-57",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Chapter 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10056000/oshi-no-ko-chapter-56",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Chapter 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10055000/oshi-no-ko-chapter-55",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Chapter 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10054000/oshi-no-ko-chapter-54",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Chapter 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10053000/oshi-no-ko-chapter-53",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Chapter 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10052000/oshi-no-ko-chapter-52",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Chapter 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10051000/oshi-no-ko-chapter-51",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Chapter 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10050000/oshi-no-ko-chapter-50",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Chapter 50",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10049000/oshi-no-ko-chapter-49",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Chapter 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10048000/oshi-no-ko-chapter-48",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Chapter 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10047000/oshi-no-ko-chapter-47",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Chapter 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10046000/oshi-no-ko-chapter-46",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Chapter 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10045000/oshi-no-ko-chapter-45",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Chapter 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10044000/oshi-no-ko-chapter-44",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Chapter 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10043000/oshi-no-ko-chapter-43",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Chapter 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10042000/oshi-no-ko-chapter-42",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Chapter 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10041000/oshi-no-ko-chapter-41",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Chapter 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10040500/oshi-no-ko-chapter-40.5",
+   "chapNum": 40.5,
+   "volume": 0,
+   "title": "Chapter 40.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10040000/oshi-no-ko-chapter-40",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Chapter 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10039000/oshi-no-ko-chapter-39",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Chapter 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10038000/oshi-no-ko-chapter-38",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Chapter 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10037000/oshi-no-ko-chapter-37",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Chapter 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10036000/oshi-no-ko-chapter-36",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Chapter 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10035000/oshi-no-ko-chapter-35",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Chapter 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10034000/oshi-no-ko-chapter-34",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Chapter 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10033000/oshi-no-ko-chapter-33",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Chapter 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10032000/oshi-no-ko-chapter-32",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Chapter 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10031000/oshi-no-ko-chapter-31",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Chapter 31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10030000/oshi-no-ko-chapter-30",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Chapter 30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10029000/oshi-no-ko-chapter-29",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Chapter 29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10028000/oshi-no-ko-chapter-28",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Chapter 28",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10027000/oshi-no-ko-chapter-27",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Chapter 27",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10026000/oshi-no-ko-chapter-26",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Chapter 26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10025000/oshi-no-ko-chapter-25",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Chapter 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10024000/oshi-no-ko-chapter-24",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Chapter 24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10023000/oshi-no-ko-chapter-23",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Chapter 23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10022000/oshi-no-ko-chapter-22",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Chapter 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10021000/oshi-no-ko-chapter-21",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Chapter 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10020500/oshi-no-ko-chapter-20.5",
+   "chapNum": 20.5,
+   "volume": 0,
+   "title": "Chapter 20.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10020000/oshi-no-ko-chapter-20",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Chapter 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10019000/oshi-no-ko-chapter-19",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Chapter 19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10018000/oshi-no-ko-chapter-18",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Chapter 18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10017000/oshi-no-ko-chapter-17",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Chapter 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10016000/oshi-no-ko-chapter-16",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Chapter 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10015000/oshi-no-ko-chapter-15",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Chapter 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10014000/oshi-no-ko-chapter-14",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Chapter 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10013000/oshi-no-ko-chapter-13",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Chapter 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10012000/oshi-no-ko-chapter-12",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Chapter 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10011000/oshi-no-ko-chapter-11",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Chapter 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10010000/oshi-no-ko-chapter-10",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Chapter 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10009000/oshi-no-ko-chapter-9",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Chapter 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10008000/oshi-no-ko-chapter-8",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Chapter 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10007000/oshi-no-ko-chapter-7",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Chapter 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10006000/oshi-no-ko-chapter-6",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Chapter 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10005000/oshi-no-ko-chapter-5",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Chapter 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10004000/oshi-no-ko-chapter-4",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Chapter 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10003000/oshi-no-ko-chapter-3",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Chapter 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10002000/oshi-no-ko-chapter-2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Chapter 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/5053-10001000/oshi-no-ko-chapter-1",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Chapter 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  }
+ ]
+}

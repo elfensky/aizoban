@@ -1,0 +1,101 @@
+{
+  "sources": {
+    "MangaDex": {
+      "registry": "https://inkdex.github.io/extensions/0.9/stable"
+    },
+    "WeebCentral": {
+      "registry": "https://inkdex.github.io/extensions/0.9/stable"
+    },
+    "AsuraScans": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "ComicKFan": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "MadaraDex": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "MangaPill": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "MangaFreak": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "MangaFox": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "Mangatown": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    },
+    "KunMangaOnline": {
+      "registry": "https://nicartjay.github.io/PaperbackExt/0.9/stable"
+    }
+  },
+  "works": [
+    {
+      "key": "one-piece",
+      "title": "One Piece",
+      "note": "CONTROL — famously stable numbering; drift here = reconciler bug"
+    },
+    {
+      "key": "berserk",
+      "title": "Berserk",
+      "note": "long-runner with 0.x specials and volume weirdness"
+    },
+    {
+      "key": "kingdom",
+      "title": "Kingdom",
+      "note": "800+ chapter long-runner, many group changes"
+    },
+    {
+      "key": "solo-leveling",
+      "title": "Solo Leveling",
+      "note": "webtoon; side stories after main end",
+      "aliases": [
+        "Only I Level Up",
+        "Na Honjaman Level Up"
+      ]
+    },
+    {
+      "key": "tower-of-god",
+      "title": "Tower of God",
+      "note": "webtoon with per-season numbering restarts",
+      "aliases": [
+        "Kami no Tou"
+      ]
+    },
+    {
+      "key": "tbate",
+      "title": "The Beginning After the End",
+      "note": "webtoon, aggregator-heavy",
+      "aliases": [
+        "TBATE"
+      ]
+    },
+    {
+      "key": "martial-peak",
+      "title": "Martial Peak",
+      "note": "3000+ chapters, aggregator mess",
+      "aliases": []
+    },
+    {
+      "key": "tales-of-demons",
+      "title": "Tales of Demons and Gods",
+      "note": "notorious .1/.5 split releases"
+    },
+    {
+      "key": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "note": "official-vs-scanlation counting"
+    },
+    {
+      "key": "oshi-no-ko",
+      "title": "Oshi no Ko",
+      "aliases": [
+        "[Oshi No Ko]",
+        "My Star"
+      ],
+      "note": "finished series, bracketed title breaks naive search"
+    }
+  ]
+}

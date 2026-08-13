@@ -1,0 +1,4049 @@
+{
+ "work": "berserk",
+ "source": "MangaPill",
+ "matchedTitle": "Berserk",
+ "mangaId": "manga/1/berserk",
+ "fetchedAt": "2026-08-13T08:39:43.224Z",
+ "chapters": [
+  {
+   "chapterId": "chapters/1-20386000/berserk-chapter-386",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 386",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20385000/berserk-chapter-385",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 385",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20384000/berserk-chapter-384",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 384",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20383000/berserk-chapter-383",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 383",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20382000/berserk-chapter-382",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 382",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20381000/berserk-chapter-381",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 381",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20380000/berserk-chapter-380",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 380",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20379000/berserk-chapter-379",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 379",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20378000/berserk-chapter-378",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 378",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20377000/berserk-chapter-377",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 377",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20376000/berserk-chapter-376",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 376",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20375000/berserk-chapter-375",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 375",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20374000/berserk-chapter-374",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 374",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20373000/berserk-chapter-373",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 373",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20372000/berserk-chapter-372",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 372",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20371000/berserk-chapter-371",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 371",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20370000/berserk-chapter-370",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 370",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20369000/berserk-chapter-369",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 369",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20368000/berserk-chapter-368",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 368",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20367000/berserk-chapter-367",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 367",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20366000/berserk-chapter-366",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 366",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20365000/berserk-chapter-365",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 365",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20364000/berserk-chapter-364",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 364",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20363000/berserk-chapter-363",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 363",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20362000/berserk-chapter-362",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 362",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20361000/berserk-chapter-361",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 361",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20360000/berserk-chapter-360",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 360",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20359000/berserk-chapter-359",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 359",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20358000/berserk-chapter-358",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 358",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20357000/berserk-chapter-357",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 357",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20356000/berserk-chapter-356",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 356",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20355000/berserk-chapter-355",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 355",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20354000/berserk-chapter-354",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 354",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20353000/berserk-chapter-353",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 353",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20352000/berserk-chapter-352",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 352",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20351000/berserk-chapter-351",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 351",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20350500/berserk-chapter-350.5",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 350.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20350000/berserk-chapter-350",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 350",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20349000/berserk-chapter-349",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 349",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20348000/berserk-chapter-348",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 348",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20347000/berserk-chapter-347",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 347",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20346000/berserk-chapter-346",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 346",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20345000/berserk-chapter-345",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 345",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20344000/berserk-chapter-344",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 344",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20343000/berserk-chapter-343",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 343",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20342000/berserk-chapter-342",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 342",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20341000/berserk-chapter-341",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 341",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20340000/berserk-chapter-340",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 340",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20339000/berserk-chapter-339",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 339",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20338000/berserk-chapter-338",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 338",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20337000/berserk-chapter-337",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 337",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20336000/berserk-chapter-336",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 336",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20335000/berserk-chapter-335",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 335",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20334000/berserk-chapter-334",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 334",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20333000/berserk-chapter-333",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 333",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20332000/berserk-chapter-332",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 332",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20331000/berserk-chapter-331",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 331",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20330000/berserk-chapter-330",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 330",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20329000/berserk-chapter-329",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 329",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20328000/berserk-chapter-328",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 328",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20327000/berserk-chapter-327",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 327",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20326000/berserk-chapter-326",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 326",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20325000/berserk-chapter-325",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 325",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20324000/berserk-chapter-324",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 324",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20323000/berserk-chapter-323",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 323",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20322000/berserk-chapter-322",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 322",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20321000/berserk-chapter-321",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 321",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20320000/berserk-chapter-320",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 320",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20319000/berserk-chapter-319",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 319",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20318000/berserk-chapter-318",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 318",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20317000/berserk-chapter-317",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 317",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20316000/berserk-chapter-316",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 316",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20315000/berserk-chapter-315",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 315",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20314000/berserk-chapter-314",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 314",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20313000/berserk-chapter-313",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 313",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20312000/berserk-chapter-312",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 312",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20311000/berserk-chapter-311",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 311",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20310000/berserk-chapter-310",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 310",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20309000/berserk-chapter-309",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 309",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20308000/berserk-chapter-308",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 308",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20307000/berserk-chapter-307",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 307",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20306000/berserk-chapter-306",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 306",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20305000/berserk-chapter-305",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 305",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20304000/berserk-chapter-304",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 304",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20303000/berserk-chapter-303",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 303",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20302000/berserk-chapter-302",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 302",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20301000/berserk-chapter-301",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 301",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20300000/berserk-chapter-300",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 300",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20299000/berserk-chapter-299",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 299",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20298000/berserk-chapter-298",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 298",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20297000/berserk-chapter-297",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 297",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20296000/berserk-chapter-296",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 296",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20295000/berserk-chapter-295",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 295",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20294000/berserk-chapter-294",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 294",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20293000/berserk-chapter-293",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 293",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20292000/berserk-chapter-292",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 292",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20291000/berserk-chapter-291",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 291",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20290000/berserk-chapter-290",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 290",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20289000/berserk-chapter-289",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 289",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20288000/berserk-chapter-288",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 288",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20287000/berserk-chapter-287",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 287",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20286000/berserk-chapter-286",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 286",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20285000/berserk-chapter-285",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 285",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20284000/berserk-chapter-284",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 284",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20283000/berserk-chapter-283",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 283",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20282000/berserk-chapter-282",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 282",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20281000/berserk-chapter-281",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 281",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20280000/berserk-chapter-280",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 280",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20279000/berserk-chapter-279",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 279",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20278000/berserk-chapter-278",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 278",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20277000/berserk-chapter-277",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 277",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20276000/berserk-chapter-276",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 276",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20275000/berserk-chapter-275",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 275",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20274000/berserk-chapter-274",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 274",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20273000/berserk-chapter-273",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 273",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20272000/berserk-chapter-272",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 272",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20271000/berserk-chapter-271",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 271",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20270000/berserk-chapter-270",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 270",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20269000/berserk-chapter-269",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 269",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20268000/berserk-chapter-268",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 268",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20267000/berserk-chapter-267",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 267",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20266000/berserk-chapter-266",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 266",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20265000/berserk-chapter-265",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 265",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20264000/berserk-chapter-264",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 264",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20263000/berserk-chapter-263",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 263",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20262000/berserk-chapter-262",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 262",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20261000/berserk-chapter-261",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 261",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20260000/berserk-chapter-260",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 260",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20259000/berserk-chapter-259",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 259",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20258000/berserk-chapter-258",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 258",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20257000/berserk-chapter-257",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 257",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20256000/berserk-chapter-256",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 256",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20255000/berserk-chapter-255",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 255",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20254000/berserk-chapter-254",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 254",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20253000/berserk-chapter-253",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 253",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20252000/berserk-chapter-252",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 252",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20251000/berserk-chapter-251",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 251",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20250000/berserk-chapter-250",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 250",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20249000/berserk-chapter-249",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 249",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20248000/berserk-chapter-248",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 248",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20247000/berserk-chapter-247",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 247",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20246000/berserk-chapter-246",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 246",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20245000/berserk-chapter-245",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 245",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20244000/berserk-chapter-244",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 244",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20243000/berserk-chapter-243",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 243",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20242000/berserk-chapter-242",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 242",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20241000/berserk-chapter-241",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 241",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20240000/berserk-chapter-240",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 240",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20239000/berserk-chapter-239",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 239",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20238000/berserk-chapter-238",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 238",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20237000/berserk-chapter-237",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 237",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20236000/berserk-chapter-236",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 236",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20235000/berserk-chapter-235",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 235",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20234000/berserk-chapter-234",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 234",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20233000/berserk-chapter-233",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 233",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20232000/berserk-chapter-232",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 232",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20231000/berserk-chapter-231",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 231",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20230000/berserk-chapter-230",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 230",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20229000/berserk-chapter-229",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 229",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20228000/berserk-chapter-228",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 228",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20227000/berserk-chapter-227",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 227",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20226000/berserk-chapter-226",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 226",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20225000/berserk-chapter-225",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 225",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20224000/berserk-chapter-224",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 224",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20223000/berserk-chapter-223",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 223",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20222000/berserk-chapter-222",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 222",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20221000/berserk-chapter-221",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 221",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20220000/berserk-chapter-220",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 220",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20219000/berserk-chapter-219",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 219",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20218000/berserk-chapter-218",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 218",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20217000/berserk-chapter-217",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 217",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20216000/berserk-chapter-216",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 216",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20215000/berserk-chapter-215",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 215",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20214000/berserk-chapter-214",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 214",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20213000/berserk-chapter-213",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 213",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20212000/berserk-chapter-212",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 212",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20211000/berserk-chapter-211",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 211",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20210000/berserk-chapter-210",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 210",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20209000/berserk-chapter-209",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 209",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20208000/berserk-chapter-208",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 208",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20207000/berserk-chapter-207",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 207",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20206000/berserk-chapter-206",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 206",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20205000/berserk-chapter-205",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 205",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20204000/berserk-chapter-204",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 204",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20203000/berserk-chapter-203",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 203",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20202000/berserk-chapter-202",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 202",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20201000/berserk-chapter-201",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 201",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20200000/berserk-chapter-200",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 200",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20199000/berserk-chapter-199",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 199",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20198000/berserk-chapter-198",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 198",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20197000/berserk-chapter-197",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 197",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20196000/berserk-chapter-196",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 196",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20195000/berserk-chapter-195",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 195",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20194000/berserk-chapter-194",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 194",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20193000/berserk-chapter-193",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 193",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20192000/berserk-chapter-192",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 192",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20191000/berserk-chapter-191",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 191",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20190000/berserk-chapter-190",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 190",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20189000/berserk-chapter-189",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 189",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20188000/berserk-chapter-188",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 188",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20187000/berserk-chapter-187",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 187",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20186000/berserk-chapter-186",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 186",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20185000/berserk-chapter-185",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 185",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20184000/berserk-chapter-184",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 184",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20183000/berserk-chapter-183",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 183",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20182000/berserk-chapter-182",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 182",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20181000/berserk-chapter-181",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 181",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20180000/berserk-chapter-180",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 180",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20179000/berserk-chapter-179",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 179",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20178000/berserk-chapter-178",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 178",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20177000/berserk-chapter-177",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 177",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20176000/berserk-chapter-176",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 176",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20175000/berserk-chapter-175",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 175",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20174000/berserk-chapter-174",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 174",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20173000/berserk-chapter-173",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 173",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20172000/berserk-chapter-172",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 172",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20171000/berserk-chapter-171",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 171",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20170000/berserk-chapter-170",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 170",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20169000/berserk-chapter-169",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 169",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20168000/berserk-chapter-168",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 168",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20167000/berserk-chapter-167",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 167",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20166000/berserk-chapter-166",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20165000/berserk-chapter-165",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20164000/berserk-chapter-164",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 164",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20163000/berserk-chapter-163",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 163",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20162000/berserk-chapter-162",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20161000/berserk-chapter-161",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20160000/berserk-chapter-160",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20159000/berserk-chapter-159",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20158000/berserk-chapter-158",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20157000/berserk-chapter-157",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20156000/berserk-chapter-156",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20155000/berserk-chapter-155",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20154000/berserk-chapter-154",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 154",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20153000/berserk-chapter-153",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20152000/berserk-chapter-152",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20151000/berserk-chapter-151",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20150000/berserk-chapter-150",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20149000/berserk-chapter-149",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20148000/berserk-chapter-148",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20147000/berserk-chapter-147",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 147",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20146000/berserk-chapter-146",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20145000/berserk-chapter-145",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20144000/berserk-chapter-144",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20143000/berserk-chapter-143",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20142000/berserk-chapter-142",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 142",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20141000/berserk-chapter-141",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 141",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20140000/berserk-chapter-140",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 140",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20139000/berserk-chapter-139",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 139",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20138000/berserk-chapter-138",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 138",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20137000/berserk-chapter-137",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 137",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20136000/berserk-chapter-136",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20135000/berserk-chapter-135",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 135",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20134000/berserk-chapter-134",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 134",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20133000/berserk-chapter-133",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20132000/berserk-chapter-132",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20131000/berserk-chapter-131",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 131",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20130000/berserk-chapter-130",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 130",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20129000/berserk-chapter-129",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 129",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20128000/berserk-chapter-128",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 128",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20127000/berserk-chapter-127",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 127",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20126000/berserk-chapter-126",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 126",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20125000/berserk-chapter-125",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20124000/berserk-chapter-124",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 124",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20123000/berserk-chapter-123",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20122000/berserk-chapter-122",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 122",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20121000/berserk-chapter-121",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 121",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20120000/berserk-chapter-120",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 120",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20119000/berserk-chapter-119",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 119",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20118000/berserk-chapter-118",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20117000/berserk-chapter-117",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20116000/berserk-chapter-116",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20115000/berserk-chapter-115",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20114000/berserk-chapter-114",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 114",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20113000/berserk-chapter-113",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20112000/berserk-chapter-112",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20111000/berserk-chapter-111",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20110000/berserk-chapter-110",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20109000/berserk-chapter-109",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20108000/berserk-chapter-108",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20107000/berserk-chapter-107",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20106000/berserk-chapter-106",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20105000/berserk-chapter-105",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 105",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20104000/berserk-chapter-104",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20103000/berserk-chapter-103",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20102000/berserk-chapter-102",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20101000/berserk-chapter-101",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 101",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20100000/berserk-chapter-100",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 100",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20099500/berserk-chapter-99.5",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 99.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20099000/berserk-chapter-99",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 99",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20098000/berserk-chapter-98",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 98",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20097000/berserk-chapter-97",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 97",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20096000/berserk-chapter-96",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 96",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20095000/berserk-chapter-95",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 95",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20094000/berserk-chapter-94",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20093000/berserk-chapter-93",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20092000/berserk-chapter-92",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 92",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20091000/berserk-chapter-91",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 91",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20090000/berserk-chapter-90",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20089000/berserk-chapter-89",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 89",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20088000/berserk-chapter-88",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20087000/berserk-chapter-87",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20086000/berserk-chapter-86",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20085000/berserk-chapter-85",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20084000/berserk-chapter-84",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20083000/berserk-chapter-83",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 83",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20082000/berserk-chapter-82",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20081000/berserk-chapter-81",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20080000/berserk-chapter-80",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20079000/berserk-chapter-79",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20078000/berserk-chapter-78",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20077000/berserk-chapter-77",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20076000/berserk-chapter-76",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20075000/berserk-chapter-75",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 75",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20074000/berserk-chapter-74",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20073000/berserk-chapter-73",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20072000/berserk-chapter-72",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 72",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20071000/berserk-chapter-71",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 71",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20070000/berserk-chapter-70",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20069000/berserk-chapter-69",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 69",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20068000/berserk-chapter-68",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 68",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20067000/berserk-chapter-67",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 67",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20066000/berserk-chapter-66",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 66",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20065000/berserk-chapter-65",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20064000/berserk-chapter-64",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20063000/berserk-chapter-63",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 63",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20062000/berserk-chapter-62",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 62",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20061000/berserk-chapter-61",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 61",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20060000/berserk-chapter-60",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20059000/berserk-chapter-59",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20058000/berserk-chapter-58",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 58",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20057000/berserk-chapter-57",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20056000/berserk-chapter-56",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20055000/berserk-chapter-55",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20054000/berserk-chapter-54",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20053000/berserk-chapter-53",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20052000/berserk-chapter-52",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20051000/berserk-chapter-51",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20050000/berserk-chapter-50",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 50",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20049000/berserk-chapter-49",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20048000/berserk-chapter-48",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20047000/berserk-chapter-47",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20046000/berserk-chapter-46",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20045000/berserk-chapter-45",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20044000/berserk-chapter-44",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20043000/berserk-chapter-43",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20042000/berserk-chapter-42",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20041000/berserk-chapter-41",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20040000/berserk-chapter-40",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20039000/berserk-chapter-39",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20038000/berserk-chapter-38",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20037000/berserk-chapter-37",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20036000/berserk-chapter-36",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20035000/berserk-chapter-35",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20034000/berserk-chapter-34",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20033000/berserk-chapter-33",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20032000/berserk-chapter-32",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20031000/berserk-chapter-31",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20030000/berserk-chapter-30",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20029000/berserk-chapter-29",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20028000/berserk-chapter-28",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 28",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20027000/berserk-chapter-27",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 27",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20026000/berserk-chapter-26",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20025000/berserk-chapter-25",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20024000/berserk-chapter-24",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20023000/berserk-chapter-23",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20022000/berserk-chapter-22",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20021000/berserk-chapter-21",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20020000/berserk-chapter-20",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20019000/berserk-chapter-19",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20018000/berserk-chapter-18",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20017000/berserk-chapter-17",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20016000/berserk-chapter-16",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20015000/berserk-chapter-15",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20014000/berserk-chapter-14",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20013000/berserk-chapter-13",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20012000/berserk-chapter-12",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20011000/berserk-chapter-11",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20010000/berserk-chapter-10",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20009000/berserk-chapter-9",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20008000/berserk-chapter-8",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20007000/berserk-chapter-7",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20006000/berserk-chapter-6",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20005000/berserk-chapter-5",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20004000/berserk-chapter-4",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20003000/berserk-chapter-3",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20002000/berserk-chapter-2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-20001000/berserk-chapter-1",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Group 2 Chapter 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10016000/berserk-chapter-16",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Chapter 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10015000/berserk-chapter-15",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Chapter 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10014000/berserk-chapter-14",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Chapter 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10013000/berserk-chapter-13",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Chapter 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10012000/berserk-chapter-12",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Chapter 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10011000/berserk-chapter-11",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Chapter 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10010000/berserk-chapter-10",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Chapter 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10009000/berserk-chapter-9",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Chapter 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10008000/berserk-chapter-8",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Chapter 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10007000/berserk-chapter-7",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Chapter 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10006000/berserk-chapter-6",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Chapter 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10005000/berserk-chapter-5",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Chapter 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10004000/berserk-chapter-4",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Chapter 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10003000/berserk-chapter-3",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Chapter 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10002000/berserk-chapter-2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Chapter 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  },
+  {
+   "chapterId": "chapters/1-10001000/berserk-chapter-1",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Chapter 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "1970-01-01T00:00:00.000Z"
+  }
+ ]
+}

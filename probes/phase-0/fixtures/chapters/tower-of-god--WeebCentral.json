@@ -1,0 +1,6529 @@
+{
+ "work": "tower-of-god",
+ "source": "WeebCentral",
+ "matchedTitle": "Tower of God",
+ "mangaId": "01J76XY7M0W9WWJ55VJYYB2J1S",
+ "fetchedAt": "2026-08-13T08:36:09.091Z",
+ "chapters": [
+  {
+   "chapterId": "01JP5ZTDW79G1DDKCXNR3W25Y4",
+   "chapNum": 235,
+   "volume": 3,
+   "title": "S3 - Chapter 235",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -1,
+   "publishDate": "2025-03-12T20:13:02.724Z"
+  },
+  {
+   "chapterId": "01JM8W5EVGZBVMPN626FCZKE9V",
+   "chapNum": 234,
+   "volume": 3,
+   "title": "S3 - Chapter 234",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -2,
+   "publishDate": "2025-02-17T02:35:29.521Z"
+  },
+  {
+   "chapterId": "01JKPT7NSD6A9M4BAW58P6DC32",
+   "chapNum": 233,
+   "volume": 3,
+   "title": "S3 - Chapter 233",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -3,
+   "publishDate": "2025-02-10T02:15:25.230Z"
+  },
+  {
+   "chapterId": "01JK4T5DE6JSFDRJMB3WJM2THV",
+   "chapNum": 232,
+   "volume": 3,
+   "title": "S3 - Chapter 232",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -4,
+   "publishDate": "2025-02-03T02:27:51.370Z"
+  },
+  {
+   "chapterId": "01JJJRF5V48QVZW1JRNPRN7FC2",
+   "chapNum": 231,
+   "volume": 3,
+   "title": "S3 - Chapter 231",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -5,
+   "publishDate": "2025-01-27T02:11:54.347Z"
+  },
+  {
+   "chapterId": "01JJ0QSZ9Q1Z8M7AVA9CMM7B6S",
+   "chapNum": 230,
+   "volume": 3,
+   "title": "S3 - Chapter 230",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -6,
+   "publishDate": "2025-01-20T02:13:59.740Z"
+  },
+  {
+   "chapterId": "01JHEPYVCF7D868SBJW233RTWF",
+   "chapNum": 229,
+   "volume": 3,
+   "title": "S3 - Chapter 229",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -7,
+   "publishDate": "2025-01-13T02:12:51.215Z"
+  },
+  {
+   "chapterId": "01JGWQZAA565JVC8AYJ17H0XTN",
+   "chapNum": 228,
+   "volume": 3,
+   "title": "S3 - Chapter 228",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -8,
+   "publishDate": "2025-01-06T02:44:15.301Z"
+  },
+  {
+   "chapterId": "01JGAN94K7Q7MNDHZEZZP08W4H",
+   "chapNum": 227,
+   "volume": 3,
+   "title": "S3 - Chapter 227",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -9,
+   "publishDate": "2024-12-30T02:10:51.629Z"
+  },
+  {
+   "chapterId": "01JFRMKMHT5SNF2TS7GXND98S9",
+   "chapNum": 226,
+   "volume": 3,
+   "title": "S3 - Chapter 226",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -10,
+   "publishDate": "2024-12-23T02:12:47.292Z"
+  },
+  {
+   "chapterId": "01JF6KWNNAV8X7RNQS36Z590RJ",
+   "chapNum": 225,
+   "volume": 3,
+   "title": "S3 - Chapter 225",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -11,
+   "publishDate": "2024-12-16T02:13:54.987Z"
+  },
+  {
+   "chapterId": "01JEMJQ6HD69W0TCA6HGSWZWRZ",
+   "chapNum": 224,
+   "volume": 3,
+   "title": "S3 - Chapter 224",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -12,
+   "publishDate": "2024-12-09T02:07:07.310Z"
+  },
+  {
+   "chapterId": "01JE2J7VWEACRGGMYCC435M30K",
+   "chapNum": 223,
+   "volume": 3,
+   "title": "S3 - Chapter 223",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -13,
+   "publishDate": "2024-12-02T02:12:25.102Z"
+  },
+  {
+   "chapterId": "01JDGJZ7X4FT3WJJHPKW5Q0R84",
+   "chapNum": 222,
+   "volume": 3,
+   "title": "S3 - Chapter 222",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -14,
+   "publishDate": "2024-11-25T02:38:51.300Z"
+  },
+  {
+   "chapterId": "01JCYKX6GWTGEMAZDR7NHMZHVV",
+   "chapNum": 221,
+   "volume": 3,
+   "title": "S3 - Chapter 221",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -15,
+   "publishDate": "2024-11-18T03:08:53.150Z"
+  },
+  {
+   "chapterId": "01JCCHWD46Z9YG6JXKAM6NKASH",
+   "chapNum": 220,
+   "volume": 3,
+   "title": "S3 - Chapter 220",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -16,
+   "publishDate": "2024-11-11T02:47:10.218Z"
+  },
+  {
+   "chapterId": "01JBTF534EXA1V65HXGV1Z4QT0",
+   "chapNum": 219,
+   "volume": 3,
+   "title": "S3 - Chapter 219",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -17,
+   "publishDate": "2024-11-04T02:13:09.390Z"
+  },
+  {
+   "chapterId": "01JB8BS4CD4HKZ5N2QZTRFCV68",
+   "chapNum": 218,
+   "volume": 3,
+   "title": "S3 - Chapter 218",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -18,
+   "publishDate": "2024-10-28T01:27:51.954Z"
+  },
+  {
+   "chapterId": "01JAPH9PTVRGVVE9C5ZZZDR2CC",
+   "chapNum": 217,
+   "volume": 3,
+   "title": "S3 - Chapter 217",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -19,
+   "publishDate": "2024-10-21T03:17:58.235Z"
+  },
+  {
+   "chapterId": "01JA4BW16CJXZS3J98KJQDENPK",
+   "chapNum": 216,
+   "volume": 3,
+   "title": "S3 - Chapter 216",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -20,
+   "publishDate": "2024-10-14T01:56:47.438Z"
+  },
+  {
+   "chapterId": "01J9JABZE3NEP67MVJXXKSD38Q",
+   "chapNum": 215,
+   "volume": 3,
+   "title": "S3 - Chapter 215",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -21,
+   "publishDate": "2024-10-07T01:44:12.995Z"
+  },
+  {
+   "chapterId": "01J908J6AZ8D992BA2Y8REDPYG",
+   "chapNum": 214,
+   "volume": 3,
+   "title": "S3 - Chapter 214",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -22,
+   "publishDate": "2024-09-30T01:26:19.743Z"
+  },
+  {
+   "chapterId": "01J8EAJVT1MN2P1M2ZAMFHJZ70",
+   "chapNum": 213,
+   "volume": 3,
+   "title": "S3 - Chapter 213",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -23,
+   "publishDate": "2024-09-23T02:15:19.105Z"
+  },
+  {
+   "chapterId": "01J7W6ZFW3G68G0EGNM8HKA1ZV",
+   "chapNum": 212,
+   "volume": 3,
+   "title": "S3 - Chapter 212",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -24,
+   "publishDate": "2024-09-16T01:25:58.791Z"
+  },
+  {
+   "chapterId": "01J7A66BCT9KRTJ3G3H6PPJY1T",
+   "chapNum": 211,
+   "volume": 3,
+   "title": "S3 - Chapter 211",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -25,
+   "publishDate": "2024-09-09T01:25:55.232Z"
+  },
+  {
+   "chapterId": "01J76XZ98HH4ME46W3KKNYV771",
+   "chapNum": 210,
+   "volume": 3,
+   "title": "S3 - Chapter 210",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -26,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ97T782G6ZH3GAV1A4XK",
+   "chapNum": 209,
+   "volume": 3,
+   "title": "S3 - Chapter 209",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -27,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ97D10NE3EZK5VNB6JAN",
+   "chapNum": 208,
+   "volume": 3,
+   "title": "S3 - Chapter 208",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -28,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ971Q2REGA0E8VWKZAHJ",
+   "chapNum": 207,
+   "volume": 3,
+   "title": "S3 - Chapter 207",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -29,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ96AZ26JN9WP1BY5780S",
+   "chapNum": 206,
+   "volume": 3,
+   "title": "S3 - Chapter 206",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -30,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8X0HVQ2CSY6S3DGYGVR",
+   "chapNum": 205,
+   "volume": 3,
+   "title": "S3 - Chapter 205",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -31,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8W9ATGGG4CC5G81HND3",
+   "chapNum": 204,
+   "volume": 3,
+   "title": "S3 - Chapter 204",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -32,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8W4EGWG755Z52GV0W72",
+   "chapNum": 203,
+   "volume": 3,
+   "title": "S3 - Chapter 203",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -33,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8VX350VJFFNQ5FJPJA0",
+   "chapNum": 202,
+   "volume": 3,
+   "title": "S3 - Chapter 202",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -34,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8VR90C114HDGS70HAQP",
+   "chapNum": 201,
+   "volume": 3,
+   "title": "S3 - Chapter 201",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -35,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8V2DBMF2H1ZXHY5T4X5",
+   "chapNum": 200,
+   "volume": 3,
+   "title": "S3 - Chapter 200",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -36,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8TKS4027DS1CG9KZJ6V",
+   "chapNum": 199,
+   "volume": 3,
+   "title": "S3 - Chapter 199",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -37,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8TAPS3ZRB84AEBB1ZDC",
+   "chapNum": 198,
+   "volume": 3,
+   "title": "S3 - Chapter 198",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -38,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8S85KJB5SCFVHS0X0ZC",
+   "chapNum": 197,
+   "volume": 3,
+   "title": "S3 - Chapter 197",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -39,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8GARPA7NF2P164WMF4Q",
+   "chapNum": 196,
+   "volume": 3,
+   "title": "S3 - Chapter 196",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -40,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8G5BQM4G96V6S9KSKRE",
+   "chapNum": 195,
+   "volume": 3,
+   "title": "S3 - Chapter 195",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -41,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8FYDQBNVPJS0B7CYQR3",
+   "chapNum": 194,
+   "volume": 3,
+   "title": "S3 - Chapter 194",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -42,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8F51V8NR8NK7HTZA6Y4",
+   "chapNum": 193,
+   "volume": 3,
+   "title": "S3 - Chapter 193",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -43,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8EYP4K2QHAWD70BCA8H",
+   "chapNum": 192,
+   "volume": 3,
+   "title": "S3 - Chapter 192",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -44,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8E31TZ8TDVQ92SFXHE0",
+   "chapNum": 191,
+   "volume": 3,
+   "title": "S3 - Chapter 191",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -45,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8DCN9FVH0XFNCVRQB5V",
+   "chapNum": 190,
+   "volume": 3,
+   "title": "S3 - Chapter 190",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -46,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8C924VJJ9YR84F7JT96",
+   "chapNum": 189,
+   "volume": 3,
+   "title": "S3 - Chapter 189",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -47,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8BTNTPTJ9D85HEJDYKF",
+   "chapNum": 188,
+   "volume": 3,
+   "title": "S3 - Chapter 188",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -48,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8AR27XQP25HHGM8MXAP",
+   "chapNum": 187,
+   "volume": 3,
+   "title": "S3 - Chapter 187",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -49,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8A4N7Z7YX6TBDN0QJRC",
+   "chapNum": 186,
+   "volume": 3,
+   "title": "S3 - Chapter 186",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -50,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ814M8QZFX5JSRD7WDCY",
+   "chapNum": 185,
+   "volume": 3,
+   "title": "S3 - Chapter 185",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -51,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ80J6HVGWKNREK75QFF8",
+   "chapNum": 184,
+   "volume": 3,
+   "title": "S3 - Chapter 184",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -52,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ807M4X07DAEV2TKSGMN",
+   "chapNum": 183,
+   "volume": 3,
+   "title": "S3 - Chapter 183",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -53,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ803DC5C6AMVVY5FT983",
+   "chapNum": 182,
+   "volume": 3,
+   "title": "S3 - Chapter 182",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -54,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7ZZFM86QPFZ3ECHT14G",
+   "chapNum": 181,
+   "volume": 3,
+   "title": "S3 - Chapter 181",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -55,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7Z8SNYZXYMF0E8Q091T",
+   "chapNum": 180,
+   "volume": 3,
+   "title": "S3 - Chapter 180",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -56,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7YT9MY06QC4JRE723B0",
+   "chapNum": 179,
+   "volume": 3,
+   "title": "S3 - Chapter 179",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -57,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7YEJ8YKR7YRGRCX4WJT",
+   "chapNum": 178,
+   "volume": 3,
+   "title": "S3 - Chapter 178",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -58,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7NGNBQ31JV8Q9Q3HDE8",
+   "chapNum": 177,
+   "volume": 3,
+   "title": "S3 - Chapter 177",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -59,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7MP0YA0A1FM7T8RR6KZ",
+   "chapNum": 176,
+   "volume": 3,
+   "title": "S3 - Chapter 176",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -60,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7MFQB29Z0Y7BXHAKA2H",
+   "chapNum": 175,
+   "volume": 3,
+   "title": "S3 - Chapter 175",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -61,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7KQHP4RFYP2S84575F5",
+   "chapNum": 174,
+   "volume": 3,
+   "title": "S3 - Chapter 174",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -62,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7KKGF3MQ93TAVZ9XJZD",
+   "chapNum": 173,
+   "volume": 3,
+   "title": "S3 - Chapter 173",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -63,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ7JZBZ582S45AV8SY70X",
+   "chapNum": 172,
+   "volume": 3,
+   "title": "S3 - Chapter 172",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -64,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ79RVSG4AS5YT7ATSTWP",
+   "chapNum": 171,
+   "volume": 3,
+   "title": "S3 - Chapter 171",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -65,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ79CKQ9QF0XQN2QXPMEZ",
+   "chapNum": 170,
+   "volume": 3,
+   "title": "S3 - Chapter 170",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -66,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ794V3SE42D29223B2ME",
+   "chapNum": 169,
+   "volume": 3,
+   "title": "S3 - Chapter 169",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -67,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ78V3GYGH20X751AD93R",
+   "chapNum": 168,
+   "volume": 3,
+   "title": "S3 - Chapter 168",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -68,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ78H4A9217XVKW8VFD5X",
+   "chapNum": 167,
+   "volume": 3,
+   "title": "S3 - Chapter 167",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -69,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ77ZZE76DN5B28R9NGY1",
+   "chapNum": 166,
+   "volume": 3,
+   "title": "S3 - Chapter 166",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -70,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ77KADBCQ4BW3PG2WMGK",
+   "chapNum": 165,
+   "volume": 3,
+   "title": "S3 - Chapter 165",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -71,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ777T77R4PT79X5X4CPE",
+   "chapNum": 164,
+   "volume": 3,
+   "title": "S3 - Chapter 164",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -72,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ76ZPYX5MD1YPHSACEYY",
+   "chapNum": 163,
+   "volume": 3,
+   "title": "S3 - Chapter 163",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -73,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ76RJTTJTNMSV8T3GT8K",
+   "chapNum": 162,
+   "volume": 3,
+   "title": "S3 - Chapter 162",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -74,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ76E9TR5E0HAM6D041E5",
+   "chapNum": 161,
+   "volume": 3,
+   "title": "S3 - Chapter 161",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -75,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6XS4FHQ1513Y098RXXG",
+   "chapNum": 160,
+   "volume": 3,
+   "title": "S3 - Chapter 160",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -76,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6XHMJ2W4KV2VG4Q27WM",
+   "chapNum": 159,
+   "volume": 3,
+   "title": "S3 - Chapter 159",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -77,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6X7XDX45B7B3N73BXNS",
+   "chapNum": 158,
+   "volume": 3,
+   "title": "S3 - Chapter 158",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -78,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6WX41V9N03RHYWNJ00J",
+   "chapNum": 157,
+   "volume": 3,
+   "title": "S3 - Chapter 157",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -79,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6WQQB1JNHJRY78H9XQD",
+   "chapNum": 156,
+   "volume": 3,
+   "title": "S3 - Chapter 156",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -80,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6WBH3TEXHJCWJHK3C67",
+   "chapNum": 155,
+   "volume": 3,
+   "title": "S3 - Chapter 155",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -81,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6W42HXH8ZMZQ8XBK4AE",
+   "chapNum": 154,
+   "volume": 3,
+   "title": "S3 - Chapter 154",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -82,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6W0G9K12709EK90Y7KF",
+   "chapNum": 153,
+   "volume": 3,
+   "title": "S3 - Chapter 153",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -83,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6VPMG7R1ACPEHDRN3SG",
+   "chapNum": 152,
+   "volume": 3,
+   "title": "S3 - Chapter 152",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -84,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6TZAVXBHP2MWF30K5RA",
+   "chapNum": 151,
+   "volume": 3,
+   "title": "S3 - Chapter 151",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -85,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6HQRNDCXVC8EVCA7YGZ",
+   "chapNum": 150,
+   "volume": 3,
+   "title": "S3 - Chapter 150",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -86,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6H9TPYFJ4R60T1MDQ7J",
+   "chapNum": 149,
+   "volume": 3,
+   "title": "S3 - Chapter 149",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -87,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6GRMZET02SK6R43BRJF",
+   "chapNum": 148,
+   "volume": 3,
+   "title": "S3 - Chapter 148",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -88,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6GGK8KYDN1EM9NPN7EG",
+   "chapNum": 147,
+   "volume": 3,
+   "title": "S3 - Chapter 147",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -89,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6G4N7SYCYC12FWJ8JMS",
+   "chapNum": 146,
+   "volume": 3,
+   "title": "S3 - Chapter 146",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -90,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ6FH947A265DY0Q2WG89",
+   "chapNum": 145,
+   "volume": 3,
+   "title": "S3 - Chapter 145",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -91,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ665ZNS6CV6N3K0PJJCC",
+   "chapNum": 144,
+   "volume": 3,
+   "title": "S3 - Chapter 144",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -92,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ65XKWKQGBS2NDBS0V1Q",
+   "chapNum": 143,
+   "volume": 3,
+   "title": "S3 - Chapter 143",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -93,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ64R1PPVA6MWV4T9BJPZ",
+   "chapNum": 142,
+   "volume": 3,
+   "title": "S3 - Chapter 142",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -94,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ64KJ6APP727CM0WESA5",
+   "chapNum": 141,
+   "volume": 3,
+   "title": "S3 - Chapter 141",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -95,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ63Y91WC9ZVXQEED4TVQ",
+   "chapNum": 140,
+   "volume": 3,
+   "title": "S3 - Chapter 140",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -96,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ63RJ0XMXPRP96VSGSRE",
+   "chapNum": 139,
+   "volume": 3,
+   "title": "S3 - Chapter 139",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -97,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ63HH2G9YKPRECXAR683",
+   "chapNum": 138,
+   "volume": 3,
+   "title": "S3 - Chapter 138",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -98,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ633AZZ45TA6HVVVQVNM",
+   "chapNum": 137,
+   "volume": 3,
+   "title": "S3 - Chapter 137",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -99,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ625J7JCX1QT0Y9G85EC",
+   "chapNum": 136,
+   "volume": 3,
+   "title": "S3 - Chapter 136",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -100,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5S6RNZ3A7CNN8QHETAC",
+   "chapNum": 135,
+   "volume": 3,
+   "title": "S3 - Chapter 135",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -101,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5S289Y6EE0S2WP9HD1K",
+   "chapNum": 134,
+   "volume": 3,
+   "title": "S3 - Chapter 134",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -102,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4ZSXXEYKQFBQXEGDPP1",
+   "chapNum": 133,
+   "volume": 3,
+   "title": "S3 - Chapter 133",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -103,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4ZBYD9JPR04EKCP3EBF",
+   "chapNum": 132,
+   "volume": 3,
+   "title": "S3 - Chapter 132",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -104,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4PYD8ET3H2FZE2PHC71",
+   "chapNum": 131,
+   "volume": 3,
+   "title": "S3 - Chapter 131",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -105,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4PVV0WNT2Y4SXVCBQ07",
+   "chapNum": 130,
+   "volume": 3,
+   "title": "S3 - Chapter 130",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -106,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4PQ6SJB0R8ZAH9EK19Q",
+   "chapNum": 129,
+   "volume": 3,
+   "title": "S3 - Chapter 129",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -107,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4PE06RTMK43K3B9YCF9",
+   "chapNum": 128,
+   "volume": 3,
+   "title": "S3 - Chapter 128",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -108,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4P57YF7CS9QPD0VG1T5",
+   "chapNum": 127,
+   "volume": 3,
+   "title": "S3 - Chapter 127",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -109,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4P2SARPR1510G6NZM6W",
+   "chapNum": 126,
+   "volume": 3,
+   "title": "S3 - Chapter 126",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -110,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4NR628DC2MQ0DV9EGJ7",
+   "chapNum": 125,
+   "volume": 3,
+   "title": "S3 - Chapter 125",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -111,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4NBE0JN6J73N34R2RFG",
+   "chapNum": 124,
+   "volume": 3,
+   "title": "S3 - Chapter 124",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -112,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4MEQ0GW38GZHQ653N8Q",
+   "chapNum": 123,
+   "volume": 3,
+   "title": "S3 - Chapter 123",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -113,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4M4KWADYZ3K21X8026F",
+   "chapNum": 122,
+   "volume": 3,
+   "title": "S3 - Chapter 122",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -114,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4M00AJ5K830HWX8MTN7",
+   "chapNum": 121,
+   "volume": 3,
+   "title": "S3 - Chapter 121",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -115,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4KS5RBXX4Z4MCTKS76N",
+   "chapNum": 120,
+   "volume": 3,
+   "title": "S3 - Chapter 120",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -116,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4KJVHW5ZD534MPY1V6M",
+   "chapNum": 119,
+   "volume": 3,
+   "title": "S3 - Chapter 119",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -117,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4K98FJCYS2M8QCDHD9F",
+   "chapNum": 118,
+   "volume": 3,
+   "title": "S3 - Chapter 118",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -118,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4K4HWN6Y0HFK9YPSQER",
+   "chapNum": 117,
+   "volume": 3,
+   "title": "S3 - Chapter 117",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -119,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4JYHWBMW3CRC2DC9Z40",
+   "chapNum": 116,
+   "volume": 3,
+   "title": "S3 - Chapter 116",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -120,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ49HND6PGXM0YTT3KS8S",
+   "chapNum": 115,
+   "volume": 3,
+   "title": "S3 - Chapter 115",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -121,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ495R6VW380T4N4EHT0E",
+   "chapNum": 114,
+   "volume": 3,
+   "title": "S3 - Chapter 114",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -122,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48TWR223B7QVR67B692",
+   "chapNum": 113,
+   "volume": 3,
+   "title": "S3 - Chapter 113",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -123,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48KXAN3HDQWC44FMJGA",
+   "chapNum": 112,
+   "volume": 3,
+   "title": "S3 - Chapter 112",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -124,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48DGRSSYREARTPARKQV",
+   "chapNum": 111,
+   "volume": 3,
+   "title": "S3 - Chapter 111",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -125,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ487YQZXX1SA6S5M7YD3",
+   "chapNum": 110,
+   "volume": 3,
+   "title": "S3 - Chapter 110",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -126,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ47KDE9HNP4QX901SBNR",
+   "chapNum": 109,
+   "volume": 3,
+   "title": "S3 - Chapter 109",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -127,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ47D0WVF0RAKFD4TQXQ2",
+   "chapNum": 108,
+   "volume": 3,
+   "title": "S3 - Chapter 108",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -128,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ479AJW4TTQB59QY8M0C",
+   "chapNum": 107,
+   "volume": 3,
+   "title": "S3 - Chapter 107",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -129,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ472KWF55ARMZGZW9HMW",
+   "chapNum": 106,
+   "volume": 3,
+   "title": "S3 - Chapter 106",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -130,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ46KBANX61GR5X2MXNF1",
+   "chapNum": 105,
+   "volume": 3,
+   "title": "S3 - Chapter 105",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -131,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3XEDYPVP2WJN5MPQDMQ",
+   "chapNum": 104,
+   "volume": 3,
+   "title": "S3 - Chapter 104",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -132,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3X5CT2P2WVM3NTC0QZE",
+   "chapNum": 103,
+   "volume": 3,
+   "title": "S3 - Chapter 103",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -133,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3X1QCF6QJA6TJPBC0XX",
+   "chapNum": 102,
+   "volume": 3,
+   "title": "S3 - Chapter 102",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -134,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WYYN1R2T9QNGY5HJ78",
+   "chapNum": 101,
+   "volume": 3,
+   "title": "S3 - Chapter 101",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -135,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WTCYZSRN48S6WXD0GY",
+   "chapNum": 100,
+   "volume": 3,
+   "title": "S3 - Chapter 100",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -136,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WQCR277TJT09VB4CH5",
+   "chapNum": 99,
+   "volume": 3,
+   "title": "S3 - Chapter 99",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -137,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WEW0T5T9Y5GQM0CCQA",
+   "chapNum": 98,
+   "volume": 3,
+   "title": "S3 - Chapter 98",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -138,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3W6T3J1N5ZACEB9ERB3",
+   "chapNum": 97,
+   "volume": 3,
+   "title": "S3 - Chapter 97",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -139,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3W0KC5CP3JS7A4VVV34",
+   "chapNum": 96,
+   "volume": 3,
+   "title": "S3 - Chapter 96",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -140,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3VQYA21NHJV9A19AC0F",
+   "chapNum": 95,
+   "volume": 3,
+   "title": "S3 - Chapter 95",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -141,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3K38T3XDQM4KA99C8F1",
+   "chapNum": 94,
+   "volume": 3,
+   "title": "S3 - Chapter 94",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -142,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3JV1FZKF8SHE7KTGW1P",
+   "chapNum": 93,
+   "volume": 3,
+   "title": "S3 - Chapter 93",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -143,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3JPG9TGJ92RNRKEK4KH",
+   "chapNum": 92,
+   "volume": 3,
+   "title": "S3 - Chapter 92",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -144,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3JJQQXMX63WGR7VW3K0",
+   "chapNum": 91,
+   "volume": 3,
+   "title": "S3 - Chapter 91",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -145,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3J7D7NA1NGYY8JH8Z74",
+   "chapNum": 90,
+   "volume": 3,
+   "title": "S3 - Chapter 90",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -146,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3HN6J41NR8B6GN28GZV",
+   "chapNum": 89,
+   "volume": 3,
+   "title": "S3 - Chapter 89",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -147,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3HDG2G0Y6G0DWN0NXVZ",
+   "chapNum": 88,
+   "volume": 3,
+   "title": "S3 - Chapter 88",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -148,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3H9KW9C3X5SSD3GVX11",
+   "chapNum": 87,
+   "volume": 3,
+   "title": "S3 - Chapter 87",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -149,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3H8Z36T72JTFRS1TSMM",
+   "chapNum": 86,
+   "volume": 3,
+   "title": "S3 - Chapter 86",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -150,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3H4JAMM9JXSDC8NGCRM",
+   "chapNum": 85,
+   "volume": 3,
+   "title": "S3 - Chapter 85",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -151,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3GRAX4PJ4VNKTDTSAGS",
+   "chapNum": 84,
+   "volume": 3,
+   "title": "S3 - Chapter 84",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -152,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3GHXN25D481R9PC77FX",
+   "chapNum": 83,
+   "volume": 3,
+   "title": "S3 - Chapter 83",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -153,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3FMPS4XNHTAW4WB86KW",
+   "chapNum": 82,
+   "volume": 3,
+   "title": "S3 - Chapter 82",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -154,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36E5SMF9DAW4NBZ8RDE",
+   "chapNum": 81,
+   "volume": 3,
+   "title": "S3 - Chapter 81",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -155,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ369BA8QWVYG0494S356",
+   "chapNum": 80,
+   "volume": 3,
+   "title": "S3 - Chapter 80",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -156,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ366TA2B449STM0SF8Y6",
+   "chapNum": 79,
+   "volume": 3,
+   "title": "S3 - Chapter 79",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -157,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ363VHV38G7EX81H4ZZ6",
+   "chapNum": 78,
+   "volume": 3,
+   "title": "S3 - Chapter 78",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -158,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ35TW0F7Z3VNZDDPXXYD",
+   "chapNum": 77,
+   "volume": 3,
+   "title": "S3 - Chapter 77",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -159,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ35H8WPG8C8MH88JYHZC",
+   "chapNum": 76,
+   "volume": 3,
+   "title": "S3 - Chapter 76",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -160,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3591HJJ21VYQT2QD1AC",
+   "chapNum": 75,
+   "volume": 3,
+   "title": "S3 - Chapter 75",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -161,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ34MP2N14Z03HSGDB8JK",
+   "chapNum": 74,
+   "volume": 3,
+   "title": "S3 - Chapter 74",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -162,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3451ZK99DFQEEG13MBK",
+   "chapNum": 73,
+   "volume": 3,
+   "title": "S3 - Chapter 73",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -163,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ2VVC1ZVSV119GFBN6D6",
+   "chapNum": 72,
+   "volume": 3,
+   "title": "S3 - Chapter 72",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -164,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ2VFMMZJ88T2W8FYTQ6J",
+   "chapNum": 71,
+   "volume": 3,
+   "title": "S3 - Chapter 71",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -165,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ2TEQWR383Y61FQ95TEJ",
+   "chapNum": 70,
+   "volume": 3,
+   "title": "S3 - Chapter 70",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -166,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ2TESET1T8RYKS39HP11",
+   "chapNum": 69,
+   "volume": 3,
+   "title": "S3 - Chapter 69",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -167,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0ZJSQAWRFBR4JZF1705",
+   "chapNum": 68,
+   "volume": 3,
+   "title": "S3 - Chapter 68",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -168,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0Z8NXQTJS83R6TXHH72",
+   "chapNum": 67,
+   "volume": 3,
+   "title": "S3 - Chapter 67",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -169,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0YVXKQ4F08ZS2XANQ5E",
+   "chapNum": 66,
+   "volume": 3,
+   "title": "S3 - Chapter 66",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -170,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0YN9ECVEZVWS1SNK2JP",
+   "chapNum": 65,
+   "volume": 3,
+   "title": "S3 - Chapter 65",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -171,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0YCXW25Y8KHJZ7BW48C",
+   "chapNum": 64,
+   "volume": 3,
+   "title": "S3 - Chapter 64",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -172,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0Y23YRKHHY99AD8TP58",
+   "chapNum": 63,
+   "volume": 3,
+   "title": "S3 - Chapter 63",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -173,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0XVX5MF8ST4ZMS2G7B3",
+   "chapNum": 62,
+   "volume": 3,
+   "title": "S3 - Chapter 62",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -174,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0N9WZ8A6AY56W1W71DD",
+   "chapNum": 61,
+   "volume": 3,
+   "title": "S3 - Chapter 61",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -175,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0N8D6H78BV0XPBMB90R",
+   "chapNum": 60,
+   "volume": 3,
+   "title": "S3 - Chapter 60",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -176,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0N52JRRA7GTKRZVX8GW",
+   "chapNum": 59,
+   "volume": 3,
+   "title": "S3 - Chapter 59",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -177,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0MRSVZXE4N0V79H3F6N",
+   "chapNum": 58,
+   "volume": 3,
+   "title": "S3 - Chapter 58",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -178,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0MPWPCVR65AJDXSMF3P",
+   "chapNum": 57,
+   "volume": 3,
+   "title": "S3 - Chapter 57",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -179,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0MMQK10ECHF2Q8214G8",
+   "chapNum": 56,
+   "volume": 3,
+   "title": "S3 - Chapter 56",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -180,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0MEK0ZXQ0RGFM10W0YX",
+   "chapNum": 55,
+   "volume": 3,
+   "title": "S3 - Chapter 55",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -181,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0M9CCQT4QCMY9KMQPKN",
+   "chapNum": 54,
+   "volume": 3,
+   "title": "S3 - Chapter 54",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -182,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0M5NJXXPA34R4WEC1HS",
+   "chapNum": 53,
+   "volume": 3,
+   "title": "S3 - Chapter 53",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -183,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0M1QA7T5YPBEJJADWMM",
+   "chapNum": 52,
+   "volume": 3,
+   "title": "S3 - Chapter 52",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -184,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0KVRGK7E0R3F16T3HNH",
+   "chapNum": 51,
+   "volume": 3,
+   "title": "S3 - Chapter 51",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -185,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0KRDSSZEMP6PSC1Q85B",
+   "chapNum": 50,
+   "volume": 3,
+   "title": "S3 - Chapter 50",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -186,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0KMN3EHYBG0MZS7GJYV",
+   "chapNum": 49,
+   "volume": 3,
+   "title": "S3 - Chapter 49",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -187,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0KECNMD6HHMRNSX7WWB",
+   "chapNum": 48,
+   "volume": 3,
+   "title": "S3 - Chapter 48",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -188,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0K9SJHVPJ52746T35KT",
+   "chapNum": 47,
+   "volume": 3,
+   "title": "S3 - Chapter 47",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -189,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ0K23BKEKAXHJ4KCE5TC",
+   "chapNum": 46,
+   "volume": 3,
+   "title": "S3 - Chapter 46",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -190,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ08VGRC7E70MMRB3Y8D2",
+   "chapNum": 45,
+   "volume": 3,
+   "title": "S3 - Chapter 45",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -191,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ07766K99Z3MA4RNG40B",
+   "chapNum": 44,
+   "volume": 3,
+   "title": "S3 - Chapter 44",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -192,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZYRPSK59FSHRCPKAXYC",
+   "chapNum": 43,
+   "volume": 3,
+   "title": "S3 - Chapter 43",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -193,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZY01RAY33ZVC96W28MQ",
+   "chapNum": 42,
+   "volume": 3,
+   "title": "S3 - Chapter 42",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -194,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZXVB5MWQFJH5R8T7C67",
+   "chapNum": 41,
+   "volume": 3,
+   "title": "S3 - Chapter 41",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -195,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZXQXGNX6QJ6WZVV5K89",
+   "chapNum": 40,
+   "volume": 3,
+   "title": "S3 - Chapter 40",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -196,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZWP2NS2GE58NHC61HN8",
+   "chapNum": 39,
+   "volume": 3,
+   "title": "S3 - Chapter 39",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -197,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZKDCKD3GANBEA10JGQ8",
+   "chapNum": 38,
+   "volume": 3,
+   "title": "S3 - Chapter 38",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -198,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZK9R1R8Z1VZKS5CEB1W",
+   "chapNum": 37,
+   "volume": 3,
+   "title": "S3 - Chapter 37",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -199,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJW1B0RX2C74EJYER94",
+   "chapNum": 36,
+   "volume": 3,
+   "title": "S3 - Chapter 36",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -200,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJTVG00WZS9PW12CC0W",
+   "chapNum": 35,
+   "volume": 3,
+   "title": "S3 - Chapter 35",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -201,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJSXEJJD7TXZCN39HGT",
+   "chapNum": 34,
+   "volume": 3,
+   "title": "S3 - Chapter 34",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -202,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJQVT1EWWXHVKMEGTVA",
+   "chapNum": 33,
+   "volume": 3,
+   "title": "S3 - Chapter 33",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -203,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJHP0P1GZJ4DPBANYFV",
+   "chapNum": 32,
+   "volume": 3,
+   "title": "S3 - Chapter 32",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -204,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZJCZRZF8RDBX624YCM3",
+   "chapNum": 31,
+   "volume": 3,
+   "title": "S3 - Chapter 31",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -205,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZHYMGK3VBTR6R8RYE2J",
+   "chapNum": 30,
+   "volume": 3,
+   "title": "S3 - Chapter 30",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -206,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZHFDYN58S5DHS9QH13X",
+   "chapNum": 29,
+   "volume": 3,
+   "title": "S3 - Chapter 29",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -207,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZGYYRC19E3C49QR2ASV",
+   "chapNum": 28,
+   "volume": 3,
+   "title": "S3 - Chapter 28",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -208,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZGSW4BRR402XXK8SM2Q",
+   "chapNum": 27,
+   "volume": 3,
+   "title": "S3 - Chapter 27",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -209,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZGN67D7TKBMC3RRTRZS",
+   "chapNum": 26,
+   "volume": 3,
+   "title": "S3 - Chapter 26",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -210,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZGK0FDCNKFW0N3C4WMH",
+   "chapNum": 25,
+   "volume": 3,
+   "title": "S3 - Chapter 25",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -211,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZGA0Y5P919WPZVWN5HW",
+   "chapNum": 24,
+   "volume": 3,
+   "title": "S3 - Chapter 24",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -212,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZFXX8HHCKB8YZG13FWE",
+   "chapNum": 23,
+   "volume": 3,
+   "title": "S3 - Chapter 23",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -213,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZFGEY4SB5FQC5QJCKVB",
+   "chapNum": 22,
+   "volume": 3,
+   "title": "S3 - Chapter 22",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -214,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZF8RC4KHHFTT10YBCSK",
+   "chapNum": 21,
+   "volume": 3,
+   "title": "S3 - Chapter 21",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -215,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZEBJSVXXJXX4FXK3Q8M",
+   "chapNum": 20,
+   "volume": 3,
+   "title": "S3 - Chapter 20",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -216,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZDXHNA6FQKXT6Z5TW1F",
+   "chapNum": 19,
+   "volume": 3,
+   "title": "S3 - Chapter 19",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -217,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ47DYJ5EZ9KP720FN00",
+   "chapNum": 18,
+   "volume": 3,
+   "title": "S3 - Chapter 18",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -218,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ45HK082TBZ7D3R8J9Q",
+   "chapNum": 17,
+   "volume": 3,
+   "title": "S3 - Chapter 17",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -219,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ42WDWBHAYW66F79NR9",
+   "chapNum": 16,
+   "volume": 3,
+   "title": "S3 - Chapter 16",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -220,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3Z8H1DTHM8TTR3HM0Z",
+   "chapNum": 15,
+   "volume": 3,
+   "title": "S3 - Chapter 15",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -221,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3W4WR97R1PRKS3PQ28",
+   "chapNum": 14,
+   "volume": 3,
+   "title": "S3 - Chapter 14",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -222,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3TQF58XC8CYK0MC39S",
+   "chapNum": 13,
+   "volume": 3,
+   "title": "S3 - Chapter 13",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -223,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3RK8V7F27P52ERBY5C",
+   "chapNum": 12,
+   "volume": 3,
+   "title": "S3 - Chapter 12",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -224,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3JHJQDBNSC8DVJ4QZ7",
+   "chapNum": 11,
+   "volume": 3,
+   "title": "S3 - Chapter 11",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -225,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3F1063W62ASJK7GTZF",
+   "chapNum": 10,
+   "volume": 3,
+   "title": "S3 - Chapter 10",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -226,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3DXJFHNR16G2CFMTQF",
+   "chapNum": 9,
+   "volume": 3,
+   "title": "S3 - Chapter 9",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -227,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3CEJCS3MWY83V3QG7B",
+   "chapNum": 8,
+   "volume": 3,
+   "title": "S3 - Chapter 8",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -228,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ3A7QZWPZCK9D9QCDFN",
+   "chapNum": 7,
+   "volume": 3,
+   "title": "S3 - Chapter 7",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -229,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ38SCRA7ZAMK2DPWD5Q",
+   "chapNum": 6,
+   "volume": 3,
+   "title": "S3 - Chapter 6",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -230,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ2VB96784ZAMDFHH1M8",
+   "chapNum": 5,
+   "volume": 3,
+   "title": "S3 - Chapter 5",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -231,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ1PM0KV00A2GEQ53R0X",
+   "chapNum": 4,
+   "volume": 3,
+   "title": "S3 - Chapter 4",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -232,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0W455BH7Z6DTZHX75E",
+   "chapNum": 3,
+   "volume": 3,
+   "title": "S3 - Chapter 3",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -233,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0WRYR6DZ93N5DBSA5F",
+   "chapNum": 2,
+   "volume": 3,
+   "title": "S3 - Chapter 2",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -234,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0WK50M4VGBA8A8101S",
+   "chapNum": 1,
+   "volume": 3,
+   "title": "S3 - Chapter 1",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -235,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0W48M2ZFE905TZ2PV3",
+   "chapNum": 337,
+   "volume": 2,
+   "title": "S2 - Chapter 337",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -236,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0W23VGGH9E06CX6BZV",
+   "chapNum": 336,
+   "volume": 2,
+   "title": "S2 - Chapter 336",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -237,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0W9N2482X6CKHRJ3M9",
+   "chapNum": 335,
+   "volume": 2,
+   "title": "S2 - Chapter 335",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -238,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0WG8Z56MJA3EJNXBR5",
+   "chapNum": 334,
+   "volume": 2,
+   "title": "S2 - Chapter 334",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -239,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0WHJDNPQZGV345TAP0",
+   "chapNum": 333,
+   "volume": 2,
+   "title": "S2 - Chapter 333",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -240,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VC2GHPWZBCNZSWC54",
+   "chapNum": 332,
+   "volume": 2,
+   "title": "S2 - Chapter 332",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -241,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VV12XRNZGR5N3RW4W",
+   "chapNum": 331,
+   "volume": 2,
+   "title": "S2 - Chapter 331",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -242,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VMJE3QPKGGSM8HH18",
+   "chapNum": 330,
+   "volume": 2,
+   "title": "S2 - Chapter 330",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -243,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V74MD2R4GKK3W3FVP",
+   "chapNum": 329,
+   "volume": 2,
+   "title": "S2 - Chapter 329",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -244,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VPB38VXSQPC2KQJDH",
+   "chapNum": 328,
+   "volume": 2,
+   "title": "S2 - Chapter 328",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -245,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VN3A4E5KG8V1CK0PR",
+   "chapNum": 327,
+   "volume": 2,
+   "title": "S2 - Chapter 327",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -246,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VVS45F58Y8EFH2754",
+   "chapNum": 326,
+   "volume": 2,
+   "title": "S2 - Chapter 326",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -247,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VVX6AAEVEEN34WCPW",
+   "chapNum": 325,
+   "volume": 2,
+   "title": "S2 - Chapter 325",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -248,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V3AG4Y4NKXPJ1292Y",
+   "chapNum": 324,
+   "volume": 2,
+   "title": "S2 - Chapter 324",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -249,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V1CRGT7NV1GJNBAT4",
+   "chapNum": 323,
+   "volume": 2,
+   "title": "S2 - Chapter 323",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -250,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VPB46WVSSH93VHJQ4",
+   "chapNum": 322,
+   "volume": 2,
+   "title": "S2 - Chapter 322",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -251,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VHN8NYEMSEP2T0HMN",
+   "chapNum": 321,
+   "volume": 2,
+   "title": "S2 - Chapter 321",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -252,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VBQW5V3G4BWVBV0NZ",
+   "chapNum": 320,
+   "volume": 2,
+   "title": "S2 - Chapter 320",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -253,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VTDQ3E7FSBJS9RYH2",
+   "chapNum": 319,
+   "volume": 2,
+   "title": "S2 - Chapter 319",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -254,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V766XSF6RQC840PE9",
+   "chapNum": 318,
+   "volume": 2,
+   "title": "S2 - Chapter 318",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -255,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V641Z8ZGB129377XT",
+   "chapNum": 317,
+   "volume": 2,
+   "title": "S2 - Chapter 317",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -256,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VAB9JPBDPN8V8N1HY",
+   "chapNum": 316,
+   "volume": 2,
+   "title": "S2 - Chapter 316",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -257,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V193TFGHR37F04REH",
+   "chapNum": 315,
+   "volume": 2,
+   "title": "S2 - Chapter 315",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -258,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VMH3XE1620ABXV44Q",
+   "chapNum": 314,
+   "volume": 2,
+   "title": "S2 - Chapter 314",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -259,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VRB8F38S83GJHTBFX",
+   "chapNum": 313,
+   "volume": 2,
+   "title": "S2 - Chapter 313",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -260,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V43HNCJ8HKJCW40P6",
+   "chapNum": 312,
+   "volume": 2,
+   "title": "S2 - Chapter 312",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -261,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VG816RA0D3M94RRC8",
+   "chapNum": 311,
+   "volume": 2,
+   "title": "S2 - Chapter 311",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -262,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VWW5BT6E241WZDEX4",
+   "chapNum": 310,
+   "volume": 2,
+   "title": "S2 - Chapter 310",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -263,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VA90RH101EPJYYG6X",
+   "chapNum": 309,
+   "volume": 2,
+   "title": "S2 - Chapter 309",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -264,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VQTK54BS3WRC1X26T",
+   "chapNum": 308,
+   "volume": 2,
+   "title": "S2 - Chapter 308",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -265,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V6EG8H2WBSJ9VZRZ8",
+   "chapNum": 307,
+   "volume": 2,
+   "title": "S2 - Chapter 307",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -266,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VXJWJ3CM28HW4PPWW",
+   "chapNum": 306,
+   "volume": 2,
+   "title": "S2 - Chapter 306",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -267,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V4T160J9K0VZH70A5",
+   "chapNum": 305,
+   "volume": 2,
+   "title": "S2 - Chapter 305",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -268,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VTK9E6PRDN56Z2ZCT",
+   "chapNum": 304,
+   "volume": 2,
+   "title": "S2 - Chapter 304",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -269,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V8CNPQ9P3VCHV24V5",
+   "chapNum": 303,
+   "volume": 2,
+   "title": "S2 - Chapter 303",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -270,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VRAYNXFQ9QYS7FQP6",
+   "chapNum": 302,
+   "volume": 2,
+   "title": "S2 - Chapter 302",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -271,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VE5YEQBPKMWY6706G",
+   "chapNum": 301,
+   "volume": 2,
+   "title": "S2 - Chapter 301",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -272,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VJEET2KTDJ9XKB5E1",
+   "chapNum": 300,
+   "volume": 2,
+   "title": "S2 - Chapter 300",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -273,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VQW8X7E0DKEBHWWBB",
+   "chapNum": 299,
+   "volume": 2,
+   "title": "S2 - Chapter 299",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -274,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VE1TD3ZQN3KW54WKC",
+   "chapNum": 298,
+   "volume": 2,
+   "title": "S2 - Chapter 298",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -275,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V7HZR2X441TX1KXSG",
+   "chapNum": 297,
+   "volume": 2,
+   "title": "S2 - Chapter 297",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -276,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VTNWQE1Y2JJ1NPET4",
+   "chapNum": 296,
+   "volume": 2,
+   "title": "S2 - Chapter 296",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -277,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V6PQAY6R8PV7CMTYA",
+   "chapNum": 295,
+   "volume": 2,
+   "title": "S2 - Chapter 295",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -278,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VHMAYX2957T3DEK3Q",
+   "chapNum": 294,
+   "volume": 2,
+   "title": "S2 - Chapter 294",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -279,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VP2RT86VK4BK5K61E",
+   "chapNum": 293,
+   "volume": 2,
+   "title": "S2 - Chapter 293",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -280,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VRZ1HVK08RWS2K2J9",
+   "chapNum": 292,
+   "volume": 2,
+   "title": "S2 - Chapter 292",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -281,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V4TZTV28EJM4PCE6A",
+   "chapNum": 291,
+   "volume": 2,
+   "title": "S2 - Chapter 291",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -282,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VPBCC5F85ZJGWY2EY",
+   "chapNum": 290,
+   "volume": 2,
+   "title": "S2 - Chapter 290",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -283,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V3SMFFHC1H7DMSPXN",
+   "chapNum": 289,
+   "volume": 2,
+   "title": "S2 - Chapter 289",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -284,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VVDFQ5TD5K1NRT75J",
+   "chapNum": 288,
+   "volume": 2,
+   "title": "S2 - Chapter 288",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -285,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VN6SSQPVEAYVTY2MK",
+   "chapNum": 287,
+   "volume": 2,
+   "title": "S2 - Chapter 287",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -286,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V0FDP0NHSJ59Z0RNM",
+   "chapNum": 286,
+   "volume": 2,
+   "title": "S2 - Chapter 286",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -287,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VDA6RYVG2EJQR1KMJ",
+   "chapNum": 285,
+   "volume": 2,
+   "title": "S2 - Chapter 285",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -288,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V7TY6RGAYE48KSRAW",
+   "chapNum": 284,
+   "volume": 2,
+   "title": "S2 - Chapter 284",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -289,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V591BZ5CPN39QN7QH",
+   "chapNum": 283,
+   "volume": 2,
+   "title": "S2 - Chapter 283",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -290,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VR0X9BM6658R8SBSE",
+   "chapNum": 282,
+   "volume": 2,
+   "title": "S2 - Chapter 282",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -291,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VN49NJKR0XYWXP1TS",
+   "chapNum": 281,
+   "volume": 2,
+   "title": "S2 - Chapter 281",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -292,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VAQGEGQM6QBAFZBRB",
+   "chapNum": 280,
+   "volume": 2,
+   "title": "S2 - Chapter 280",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -293,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V3J143P8TJQZYT3E1",
+   "chapNum": 279,
+   "volume": 2,
+   "title": "S2 - Chapter 279",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -294,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VBM5E8B48PFXB3C7P",
+   "chapNum": 278,
+   "volume": 2,
+   "title": "S2 - Chapter 278",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -295,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V84A0W4S6SKR317RQ",
+   "chapNum": 277,
+   "volume": 2,
+   "title": "S2 - Chapter 277",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -296,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V16D9HEWYDK9DN2MH",
+   "chapNum": 276,
+   "volume": 2,
+   "title": "S2 - Chapter 276",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -297,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V8CPBG12EWYPE3YS6",
+   "chapNum": 275,
+   "volume": 2,
+   "title": "S2 - Chapter 275",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -298,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VKGD02J8BEZKW0019",
+   "chapNum": 274,
+   "volume": 2,
+   "title": "S2 - Chapter 274",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -299,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VRJSR7FY1BCYCBDPD",
+   "chapNum": 273,
+   "volume": 2,
+   "title": "S2 - Chapter 273",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -300,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VMT3GR4PD4P0YKSPK",
+   "chapNum": 272,
+   "volume": 2,
+   "title": "S2 - Chapter 272",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -301,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VT43ARK90457W1YSM",
+   "chapNum": 271,
+   "volume": 2,
+   "title": "S2 - Chapter 271",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -302,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VVT9Z719F2N3PM31M",
+   "chapNum": 270,
+   "volume": 2,
+   "title": "S2 - Chapter 270",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -303,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VSAR67QJDKQA9GC1Z",
+   "chapNum": 269,
+   "volume": 2,
+   "title": "S2 - Chapter 269",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -304,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VB5QP7SYCRXTREQAX",
+   "chapNum": 268,
+   "volume": 2,
+   "title": "S2 - Chapter 268",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -305,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V8Y6QWHEBDP5G8BKM",
+   "chapNum": 267,
+   "volume": 2,
+   "title": "S2 - Chapter 267",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -306,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VK9HDP4MVJXX2F4Q9",
+   "chapNum": 266,
+   "volume": 2,
+   "title": "S2 - Chapter 266",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -307,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V13X4AMPRDBFN2M0A",
+   "chapNum": 265,
+   "volume": 2,
+   "title": "S2 - Chapter 265",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -308,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V36BS99WV7H5PTZMP",
+   "chapNum": 264,
+   "volume": 2,
+   "title": "S2 - Chapter 264",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -309,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VATPVN26PA4MB0MKT",
+   "chapNum": 263,
+   "volume": 2,
+   "title": "S2 - Chapter 263",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -310,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V2A3V9AKQ8AHF4M49",
+   "chapNum": 262,
+   "volume": 2,
+   "title": "S2 - Chapter 262",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -311,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0V0CMDHH7B0Y6J1FPS",
+   "chapNum": 261,
+   "volume": 2,
+   "title": "S2 - Chapter 261",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -312,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VD8F4NRWAF55BDJ6Z",
+   "chapNum": 260,
+   "volume": 2,
+   "title": "S2 - Chapter 260",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -313,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VWRT1VCE7C25M4YDR",
+   "chapNum": 259,
+   "volume": 2,
+   "title": "S2 - Chapter 259",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -314,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VYPGFNZWQQECAJV1B",
+   "chapNum": 258,
+   "volume": 2,
+   "title": "S2 - Chapter 258",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -315,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0VG63DDGKB7XVJ0FRW",
+   "chapNum": 257,
+   "volume": 2,
+   "title": "S2 - Chapter 257",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -316,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TBHXWGQGQPFBJZWX8",
+   "chapNum": 256,
+   "volume": 2,
+   "title": "S2 - Chapter 256",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -317,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TMBE8R8MFM82N7K4S",
+   "chapNum": 255,
+   "volume": 2,
+   "title": "S2 - Chapter 255",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -318,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TYACD1P0W2RMCDT89",
+   "chapNum": 254,
+   "volume": 2,
+   "title": "S2 - Chapter 254",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -319,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T6JV8J4EGCVWDK5SE",
+   "chapNum": 253,
+   "volume": 2,
+   "title": "S2 - Chapter 253",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -320,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T0T12HB35HFE9NAB6",
+   "chapNum": 252,
+   "volume": 2,
+   "title": "S2 - Chapter 252",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -321,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TC9VFPJK33KZ6ZZM3",
+   "chapNum": 251,
+   "volume": 2,
+   "title": "S2 - Chapter 251",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -322,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TEVEMZX2XF8AMMFJE",
+   "chapNum": 250,
+   "volume": 2,
+   "title": "S2 - Chapter 250",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -323,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T57YNNGQCB6CZRC61",
+   "chapNum": 249,
+   "volume": 2,
+   "title": "S2 - Chapter 249",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -324,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T93BP7Z8BWZD1BMQ3",
+   "chapNum": 248,
+   "volume": 2,
+   "title": "S2 - Chapter 248",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -325,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T46K78CTM3W60YTVM",
+   "chapNum": 247,
+   "volume": 2,
+   "title": "S2 - Chapter 247",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -326,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TXWE1S9ZYPV9ZKCCT",
+   "chapNum": 246,
+   "volume": 2,
+   "title": "S2 - Chapter 246",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -327,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TYY3H5GCVRC5S1R3J",
+   "chapNum": 245,
+   "volume": 2,
+   "title": "S2 - Chapter 245",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -328,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TT9C2TT763G3PJWMJ",
+   "chapNum": 244,
+   "volume": 2,
+   "title": "S2 - Chapter 244",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -329,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TJ9916FQ8QSN62J5Z",
+   "chapNum": 243,
+   "volume": 2,
+   "title": "S2 - Chapter 243",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -330,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TF8SKCXZZYSZ4BEZ0",
+   "chapNum": 242,
+   "volume": 2,
+   "title": "S2 - Chapter 242",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -331,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T35ZNCKGK7RC7DNCF",
+   "chapNum": 241,
+   "volume": 2,
+   "title": "S2 - Chapter 241",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -332,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TEH6EHY3C4XPCGB86",
+   "chapNum": 240,
+   "volume": 2,
+   "title": "S2 - Chapter 240",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -333,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TVMZ2T6XT6D3NFGTZ",
+   "chapNum": 239,
+   "volume": 2,
+   "title": "S2 - Chapter 239",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -334,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TEFBBB0GWSXR8ADSK",
+   "chapNum": 238,
+   "volume": 2,
+   "title": "S2 - Chapter 238",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -335,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TGQEX79MQSHS1EWB5",
+   "chapNum": 237,
+   "volume": 2,
+   "title": "S2 - Chapter 237",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -336,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TP9SAH8J3D8KJVKB5",
+   "chapNum": 236,
+   "volume": 2,
+   "title": "S2 - Chapter 236",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -337,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T337M73F9V76R2XQJ",
+   "chapNum": 235,
+   "volume": 2,
+   "title": "S2 - Chapter 235",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -338,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TYKG8NMJ0X1ACKCZC",
+   "chapNum": 234,
+   "volume": 2,
+   "title": "S2 - Chapter 234",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -339,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TDN9CNKK0W974DJXJ",
+   "chapNum": 233,
+   "volume": 2,
+   "title": "S2 - Chapter 233",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -340,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TTP93KXXH72A07914",
+   "chapNum": 232,
+   "volume": 2,
+   "title": "S2 - Chapter 232",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -341,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TEF7W7VEQZNXH4D43",
+   "chapNum": 231,
+   "volume": 2,
+   "title": "S2 - Chapter 231",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -342,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TJ21ECDDFNRFZY7MW",
+   "chapNum": 230,
+   "volume": 2,
+   "title": "S2 - Chapter 230",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -343,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TZW2YQ19D1VSBF0JB",
+   "chapNum": 229,
+   "volume": 2,
+   "title": "S2 - Chapter 229",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -344,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T9X387Y8BVT3FK1R7",
+   "chapNum": 228,
+   "volume": 2,
+   "title": "S2 - Chapter 228",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -345,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TTZRB33XSQBS2ZA1C",
+   "chapNum": 227,
+   "volume": 2,
+   "title": "S2 - Chapter 227",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -346,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0THMK654MHCWPWK1HY",
+   "chapNum": 226,
+   "volume": 2,
+   "title": "S2 - Chapter 226",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -347,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TSWPX2Q7TM1YE2TSX",
+   "chapNum": 225,
+   "volume": 2,
+   "title": "S2 - Chapter 225",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -348,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TQ4RQZ0PHA1T63TZH",
+   "chapNum": 224,
+   "volume": 2,
+   "title": "S2 - Chapter 224",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -349,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TEFHCK34058JHNJQ0",
+   "chapNum": 223,
+   "volume": 2,
+   "title": "S2 - Chapter 223",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -350,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TS8C1PSMAMXWAK0VB",
+   "chapNum": 222,
+   "volume": 2,
+   "title": "S2 - Chapter 222",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -351,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TE48BR5S5SDGVKMY6",
+   "chapNum": 221,
+   "volume": 2,
+   "title": "S2 - Chapter 221",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -352,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TXVJEBMEZFRX0XB52",
+   "chapNum": 220,
+   "volume": 2,
+   "title": "S2 - Chapter 220",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -353,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T8JK66DK696AKEHEB",
+   "chapNum": 219,
+   "volume": 2,
+   "title": "S2 - Chapter 219",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -354,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TT2KGZ0PGTPZHGSGC",
+   "chapNum": 218,
+   "volume": 2,
+   "title": "S2 - Chapter 218",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -355,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TN63EH3YN44D63EBM",
+   "chapNum": 217,
+   "volume": 2,
+   "title": "S2 - Chapter 217",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -356,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TGYQHG545EWVY0PB9",
+   "chapNum": 216,
+   "volume": 2,
+   "title": "S2 - Chapter 216",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -357,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TANK6T8WJENQG94ZC",
+   "chapNum": 215,
+   "volume": 2,
+   "title": "S2 - Chapter 215",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -358,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TE5D9KAX002XP47EY",
+   "chapNum": 214,
+   "volume": 2,
+   "title": "S2 - Chapter 214",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -359,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T2R39VCTXDYX07NCE",
+   "chapNum": 213,
+   "volume": 2,
+   "title": "S2 - Chapter 213",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -360,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TDB0KFJDE5PA15G1S",
+   "chapNum": 212,
+   "volume": 2,
+   "title": "S2 - Chapter 212",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -361,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TBEC6WEQTA5EGYS40",
+   "chapNum": 211,
+   "volume": 2,
+   "title": "S2 - Chapter 211",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -362,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TSXDS0KPJW7NQ8QR9",
+   "chapNum": 210,
+   "volume": 2,
+   "title": "S2 - Chapter 210",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -363,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TC1ZGDGY8ZGAJ28SJ",
+   "chapNum": 209,
+   "volume": 2,
+   "title": "S2 - Chapter 209",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -364,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TXHQVSPV2BS8BAREK",
+   "chapNum": 208,
+   "volume": 2,
+   "title": "S2 - Chapter 208",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -365,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TQ7PTMGD4FCDETH8M",
+   "chapNum": 207,
+   "volume": 2,
+   "title": "S2 - Chapter 207",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -366,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T8K8B9MZ5E91K1RQ8",
+   "chapNum": 206,
+   "volume": 2,
+   "title": "S2 - Chapter 206",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -367,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TDBR62V19ET791N7P",
+   "chapNum": 205,
+   "volume": 2,
+   "title": "S2 - Chapter 205",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -368,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T2TVSQBG21QYFC970",
+   "chapNum": 204,
+   "volume": 2,
+   "title": "S2 - Chapter 204",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -369,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T9B24Z0VTWRKZDV8X",
+   "chapNum": 203,
+   "volume": 2,
+   "title": "S2 - Chapter 203",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -370,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TMDQY50V6N30EJER3",
+   "chapNum": 202,
+   "volume": 2,
+   "title": "S2 - Chapter 202",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -371,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T9PN5D65MDZJ4NRD8",
+   "chapNum": 201,
+   "volume": 2,
+   "title": "S2 - Chapter 201",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -372,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TFRHCYN5WWTAE8Q4N",
+   "chapNum": 200,
+   "volume": 2,
+   "title": "S2 - Chapter 200",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -373,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T9YWXST178V168AHF",
+   "chapNum": 199,
+   "volume": 2,
+   "title": "S2 - Chapter 199",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -374,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TH90B4WXVCV5DVAAE",
+   "chapNum": 198,
+   "volume": 2,
+   "title": "S2 - Chapter 198",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -375,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0THP2MWJ3EJSYQX6Q9",
+   "chapNum": 197,
+   "volume": 2,
+   "title": "S2 - Chapter 197",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -376,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T7JXR2K9CP57ERWRE",
+   "chapNum": 196,
+   "volume": 2,
+   "title": "S2 - Chapter 196",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -377,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TP878000TPAJ8V8G5",
+   "chapNum": 195,
+   "volume": 2,
+   "title": "S2 - Chapter 195",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -378,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TB7J13G2V1EZZAC8B",
+   "chapNum": 194,
+   "volume": 2,
+   "title": "S2 - Chapter 194",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -379,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T12XQF6PSMMCMNQFD",
+   "chapNum": 193,
+   "volume": 2,
+   "title": "S2 - Chapter 193",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -380,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TE18YXP0H081RQWBB",
+   "chapNum": 192,
+   "volume": 2,
+   "title": "S2 - Chapter 192",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -381,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0THWCNXV1V75CNB2H2",
+   "chapNum": 191,
+   "volume": 2,
+   "title": "S2 - Chapter 191",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -382,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TA7K9R0C67520DKHE",
+   "chapNum": 190,
+   "volume": 2,
+   "title": "S2 - Chapter 190",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -383,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T1DHTQ2JRV038VC8Q",
+   "chapNum": 189,
+   "volume": 2,
+   "title": "S2 - Chapter 189",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -384,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TKZ5PHQVJ5FPQZ3JA",
+   "chapNum": 188,
+   "volume": 2,
+   "title": "S2 - Chapter 188",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -385,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T6495B6FDQHNTJDPM",
+   "chapNum": 187,
+   "volume": 2,
+   "title": "S2 - Chapter 187",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -386,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TNADN4RSTAEZJBYCW",
+   "chapNum": 186,
+   "volume": 2,
+   "title": "S2 - Chapter 186",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -387,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TMRPSAY3P3VXCEHWC",
+   "chapNum": 185,
+   "volume": 2,
+   "title": "S2 - Chapter 185",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -388,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TDTXW3EJJ8S91XH31",
+   "chapNum": 184,
+   "volume": 2,
+   "title": "S2 - Chapter 184",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -389,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TWYP900F9RF12CV23",
+   "chapNum": 183,
+   "volume": 2,
+   "title": "S2 - Chapter 183",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -390,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T7CNHGSEJTEN83QHS",
+   "chapNum": 182,
+   "volume": 2,
+   "title": "S2 - Chapter 182",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -391,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TY7KCBSSBET0HQFD6",
+   "chapNum": 181,
+   "volume": 2,
+   "title": "S2 - Chapter 181",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -392,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0T9C1DP209BFMG5AAZ",
+   "chapNum": 180,
+   "volume": 2,
+   "title": "S2 - Chapter 180",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -393,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TBNHBY79JDH504NHM",
+   "chapNum": 179,
+   "volume": 2,
+   "title": "S2 - Chapter 179",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -394,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0TD38SM4KJARBEQM2V",
+   "chapNum": 178,
+   "volume": 2,
+   "title": "S2 - Chapter 178",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -395,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S31C0HANP2XHTF01P",
+   "chapNum": 177,
+   "volume": 2,
+   "title": "S2 - Chapter 177",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -396,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SWFDQWC4R3HPYCHTN",
+   "chapNum": 176,
+   "volume": 2,
+   "title": "S2 - Chapter 176",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -397,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SB8RBX6HHMAP8C2VX",
+   "chapNum": 175,
+   "volume": 2,
+   "title": "S2 - Chapter 175",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -398,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SR741HWNBX60R9BW6",
+   "chapNum": 174,
+   "volume": 2,
+   "title": "S2 - Chapter 174",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -399,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SH696MQRC971HCY84",
+   "chapNum": 173,
+   "volume": 2,
+   "title": "S2 - Chapter 173",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -400,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SE535PJ81TVSTDB33",
+   "chapNum": 172,
+   "volume": 2,
+   "title": "S2 - Chapter 172",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -401,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SQY3MB32MV2VVWC64",
+   "chapNum": 171,
+   "volume": 2,
+   "title": "S2 - Chapter 171",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -402,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SGTAHMBEDPY96NAV4",
+   "chapNum": 170,
+   "volume": 2,
+   "title": "S2 - Chapter 170",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -403,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SD98EMHSZP4500EBW",
+   "chapNum": 169,
+   "volume": 2,
+   "title": "S2 - Chapter 169",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -404,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SCTYT11A6245Y8M2B",
+   "chapNum": 168,
+   "volume": 2,
+   "title": "S2 - Chapter 168",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -405,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SYHGWZ3NFSF5XNT39",
+   "chapNum": 167,
+   "volume": 2,
+   "title": "S2 - Chapter 167",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -406,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SWWNK6F3MMKKKKWVC",
+   "chapNum": 166,
+   "volume": 2,
+   "title": "S2 - Chapter 166",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -407,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S8Q9Q6SSAFN2ZT5BT",
+   "chapNum": 165,
+   "volume": 2,
+   "title": "S2 - Chapter 165",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -408,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SG5MVKPM62PJ4H9AN",
+   "chapNum": 164,
+   "volume": 2,
+   "title": "S2 - Chapter 164",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -409,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SQY0G0SAJMZDNFPAC",
+   "chapNum": 163,
+   "volume": 2,
+   "title": "S2 - Chapter 163",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -410,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S3WK9FCJTGHHFM4PA",
+   "chapNum": 162,
+   "volume": 2,
+   "title": "S2 - Chapter 162",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -411,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SBAA86KG6S4CA3ATM",
+   "chapNum": 161,
+   "volume": 2,
+   "title": "S2 - Chapter 161",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -412,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SZ27R0X1DZA87RFPW",
+   "chapNum": 160,
+   "volume": 2,
+   "title": "S2 - Chapter 160",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -413,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SBCE1YGE2FF8KS40Q",
+   "chapNum": 159,
+   "volume": 2,
+   "title": "S2 - Chapter 159",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -414,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SQB065Q3GFP8ZQAKE",
+   "chapNum": 158,
+   "volume": 2,
+   "title": "S2 - Chapter 158",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -415,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S067C7H3W1VAQZ67M",
+   "chapNum": 157,
+   "volume": 2,
+   "title": "S2 - Chapter 157",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -416,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SR8WTVPBMSTFSTVX9",
+   "chapNum": 156,
+   "volume": 2,
+   "title": "S2 - Chapter 156",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -417,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SZA5DGKBNR3B25QRP",
+   "chapNum": 155,
+   "volume": 2,
+   "title": "S2 - Chapter 155",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -418,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S785K3NZT177PS22M",
+   "chapNum": 154,
+   "volume": 2,
+   "title": "S2 - Chapter 154",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -419,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S3KD9KFPEK607TXPC",
+   "chapNum": 153,
+   "volume": 2,
+   "title": "S2 - Chapter 153",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -420,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SK7Y9YQNEWTRKANZF",
+   "chapNum": 152,
+   "volume": 2,
+   "title": "S2 - Chapter 152",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -421,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SYJS5N5RPYKKXRN56",
+   "chapNum": 151,
+   "volume": 2,
+   "title": "S2 - Chapter 151",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -422,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0STKSZ68X8EJ5YQ22A",
+   "chapNum": 150,
+   "volume": 2,
+   "title": "S2 - Chapter 150",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -423,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0STWF99340ETNS09EJ",
+   "chapNum": 149,
+   "volume": 2,
+   "title": "S2 - Chapter 149",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -424,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SQ9YEH606E2CTVJ4G",
+   "chapNum": 148,
+   "volume": 2,
+   "title": "S2 - Chapter 148",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -425,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SP6T2WET1DCMFG7JB",
+   "chapNum": 147,
+   "volume": 2,
+   "title": "S2 - Chapter 147",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -426,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SX91B2FFC22J7QYQD",
+   "chapNum": 146,
+   "volume": 2,
+   "title": "S2 - Chapter 146",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -427,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S6YMRG7GDC46EWJ28",
+   "chapNum": 145,
+   "volume": 2,
+   "title": "S2 - Chapter 145",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -428,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SNG41STPBF74ZH1XK",
+   "chapNum": 144,
+   "volume": 2,
+   "title": "S2 - Chapter 144",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -429,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SFTTB14NNS9ZHDV7T",
+   "chapNum": 143,
+   "volume": 2,
+   "title": "S2 - Chapter 143",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -430,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SME836CS054DGB483",
+   "chapNum": 142,
+   "volume": 2,
+   "title": "S2 - Chapter 142",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -431,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SD32YH044MAA7A630",
+   "chapNum": 141,
+   "volume": 2,
+   "title": "S2 - Chapter 141",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -432,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SGCMP3EW19FT6G6MG",
+   "chapNum": 140,
+   "volume": 2,
+   "title": "S2 - Chapter 140",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -433,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SS7RGG4ZTMM3VYFKS",
+   "chapNum": 139,
+   "volume": 2,
+   "title": "S2 - Chapter 139",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -434,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SK81KPBK0PZ8SE8HV",
+   "chapNum": 138,
+   "volume": 2,
+   "title": "S2 - Chapter 138",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -435,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0SBF4Q23NT98RE9BT4",
+   "chapNum": 137,
+   "volume": 2,
+   "title": "S2 - Chapter 137",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -436,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S2CDRX4CSSR86323Y",
+   "chapNum": 136,
+   "volume": 2,
+   "title": "S2 - Chapter 136",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -437,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0S2R3GT67DJTY0E29V",
+   "chapNum": 135,
+   "volume": 2,
+   "title": "S2 - Chapter 135",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -438,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R0J32XPG8Q4Q5X1CQ",
+   "chapNum": 134,
+   "volume": 2,
+   "title": "S2 - Chapter 134",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -439,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RTB68MDYTHZ0JT5CG",
+   "chapNum": 133,
+   "volume": 2,
+   "title": "S2 - Chapter 133",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -440,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RYR19QR62F22NCT5B",
+   "chapNum": 132,
+   "volume": 2,
+   "title": "S2 - Chapter 132",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -441,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R2H3A85J8JHD4YHHR",
+   "chapNum": 131,
+   "volume": 2,
+   "title": "S2 - Chapter 131",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -442,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RAPDZGXPVCA9DJ9S1",
+   "chapNum": 130,
+   "volume": 2,
+   "title": "S2 - Chapter 130",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -443,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RKWTEA4J88SJMQ3BR",
+   "chapNum": 129,
+   "volume": 2,
+   "title": "S2 - Chapter 129",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -444,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RSCKYD2FHKTKK3Z0C",
+   "chapNum": 128,
+   "volume": 2,
+   "title": "S2 - Chapter 128",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -445,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RJZ05QA30B3MQ0NQ2",
+   "chapNum": 127,
+   "volume": 2,
+   "title": "S2 - Chapter 127",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -446,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R5FPXZDSS9J9ZRS90",
+   "chapNum": 126,
+   "volume": 2,
+   "title": "S2 - Chapter 126",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -447,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R37K95TBCA8ESWVSV",
+   "chapNum": 125,
+   "volume": 2,
+   "title": "S2 - Chapter 125",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -448,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R0XWAD9VP9ZXFHWJ5",
+   "chapNum": 124,
+   "volume": 2,
+   "title": "S2 - Chapter 124",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -449,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RNE6CTGNXESG5CCY3",
+   "chapNum": 123,
+   "volume": 2,
+   "title": "S2 - Chapter 123",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -450,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RB7Q6F28FGE6FB9V1",
+   "chapNum": 122,
+   "volume": 2,
+   "title": "S2 - Chapter 122",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -451,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RS861Y7P6KQG3HGEP",
+   "chapNum": 121,
+   "volume": 2,
+   "title": "S2 - Chapter 121",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -452,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RH3J11PAJN5KG5XQT",
+   "chapNum": 120,
+   "volume": 2,
+   "title": "S2 - Chapter 120",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -453,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RCZWNS6APZ57STTM1",
+   "chapNum": 119,
+   "volume": 2,
+   "title": "S2 - Chapter 119",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -454,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RR1E8DVEYHRQBSCWQ",
+   "chapNum": 118,
+   "volume": 2,
+   "title": "S2 - Chapter 118",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -455,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RB8YHYZHJCGAR4MZM",
+   "chapNum": 117,
+   "volume": 2,
+   "title": "S2 - Chapter 117",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -456,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RZ0QWGS3QAN6J7YC9",
+   "chapNum": 116,
+   "volume": 2,
+   "title": "S2 - Chapter 116",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -457,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RG1FH7Q3GR4ENRWAJ",
+   "chapNum": 115,
+   "volume": 2,
+   "title": "S2 - Chapter 115",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -458,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R7SRENNP9D739HZTQ",
+   "chapNum": 114,
+   "volume": 2,
+   "title": "S2 - Chapter 114",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -459,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RFG4959R0TTP8RGV0",
+   "chapNum": 113,
+   "volume": 2,
+   "title": "S2 - Chapter 113",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -460,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RYXWQ0G299745SA0W",
+   "chapNum": 112,
+   "volume": 2,
+   "title": "S2 - Chapter 112",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -461,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R0D7MQSRD04APPYVY",
+   "chapNum": 111,
+   "volume": 2,
+   "title": "S2 - Chapter 111",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -462,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R3DWANES8SR9PRA2E",
+   "chapNum": 110,
+   "volume": 2,
+   "title": "S2 - Chapter 110",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -463,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RP9B998MWBRC8NSGE",
+   "chapNum": 109,
+   "volume": 2,
+   "title": "S2 - Chapter 109",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -464,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RBVKDGFJNGED78EXS",
+   "chapNum": 108,
+   "volume": 2,
+   "title": "S2 - Chapter 108",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -465,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RY7NG0ADDCS5C97YW",
+   "chapNum": 107,
+   "volume": 2,
+   "title": "S2 - Chapter 107",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -466,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RVDGFW2YP66EPXMT1",
+   "chapNum": 106,
+   "volume": 2,
+   "title": "S2 - Chapter 106",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -467,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RDH3GDVBES85QNYXZ",
+   "chapNum": 105,
+   "volume": 2,
+   "title": "S2 - Chapter 105",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -468,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RZXCZG6PJSHNXQNYJ",
+   "chapNum": 104,
+   "volume": 2,
+   "title": "S2 - Chapter 104",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -469,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R3BKVB45GHGTEP8P2",
+   "chapNum": 103,
+   "volume": 2,
+   "title": "S2 - Chapter 103",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -470,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RKKT0Z85RY8RPM1H6",
+   "chapNum": 102,
+   "volume": 2,
+   "title": "S2 - Chapter 102",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -471,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RKGMN98VP96HA1A0X",
+   "chapNum": 101,
+   "volume": 2,
+   "title": "S2 - Chapter 101",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -472,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RJR98J2NV2ESH2831",
+   "chapNum": 100,
+   "volume": 2,
+   "title": "S2 - Chapter 100",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -473,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RASJ57Y418MPD8AXW",
+   "chapNum": 99,
+   "volume": 2,
+   "title": "S2 - Chapter 99",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -474,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RZV48YBNHX98FKPYJ",
+   "chapNum": 98,
+   "volume": 2,
+   "title": "S2 - Chapter 98",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -475,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R24Q3CX7XF19442KM",
+   "chapNum": 97,
+   "volume": 2,
+   "title": "S2 - Chapter 97",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -476,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RM9RQXDMPBJGCDNR9",
+   "chapNum": 96,
+   "volume": 2,
+   "title": "S2 - Chapter 96",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -477,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R1GZ4M0YD5JWRG5VZ",
+   "chapNum": 95,
+   "volume": 2,
+   "title": "S2 - Chapter 95",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -478,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R6CKQ24G1MZ0SV37K",
+   "chapNum": 94,
+   "volume": 2,
+   "title": "S2 - Chapter 94",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -479,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RHTR3XAFEJMQ5TQDR",
+   "chapNum": 93,
+   "volume": 2,
+   "title": "S2 - Chapter 93",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -480,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RXEYHJ0ZCXSFDQD3Y",
+   "chapNum": 92,
+   "volume": 2,
+   "title": "S2 - Chapter 92",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -481,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RFHF7XH70D2SFBWBW",
+   "chapNum": 91,
+   "volume": 2,
+   "title": "S2 - Chapter 91",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -482,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R70H3ETNN2TWCA9D5",
+   "chapNum": 90,
+   "volume": 2,
+   "title": "S2 - Chapter 90",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -483,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R4N19JM283ERMVQAZ",
+   "chapNum": 89,
+   "volume": 2,
+   "title": "S2 - Chapter 89",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -484,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RQ8ZHT6FFVJ99G65D",
+   "chapNum": 88,
+   "volume": 2,
+   "title": "S2 - Chapter 88",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -485,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RBMJPQ4BQBCNHV9ZZ",
+   "chapNum": 87,
+   "volume": 2,
+   "title": "S2 - Chapter 87",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -486,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0R9E5K8SX6JFDZK0RV",
+   "chapNum": 86,
+   "volume": 2,
+   "title": "S2 - Chapter 86",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -487,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RJX0ACQCJN21673PQ",
+   "chapNum": 85,
+   "volume": 2,
+   "title": "S2 - Chapter 85",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -488,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RY0ZXA4M9X74DKVXP",
+   "chapNum": 84,
+   "volume": 2,
+   "title": "S2 - Chapter 84",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -489,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RN2EBAGEQC4X5V4CQ",
+   "chapNum": 83,
+   "volume": 2,
+   "title": "S2 - Chapter 83",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -490,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RDR3F1KHHBHQP5XZ2",
+   "chapNum": 82,
+   "volume": 2,
+   "title": "S2 - Chapter 82",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -491,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RGVBN831ZC81E28N4",
+   "chapNum": 81,
+   "volume": 2,
+   "title": "S2 - Chapter 81",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -492,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0RRF83XWCWT7XVZ9PQ",
+   "chapNum": 80,
+   "volume": 2,
+   "title": "S2 - Chapter 80",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -493,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QVJ3YX76C49RK0XA0",
+   "chapNum": 79,
+   "volume": 2,
+   "title": "S2 - Chapter 79",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -494,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QKVR1Y3T3VYS9T98B",
+   "chapNum": 78,
+   "volume": 2,
+   "title": "S2 - Chapter 78",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -495,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QZ3XH2DTRFX597Z6T",
+   "chapNum": 77,
+   "volume": 2,
+   "title": "S2 - Chapter 77",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -496,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q7Z1197TBVDK61RM4",
+   "chapNum": 76,
+   "volume": 2,
+   "title": "S2 - Chapter 76",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -497,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q9H3T5DDNHZ6H7QJQ",
+   "chapNum": 75,
+   "volume": 2,
+   "title": "S2 - Chapter 75",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -498,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q1KAJ8FPC7ETYDBPJ",
+   "chapNum": 74,
+   "volume": 2,
+   "title": "S2 - Chapter 74",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -499,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q9NFQ8K70XG7CQ8SG",
+   "chapNum": 73,
+   "volume": 2,
+   "title": "S2 - Chapter 73",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -500,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q1GYTQNV5AFHM8DHD",
+   "chapNum": 72,
+   "volume": 2,
+   "title": "S2 - Chapter 72",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -501,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QPKJ94S9HNSQ775H1",
+   "chapNum": 71,
+   "volume": 2,
+   "title": "S2 - Chapter 71",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -502,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QGVG55MDGBPGM1BVK",
+   "chapNum": 70,
+   "volume": 2,
+   "title": "S2 - Chapter 70",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -503,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QA7S47FJBVJM76BAD",
+   "chapNum": 69,
+   "volume": 2,
+   "title": "S2 - Chapter 69",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -504,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QZ4DKSSNTEM3S2YK1",
+   "chapNum": 68,
+   "volume": 2,
+   "title": "S2 - Chapter 68",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -505,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q52D4TVZ2H4KVZ3HG",
+   "chapNum": 67,
+   "volume": 2,
+   "title": "S2 - Chapter 67",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -506,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q9PFZ2G9N3Z0YRAFJ",
+   "chapNum": 66,
+   "volume": 2,
+   "title": "S2 - Chapter 66",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -507,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QNCFD7K2N7YEDWA3G",
+   "chapNum": 65,
+   "volume": 2,
+   "title": "S2 - Chapter 65",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -508,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QQ1H0NFBK6A3FQN5G",
+   "chapNum": 64,
+   "volume": 2,
+   "title": "S2 - Chapter 64",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -509,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0Q8YAGANZX1YMGC231",
+   "chapNum": 63,
+   "volume": 2,
+   "title": "S2 - Chapter 63",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -510,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QJP5FSZN7CS16DE4T",
+   "chapNum": 62,
+   "volume": 2,
+   "title": "S2 - Chapter 62",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -511,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QNTRMHGMG8HSYQ0F3",
+   "chapNum": 61,
+   "volume": 2,
+   "title": "S2 - Chapter 61",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -512,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QFX4N3VJ8QGRWHGHH",
+   "chapNum": 60,
+   "volume": 2,
+   "title": "S2 - Chapter 60",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -513,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QVPGKM1ECH40SEZJF",
+   "chapNum": 59,
+   "volume": 2,
+   "title": "S2 - Chapter 59",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -514,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0QKC4W438A6RM9WHK9",
+   "chapNum": 58,
+   "volume": 2,
+   "title": "S2 - Chapter 58",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -515,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PWZXX44C15F0PFRQJ",
+   "chapNum": 57,
+   "volume": 2,
+   "title": "S2 - Chapter 57",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -516,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P9TA4KBJA5MBJ8WS4",
+   "chapNum": 56,
+   "volume": 2,
+   "title": "S2 - Chapter 56",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -517,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PBSNWYZ3Q06VGCSYK",
+   "chapNum": 55,
+   "volume": 2,
+   "title": "S2 - Chapter 55",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -518,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PV0X988KAXZBFVCZK",
+   "chapNum": 54,
+   "volume": 2,
+   "title": "S2 - Chapter 54",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -519,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PKAG4N7P86F0DTFAK",
+   "chapNum": 53,
+   "volume": 2,
+   "title": "S2 - Chapter 53",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -520,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P5809AACYE39M6BFA",
+   "chapNum": 52,
+   "volume": 2,
+   "title": "S2 - Chapter 52",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -521,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PBZ3JKJ8ZXHZ5A1MN",
+   "chapNum": 51,
+   "volume": 2,
+   "title": "S2 - Chapter 51",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -522,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PP9S1BD2CBYCF7YQ7",
+   "chapNum": 50,
+   "volume": 2,
+   "title": "S2 - Chapter 50",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -523,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PYCT31W15GW7D2AJS",
+   "chapNum": 49,
+   "volume": 2,
+   "title": "S2 - Chapter 49",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -524,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PFQDN8K9XKB7XAXE6",
+   "chapNum": 48,
+   "volume": 2,
+   "title": "S2 - Chapter 48",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -525,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PPG356A22EA9MFDPV",
+   "chapNum": 47,
+   "volume": 2,
+   "title": "S2 - Chapter 47",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -526,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PWC0MWKDSX9DCWZ3Q",
+   "chapNum": 46,
+   "volume": 2,
+   "title": "S2 - Chapter 46",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -527,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PZA1P2VZX46KVY8BS",
+   "chapNum": 45,
+   "volume": 2,
+   "title": "S2 - Chapter 45",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -528,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P3W2A10KSEQHBMBXZ",
+   "chapNum": 44,
+   "volume": 2,
+   "title": "S2 - Chapter 44",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -529,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P69G0HGV4NYWZJMPQ",
+   "chapNum": 43,
+   "volume": 2,
+   "title": "S2 - Chapter 43",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -530,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PVZ7VZH2P36R8E8SP",
+   "chapNum": 42,
+   "volume": 2,
+   "title": "S2 - Chapter 42",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -531,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P7QD0081C9E0S0FJE",
+   "chapNum": 41,
+   "volume": 2,
+   "title": "S2 - Chapter 41",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -532,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PDNG44YD8KJC4RP74",
+   "chapNum": 40,
+   "volume": 2,
+   "title": "S2 - Chapter 40",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -533,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PBF14PABC101BRGMB",
+   "chapNum": 39,
+   "volume": 2,
+   "title": "S2 - Chapter 39",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -534,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P4FAM6FSY5P88VMER",
+   "chapNum": 38,
+   "volume": 2,
+   "title": "S2 - Chapter 38",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -535,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PDP0YR3ZZ5CDY07P8",
+   "chapNum": 37,
+   "volume": 2,
+   "title": "S2 - Chapter 37",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -536,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PHH6VW1AW9B0X17KE",
+   "chapNum": 36,
+   "volume": 2,
+   "title": "S2 - Chapter 36",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -537,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0PE2K6D2KT4CDHA85H",
+   "chapNum": 35,
+   "volume": 2,
+   "title": "S2 - Chapter 35",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -538,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0P5Z9PW0CSTY79VGMG",
+   "chapNum": 34,
+   "volume": 2,
+   "title": "S2 - Chapter 34",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -539,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NMHS9EAGABJFHAPTG",
+   "chapNum": 33,
+   "volume": 2,
+   "title": "S2 - Chapter 33",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -540,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0N882RFTX91NFHHVJ0",
+   "chapNum": 32,
+   "volume": 2,
+   "title": "S2 - Chapter 32",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -541,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NT00JVD7G8H8RZH07",
+   "chapNum": 31,
+   "volume": 2,
+   "title": "S2 - Chapter 31",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -542,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NT4SYZ7NAWF43MQSQ",
+   "chapNum": 30,
+   "volume": 2,
+   "title": "S2 - Chapter 30",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -543,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NWDSDYR76QGA28BQE",
+   "chapNum": 29,
+   "volume": 2,
+   "title": "S2 - Chapter 29",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -544,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NQFG03VV6P0K0PC2B",
+   "chapNum": 28,
+   "volume": 2,
+   "title": "S2 - Chapter 28",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -545,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NDKN7KWP2TDGJAX56",
+   "chapNum": 27,
+   "volume": 2,
+   "title": "S2 - Chapter 27",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -546,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NZJECH5P4YVXM27CT",
+   "chapNum": 26,
+   "volume": 2,
+   "title": "S2 - Chapter 26",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -547,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NBKD6ZC6YF8VC8175",
+   "chapNum": 25,
+   "volume": 2,
+   "title": "S2 - Chapter 25",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -548,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NW51ASN6ESA99TCVA",
+   "chapNum": 24,
+   "volume": 2,
+   "title": "S2 - Chapter 24",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -549,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NEEKKS87M5NVCZ32E",
+   "chapNum": 23,
+   "volume": 2,
+   "title": "S2 - Chapter 23",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -550,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NKZ4YPYT60ZT8E4ZV",
+   "chapNum": 22,
+   "volume": 2,
+   "title": "S2 - Chapter 22",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -551,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NKSNTRCJA35PAAT81",
+   "chapNum": 21,
+   "volume": 2,
+   "title": "S2 - Chapter 21",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -552,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NVVY588RKX8SAFGPB",
+   "chapNum": 20,
+   "volume": 2,
+   "title": "S2 - Chapter 20",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -553,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NYF3BWJRFV611S5WM",
+   "chapNum": 19,
+   "volume": 2,
+   "title": "S2 - Chapter 19",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -554,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NX3XWMXDN6N6GKNNM",
+   "chapNum": 18,
+   "volume": 2,
+   "title": "S2 - Chapter 18",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -555,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0N530E3TZAX3GP3H5G",
+   "chapNum": 17,
+   "volume": 2,
+   "title": "S2 - Chapter 17",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -556,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NCYFXCS1YC59VGCMH",
+   "chapNum": 16,
+   "volume": 2,
+   "title": "S2 - Chapter 16",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -557,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0N9D2HTP1CBH33C1RR",
+   "chapNum": 15,
+   "volume": 2,
+   "title": "S2 - Chapter 15",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -558,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NWSBV4KS67AVBA5DT",
+   "chapNum": 14,
+   "volume": 2,
+   "title": "S2 - Chapter 14",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -559,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NTPEZA7JBTY3GMX71",
+   "chapNum": 13,
+   "volume": 2,
+   "title": "S2 - Chapter 13",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -560,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0N30S1FDE94JQSK870",
+   "chapNum": 12,
+   "volume": 2,
+   "title": "S2 - Chapter 12",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -561,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NRGF142DS7TWWKAA0",
+   "chapNum": 11,
+   "volume": 2,
+   "title": "S2 - Chapter 11",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -562,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0N1CH1AV04JZ1GGM20",
+   "chapNum": 10,
+   "volume": 2,
+   "title": "S2 - Chapter 10",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -563,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NSTW37D7W60N6W3BF",
+   "chapNum": 9,
+   "volume": 2,
+   "title": "S2 - Chapter 9",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -564,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0NSSMCRB9AHFC82TB8",
+   "chapNum": 8,
+   "volume": 2,
+   "title": "S2 - Chapter 8",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -565,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MPRPSVFBC11AE1KZ3",
+   "chapNum": 7,
+   "volume": 2,
+   "title": "S2 - Chapter 7",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -566,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MGAVWPBPZTPZMTBYR",
+   "chapNum": 6,
+   "volume": 2,
+   "title": "S2 - Chapter 6",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -567,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0M0JVQMGPXRE5X7793",
+   "chapNum": 5,
+   "volume": 2,
+   "title": "S2 - Chapter 5",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -568,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MFDXZTB6WRHQKQ2JA",
+   "chapNum": 4,
+   "volume": 2,
+   "title": "S2 - Chapter 4",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -569,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0M9MGSHGA5R72E6WY9",
+   "chapNum": 3,
+   "volume": 2,
+   "title": "S2 - Chapter 3",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -570,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MQN3NY905GDN21G6K",
+   "chapNum": 2,
+   "volume": 2,
+   "title": "S2 - Chapter 2",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -571,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MEX1VPQVNGVJE246H",
+   "chapNum": 1,
+   "volume": 2,
+   "title": "S2 - Chapter 1",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -572,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0WHFKJ2PP6AEDYJ7E2",
+   "chapNum": 0,
+   "volume": 2,
+   "title": "S2 - Chapter 0",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -573,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MTBJVFSV4M213GP9V",
+   "chapNum": 78,
+   "volume": 1,
+   "title": "S1 - Chapter 78",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -574,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MSNZ25YS1GW3SMPS1",
+   "chapNum": 77,
+   "volume": 1,
+   "title": "S1 - Chapter 77",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -575,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MGGAR59R7TTRERF84",
+   "chapNum": 76,
+   "volume": 1,
+   "title": "S1 - Chapter 76",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -576,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MA9851W0QMZYQZ7RH",
+   "chapNum": 75,
+   "volume": 1,
+   "title": "S1 - Chapter 75",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -577,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MXBAP54HQN2X29S53",
+   "chapNum": 74,
+   "volume": 1,
+   "title": "S1 - Chapter 74",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -578,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MCF8HRG65Y9W8KMTP",
+   "chapNum": 73,
+   "volume": 1,
+   "title": "S1 - Chapter 73",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -579,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0M102XVVBPF4WCM6YZ",
+   "chapNum": 72,
+   "volume": 1,
+   "title": "S1 - Chapter 72",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -580,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MVNP5T22AEDC528GM",
+   "chapNum": 71,
+   "volume": 1,
+   "title": "S1 - Chapter 71",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -581,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MCER4FCYJVPHRGA3B",
+   "chapNum": 70,
+   "volume": 1,
+   "title": "S1 - Chapter 70",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -582,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MPJRGR5XV298DD9Q1",
+   "chapNum": 69,
+   "volume": 1,
+   "title": "S1 - Chapter 69",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -583,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MNWJ6GVQKHT2XH7CD",
+   "chapNum": 68,
+   "volume": 1,
+   "title": "S1 - Chapter 68",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -584,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MXKSVC5QWEVPC2HW6",
+   "chapNum": 67,
+   "volume": 1,
+   "title": "S1 - Chapter 67",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -585,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0M5J32JYVS1AR8C7YR",
+   "chapNum": 66,
+   "volume": 1,
+   "title": "S1 - Chapter 66",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -586,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0KFMBM4420C3MQW38Q",
+   "chapNum": 65,
+   "volume": 1,
+   "title": "S1 - Chapter 65",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -587,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTENN6JPJ3791VPKR9N",
+   "chapNum": 64,
+   "volume": 1,
+   "title": "S1 - Chapter 64",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -588,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEJ388K8PX2B3ZH58H",
+   "chapNum": 63,
+   "volume": 1,
+   "title": "S1 - Chapter 63",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -589,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE8TK90CFJY32ZBAQY",
+   "chapNum": 62,
+   "volume": 1,
+   "title": "S1 - Chapter 62",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -590,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEYCYWG5XF33AW95BV",
+   "chapNum": 61,
+   "volume": 1,
+   "title": "S1 - Chapter 61",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -591,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEAPHPWPDQJYHV644P",
+   "chapNum": 60,
+   "volume": 1,
+   "title": "S1 - Chapter 60",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -592,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE3AAEQ3AKWKT6CFBR",
+   "chapNum": 59,
+   "volume": 1,
+   "title": "S1 - Chapter 59",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -593,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEF34K561JK0VDW5BP",
+   "chapNum": 58,
+   "volume": 1,
+   "title": "S1 - Chapter 58",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -594,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE6A57VK21KP7T29B7",
+   "chapNum": 57,
+   "volume": 1,
+   "title": "S1 - Chapter 57",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -595,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE358D3958D7NVRBQE",
+   "chapNum": 56,
+   "volume": 1,
+   "title": "S1 - Chapter 56",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -596,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE2C3VZ3VQHZ2W1JKN",
+   "chapNum": 55,
+   "volume": 1,
+   "title": "S1 - Chapter 55",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -597,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTERRRDF86H5QQ0NZPF",
+   "chapNum": 54,
+   "volume": 1,
+   "title": "S1 - Chapter 54",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -598,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTECND0Q8XCYDR425G7",
+   "chapNum": 53,
+   "volume": 1,
+   "title": "S1 - Chapter 53",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -599,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEDFBG1P15DNTPA1NF",
+   "chapNum": 52,
+   "volume": 1,
+   "title": "S1 - Chapter 52",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -600,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEW4K2J1433KPMYE66",
+   "chapNum": 51,
+   "volume": 1,
+   "title": "S1 - Chapter 51",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -601,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEJS92K35YKXDTB5RX",
+   "chapNum": 50,
+   "volume": 1,
+   "title": "S1 - Chapter 50",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -602,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE00EXX78M90PRWJZ1",
+   "chapNum": 49,
+   "volume": 1,
+   "title": "S1 - Chapter 49",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -603,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEXNCWPQWGR7Z25PE2",
+   "chapNum": 48,
+   "volume": 1,
+   "title": "S1 - Chapter 48",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -604,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE5B6NT8XX5BB8XWRK",
+   "chapNum": 47,
+   "volume": 1,
+   "title": "S1 - Chapter 47",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -605,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEQ5CPXMYR29QPYRGF",
+   "chapNum": 46,
+   "volume": 1,
+   "title": "S1 - Chapter 46",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -606,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEJFBRA7S947SSRBWZ",
+   "chapNum": 45,
+   "volume": 1,
+   "title": "S1 - Chapter 45",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -607,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEHBHRKB6ZZAQPTD3Y",
+   "chapNum": 44,
+   "volume": 1,
+   "title": "S1 - Chapter 44",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -608,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE1QQNYGCS08ZNEKZ9",
+   "chapNum": 43,
+   "volume": 1,
+   "title": "S1 - Chapter 43",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -609,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE7KP07HH1G6FRTDQ8",
+   "chapNum": 42,
+   "volume": 1,
+   "title": "S1 - Chapter 42",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -610,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEAN75HFC9JACYYQN2",
+   "chapNum": 41,
+   "volume": 1,
+   "title": "S1 - Chapter 41",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -611,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE7ZAWX0GQ18EJC21C",
+   "chapNum": 40,
+   "volume": 1,
+   "title": "S1 - Chapter 40",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -612,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTESBKPFP65A91P6WMR",
+   "chapNum": 39,
+   "volume": 1,
+   "title": "S1 - Chapter 39",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -613,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEM2H0J3WHTK5JE3KK",
+   "chapNum": 38,
+   "volume": 1,
+   "title": "S1 - Chapter 38",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -614,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE1BZDPDVV40B8JR2M",
+   "chapNum": 37,
+   "volume": 1,
+   "title": "S1 - Chapter 37",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -615,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEG7X8D7P88KS3FXG1",
+   "chapNum": 36,
+   "volume": 1,
+   "title": "S1 - Chapter 36",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -616,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEBVHKDS4KSM5R1JR5",
+   "chapNum": 35,
+   "volume": 1,
+   "title": "S1 - Chapter 35",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -617,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEHWKHXZKEDS8ZB3BA",
+   "chapNum": 34,
+   "volume": 1,
+   "title": "S1 - Chapter 34",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -618,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEYR1PRP97Z9DPXGFY",
+   "chapNum": 33,
+   "volume": 1,
+   "title": "S1 - Chapter 33",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -619,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEWGCC49C9T19YK5R9",
+   "chapNum": 32,
+   "volume": 1,
+   "title": "S1 - Chapter 32",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -620,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEGNHNHEWRATJ66DHC",
+   "chapNum": 31,
+   "volume": 1,
+   "title": "S1 - Chapter 31",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -621,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEG9WSS55058W5JNDD",
+   "chapNum": 30,
+   "volume": 1,
+   "title": "S1 - Chapter 30",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -622,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE2405V4R1590ZRHPW",
+   "chapNum": 29,
+   "volume": 1,
+   "title": "S1 - Chapter 29",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -623,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE2JX4XCKM0M94QCK8",
+   "chapNum": 28,
+   "volume": 1,
+   "title": "S1 - Chapter 28",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -624,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEZAF8MBVAVX124783",
+   "chapNum": 27,
+   "volume": 1,
+   "title": "S1 - Chapter 27",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -625,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEM1FK1EGXYR6XW2GW",
+   "chapNum": 26,
+   "volume": 1,
+   "title": "S1 - Chapter 26",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -626,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTERDY7G3JWWXGP4CVZ",
+   "chapNum": 25,
+   "volume": 1,
+   "title": "S1 - Chapter 25",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -627,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTESVVE6YZESC8SBCF5",
+   "chapNum": 24,
+   "volume": 1,
+   "title": "S1 - Chapter 24",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -628,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEJRPT59W8R0C2960G",
+   "chapNum": 23,
+   "volume": 1,
+   "title": "S1 - Chapter 23",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -629,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE51V0GT48HBFSTA7D",
+   "chapNum": 22,
+   "volume": 1,
+   "title": "S1 - Chapter 22",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -630,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTETTQD2G5V6KA1PKFA",
+   "chapNum": 21,
+   "volume": 1,
+   "title": "S1 - Chapter 21",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -631,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEG3PNC5D31M5Z586W",
+   "chapNum": 20,
+   "volume": 1,
+   "title": "S1 - Chapter 20",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -632,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEDZC3ZPRRQ5HW83TR",
+   "chapNum": 19,
+   "volume": 1,
+   "title": "S1 - Chapter 19",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -633,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE64AQ3T6X37Q0RK02",
+   "chapNum": 18,
+   "volume": 1,
+   "title": "S1 - Chapter 18",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -634,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE8MWNJQ6ADN1KQR81",
+   "chapNum": 17,
+   "volume": 1,
+   "title": "S1 - Chapter 17",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -635,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEKJ22FK4BXCWGCQX2",
+   "chapNum": 16,
+   "volume": 1,
+   "title": "S1 - Chapter 16",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -636,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE4W6W580FFWQC21X0",
+   "chapNum": 15,
+   "volume": 1,
+   "title": "S1 - Chapter 15",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -637,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEM1SVB4B2YKVE9SFB",
+   "chapNum": 14,
+   "volume": 1,
+   "title": "S1 - Chapter 14",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -638,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE9ER263M264Y07AH0",
+   "chapNum": 13,
+   "volume": 1,
+   "title": "S1 - Chapter 13",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -639,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE7YN0QDY6RKQ7XA3W",
+   "chapNum": 12,
+   "volume": 1,
+   "title": "S1 - Chapter 12",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -640,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEME93EFMT2QH0N36E",
+   "chapNum": 11,
+   "volume": 1,
+   "title": "S1 - Chapter 11",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -641,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEM4T79VK4F1QRGK6S",
+   "chapNum": 10,
+   "volume": 1,
+   "title": "S1 - Chapter 10",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -642,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEZ8FWP0XNW3XP8TG0",
+   "chapNum": 9,
+   "volume": 1,
+   "title": "S1 - Chapter 9",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -643,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTET8HKJSSFVTFRSDCJ",
+   "chapNum": 8,
+   "volume": 1,
+   "title": "S1 - Chapter 8",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -644,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEF90EAQZ8KQY6QT2A",
+   "chapNum": 7,
+   "volume": 1,
+   "title": "S1 - Chapter 7",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -645,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEV0A8XXX362K96Y77",
+   "chapNum": 6,
+   "volume": 1,
+   "title": "S1 - Chapter 6",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -646,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEMVGYBE8G0GFM23XV",
+   "chapNum": 5,
+   "volume": 1,
+   "title": "S1 - Chapter 5",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -647,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE1PJH2ADVFH8E081Q",
+   "chapNum": 4,
+   "volume": 1,
+   "title": "S1 - Chapter 4",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -648,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEQ8CTV14KDVTXCV7Z",
+   "chapNum": 3,
+   "volume": 1,
+   "title": "S1 - Chapter 3",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -649,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTEG58TSC51CWK5AACD",
+   "chapNum": 2,
+   "volume": 1,
+   "title": "S1 - Chapter 2",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -650,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYYTE60FATJJK9JBRJYJW",
+   "chapNum": 1,
+   "volume": 1,
+   "title": "S1 - Chapter 1",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -651,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XYZ0MX1T53YGHDX0QZ247",
+   "chapNum": 0,
+   "volume": 1,
+   "title": "S1 - Chapter 0",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -652,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  }
+ ]
+}

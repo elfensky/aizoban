@@ -1,0 +1,1829 @@
+{
+ "work": "jujutsu-kaisen",
+ "source": "ComicKFan",
+ "matchedTitle": "Jujutsu Kaisen",
+ "mangaId": "manga/jujutsu-kaisen",
+ "fetchedAt": "2026-08-13T08:37:02.896Z",
+ "chapters": [
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-271.5-eR0CDS92Gw",
+   "chapNum": 271.5,
+   "volume": 0,
+   "title": "Chapter 271.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:45:59.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-132.1-eR0CDCw_Aw",
+   "chapNum": 132.1,
+   "volume": 0,
+   "title": "Chapter 132.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:14.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-129.1-eR0CDAwfJQ",
+   "chapNum": 129.1,
+   "volume": 0,
+   "title": "Chapter 129.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:20.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-106.5-eR0CDAVwHw",
+   "chapNum": 106.5,
+   "volume": 0,
+   "title": "Chapter 106.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-88.5-eR0CD1o2DQ",
+   "chapNum": 88.5,
+   "volume": 0,
+   "title": "Chapter 88.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:25.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-61.5-eR0CAzN2IQ",
+   "chapNum": 61.5,
+   "volume": 0,
+   "title": "Chapter 61.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:32.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-53.1-eR0CDzM8CQ",
+   "chapNum": 53.1,
+   "volume": 0,
+   "title": "Chapter 53.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:33.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-52.1-eR0CDy4jIQ",
+   "chapNum": 52.1,
+   "volume": 0,
+   "title": "Chapter 52.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:28.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-51.1-eR0CDgAMAQ",
+   "chapNum": 51.1,
+   "volume": 0,
+   "title": "Chapter 51.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:51.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-50.1-eR0CDwIIGQ",
+   "chapNum": 50.1,
+   "volume": 0,
+   "title": "Chapter 50.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:35.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-49.1-eR0CDhg1JQ",
+   "chapNum": 49.1,
+   "volume": 0,
+   "title": "Chapter 49.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:46:53.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-48.1-eR0CARoQGQ",
+   "chapNum": 48.1,
+   "volume": 0,
+   "title": "Chapter 48.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:06.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-47.1-eR0CBTIrWA",
+   "chapNum": 47.1,
+   "volume": 0,
+   "title": "Chapter 47.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:01.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-46.1-eR0CACxxOw",
+   "chapNum": 46.1,
+   "volume": 0,
+   "title": "Chapter 46.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:12.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-45.1-eR0CAyJ1Iw",
+   "chapNum": 45.1,
+   "volume": 0,
+   "title": "Chapter 45.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:28.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-35.1-eR0CBCt0LQ",
+   "chapNum": 35.1,
+   "volume": 0,
+   "title": "Chapter 35.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:09.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-34.1-eR0CBicdBw",
+   "chapNum": 34.1,
+   "volume": 0,
+   "title": "Chapter 34.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-33.1-eR0CBF8xLQ",
+   "chapNum": 33.1,
+   "volume": 0,
+   "title": "Chapter 33.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:08.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-32.2-eR0CBgI0FQ",
+   "chapNum": 32.2,
+   "volume": 0,
+   "title": "Chapter 32.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:47.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-32.1-eR0CBl8QCQ",
+   "chapNum": 32.1,
+   "volume": 0,
+   "title": "Chapter 32.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:37.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-31.2-eR0CGwACWg",
+   "chapNum": 31.2,
+   "volume": 0,
+   "title": "Chapter 31.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:31.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-31.1-eR0CAjwsFQ",
+   "chapNum": 31.1,
+   "volume": 0,
+   "title": "Chapter 31.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:45.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-30.2-eR0CGCI2GQ",
+   "chapNum": 30.2,
+   "volume": 0,
+   "title": "Chapter 30.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:10.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-30.1-eR0CAgcoXg",
+   "chapNum": 30.1,
+   "volume": 0,
+   "title": "Chapter 30.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:47:50.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-29.2-eR0CGz0nNQ",
+   "chapNum": 29.2,
+   "volume": 0,
+   "title": "Chapter 29.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:27.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-29.1-eR0CBQ0HIQ",
+   "chapNum": 29.1,
+   "volume": 0,
+   "title": "Chapter 29.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:03.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-28.2-eR0CGw8_Hw",
+   "chapNum": 28.2,
+   "volume": 0,
+   "title": "Chapter 28.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:29.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-28.1-eR0CGQAoHQ",
+   "chapNum": 28.1,
+   "volume": 0,
+   "title": "Chapter 28.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:02.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-27.2-eR0CHVwhOQ",
+   "chapNum": 27.2,
+   "volume": 0,
+   "title": "Chapter 27.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:51.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-27.1-eR0CGD8jBw",
+   "chapNum": 27.1,
+   "volume": 0,
+   "title": "Chapter 27.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:12.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-26.2-eR0CHSQiNw",
+   "chapNum": 26.2,
+   "volume": 0,
+   "title": "Chapter 26.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:54.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-26.1-eR0CHSsxAw",
+   "chapNum": 26.1,
+   "volume": 0,
+   "title": "Chapter 26.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:52.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-25.5-eR0CB1kcAQ",
+   "chapNum": 25.5,
+   "volume": 0,
+   "title": "Chapter 25.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:48:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-25.2-eR0CHT0BXA",
+   "chapNum": 25.2,
+   "volume": 0,
+   "title": "Chapter 25.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:56.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-24.4-eR0CH1xzBQ",
+   "chapNum": 24.4,
+   "volume": 0,
+   "title": "Chapter 24.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:19.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-24.3-eR0CGjMdPQ",
+   "chapNum": 24.3,
+   "volume": 0,
+   "title": "Chapter 24.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-24.2-eR0CEycQFQ",
+   "chapNum": 24.2,
+   "volume": 0,
+   "title": "Chapter 24.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:21.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-24.1-eR0CGhNzFQ",
+   "chapNum": 24.1,
+   "volume": 0,
+   "title": "Chapter 24.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:49.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-23.1-eR0CHRgKWg",
+   "chapNum": 23.1,
+   "volume": 0,
+   "title": "Chapter 23.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:01.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-22.1-eR0CHAkVLQ",
+   "chapNum": 22.1,
+   "volume": 0,
+   "title": "Chapter 22.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:13.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-21.1-eR0CHxAgIw",
+   "chapNum": 21.1,
+   "volume": 0,
+   "title": "Chapter 21.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:32.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-20.1-eR0CHCktIQ",
+   "chapNum": 20.1,
+   "volume": 0,
+   "title": "Chapter 20.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:06.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-19.1-eR0CHw8JXA",
+   "chapNum": 19.1,
+   "volume": 0,
+   "title": "Chapter 19.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:28.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-18.2-eR0CHikXWA",
+   "chapNum": 18.2,
+   "volume": 0,
+   "title": "Chapter 18.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:35.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-18.1-eR0CHQ8vNQ",
+   "chapNum": 18.1,
+   "volume": 0,
+   "title": "Chapter 18.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:49:58.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-17.2-eR0CEyMABQ",
+   "chapNum": 17.2,
+   "volume": 0,
+   "title": "Chapter 17.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:20.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-17.1-eR0CHyR8Aw",
+   "chapNum": 17.1,
+   "volume": 0,
+   "title": "Chapter 17.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-16.5-eR0CHQQCWg",
+   "chapNum": 16.5,
+   "volume": 0,
+   "title": "Chapter 16.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:00.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-16.2-eR0CEzx0OQ",
+   "chapNum": 16.2,
+   "volume": 0,
+   "title": "Chapter 16.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-16.1-eR0CEVskKw",
+   "chapNum": 16.1,
+   "volume": 0,
+   "title": "Chapter 16.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:50:48.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-15.5-eR0CEwYyJw",
+   "chapNum": 15.5,
+   "volume": 0,
+   "title": "Chapter 15.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:27.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-15.4-eR0NWSUUHQ",
+   "chapNum": 15.4,
+   "volume": 0,
+   "title": "Chapter 15.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:37.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-15.3-eR0NWQhwIQ",
+   "chapNum": 15.3,
+   "volume": 0,
+   "title": "Chapter 15.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-15.2-eR0CEFkSWg",
+   "chapNum": 15.2,
+   "volume": 0,
+   "title": "Chapter 15.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:02.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-15.1-eR0CE1sHBw",
+   "chapNum": 15.1,
+   "volume": 0,
+   "title": "Chapter 15.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:17.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.9-eR0NWQQ2Vg",
+   "chapNum": 14.9,
+   "volume": 0,
+   "title": "Chapter 14.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.8-eR0NWC4XBw",
+   "chapNum": 14.8,
+   "volume": 0,
+   "title": "Chapter 14.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:48.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.7-eR0NWCItFw",
+   "chapNum": 14.7,
+   "volume": 0,
+   "title": "Chapter 14.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:50.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.6-eR0NWD8QBQ",
+   "chapNum": 14.6,
+   "volume": 0,
+   "title": "Chapter 14.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:52.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.5-eR0NWDsAOw",
+   "chapNum": 14.5,
+   "volume": 0,
+   "title": "Chapter 14.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:51.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.4-eR0NWAYdAw",
+   "chapNum": 14.4,
+   "volume": 0,
+   "title": "Chapter 14.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:56.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.3-eR0NWBMONw",
+   "chapNum": 14.3,
+   "volume": 0,
+   "title": "Chapter 14.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:00.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.2-eR0NWB9xJw",
+   "chapNum": 14.2,
+   "volume": 0,
+   "title": "Chapter 14.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:59.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-14.1-eR0NWRl9Pw",
+   "chapNum": 14.1,
+   "volume": 0,
+   "title": "Chapter 14.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:51:43.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.9-eR0NWwABIQ",
+   "chapNum": 13.9,
+   "volume": 0,
+   "title": "Chapter 13.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:11.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.8-eR0NWloCPw",
+   "chapNum": 13.8,
+   "volume": 0,
+   "title": "Chapter 13.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:15.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.7-eR0NWlIoGQ",
+   "chapNum": 13.7,
+   "volume": 0,
+   "title": "Chapter 13.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:16.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.6-eR0NWi52LQ",
+   "chapNum": 13.6,
+   "volume": 0,
+   "title": "Chapter 13.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:18.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.5-eR0NWiYfBw",
+   "chapNum": 13.5,
+   "volume": 0,
+   "title": "Chapter 13.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:20.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.4-eR0NWx11Vg",
+   "chapNum": 13.4,
+   "volume": 0,
+   "title": "Chapter 13.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:14.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.3-eR0NWiIPPQ",
+   "chapNum": 13.3,
+   "volume": 0,
+   "title": "Chapter 13.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:19.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.2-eR0NWyhyJQ",
+   "chapNum": 13.2,
+   "volume": 0,
+   "title": "Chapter 13.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:02.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-13.1-eR0NWgkmBQ",
+   "chapNum": 13.1,
+   "volume": 0,
+   "title": "Chapter 13.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.9-eR0NWg02FQ",
+   "chapNum": 12.9,
+   "volume": 0,
+   "title": "Chapter 12.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:25.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.8-eR0NWhoVOQ",
+   "chapNum": 12.8,
+   "volume": 0,
+   "title": "Chapter 12.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:26.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.7-eR0NXVwWNw",
+   "chapNum": 12.7,
+   "volume": 0,
+   "title": "Chapter 12.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:31.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.6-eR0NXRwvGw",
+   "chapNum": 12.6,
+   "volume": 0,
+   "title": "Chapter 12.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.5-eR0NXSADJQ",
+   "chapNum": 12.5,
+   "volume": 0,
+   "title": "Chapter 12.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:33.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.4-eR0NXF4CPw",
+   "chapNum": 12.4,
+   "volume": 0,
+   "title": "Chapter 12.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:45.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.3-eR0NXQM9WA",
+   "chapNum": 12.3,
+   "volume": 0,
+   "title": "Chapter 12.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:40.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.2-eR0NXVgGJw",
+   "chapNum": 12.2,
+   "volume": 0,
+   "title": "Chapter 12.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:30.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-12.1-eR0NWhIyXg",
+   "chapNum": 12.1,
+   "volume": 0,
+   "title": "Chapter 12.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:28.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.9-eR0NX1syXg",
+   "chapNum": 11.9,
+   "volume": 0,
+   "title": "Chapter 11.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:59.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.8-eR0NXQsMIw",
+   "chapNum": 11.8,
+   "volume": 0,
+   "title": "Chapter 11.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:37.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.7-eR0NXDoXPQ",
+   "chapNum": 11.7,
+   "volume": 0,
+   "title": "Chapter 11.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:49.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.6-eR0NXDI9Fw",
+   "chapNum": 11.6,
+   "volume": 0,
+   "title": "Chapter 11.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:51.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.5-eR0NXA0mBQ",
+   "chapNum": 11.5,
+   "volume": 0,
+   "title": "Chapter 11.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:54.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.4-eR0NXSQTNQ",
+   "chapNum": 11.4,
+   "volume": 0,
+   "title": "Chapter 11.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:34.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.3-eR0NXAEuBQ",
+   "chapNum": 11.3,
+   "volume": 0,
+   "title": "Chapter 11.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:55.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.2-eR0NXTgpHw",
+   "chapNum": 11.2,
+   "volume": 0,
+   "title": "Chapter 11.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:35.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-11.1-eR0NXQQBIQ",
+   "chapNum": 11.1,
+   "volume": 0,
+   "title": "Chapter 11.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:41.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.9-eR0NXiEwGQ",
+   "chapNum": 10.9,
+   "volume": 0,
+   "title": "Chapter 10.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:18.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.8-eR0NXysWNw",
+   "chapNum": 10.8,
+   "volume": 0,
+   "title": "Chapter 10.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:00.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.7-eR0NUSc0AQ",
+   "chapNum": 10.7,
+   "volume": 0,
+   "title": "Chapter 10.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:33.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.6-eR0NURsiDQ",
+   "chapNum": 10.6,
+   "volume": 0,
+   "title": "Chapter 10.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.5-eR0NUQMEWg",
+   "chapNum": 10.5,
+   "volume": 0,
+   "title": "Chapter 10.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:37.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.4-eR0NXBIdOQ",
+   "chapNum": 10.4,
+   "volume": 0,
+   "title": "Chapter 10.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:58.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.3-eR0NXBIjAw",
+   "chapNum": 10.3,
+   "volume": 0,
+   "title": "Chapter 10.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:52:57.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.2-eR0NUBkmOw",
+   "chapNum": 10.2,
+   "volume": 0,
+   "title": "Chapter 10.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:55.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-10.1-eR0NKD80Nw",
+   "chapNum": 10.1,
+   "volume": 0,
+   "title": "Chapter 10.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:03.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.9-eR0NKBt8Hw",
+   "chapNum": 9.9,
+   "volume": 0,
+   "title": "Chapter 9.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:09.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.8-eR0NK1lxHQ",
+   "chapNum": 9.8,
+   "volume": 0,
+   "title": "Chapter 9.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:12.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.7-eR0NKAYxNQ",
+   "chapNum": 9.7,
+   "volume": 0,
+   "title": "Chapter 9.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:07.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.6-eR0NKyFyGw",
+   "chapNum": 9.6,
+   "volume": 0,
+   "title": "Chapter 9.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:15.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.5-eR0NKwgEGQ",
+   "chapNum": 9.5,
+   "volume": 0,
+   "title": "Chapter 9.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:19.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.4-eR0NURABWA",
+   "chapNum": 9.4,
+   "volume": 0,
+   "title": "Chapter 9.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.3-eR0NKC4zAw",
+   "chapNum": 9.3,
+   "volume": 0,
+   "title": "Chapter 9.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:53:59.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.2-eR0NKDBzAQ",
+   "chapNum": 9.2,
+   "volume": 0,
+   "title": "Chapter 9.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:05.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-9.1-eR0NLw8TGw",
+   "chapNum": 9.1,
+   "volume": 0,
+   "title": "Chapter 9.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:18.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.9-eR0NLl4BBw",
+   "chapNum": 8.9,
+   "volume": 0,
+   "title": "Chapter 8.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:25.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.8-eR0NKiIjKQ",
+   "chapNum": 8.8,
+   "volume": 0,
+   "title": "Chapter 8.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:29.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.7-eR0NISRxIw",
+   "chapNum": 8.7,
+   "volume": 0,
+   "title": "Chapter 8.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:43.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.6-eR0NKwwMGQ",
+   "chapNum": 8.6,
+   "volume": 0,
+   "title": "Chapter 8.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:21.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.5-eR0NKl42Ow",
+   "chapNum": 8.5,
+   "volume": 0,
+   "title": "Chapter 8.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:26.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.4-eR0NLgkHOQ",
+   "chapNum": 8.4,
+   "volume": 0,
+   "title": "Chapter 8.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:32.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.3-eR0NIVsxJQ",
+   "chapNum": 8.3,
+   "volume": 0,
+   "title": "Chapter 8.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.2-eR0NISMyIw",
+   "chapNum": 8.2,
+   "volume": 0,
+   "title": "Chapter 8.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-8.1-eR0NLC51Ow",
+   "chapNum": 8.1,
+   "volume": 0,
+   "title": "Chapter 8.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:58.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.9-eR0NLVwqIw",
+   "chapNum": 7.9,
+   "volume": 0,
+   "title": "Chapter 7.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:54:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.8-eR0NLy8yIw",
+   "chapNum": 7.8,
+   "volume": 0,
+   "title": "Chapter 7.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:13.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.7-eR0NIQMTGw",
+   "chapNum": 7.7,
+   "volume": 0,
+   "title": "Chapter 7.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:49.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.6-eR0NIDp9Ow",
+   "chapNum": 7.6,
+   "volume": 0,
+   "title": "Chapter 7.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:59.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.5-eR0NIQ9yIQ",
+   "chapNum": 7.5,
+   "volume": 0,
+   "title": "Chapter 7.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:48.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.4-eR0NIFk1LQ",
+   "chapNum": 7.4,
+   "volume": 0,
+   "title": "Chapter 7.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:54.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.3-eR0NPQECAQ",
+   "chapNum": 7.3,
+   "volume": 0,
+   "title": "Chapter 7.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:43.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.2-eR0NIVx0JQ",
+   "chapNum": 7.2,
+   "volume": 0,
+   "title": "Chapter 7.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-7.1-eR0NIS8dHw",
+   "chapNum": 7.1,
+   "volume": 0,
+   "title": "Chapter 7.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.9-eR0NIQ8DCw",
+   "chapNum": 6.9,
+   "volume": 0,
+   "title": "Chapter 6.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:47.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.8-eR0NITA3WA",
+   "chapNum": 6.8,
+   "volume": 0,
+   "title": "Chapter 6.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:46.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.7-eR0NIRwEPw",
+   "chapNum": 6.7,
+   "volume": 0,
+   "title": "Chapter 6.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:55:52.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.6-eR0NIAUsXg",
+   "chapNum": 6.6,
+   "volume": 0,
+   "title": "Chapter 6.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:04.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.5-eR0NIyt0JQ",
+   "chapNum": 6.5,
+   "volume": 0,
+   "title": "Chapter 6.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:10.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.4-eR0NI1sINw",
+   "chapNum": 6.4,
+   "volume": 0,
+   "title": "Chapter 6.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:07.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.3-eR0NIwNyIQ",
+   "chapNum": 6.3,
+   "volume": 0,
+   "title": "Chapter 6.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:18.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.2-eR0NIzAkHQ",
+   "chapNum": 6.2,
+   "volume": 0,
+   "title": "Chapter 6.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:15.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-6.1-eR0NIig9LQ",
+   "chapNum": 6.1,
+   "volume": 0,
+   "title": "Chapter 6.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:24.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.9-eR0NIx8wVg",
+   "chapNum": 5.9,
+   "volume": 0,
+   "title": "Chapter 5.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:21.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.8-eR0NIxshGw",
+   "chapNum": 5.8,
+   "volume": 0,
+   "title": "Chapter 5.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:19.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.7-eR0NIjJ9Kw",
+   "chapNum": 5.7,
+   "volume": 0,
+   "title": "Chapter 5.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:30.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.6-eR0NIh0tAw",
+   "chapNum": 5.6,
+   "volume": 0,
+   "title": "Chapter 5.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:35.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.5-eR0NJScVNQ",
+   "chapNum": 5.5,
+   "volume": 0,
+   "title": "Chapter 5.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:41.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.4-eR0NJTsdNQ",
+   "chapNum": 5.4,
+   "volume": 0,
+   "title": "Chapter 5.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:42.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.3-eR0NJQ4OIw",
+   "chapNum": 5.3,
+   "volume": 0,
+   "title": "Chapter 5.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:45.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.2-eR0NJTAGIw",
+   "chapNum": 5.2,
+   "volume": 0,
+   "title": "Chapter 5.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:44.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-5.1-eR0NJRMhCw",
+   "chapNum": 5.1,
+   "volume": 0,
+   "title": "Chapter 5.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:50.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.9-eR0NJQIsHQ",
+   "chapNum": 4.9,
+   "volume": 0,
+   "title": "Chapter 4.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:47.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.8-eR0NJFl3Vg",
+   "chapNum": 4.8,
+   "volume": 0,
+   "title": "Chapter 4.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:52.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.7-eR0NJDknBw",
+   "chapNum": 4.7,
+   "volume": 0,
+   "title": "Chapter 4.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:56:58.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.6-eR0NJ1NzXg",
+   "chapNum": 4.6,
+   "volume": 0,
+   "title": "Chapter 4.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:08.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.5-eR0NJAh9Kw",
+   "chapNum": 4.5,
+   "volume": 0,
+   "title": "Chapter 4.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:00.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.4-eR0NJAQwFQ",
+   "chapNum": 4.4,
+   "volume": 0,
+   "title": "Chapter 4.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:02.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.3-eR0NJy4IJw",
+   "chapNum": 4.3,
+   "volume": 0,
+   "title": "Chapter 4.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:09.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.2-eR0NJy4QNw",
+   "chapNum": 4.2,
+   "volume": 0,
+   "title": "Chapter 4.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:09.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-4.1-eR0NJ148Xg",
+   "chapNum": 4.1,
+   "volume": 0,
+   "title": "Chapter 4.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:07.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.9-eR0NJzsNJQ",
+   "chapNum": 3.9,
+   "volume": 0,
+   "title": "Chapter 3.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:11.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.8-eR0NJih0Gw",
+   "chapNum": 3.8,
+   "volume": 0,
+   "title": "Chapter 3.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:22.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.7-eR0NJz8dNQ",
+   "chapNum": 3.7,
+   "volume": 0,
+   "title": "Chapter 3.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:13.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.6-eR0NJiQqCQ",
+   "chapNum": 3.6,
+   "volume": 0,
+   "title": "Chapter 3.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:26.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.5-eR0NJxo0HQ",
+   "chapNum": 3.5,
+   "volume": 0,
+   "title": "Chapter 3.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:17.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.4-eR0NJigEVg",
+   "chapNum": 3.4,
+   "volume": 0,
+   "title": "Chapter 3.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:23.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.3-eR0NJhggOw",
+   "chapNum": 3.3,
+   "volume": 0,
+   "title": "Chapter 3.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:33.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.2-eR0NOSYmNw",
+   "chapNum": 3.2,
+   "volume": 0,
+   "title": "Chapter 3.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-3.1-eR0NJiAiCQ",
+   "chapNum": 3.1,
+   "volume": 0,
+   "title": "Chapter 3.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:25.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.9-eR0NJj0RPQ",
+   "chapNum": 2.9,
+   "volume": 0,
+   "title": "Chapter 2.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:27.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.8-eR0NJgByFw",
+   "chapNum": 2.8,
+   "volume": 0,
+   "title": "Chapter 2.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:30.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.7-eR0NOVoEFQ",
+   "chapNum": 2.7,
+   "volume": 0,
+   "title": "Chapter 2.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:34.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.6-eR0NOV4XKQ",
+   "chapNum": 2.6,
+   "volume": 0,
+   "title": "Chapter 2.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:36.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.5-eR0NOQkjNQ",
+   "chapNum": 2.5,
+   "volume": 0,
+   "title": "Chapter 2.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:43.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.4-eR0NOQ0zHw",
+   "chapNum": 2.4,
+   "volume": 0,
+   "title": "Chapter 2.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:45.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.3-eR0NOxp2Hw",
+   "chapNum": 2.3,
+   "volume": 0,
+   "title": "Chapter 2.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:16.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-2.2-eR0NOD1xGQ",
+   "chapNum": 2.2,
+   "volume": 0,
+   "title": "Chapter 2.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:57:57.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.9-eR0NPRkzNQ",
+   "chapNum": 1.9,
+   "volume": 0,
+   "title": "Chapter 1.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:45.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.8-eR0NPFsWWg",
+   "chapNum": 1.8,
+   "volume": 0,
+   "title": "Chapter 1.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:48.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.7-eR0NOlxzHQ",
+   "chapNum": 1.7,
+   "volume": 0,
+   "title": "Chapter 1.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:20.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.6-eR0NOhASKw",
+   "chapNum": 1.6,
+   "volume": 0,
+   "title": "Chapter 1.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:33.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.5-eR0NPTIQXg",
+   "chapNum": 1.5,
+   "volume": 0,
+   "title": "Chapter 1.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:40.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.4-eR0NPTImJw",
+   "chapNum": 1.4,
+   "volume": 0,
+   "title": "Chapter 1.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:41.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.3-eR0NPTpwAw",
+   "chapNum": 1.3,
+   "volume": 0,
+   "title": "Chapter 1.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:39.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.2-eR0NPFM8DQ",
+   "chapNum": 1.2,
+   "volume": 0,
+   "title": "Chapter 1.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:50.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-1.1-eR0NOxIkIw",
+   "chapNum": 1.1,
+   "volume": 0,
+   "title": "Chapter 1.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:18.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-0.1-eR0NOBwgOw",
+   "chapNum": 0.1,
+   "volume": 0,
+   "title": "Chapter 0.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:03.000Z"
+  },
+  {
+   "chapterId": "manga/jujutsu-kaisen/chapter-0-eR0NPQguJw",
+   "chapNum": 0,
+   "volume": 0,
+   "title": "Chapter 0",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-01T18:58:42.000Z"
+  }
+ ]
+}

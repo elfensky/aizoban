@@ -1,0 +1,6809 @@
+{
+ "work": "tales-of-demons",
+ "source": "MangaFreak",
+ "matchedTitle": "Tales of Demons and Gods",
+ "mangaId": "Manga/Tales_Of_Demons_And_Gods",
+ "fetchedAt": "2026-08-13T08:40:03.341Z",
+ "chapters": [
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_526a",
+   "chapNum": 526.1,
+   "volume": 0,
+   "title": "Chapter 526a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_525f",
+   "chapNum": 525.6,
+   "volume": 0,
+   "title": "Chapter 525f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_525a",
+   "chapNum": 525.1,
+   "volume": 0,
+   "title": "Chapter 525a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_524f",
+   "chapNum": 524.6,
+   "volume": 0,
+   "title": "Chapter 524f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_524e",
+   "chapNum": 524.5,
+   "volume": 0,
+   "title": "Chapter 524e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_524a",
+   "chapNum": 524.1,
+   "volume": 0,
+   "title": "Chapter 524a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_523f",
+   "chapNum": 523.6,
+   "volume": 0,
+   "title": "Chapter 523f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_523a",
+   "chapNum": 523.1,
+   "volume": 0,
+   "title": "Chapter 523a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_522f",
+   "chapNum": 522.6,
+   "volume": 0,
+   "title": "Chapter 522f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_522a",
+   "chapNum": 522.1,
+   "volume": 0,
+   "title": "Chapter 522a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_521a",
+   "chapNum": 521.1,
+   "volume": 0,
+   "title": "Chapter 521a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_520f",
+   "chapNum": 520.6,
+   "volume": 0,
+   "title": "Chapter 520f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_520a",
+   "chapNum": 520.1,
+   "volume": 0,
+   "title": "Chapter 520a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_519f",
+   "chapNum": 519.6,
+   "volume": 0,
+   "title": "Chapter 519f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_519a",
+   "chapNum": 519.1,
+   "volume": 0,
+   "title": "Chapter 519a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_518f",
+   "chapNum": 518.6,
+   "volume": 0,
+   "title": "Chapter 518f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_518a",
+   "chapNum": 518.1,
+   "volume": 0,
+   "title": "Chapter 518a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_517f",
+   "chapNum": 517.6,
+   "volume": 0,
+   "title": "Chapter 517f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_517a",
+   "chapNum": 517.1,
+   "volume": 0,
+   "title": "Chapter 517a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_516f",
+   "chapNum": 516.6,
+   "volume": 0,
+   "title": "Chapter 516f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_516a",
+   "chapNum": 516.1,
+   "volume": 0,
+   "title": "Chapter 516a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_515f",
+   "chapNum": 515.6,
+   "volume": 0,
+   "title": "Chapter 515f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_515a",
+   "chapNum": 515.1,
+   "volume": 0,
+   "title": "Chapter 515a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_515",
+   "chapNum": 515,
+   "volume": 0,
+   "title": "Chapter 515",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_514",
+   "chapNum": 514,
+   "volume": 0,
+   "title": "Chapter 514",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_513",
+   "chapNum": 513,
+   "volume": 0,
+   "title": "Chapter 513",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_512",
+   "chapNum": 512,
+   "volume": 0,
+   "title": "Chapter 512",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_511",
+   "chapNum": 511,
+   "volume": 0,
+   "title": "Chapter 511",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_510a",
+   "chapNum": 510.1,
+   "volume": 0,
+   "title": "Chapter 510a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-01-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_509f",
+   "chapNum": 509.6,
+   "volume": 0,
+   "title": "Chapter 509f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-12-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_509",
+   "chapNum": 509,
+   "volume": 0,
+   "title": "Chapter 509",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-12-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_508e",
+   "chapNum": 508.5,
+   "volume": 0,
+   "title": "Chapter 508e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_508a",
+   "chapNum": 508.1,
+   "volume": 0,
+   "title": "Chapter 508a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_507e",
+   "chapNum": 507.5,
+   "volume": 0,
+   "title": "Chapter 507e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_507a",
+   "chapNum": 507.1,
+   "volume": 0,
+   "title": "Chapter 507a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_506e",
+   "chapNum": 506.5,
+   "volume": 0,
+   "title": "Chapter 506e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_506a",
+   "chapNum": 506.1,
+   "volume": 0,
+   "title": "Chapter 506a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_505e",
+   "chapNum": 505.5,
+   "volume": 0,
+   "title": "Chapter 505e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-09-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_505a",
+   "chapNum": 505.1,
+   "volume": 0,
+   "title": "Chapter 505a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_504f",
+   "chapNum": 504.6,
+   "volume": 0,
+   "title": "Chapter 504f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_504a",
+   "chapNum": 504.1,
+   "volume": 0,
+   "title": "Chapter 504a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_503f",
+   "chapNum": 503.6,
+   "volume": 0,
+   "title": "Chapter 503f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_503",
+   "chapNum": 503,
+   "volume": 0,
+   "title": "Chapter 503",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_502f",
+   "chapNum": 502.6,
+   "volume": 0,
+   "title": "Chapter 502f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_502a",
+   "chapNum": 502.1,
+   "volume": 0,
+   "title": "Chapter 502a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_502",
+   "chapNum": 502,
+   "volume": 0,
+   "title": "Chapter 502",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_501e",
+   "chapNum": 501.5,
+   "volume": 0,
+   "title": "Chapter 501e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_501a",
+   "chapNum": 501.1,
+   "volume": 0,
+   "title": "Chapter 501a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_500f",
+   "chapNum": 500.6,
+   "volume": 0,
+   "title": "Chapter 500f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_500a",
+   "chapNum": 500.1,
+   "volume": 0,
+   "title": "Chapter 500a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_499f",
+   "chapNum": 499.6,
+   "volume": 0,
+   "title": "Chapter 499f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_499a",
+   "chapNum": 499.1,
+   "volume": 0,
+   "title": "Chapter 499a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_498f",
+   "chapNum": 498.6,
+   "volume": 0,
+   "title": "Chapter 498f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_498e",
+   "chapNum": 498.5,
+   "volume": 0,
+   "title": "Chapter 498e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_498a",
+   "chapNum": 498.1,
+   "volume": 0,
+   "title": "Chapter 498a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_497e",
+   "chapNum": 497.5,
+   "volume": 0,
+   "title": "Chapter 497e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_497a",
+   "chapNum": 497.1,
+   "volume": 0,
+   "title": "Chapter 497a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_496e",
+   "chapNum": 496.5,
+   "volume": 0,
+   "title": "Chapter 496e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_496",
+   "chapNum": 496,
+   "volume": 0,
+   "title": "Chapter 496",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_495f",
+   "chapNum": 495.6,
+   "volume": 0,
+   "title": "Chapter 495f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_495a",
+   "chapNum": 495.1,
+   "volume": 0,
+   "title": "Chapter 495a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_494e",
+   "chapNum": 494.5,
+   "volume": 0,
+   "title": "Chapter 494e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_494a",
+   "chapNum": 494.1,
+   "volume": 0,
+   "title": "Chapter 494a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_493e",
+   "chapNum": 493.5,
+   "volume": 0,
+   "title": "Chapter 493e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_493a",
+   "chapNum": 493.1,
+   "volume": 0,
+   "title": "Chapter 493a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_492e",
+   "chapNum": 492.5,
+   "volume": 0,
+   "title": "Chapter 492e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_492a",
+   "chapNum": 492.1,
+   "volume": 0,
+   "title": "Chapter 492a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_491f",
+   "chapNum": 491.6,
+   "volume": 0,
+   "title": "Chapter 491f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_491a",
+   "chapNum": 491.1,
+   "volume": 0,
+   "title": "Chapter 491a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_490f",
+   "chapNum": 490.6,
+   "volume": 0,
+   "title": "Chapter 490f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_490a",
+   "chapNum": 490.1,
+   "volume": 0,
+   "title": "Chapter 490a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_489f",
+   "chapNum": 489.6,
+   "volume": 0,
+   "title": "Chapter 489f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_489a",
+   "chapNum": 489.1,
+   "volume": 0,
+   "title": "Chapter 489a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_488f",
+   "chapNum": 488.6,
+   "volume": 0,
+   "title": "Chapter 488f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_488a",
+   "chapNum": 488.1,
+   "volume": 0,
+   "title": "Chapter 488a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_487f",
+   "chapNum": 487.6,
+   "volume": 0,
+   "title": "Chapter 487f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_487a",
+   "chapNum": 487.1,
+   "volume": 0,
+   "title": "Chapter 487a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_487",
+   "chapNum": 487,
+   "volume": 0,
+   "title": "Chapter 487",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_486f",
+   "chapNum": 486.6,
+   "volume": 0,
+   "title": "Chapter 486f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_486a",
+   "chapNum": 486.1,
+   "volume": 0,
+   "title": "Chapter 486a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_485e",
+   "chapNum": 485.5,
+   "volume": 0,
+   "title": "Chapter 485e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_485a",
+   "chapNum": 485.1,
+   "volume": 0,
+   "title": "Chapter 485a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_484f",
+   "chapNum": 484.6,
+   "volume": 0,
+   "title": "Chapter 484f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_484a",
+   "chapNum": 484.1,
+   "volume": 0,
+   "title": "Chapter 484a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_483f",
+   "chapNum": 483.6,
+   "volume": 0,
+   "title": "Chapter 483f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_483e",
+   "chapNum": 483.5,
+   "volume": 0,
+   "title": "Chapter 483e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_483a",
+   "chapNum": 483.1,
+   "volume": 0,
+   "title": "Chapter 483a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_482e",
+   "chapNum": 482.5,
+   "volume": 0,
+   "title": "Chapter 482e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_482a",
+   "chapNum": 482.1,
+   "volume": 0,
+   "title": "Chapter 482a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_481e",
+   "chapNum": 481.5,
+   "volume": 0,
+   "title": "Chapter 481e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_481a",
+   "chapNum": 481.1,
+   "volume": 0,
+   "title": "Chapter 481a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_480f",
+   "chapNum": 480.6,
+   "volume": 0,
+   "title": "Chapter 480f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_480a",
+   "chapNum": 480.1,
+   "volume": 0,
+   "title": "Chapter 480a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_479e",
+   "chapNum": 479.5,
+   "volume": 0,
+   "title": "Chapter 479e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_479a",
+   "chapNum": 479.1,
+   "volume": 0,
+   "title": "Chapter 479a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_478f",
+   "chapNum": 478.6,
+   "volume": 0,
+   "title": "Chapter 478f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_478a",
+   "chapNum": 478.1,
+   "volume": 0,
+   "title": "Chapter 478a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_477f",
+   "chapNum": 477.6,
+   "volume": 0,
+   "title": "Chapter 477f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_477a",
+   "chapNum": 477.1,
+   "volume": 0,
+   "title": "Chapter 477a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_476f",
+   "chapNum": 476.6,
+   "volume": 0,
+   "title": "Chapter 476f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_476a",
+   "chapNum": 476.1,
+   "volume": 0,
+   "title": "Chapter 476a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_475f",
+   "chapNum": 475.6,
+   "volume": 0,
+   "title": "Chapter 475f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_475e",
+   "chapNum": 475.5,
+   "volume": 0,
+   "title": "Chapter 475e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_474e",
+   "chapNum": 474.5,
+   "volume": 0,
+   "title": "Chapter 474e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_474",
+   "chapNum": 474,
+   "volume": 0,
+   "title": "Chapter 474",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_473e",
+   "chapNum": 473.5,
+   "volume": 0,
+   "title": "Chapter 473e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_473",
+   "chapNum": 473,
+   "volume": 0,
+   "title": "Chapter 473",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_472e",
+   "chapNum": 472.5,
+   "volume": 0,
+   "title": "Chapter 472e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_472a",
+   "chapNum": 472.1,
+   "volume": 0,
+   "title": "Chapter 472a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_471f",
+   "chapNum": 471.6,
+   "volume": 0,
+   "title": "Chapter 471f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_471",
+   "chapNum": 471,
+   "volume": 0,
+   "title": "Chapter 471",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_470e",
+   "chapNum": 470.5,
+   "volume": 0,
+   "title": "Chapter 470e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_470",
+   "chapNum": 470,
+   "volume": 0,
+   "title": "Chapter 470",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_469e",
+   "chapNum": 469.5,
+   "volume": 0,
+   "title": "Chapter 469e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_469",
+   "chapNum": 469,
+   "volume": 0,
+   "title": "Chapter 469",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_468e",
+   "chapNum": 468.5,
+   "volume": 0,
+   "title": "Chapter 468e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_468",
+   "chapNum": 468,
+   "volume": 0,
+   "title": "Chapter 468",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_467f",
+   "chapNum": 467.6,
+   "volume": 0,
+   "title": "Chapter 467f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_467a",
+   "chapNum": 467.1,
+   "volume": 0,
+   "title": "Chapter 467a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_466e",
+   "chapNum": 466.5,
+   "volume": 0,
+   "title": "Chapter 466e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_466a",
+   "chapNum": 466.1,
+   "volume": 0,
+   "title": "Chapter 466a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_465f",
+   "chapNum": 465.6,
+   "volume": 0,
+   "title": "Chapter 465f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_465",
+   "chapNum": 465,
+   "volume": 0,
+   "title": "Chapter 465",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_464e",
+   "chapNum": 464.5,
+   "volume": 0,
+   "title": "Chapter 464e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_464",
+   "chapNum": 464,
+   "volume": 0,
+   "title": "Chapter 464",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_463e",
+   "chapNum": 463.5,
+   "volume": 0,
+   "title": "Chapter 463e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_463a",
+   "chapNum": 463.1,
+   "volume": 0,
+   "title": "Chapter 463a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_462e",
+   "chapNum": 462.5,
+   "volume": 0,
+   "title": "Chapter 462e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_462a",
+   "chapNum": 462.1,
+   "volume": 0,
+   "title": "Chapter 462a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_461e",
+   "chapNum": 461.5,
+   "volume": 0,
+   "title": "Chapter 461e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_461a",
+   "chapNum": 461.1,
+   "volume": 0,
+   "title": "Chapter 461a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_460e",
+   "chapNum": 460.5,
+   "volume": 0,
+   "title": "Chapter 460e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_460a",
+   "chapNum": 460.1,
+   "volume": 0,
+   "title": "Chapter 460a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_459e",
+   "chapNum": 459.5,
+   "volume": 0,
+   "title": "Chapter 459e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_459a",
+   "chapNum": 459.1,
+   "volume": 0,
+   "title": "Chapter 459a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_458e",
+   "chapNum": 458.5,
+   "volume": 0,
+   "title": "Chapter 458e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_458a",
+   "chapNum": 458.1,
+   "volume": 0,
+   "title": "Chapter 458a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_457f",
+   "chapNum": 457.6,
+   "volume": 0,
+   "title": "Chapter 457f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_457e",
+   "chapNum": 457.5,
+   "volume": 0,
+   "title": "Chapter 457e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_457a",
+   "chapNum": 457.1,
+   "volume": 0,
+   "title": "Chapter 457a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_456e",
+   "chapNum": 456.5,
+   "volume": 0,
+   "title": "Chapter 456e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_456a",
+   "chapNum": 456.1,
+   "volume": 0,
+   "title": "Chapter 456a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_455e",
+   "chapNum": 455.5,
+   "volume": 0,
+   "title": "Chapter 455e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_455a",
+   "chapNum": 455.1,
+   "volume": 0,
+   "title": "Chapter 455a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_454e",
+   "chapNum": 454.5,
+   "volume": 0,
+   "title": "Chapter 454e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_454a",
+   "chapNum": 454.1,
+   "volume": 0,
+   "title": "Chapter 454a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_453e",
+   "chapNum": 453.5,
+   "volume": 0,
+   "title": "Chapter 453e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_453a",
+   "chapNum": 453.1,
+   "volume": 0,
+   "title": "Chapter 453a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_452e",
+   "chapNum": 452.5,
+   "volume": 0,
+   "title": "Chapter 452e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_452",
+   "chapNum": 452,
+   "volume": 0,
+   "title": "Chapter 452",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_451e",
+   "chapNum": 451.5,
+   "volume": 0,
+   "title": "Chapter 451e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_451",
+   "chapNum": 451,
+   "volume": 0,
+   "title": "Chapter 451",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_450e",
+   "chapNum": 450.5,
+   "volume": 0,
+   "title": "Chapter 450e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_450a",
+   "chapNum": 450.1,
+   "volume": 0,
+   "title": "Chapter 450a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_449e",
+   "chapNum": 449.5,
+   "volume": 0,
+   "title": "Chapter 449e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_449",
+   "chapNum": 449,
+   "volume": 0,
+   "title": "Chapter 449",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_448e",
+   "chapNum": 448.5,
+   "volume": 0,
+   "title": "Chapter 448e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_448",
+   "chapNum": 448,
+   "volume": 0,
+   "title": "Chapter 448",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_447e",
+   "chapNum": 447.5,
+   "volume": 0,
+   "title": "Chapter 447e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_447",
+   "chapNum": 447,
+   "volume": 0,
+   "title": "Chapter 447",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_446e",
+   "chapNum": 446.5,
+   "volume": 0,
+   "title": "Chapter 446e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_446",
+   "chapNum": 446,
+   "volume": 0,
+   "title": "Chapter 446",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_445e",
+   "chapNum": 445.5,
+   "volume": 0,
+   "title": "Chapter 445e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_445",
+   "chapNum": 445,
+   "volume": 0,
+   "title": "Chapter 445",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_444e",
+   "chapNum": 444.5,
+   "volume": 0,
+   "title": "Chapter 444e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_444",
+   "chapNum": 444,
+   "volume": 0,
+   "title": "Chapter 444",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_443e",
+   "chapNum": 443.5,
+   "volume": 0,
+   "title": "Chapter 443e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_443",
+   "chapNum": 443,
+   "volume": 0,
+   "title": "Chapter 443",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_442e",
+   "chapNum": 442.5,
+   "volume": 0,
+   "title": "Chapter 442e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_442",
+   "chapNum": 442,
+   "volume": 0,
+   "title": "Chapter 442",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_441e",
+   "chapNum": 441.5,
+   "volume": 0,
+   "title": "Chapter 441e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_441",
+   "chapNum": 441,
+   "volume": 0,
+   "title": "Chapter 441",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_440e",
+   "chapNum": 440.5,
+   "volume": 0,
+   "title": "Chapter 440e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_440",
+   "chapNum": 440,
+   "volume": 0,
+   "title": "Chapter 440",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_439e",
+   "chapNum": 439.5,
+   "volume": 0,
+   "title": "Chapter 439e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_439a",
+   "chapNum": 439.1,
+   "volume": 0,
+   "title": "Chapter 439a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_438f",
+   "chapNum": 438.6,
+   "volume": 0,
+   "title": "Chapter 438f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_438",
+   "chapNum": 438,
+   "volume": 0,
+   "title": "Chapter 438",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_437e",
+   "chapNum": 437.5,
+   "volume": 0,
+   "title": "Chapter 437e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_437",
+   "chapNum": 437,
+   "volume": 0,
+   "title": "Chapter 437",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_436e",
+   "chapNum": 436.5,
+   "volume": 0,
+   "title": "Chapter 436e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_436",
+   "chapNum": 436,
+   "volume": 0,
+   "title": "Chapter 436",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_435",
+   "chapNum": 435,
+   "volume": 0,
+   "title": "Chapter 435",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_434e",
+   "chapNum": 434.5,
+   "volume": 0,
+   "title": "Chapter 434e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_434",
+   "chapNum": 434,
+   "volume": 0,
+   "title": "Chapter 434",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_433e",
+   "chapNum": 433.5,
+   "volume": 0,
+   "title": "Chapter 433e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_433",
+   "chapNum": 433,
+   "volume": 0,
+   "title": "Chapter 433",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_432e",
+   "chapNum": 432.5,
+   "volume": 0,
+   "title": "Chapter 432e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_432",
+   "chapNum": 432,
+   "volume": 0,
+   "title": "Chapter 432",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_431e",
+   "chapNum": 431.5,
+   "volume": 0,
+   "title": "Chapter 431e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_431",
+   "chapNum": 431,
+   "volume": 0,
+   "title": "Chapter 431",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_430e",
+   "chapNum": 430.5,
+   "volume": 0,
+   "title": "Chapter 430e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_430",
+   "chapNum": 430,
+   "volume": 0,
+   "title": "Chapter 430",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_429e",
+   "chapNum": 429.5,
+   "volume": 0,
+   "title": "Chapter 429e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_429a",
+   "chapNum": 429.1,
+   "volume": 0,
+   "title": "Chapter 429a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_428e",
+   "chapNum": 428.5,
+   "volume": 0,
+   "title": "Chapter 428e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_428",
+   "chapNum": 428,
+   "volume": 0,
+   "title": "Chapter 428",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_427e",
+   "chapNum": 427.5,
+   "volume": 0,
+   "title": "Chapter 427e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_426e",
+   "chapNum": 426.5,
+   "volume": 0,
+   "title": "Chapter 426e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_426",
+   "chapNum": 426,
+   "volume": 0,
+   "title": "Chapter 426",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_425e",
+   "chapNum": 425.5,
+   "volume": 0,
+   "title": "Chapter 425e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_425",
+   "chapNum": 425,
+   "volume": 0,
+   "title": "Chapter 425",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_424e",
+   "chapNum": 424.5,
+   "volume": 0,
+   "title": "Chapter 424e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_424",
+   "chapNum": 424,
+   "volume": 0,
+   "title": "Chapter 424",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_423e",
+   "chapNum": 423.5,
+   "volume": 0,
+   "title": "Chapter 423e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_423",
+   "chapNum": 423,
+   "volume": 0,
+   "title": "Chapter 423",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_422e",
+   "chapNum": 422.5,
+   "volume": 0,
+   "title": "Chapter 422e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_422",
+   "chapNum": 422,
+   "volume": 0,
+   "title": "Chapter 422",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_421e",
+   "chapNum": 421.5,
+   "volume": 0,
+   "title": "Chapter 421e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_421",
+   "chapNum": 421,
+   "volume": 0,
+   "title": "Chapter 421",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_420e",
+   "chapNum": 420.5,
+   "volume": 0,
+   "title": "Chapter 420e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_420",
+   "chapNum": 420,
+   "volume": 0,
+   "title": "Chapter 420",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_419f",
+   "chapNum": 419.6,
+   "volume": 0,
+   "title": "Chapter 419f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_419a",
+   "chapNum": 419.1,
+   "volume": 0,
+   "title": "Chapter 419a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_418e",
+   "chapNum": 418.5,
+   "volume": 0,
+   "title": "Chapter 418e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_418a",
+   "chapNum": 418.1,
+   "volume": 0,
+   "title": "Chapter 418a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_417e",
+   "chapNum": 417.5,
+   "volume": 0,
+   "title": "Chapter 417e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_417",
+   "chapNum": 417,
+   "volume": 0,
+   "title": "Chapter 417",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_416e",
+   "chapNum": 416.5,
+   "volume": 0,
+   "title": "Chapter 416e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_416",
+   "chapNum": 416,
+   "volume": 0,
+   "title": "Chapter 416",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_415e",
+   "chapNum": 415.5,
+   "volume": 0,
+   "title": "Chapter 415e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_415",
+   "chapNum": 415,
+   "volume": 0,
+   "title": "Chapter 415",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_414f",
+   "chapNum": 414.6,
+   "volume": 0,
+   "title": "Chapter 414f",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_414",
+   "chapNum": 414,
+   "volume": 0,
+   "title": "Chapter 414",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_413e",
+   "chapNum": 413.5,
+   "volume": 0,
+   "title": "Chapter 413e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_413a",
+   "chapNum": 413.1,
+   "volume": 0,
+   "title": "Chapter 413a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_412",
+   "chapNum": 412,
+   "volume": 0,
+   "title": "Chapter 412",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_411e",
+   "chapNum": 411.5,
+   "volume": 0,
+   "title": "Chapter 411e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_411",
+   "chapNum": 411,
+   "volume": 0,
+   "title": "Chapter 411",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_410e",
+   "chapNum": 410.5,
+   "volume": 0,
+   "title": "Chapter 410e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_410",
+   "chapNum": 410,
+   "volume": 0,
+   "title": "Chapter 410",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_409e",
+   "chapNum": 409.5,
+   "volume": 0,
+   "title": "Chapter 409e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_409",
+   "chapNum": 409,
+   "volume": 0,
+   "title": "Chapter 409",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_408e",
+   "chapNum": 408.5,
+   "volume": 0,
+   "title": "Chapter 408e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_408a",
+   "chapNum": 408.1,
+   "volume": 0,
+   "title": "Chapter 408a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_407e",
+   "chapNum": 407.5,
+   "volume": 0,
+   "title": "Chapter 407e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_407",
+   "chapNum": 407,
+   "volume": 0,
+   "title": "Chapter 407",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_406e",
+   "chapNum": 406.5,
+   "volume": 0,
+   "title": "Chapter 406e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_406",
+   "chapNum": 406,
+   "volume": 0,
+   "title": "Chapter 406",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_405e",
+   "chapNum": 405.5,
+   "volume": 0,
+   "title": "Chapter 405e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_405",
+   "chapNum": 405,
+   "volume": 0,
+   "title": "Chapter 405",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_404e",
+   "chapNum": 404.5,
+   "volume": 0,
+   "title": "Chapter 404e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_404",
+   "chapNum": 404,
+   "volume": 0,
+   "title": "Chapter 404",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_403e",
+   "chapNum": 403.5,
+   "volume": 0,
+   "title": "Chapter 403e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_403",
+   "chapNum": 403,
+   "volume": 0,
+   "title": "Chapter 403",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_402e",
+   "chapNum": 402.5,
+   "volume": 0,
+   "title": "Chapter 402e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_402",
+   "chapNum": 402,
+   "volume": 0,
+   "title": "Chapter 402",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_401e",
+   "chapNum": 401.5,
+   "volume": 0,
+   "title": "Chapter 401e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_401",
+   "chapNum": 401,
+   "volume": 0,
+   "title": "Chapter 401",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_400e",
+   "chapNum": 400.5,
+   "volume": 0,
+   "title": "Chapter 400e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_400",
+   "chapNum": 400,
+   "volume": 0,
+   "title": "Chapter 400",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_399e",
+   "chapNum": 399.5,
+   "volume": 0,
+   "title": "Chapter 399e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_399",
+   "chapNum": 399,
+   "volume": 0,
+   "title": "Chapter 399",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_398e",
+   "chapNum": 398.5,
+   "volume": 0,
+   "title": "Chapter 398e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_398",
+   "chapNum": 398,
+   "volume": 0,
+   "title": "Chapter 398",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_397e",
+   "chapNum": 397.5,
+   "volume": 0,
+   "title": "Chapter 397e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_397",
+   "chapNum": 397,
+   "volume": 0,
+   "title": "Chapter 397",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_396e",
+   "chapNum": 396.5,
+   "volume": 0,
+   "title": "Chapter 396e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_396",
+   "chapNum": 396,
+   "volume": 0,
+   "title": "Chapter 396",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_395e",
+   "chapNum": 395.5,
+   "volume": 0,
+   "title": "Chapter 395e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_395",
+   "chapNum": 395,
+   "volume": 0,
+   "title": "Chapter 395",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_394e",
+   "chapNum": 394.5,
+   "volume": 0,
+   "title": "Chapter 394e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_394",
+   "chapNum": 394,
+   "volume": 0,
+   "title": "Chapter 394",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_393e",
+   "chapNum": 393.5,
+   "volume": 0,
+   "title": "Chapter 393e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_393",
+   "chapNum": 393,
+   "volume": 0,
+   "title": "Chapter 393",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_392e",
+   "chapNum": 392.5,
+   "volume": 0,
+   "title": "Chapter 392e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_392",
+   "chapNum": 392,
+   "volume": 0,
+   "title": "Chapter 392",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_391e",
+   "chapNum": 391.5,
+   "volume": 0,
+   "title": "Chapter 391e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_391a",
+   "chapNum": 391.1,
+   "volume": 0,
+   "title": "Chapter 391a",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_390e",
+   "chapNum": 390.5,
+   "volume": 0,
+   "title": "Chapter 390e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_390",
+   "chapNum": 390,
+   "volume": 0,
+   "title": "Chapter 390",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_389e",
+   "chapNum": 389.5,
+   "volume": 0,
+   "title": "Chapter 389e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_389",
+   "chapNum": 389,
+   "volume": 0,
+   "title": "Chapter 389",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_388e",
+   "chapNum": 388.5,
+   "volume": 0,
+   "title": "Chapter 388e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_388",
+   "chapNum": 388,
+   "volume": 0,
+   "title": "Chapter 388",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_387e",
+   "chapNum": 387.5,
+   "volume": 0,
+   "title": "Chapter 387e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_387",
+   "chapNum": 387,
+   "volume": 0,
+   "title": "Chapter 387",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_386e",
+   "chapNum": 386.5,
+   "volume": 0,
+   "title": "Chapter 386e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_386",
+   "chapNum": 386,
+   "volume": 0,
+   "title": "Chapter 386",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_385e",
+   "chapNum": 385.5,
+   "volume": 0,
+   "title": "Chapter 385e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_385",
+   "chapNum": 385,
+   "volume": 0,
+   "title": "Chapter 385",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_384e",
+   "chapNum": 384.5,
+   "volume": 0,
+   "title": "Chapter 384e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_384",
+   "chapNum": 384,
+   "volume": 0,
+   "title": "Chapter 384",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_383e",
+   "chapNum": 383.5,
+   "volume": 0,
+   "title": "Chapter 383e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_383",
+   "chapNum": 383,
+   "volume": 0,
+   "title": "Chapter 383",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_382e",
+   "chapNum": 382.5,
+   "volume": 0,
+   "title": "Chapter 382e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_382",
+   "chapNum": 382,
+   "volume": 0,
+   "title": "Chapter 382",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_381e",
+   "chapNum": 381.5,
+   "volume": 0,
+   "title": "Chapter 381e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_381",
+   "chapNum": 381,
+   "volume": 0,
+   "title": "Chapter 381",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_380e",
+   "chapNum": 380.5,
+   "volume": 0,
+   "title": "Chapter 380e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_380",
+   "chapNum": 380,
+   "volume": 0,
+   "title": "Chapter 380",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_379e",
+   "chapNum": 379.5,
+   "volume": 0,
+   "title": "Chapter 379e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_379",
+   "chapNum": 379,
+   "volume": 0,
+   "title": "Chapter 379",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_378e",
+   "chapNum": 378.5,
+   "volume": 0,
+   "title": "Chapter 378e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_378",
+   "chapNum": 378,
+   "volume": 0,
+   "title": "Chapter 378",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_377e",
+   "chapNum": 377.5,
+   "volume": 0,
+   "title": "Chapter 377e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_377",
+   "chapNum": 377,
+   "volume": 0,
+   "title": "Chapter 377",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_376e",
+   "chapNum": 376.5,
+   "volume": 0,
+   "title": "Chapter 376e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_376",
+   "chapNum": 376,
+   "volume": 0,
+   "title": "Chapter 376",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_375e",
+   "chapNum": 375.5,
+   "volume": 0,
+   "title": "Chapter 375e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_375",
+   "chapNum": 375,
+   "volume": 0,
+   "title": "Chapter 375",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_374e",
+   "chapNum": 374.5,
+   "volume": 0,
+   "title": "Chapter 374e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_374",
+   "chapNum": 374,
+   "volume": 0,
+   "title": "Chapter 374",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_373e",
+   "chapNum": 373.5,
+   "volume": 0,
+   "title": "Chapter 373e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_373",
+   "chapNum": 373,
+   "volume": 0,
+   "title": "Chapter 373",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_372e",
+   "chapNum": 372.5,
+   "volume": 0,
+   "title": "Chapter 372e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_372",
+   "chapNum": 372,
+   "volume": 0,
+   "title": "Chapter 372",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_371e",
+   "chapNum": 371.5,
+   "volume": 0,
+   "title": "Chapter 371e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_371",
+   "chapNum": 371,
+   "volume": 0,
+   "title": "Chapter 371",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_370e",
+   "chapNum": 370.5,
+   "volume": 0,
+   "title": "Chapter 370e",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_370",
+   "chapNum": 370,
+   "volume": 0,
+   "title": "Chapter 370",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_369",
+   "chapNum": 369,
+   "volume": 0,
+   "title": "Chapter 369",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_368",
+   "chapNum": 368,
+   "volume": 0,
+   "title": "Chapter 368 - East District",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_367",
+   "chapNum": 367,
+   "volume": 0,
+   "title": "Chapter 367 - Shopping at the Celestial Treasure Pavilion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_366",
+   "chapNum": 366,
+   "volume": 0,
+   "title": "Chapter 366",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_365",
+   "chapNum": 365,
+   "volume": 0,
+   "title": "Chapter 365 - Taking in a Disciple",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_364",
+   "chapNum": 364,
+   "volume": 0,
+   "title": "Chapter 364 - Heavenly Clouds Temple",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_363",
+   "chapNum": 363,
+   "volume": 0,
+   "title": "Chapter 363 - Ancestral Sword Intent",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_362",
+   "chapNum": 362,
+   "volume": 0,
+   "title": "Chapter 362",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_361",
+   "chapNum": 361,
+   "volume": 0,
+   "title": "Chapter 361 - No Children, No Grandchildren",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_360",
+   "chapNum": 360,
+   "volume": 0,
+   "title": "Chapter 360",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_359",
+   "chapNum": 359,
+   "volume": 0,
+   "title": "Chapter 359",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_358",
+   "chapNum": 358,
+   "volume": 0,
+   "title": "Chapter 358",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_357",
+   "chapNum": 357,
+   "volume": 0,
+   "title": "Chapter 357",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_356",
+   "chapNum": 356,
+   "volume": 0,
+   "title": "Chapter 356",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_355",
+   "chapNum": 355,
+   "volume": 0,
+   "title": "Chapter 355",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_354",
+   "chapNum": 354,
+   "volume": 0,
+   "title": "Chapter 354",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_353",
+   "chapNum": 353,
+   "volume": 0,
+   "title": "Chapter 353",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_352",
+   "chapNum": 352,
+   "volume": 0,
+   "title": "Chapter 352",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_351",
+   "chapNum": 351,
+   "volume": 0,
+   "title": "Chapter 351",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_350",
+   "chapNum": 350,
+   "volume": 0,
+   "title": "Chapter 350",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_349",
+   "chapNum": 349,
+   "volume": 0,
+   "title": "Chapter 349",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_348",
+   "chapNum": 348,
+   "volume": 0,
+   "title": "Chapter 348 - Delivery",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_347",
+   "chapNum": 347,
+   "volume": 0,
+   "title": "Chapter 347",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_346",
+   "chapNum": 346,
+   "volume": 0,
+   "title": "Chapter 346",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_345",
+   "chapNum": 345,
+   "volume": 0,
+   "title": "Chapter 345",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_344",
+   "chapNum": 344,
+   "volume": 0,
+   "title": "Chapter 344",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_343",
+   "chapNum": 343,
+   "volume": 0,
+   "title": "Chapter 343",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_342",
+   "chapNum": 342,
+   "volume": 0,
+   "title": "Chapter 342",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_341",
+   "chapNum": 341,
+   "volume": 0,
+   "title": "Chapter 341 - Disgrace",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_340",
+   "chapNum": 340,
+   "volume": 0,
+   "title": "Chapter 340",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_339",
+   "chapNum": 339,
+   "volume": 0,
+   "title": "Chapter 339",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_338",
+   "chapNum": 338,
+   "volume": 0,
+   "title": "Chapter 338",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_337",
+   "chapNum": 337,
+   "volume": 0,
+   "title": "Chapter 337",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_336",
+   "chapNum": 336,
+   "volume": 0,
+   "title": "Chapter 336",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_335",
+   "chapNum": 335,
+   "volume": 0,
+   "title": "Chapter 335",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_334",
+   "chapNum": 334,
+   "volume": 0,
+   "title": "Chapter 334",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_333",
+   "chapNum": 333,
+   "volume": 0,
+   "title": "Chapter 333",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_332",
+   "chapNum": 332,
+   "volume": 0,
+   "title": "Chapter 332",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_331",
+   "chapNum": 331,
+   "volume": 0,
+   "title": "Chapter 331",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_330",
+   "chapNum": 330,
+   "volume": 0,
+   "title": "Chapter 330",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_329",
+   "chapNum": 329,
+   "volume": 0,
+   "title": "Chapter 329",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_328",
+   "chapNum": 328,
+   "volume": 0,
+   "title": "Chapter 328",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_327",
+   "chapNum": 327,
+   "volume": 0,
+   "title": "Chapter 327",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_326",
+   "chapNum": 326,
+   "volume": 0,
+   "title": "Chapter 326",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_325",
+   "chapNum": 325,
+   "volume": 0,
+   "title": "Chapter 325",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_324",
+   "chapNum": 324,
+   "volume": 0,
+   "title": "Chapter 324",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_323",
+   "chapNum": 323,
+   "volume": 0,
+   "title": "Chapter 323",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_322",
+   "chapNum": 322,
+   "volume": 0,
+   "title": "Chapter 322",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_321",
+   "chapNum": 321,
+   "volume": 0,
+   "title": "Chapter 321",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_320",
+   "chapNum": 320,
+   "volume": 0,
+   "title": "Chapter 320",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_319",
+   "chapNum": 319,
+   "volume": 0,
+   "title": "Chapter 319",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_318",
+   "chapNum": 318,
+   "volume": 0,
+   "title": "Chapter 318",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_317",
+   "chapNum": 317,
+   "volume": 0,
+   "title": "Chapter 317",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_316",
+   "chapNum": 316,
+   "volume": 0,
+   "title": "Chapter 316",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_315",
+   "chapNum": 315,
+   "volume": 0,
+   "title": "Chapter 315",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_314",
+   "chapNum": 314,
+   "volume": 0,
+   "title": "Chapter 314",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_313",
+   "chapNum": 313,
+   "volume": 0,
+   "title": "Chapter 313",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_312",
+   "chapNum": 312,
+   "volume": 0,
+   "title": "Chapter 312",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_311",
+   "chapNum": 311,
+   "volume": 0,
+   "title": "Chapter 311",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_310",
+   "chapNum": 310,
+   "volume": 0,
+   "title": "Chapter 310",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_309",
+   "chapNum": 309,
+   "volume": 0,
+   "title": "Chapter 309",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_308",
+   "chapNum": 308,
+   "volume": 0,
+   "title": "Chapter 308",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_307",
+   "chapNum": 307,
+   "volume": 0,
+   "title": "Chapter 307",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_306",
+   "chapNum": 306,
+   "volume": 0,
+   "title": "Chapter 306",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_305",
+   "chapNum": 305,
+   "volume": 0,
+   "title": "Chapter 305",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_304",
+   "chapNum": 304,
+   "volume": 0,
+   "title": "Chapter 304",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_303",
+   "chapNum": 303,
+   "volume": 0,
+   "title": "Chapter 303",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_302",
+   "chapNum": 302,
+   "volume": 0,
+   "title": "Chapter 302",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_301",
+   "chapNum": 301,
+   "volume": 0,
+   "title": "Chapter 301",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_300",
+   "chapNum": 300,
+   "volume": 0,
+   "title": "Chapter 300",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_299",
+   "chapNum": 299,
+   "volume": 0,
+   "title": "Chapter 299",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_298",
+   "chapNum": 298,
+   "volume": 0,
+   "title": "Chapter 298",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_297",
+   "chapNum": 297,
+   "volume": 0,
+   "title": "Chapter 297",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_296",
+   "chapNum": 296,
+   "volume": 0,
+   "title": "Chapter 296",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_295",
+   "chapNum": 295,
+   "volume": 0,
+   "title": "Chapter 295",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_294",
+   "chapNum": 294,
+   "volume": 0,
+   "title": "Chapter 294",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_293",
+   "chapNum": 293,
+   "volume": 0,
+   "title": "Chapter 293",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_292",
+   "chapNum": 292,
+   "volume": 0,
+   "title": "Chapter 292",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_291",
+   "chapNum": 291,
+   "volume": 0,
+   "title": "Chapter 291",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_290",
+   "chapNum": 290,
+   "volume": 0,
+   "title": "Chapter 290",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_289",
+   "chapNum": 289,
+   "volume": 0,
+   "title": "Chapter 289",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_288",
+   "chapNum": 288,
+   "volume": 0,
+   "title": "Chapter 288",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_287",
+   "chapNum": 287,
+   "volume": 0,
+   "title": "Chapter 287",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_286",
+   "chapNum": 286,
+   "volume": 0,
+   "title": "Chapter 286",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_285",
+   "chapNum": 285,
+   "volume": 0,
+   "title": "Chapter 285",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_284",
+   "chapNum": 284,
+   "volume": 0,
+   "title": "Chapter 284",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_283",
+   "chapNum": 283,
+   "volume": 0,
+   "title": "Chapter 283",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_282",
+   "chapNum": 282,
+   "volume": 0,
+   "title": "Chapter 282",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_281",
+   "chapNum": 281,
+   "volume": 0,
+   "title": "Chapter 281",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_280",
+   "chapNum": 280,
+   "volume": 0,
+   "title": "Chapter 280",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_279",
+   "chapNum": 279,
+   "volume": 0,
+   "title": "Chapter 279",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_278",
+   "chapNum": 278,
+   "volume": 0,
+   "title": "Chapter 278",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_277",
+   "chapNum": 277,
+   "volume": 0,
+   "title": "Chapter 277 - Celestial QiLin Demon Beast",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_276",
+   "chapNum": 276,
+   "volume": 0,
+   "title": "Chapter 276",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_275",
+   "chapNum": 275,
+   "volume": 0,
+   "title": "Chapter 275",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_274",
+   "chapNum": 274,
+   "volume": 0,
+   "title": "Chapter 274 - The Door Opens",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_273",
+   "chapNum": 273,
+   "volume": 0,
+   "title": "Chapter 273",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_272",
+   "chapNum": 272,
+   "volume": 0,
+   "title": "Chapter 272",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_271",
+   "chapNum": 271,
+   "volume": 0,
+   "title": "Chapter 271 - The Frostbrace Sword",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_270",
+   "chapNum": 270,
+   "volume": 0,
+   "title": "Chapter 270",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_269",
+   "chapNum": 269,
+   "volume": 0,
+   "title": "Chapter 269",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_268",
+   "chapNum": 268,
+   "volume": 0,
+   "title": "Chapter 268",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_267",
+   "chapNum": 267,
+   "volume": 0,
+   "title": "Chapter 267",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_266",
+   "chapNum": 266,
+   "volume": 0,
+   "title": "Chapter 266",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_265",
+   "chapNum": 265,
+   "volume": 0,
+   "title": "Chapter 265",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_264",
+   "chapNum": 264,
+   "volume": 0,
+   "title": "Chapter 264",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_263",
+   "chapNum": 263,
+   "volume": 0,
+   "title": "Chapter 263",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_262",
+   "chapNum": 262,
+   "volume": 0,
+   "title": "Chapter 262",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_261",
+   "chapNum": 261,
+   "volume": 0,
+   "title": "Chapter 261",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_260",
+   "chapNum": 260,
+   "volume": 0,
+   "title": "Chapter 260",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_259",
+   "chapNum": 259,
+   "volume": 0,
+   "title": "Chapter 259 - Ye Hans Fate",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_258",
+   "chapNum": 258,
+   "volume": 0,
+   "title": "Chapter 258",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_257",
+   "chapNum": 257,
+   "volume": 0,
+   "title": "Chapter 257 - Enemies Walk a Narrow Path!",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_256",
+   "chapNum": 256,
+   "volume": 0,
+   "title": "Chapter 256 - Zombie Jiao-Dragon",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_255",
+   "chapNum": 255,
+   "volume": 0,
+   "title": "Chapter 255 - The Red Lights Within the Lake",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_254",
+   "chapNum": 254,
+   "volume": 0,
+   "title": "Chapter 254 - News of the Spirit Origin Fruit",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_253",
+   "chapNum": 253,
+   "volume": 0,
+   "title": "Chapter 253 - Defeating The Legend Rank Demon Beasts",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_252",
+   "chapNum": 252,
+   "volume": 0,
+   "title": "Chapter 252 - Dragon Burst Bomb",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_251",
+   "chapNum": 251,
+   "volume": 0,
+   "title": "Chapter 251 - Battle In The Snowy Mountains",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_250",
+   "chapNum": 250,
+   "volume": 0,
+   "title": "Chapter 250 - Pursuing Troops",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_249",
+   "chapNum": 249,
+   "volume": 0,
+   "title": "Chapter 249",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_248",
+   "chapNum": 248,
+   "volume": 0,
+   "title": "Chapter 248 - An Eye for An Eye",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_247",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "Chapter 247 - Duan Jians Revenge",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_246",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "Chapter 246",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_245",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "Chapter 245",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_244",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "Chapter 244",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_243",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "Chapter 243",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_242",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "Chapter 242 - Weve Won",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_241",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "Chapter 241 - Unexpected Turn of Events",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_240",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "Chapter 240",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_239",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "Chapter 239 - Invasion of the WuGui Family",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_238",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "Chapter 238",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_237",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "Chapter 237",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_236",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "Chapter 236 - Father and Son",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_235",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "Chapter 235 - Ye Mo",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_234",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "Chapter 234",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_233",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "Chapter 233 - Senior-level Runes",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_232",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "Chapter 232 - Runemaster Nie Li",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_231",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "Chapter 231 - Joining The Jade Seal Family",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_230",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "Chapter 230",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_229",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "Chapter 229",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_228",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "Chapter 228",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_227",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "Chapter 227",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_226",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "Chapter 226",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_225",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "Chapter 225 - The Object at the Bottom of the Pool",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_224",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "Chapter 224",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_223",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "Chapter 223 - Fire Spiritual Goddess",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_222",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "Chapter 222",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_221",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "Chapter 221",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_220",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "Chapter 220",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_219",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "Chapter 219",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_218",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "Chapter 218",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_217",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "Chapter 217",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_216",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "Chapter 216",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_215",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "Chapter 215",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_214",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "Chapter 214",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_213",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "Chapter 213 - Three Months",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_212",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "Chapter 212",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_211",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "Chapter 211",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_210",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "Chapter 210",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_209",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "Chapter 209",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_208",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "Chapter 208",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_207",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "Chapter 207",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_206",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "Chapter 206",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_205",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "Chapter 205",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_204",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "Chapter 204",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_203",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "Chapter 203",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_202",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "Chapter 202",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_201",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "Chapter 201",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_200",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "Chapter 200",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_199",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "Chapter 199 - Looking for Trouble",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_198",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "Chapter 198",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_197",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "Chapter 197",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_196",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "Chapter 196 - The Scarlet Flame Black Tiger Appears",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_195",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "Chapter 195",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_194",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "Chapter 194",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_193",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "Chapter 193",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_192",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "Chapter 192",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_191",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "Chapter 191",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_190",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "Chapter 190",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_189",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "Chapter 189",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_188",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "Chapter 188",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_187",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "Chapter 187",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_186",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "Chapter 186",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_185",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "Chapter 185",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_184",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "Chapter 184",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_183",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "Chapter 183",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_182",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "Chapter 182",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_181",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "Chapter 181",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_180",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "Chapter 180",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_179",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "Chapter 179",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_178",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "Chapter 178",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_177",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "Chapter 177",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_176",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "Chapter 176",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_175",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "Chapter 175",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_174",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "Chapter 174",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_173",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "Chapter 173 - Wherefore is this Home",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_172",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "Chapter 172",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_171",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "Chapter 171 - A Cruel and Savage Woman",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_170",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "Chapter 170",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_169",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "Chapter 169",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_168",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "Chapter 168",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Chapter 167",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Chapter 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Chapter 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Chapter 164",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Chapter 163",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Chapter 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Chapter 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Chapter 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Chapter 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Chapter 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Chapter 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Chapter 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Chapter 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Chapter 154",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Chapter 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Chapter 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Chapter 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Chapter 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Chapter 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Chapter 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Chapter 147 - So Many Scarlet Ghosts!",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Chapter 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Chapter 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Chapter 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Chapter 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Chapter 142 - Ye Hans Gold Armor Earth Dragon",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Chapter 141 - I'm All Ears",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Chapter 140",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Chapter 139",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Chapter 138",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Chapter 137",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Chapter 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Chapter 135",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Chapter 134",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Chapter 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Chapter 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Chapter 131",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Chapter 130",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Chapter 129",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Chapter 128",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Chapter 127",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Chapter 126",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Chapter 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Chapter 124",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Chapter 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Chapter 122",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Chapter 121",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Chapter 120",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Chapter 119",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Chapter 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Chapter 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Chapter 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Chapter 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Chapter 114",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Chapter 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Chapter 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Chapter 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Chapter 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Chapter 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Chapter 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Chapter 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Chapter 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Chapter 105",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Chapter 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Chapter 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Chapter 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Chapter 101",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Chapter 100",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_99",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Chapter 99",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_98",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Chapter 98",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_97",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Chapter 97",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_96",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Chapter 96",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_95",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Chapter 95",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_94",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Chapter 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_93",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Chapter 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_92",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Chapter 92",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_91",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Chapter 91",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_90",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Chapter 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_89",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Chapter 89",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_88",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Chapter 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_87",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Chapter 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_86",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Chapter 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_85",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Chapter 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_84",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Chapter 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_83",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Chapter 83",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_82",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Chapter 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_81",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Chapter 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_80",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Chapter 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_79",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Chapter 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_78",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Chapter 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_77",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Chapter 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_76",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Chapter 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_75",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Chapter 75",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_74",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Chapter 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_73",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Chapter 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_72",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Chapter 72",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_71",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Chapter 71",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_70",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Chapter 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_69",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Chapter 69",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_68",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Chapter 68",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_67",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Chapter 67",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_66",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Chapter 66",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_65",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Chapter 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_64",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Chapter 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_63",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Chapter 63",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_62",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Chapter 62",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_61",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Chapter 61",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_60",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Chapter 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_59",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Chapter 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_58",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Chapter 58",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_57",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Chapter 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_56",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Chapter 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_55",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Chapter 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_54",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Chapter 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_53",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Chapter 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_52",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Chapter 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_51",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Chapter 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_50",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Chapter 50",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_49",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Chapter 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_48",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Chapter 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_47",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Chapter 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_46",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Chapter 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_45",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Chapter 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_44",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Chapter 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_43",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Chapter 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_42",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Chapter 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_41",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Chapter 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_40",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Chapter 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_39",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Chapter 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_38",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Chapter 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_37",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Chapter 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_36",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Chapter 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_35",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Chapter 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_34",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Chapter 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_33",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Chapter 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_32",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Chapter 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_31",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Chapter 31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_30",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Chapter 30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_29",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Chapter 29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_28",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Chapter 28",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_27",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Chapter 27",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_26",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Chapter 26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_25",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Chapter 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_24",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Chapter 24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_23",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Chapter 23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_22",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Chapter 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_21",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Chapter 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_20",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Chapter 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_19",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Chapter 19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_18",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Chapter 18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_17",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Chapter 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_16",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Chapter 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_15",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Chapter 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_14",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Chapter 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_13",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Chapter 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_12",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Chapter 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_11",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Chapter 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_10",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Chapter 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_9",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Chapter 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_8",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Chapter 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_7",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Chapter 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_6",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Chapter 6 - Horned Sheep Hunter",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_5",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Chapter 5 - Operation Begins",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_4",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Chapter 4 - Money Makes the World Go Round",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_3",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Chapter 3 - Brothers",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_2",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Chapter 2 - Viewing the Sky From the Bottom of the Well",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "Read1_Tales_Of_Demons_And_Gods_1",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Chapter 1 - Rebirth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-01T22:00:00.000Z"
+  }
+ ]
+}

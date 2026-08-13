@@ -1,0 +1,1809 @@
+{
+ "work": "oshi-no-ko",
+ "source": "Mangatown",
+ "matchedTitle": "Oshi no Ko (YOKOYARI Mengo)",
+ "mangaId": "manga/oshi_no_ko_yokoyari_mengo",
+ "fetchedAt": "2026-08-13T08:40:48.710Z",
+ "chapters": [
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 167",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c166.5",
+   "chapNum": 166.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 166.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 164",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 163",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 154",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 147",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 142",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 141",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 140",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 139",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 138",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 137",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 135",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 134",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 131",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 130",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 129",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 128",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 127",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 126",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c125.8",
+   "chapNum": 125.8,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 125.8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c125.7",
+   "chapNum": 125.7,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 125.7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c125.6",
+   "chapNum": 125.6,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 125.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c125.5",
+   "chapNum": 125.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 125.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 124",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 122",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 121",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 120",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 119",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 114",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 105",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 101",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c100.5",
+   "chapNum": 100.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 100.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c100.1",
+   "chapNum": 100.1,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 100.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 100",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c099",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 99",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c098",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 98",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c097",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 97",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c096",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 96",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c095",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 95",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c094",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c093",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c092",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 92",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c091",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 91",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c090.1",
+   "chapNum": 90.1,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 90.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c090",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c089",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 89",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c088",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c087",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c086",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c085",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c084",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c083",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 83",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c082",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c081",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c080",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c079",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c078",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c077",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c076",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c075",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 75",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c074",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c073",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c072",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 72",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c071",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 71",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c070",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c069",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 69",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c068",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 68",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c067",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 67",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c066",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 66",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c065",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c064",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c063",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 63",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c062",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 62",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c061",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 61",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c060.5",
+   "chapNum": 60.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 60.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c060",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c059",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c058",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 58",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c057",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c056",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c055",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c054",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c053",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c052",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c051",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c050",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 50",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c049",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c048",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c047",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c046",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c045",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c044",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c043",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c042",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c041",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c040.5",
+   "chapNum": 40.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 40.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c040",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c039",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c038",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c037",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c036",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c035",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c034",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c033",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c032",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c031",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c030.5",
+   "chapNum": 30.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 30.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c030",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c029.5",
+   "chapNum": 29.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 29.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c029",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c028",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 28 Getting Into Character",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c027",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 27 Buz",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c026",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 26 Tempest",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c025",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 25 Outrage",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c024",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 24 Ego Search",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c023",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 23 Leaving a Mark",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c022",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 22 Self-Proclaimed Idols",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c021",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 21 Reality Dating Show",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c020.5",
+   "chapNum": 20.5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 20.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c020",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c019",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c018",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c017",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c016",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 16 Acting Ability",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c015",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 15 Live Action Manga Adaptation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c014",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c013",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c012",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c011",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c010",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c009",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c008",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c007",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c006",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c005",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c004",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c003",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c002",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/oshi_no_ko_yokoyari_mengo/c001",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Oshi no Ko (YOKOYARI Mengo) 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-20T22:00:00.000Z"
+  }
+ ]
+}

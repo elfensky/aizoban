@@ -1,0 +1,2479 @@
+{
+ "work": "tbate",
+ "source": "WeebCentral",
+ "matchedTitle": "The Beginning After the End",
+ "mangaId": "01J76XYE23859ZWDP7BJ520AKY",
+ "fetchedAt": "2026-08-13T08:36:11.931Z",
+ "chapters": [
+  {
+   "chapterId": "01KZBWXHS8D4P93PNNVZR5RZ5J",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "Episode 247",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -1,
+   "publishDate": "2026-08-06T16:01:20.680Z"
+  },
+  {
+   "chapterId": "01KYSX57AKXK852H6FC319CWAZ",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "Episode 246",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -2,
+   "publishDate": "2026-07-30T16:19:12.339Z"
+  },
+  {
+   "chapterId": "01KY7WSJ2737NBA50XSP1TRY9Y",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "Episode 245",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -3,
+   "publishDate": "2026-07-23T16:26:30.343Z"
+  },
+  {
+   "chapterId": "01KXNW2499H8SNP2VMGV58Z4XF",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "Episode 244",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -4,
+   "publishDate": "2026-07-16T16:27:22.793Z"
+  },
+  {
+   "chapterId": "01KX3STP96VN7CQ7ZW2K10Q8VB",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "Episode 243",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -5,
+   "publishDate": "2026-07-09T16:02:02.150Z"
+  },
+  {
+   "chapterId": "01KWHS24Z3CQKZAFK94Q47FQ3B",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "Episode 242",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -6,
+   "publishDate": "2026-07-02T16:02:18.211Z"
+  },
+  {
+   "chapterId": "01KVZR7HAQT843Z830D48AE7HW",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "Episode 241",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -7,
+   "publishDate": "2026-06-25T16:01:26.359Z"
+  },
+  {
+   "chapterId": "01KVDQNX572MRT05EDA0TTZ24A",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "Episode 240",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -8,
+   "publishDate": "2026-06-18T16:05:28.871Z"
+  },
+  {
+   "chapterId": "01KTW1CAFFVPZMH9JESD7CAKKJ",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "Episode 239",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -9,
+   "publishDate": "2026-06-11T19:08:40.815Z"
+  },
+  {
+   "chapterId": "01KT9P999WXCE68803K8QSBG7S",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "Episode 238",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -10,
+   "publishDate": "2026-06-04T16:08:27.196Z"
+  },
+  {
+   "chapterId": "01KSQQN7V941F3ZCYC63PA6QY7",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "Episode 237",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -11,
+   "publishDate": "2026-05-28T16:46:07.721Z"
+  },
+  {
+   "chapterId": "01KS5QNNM8AN2VYREYJ3ZAMY2N",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "Episode 236",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -12,
+   "publishDate": "2026-05-21T17:00:02.056Z"
+  },
+  {
+   "chapterId": "01KRKKJ1KDM1F88WJK1GR12FGP",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "Episode 235",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -13,
+   "publishDate": "2026-05-14T16:01:49.165Z"
+  },
+  {
+   "chapterId": "01KR1JSS72MC970KDK474JRX54",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "Episode 234",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -14,
+   "publishDate": "2026-05-07T16:02:14.370Z"
+  },
+  {
+   "chapterId": "01KQFTR4TGXVZAHZ94DMY2JCWN",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "Episode 233",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -15,
+   "publishDate": "2026-04-30T18:34:49.552Z"
+  },
+  {
+   "chapterId": "01KPXMMFBKZ0AHAZRVTQYB8AMA",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "Episode 232",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -16,
+   "publishDate": "2026-04-23T17:01:38.035Z"
+  },
+  {
+   "chapterId": "01KPC138HVM9ABQWS6BJJP8SPE",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "Episode 231",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -17,
+   "publishDate": "2026-04-16T20:53:05.723Z"
+  },
+  {
+   "chapterId": "01KNSFMQZMQRBCZ7JC7Q6SQBTC",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "Episode 230",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -18,
+   "publishDate": "2026-04-09T16:01:44.436Z"
+  },
+  {
+   "chapterId": "01KN7ET5Z80G81TRMBHWQZYVFJ",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "Episode 229",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -19,
+   "publishDate": "2026-04-02T16:00:54.248Z"
+  },
+  {
+   "chapterId": "01KMNE291AMVD31VTNN3TFF6DG",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "Episode 228",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -20,
+   "publishDate": "2026-03-26T16:01:31.178Z"
+  },
+  {
+   "chapterId": "01KM3F085VGMWDTZYA8WHRVW1H",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "Episode 227",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -21,
+   "publishDate": "2026-03-19T16:31:33.563Z"
+  },
+  {
+   "chapterId": "01KKPF3SRDN4650EY5RSBD9HJP",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "Episode 226",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -22,
+   "publishDate": "2026-03-14T15:23:22.253Z"
+  },
+  {
+   "chapterId": "01JZ8MFQQRDKS0NZQY4NV7QRHP",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "Episode 225",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -23,
+   "publishDate": "2025-07-03T17:13:57.752Z"
+  },
+  {
+   "chapterId": "01JYPGDTH4MVEFFK8KXA08ABT2",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "Episode 224",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -24,
+   "publishDate": "2025-06-26T16:16:40.997Z"
+  },
+  {
+   "chapterId": "01JY4H43DZYKWZZ2M5E8ATXH9H",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "Episode 223",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -25,
+   "publishDate": "2025-06-19T16:42:31.232Z"
+  },
+  {
+   "chapterId": "01JXJE73NYJQAE1KVSSN6VZDNP",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "Episode 222",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -26,
+   "publishDate": "2025-06-12T16:05:24.286Z"
+  },
+  {
+   "chapterId": "01JX0D780W6R83M1K1K7J0KGWZ",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "Episode 221",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -27,
+   "publishDate": "2025-06-05T16:01:40.380Z"
+  },
+  {
+   "chapterId": "01JWF8DQK4X1R065A1S47Z4941",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "Episode 220",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -28,
+   "publishDate": "2025-05-30T00:10:44.708Z"
+  },
+  {
+   "chapterId": "01JVWDBT207NXD9YBQJM2Y8RE0",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "Episode 219",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -29,
+   "publishDate": "2025-05-22T16:31:30.368Z"
+  },
+  {
+   "chapterId": "01JVAATRKEYT33AGC1PNQ8WM58",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "Episode 218",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -30,
+   "publishDate": "2025-05-15T16:00:54.894Z"
+  },
+  {
+   "chapterId": "01JTS2J241Z60EAJR2QEPRYEGJ",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "Episode 217",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -31,
+   "publishDate": "2025-05-08T23:09:15.778Z"
+  },
+  {
+   "chapterId": "01JT6DDGGZRDHXRNQW5PTADW10",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "Episode 216",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -32,
+   "publishDate": "2025-05-01T17:13:26.812Z"
+  },
+  {
+   "chapterId": "01JSMADG6Q9W7BCX8YBHZBMD7T",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "Episode 215",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -33,
+   "publishDate": "2025-04-24T16:34:40.986Z"
+  },
+  {
+   "chapterId": "01JS2CRZ7CSD9GKTM9CSAM2A4W",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "Episode 214",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -34,
+   "publishDate": "2025-04-17T17:29:34.193Z"
+  },
+  {
+   "chapterId": "01JRG74EJ8PECPP6AHKX699RBD",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "Episode 213",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -35,
+   "publishDate": "2025-04-10T16:04:39.113Z"
+  },
+  {
+   "chapterId": "01JQY7WKH268EWTYG6SRKP0NXS",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "Episode 212",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -36,
+   "publishDate": "2025-04-03T16:31:30.851Z"
+  },
+  {
+   "chapterId": "01JQC5NB67N2EC289VW3WMJ60W",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "Episode 211",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -37,
+   "publishDate": "2025-03-27T16:06:16.002Z"
+  },
+  {
+   "chapterId": "01JPT5CV7ZVJBC2BT9SZKDGFEK",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "Episode 210",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -38,
+   "publishDate": "2025-03-20T16:15:17.755Z"
+  },
+  {
+   "chapterId": "01JP83VHGEDSJJKFGRVW2WT3PV",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "Episode 209",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -39,
+   "publishDate": "2025-03-13T16:02:02.382Z"
+  },
+  {
+   "chapterId": "01JNPR9QTQSNAPDR440BSQAK39",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "Episode 208",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -40,
+   "publishDate": "2025-03-06T22:12:59.351Z"
+  },
+  {
+   "chapterId": "01JN4ANQNP1K8TB5057J42RJ2S",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "Episode 207",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -41,
+   "publishDate": "2025-02-27T18:28:32.567Z"
+  },
+  {
+   "chapterId": "01JKE6K4W2WVSEWAVSPTTD241W",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "Episode 206",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -42,
+   "publishDate": "2025-02-06T17:58:14.146Z"
+  },
+  {
+   "chapterId": "01JJW3EFH7CM2Y84YJEF14HE6A",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "Episode 205",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -43,
+   "publishDate": "2025-01-30T17:16:55.719Z"
+  },
+  {
+   "chapterId": "01JJA1SSWZWMHHSBF2S37PT0XF",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "Episode 204",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -44,
+   "publishDate": "2025-01-23T17:01:49.856Z"
+  },
+  {
+   "chapterId": "01JHR3NQ28X8Q8HY5NTWEPMTRZ",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "Episode 203",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -45,
+   "publishDate": "2025-01-16T17:48:13.257Z"
+  },
+  {
+   "chapterId": "01JH60K198NG9MPT78NXWCNR32",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "Episode 202",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -46,
+   "publishDate": "2025-01-09T17:07:59.916Z"
+  },
+  {
+   "chapterId": "01JGM1C88642NSZX2S16GBWHRX",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "Episode 201",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -47,
+   "publishDate": "2025-01-02T17:35:26.470Z"
+  },
+  {
+   "chapterId": "01JG1YQ31BS2HTPGVZM7ME5NFA",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "Episode 200",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -48,
+   "publishDate": "2024-12-26T17:02:36.076Z"
+  },
+  {
+   "chapterId": "01JFG06B0GS26Q7R7F7BEJ9T7T",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "Episode 199",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -49,
+   "publishDate": "2024-12-19T17:42:04.566Z"
+  },
+  {
+   "chapterId": "01JEXX4YMXE4XAMZ10SA7KZZGZ",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "Episode 198",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -50,
+   "publishDate": "2024-12-12T17:02:33.629Z"
+  },
+  {
+   "chapterId": "01JEBWBWWTDFDJEJP8KWQ4QHR2",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "Episode 197",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -51,
+   "publishDate": "2024-12-05T17:02:32.859Z"
+  },
+  {
+   "chapterId": "01JDSVKP8NP3BZY3N4DJ51T4PZ",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "Episode 196",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -52,
+   "publishDate": "2024-11-28T17:02:59.861Z"
+  },
+  {
+   "chapterId": "01JD7TV8G399Z09RPV3Z9EV5ES",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "Episode 195",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -53,
+   "publishDate": "2024-11-21T17:03:19.559Z"
+  },
+  {
+   "chapterId": "01JCNTFZQ90CBZ5TF8EW769VH5",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "Episode 194",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -54,
+   "publishDate": "2024-11-14T17:10:50.346Z"
+  },
+  {
+   "chapterId": "01JC3S7E5WH86V1JQAN5QK91P8",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "Episode 193",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -55,
+   "publishDate": "2024-11-07T17:02:21.884Z"
+  },
+  {
+   "chapterId": "01JBHN8A6Q09M27GDG8H8E9J5F",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "Episode 192",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -56,
+   "publishDate": "2024-10-31T16:06:36.506Z"
+  },
+  {
+   "chapterId": "01JB0G9RT16W75446AS4H0KZ91",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "Episode 191",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -57,
+   "publishDate": "2024-10-25T00:12:56.002Z"
+  },
+  {
+   "chapterId": "01JAJYCG3HKB7YPMFRVJT4G629",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "Episode 190",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -58,
+   "publishDate": "2024-10-19T17:49:43.491Z"
+  },
+  {
+   "chapterId": "01JAJYCG3H47NXYWDNQKSFK3CZ",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "Episode 189",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -59,
+   "publishDate": "2024-10-19T17:49:43.410Z"
+  },
+  {
+   "chapterId": "01J76XZ963E342YAQY1WY5NM7M",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "Episode 188",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -60,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8WPTKY394C3KZB5KZQF",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "Episode 187",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -61,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8W6EK7BJCR00DYGD7B3",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "Episode 186",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -62,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8W2DM0N96082BE1HR1H",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "Episode 185",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -63,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8VW4A6FQQC3729SV5F1",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "Episode 184",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -64,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8VFQ2CMMG5NGRX0JGFB",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "Episode 183",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -65,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8TS4JE8G69KGXZS7BZG",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "Episode 182",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -66,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8THA8B6D9Q73EWBF4G8",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "Episode 181",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -67,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8ST9A8DJ7TDCG2B04AG",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "Episode 180",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -68,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8GG66RNR7RBXVSNYCHQ",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "Episode 179",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -69,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8GG2VN4JHKC6K9JD250",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "Episode 178",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -70,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8G3GS1NBNR5QHTZPC82",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "Episode 177",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -71,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ8FWX9W8N6MBZYSWRKD9",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "Episode 176",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -72,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5PJ29B9MHTSMNW2WDEV",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "Episode 175",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -73,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5P5KJRFZ5MVN86MXZME",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "Episode 174",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -74,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5NMAR4C5MA6T5CHH4RP",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "Episode 173",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -75,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5CJ7H12WM4C0MHC1K4B",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "Episode 172",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -76,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5CANP7WW0T37RECXRZ6",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "Episode 171",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -77,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5BSFCJSK2T74F66932R",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "Episode 170",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -78,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5B80P6BR9GDQ1VXXH5F",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "Episode 169",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -79,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5B42VRJW2ES08BPX7B7",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "Episode 168",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -80,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5B1GVYP63XXGFEB3KFB",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Episode 167",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -81,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ5AX24SJCCG3M0YMK185",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Episode 166",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -82,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ51GWJ3Q0HRHSWN3KBNM",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Episode 165",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -83,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ51B807ZE9SZXX1ENYJG",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Episode 164",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -84,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ516A8BW01QV36MCDTV9",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Episode 163",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -85,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ513S092K9FJZVPR32K6",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Episode 162",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -86,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ50Z4T9317VVB213TZEQ",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Episode 161",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -87,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ50N4E1SY3MG3HXEKWA4",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Episode 160",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -88,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ50F7KCDRZF4Y82N1PQX",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Episode 159",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -89,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ505MCWKSFSP7RHPXAWS",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Episode 158",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -90,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4ZZ2Y0VXSJFBAR0PMP4",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Episode 157",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -91,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4ZGVRE3QVMHN7J2TEKB",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Episode 156",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -92,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4Z7R927KC7Y3H3WRZGV",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Episode 155",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -93,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4PCARNT3N0T92F1YHPS",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Episode 154",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -94,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4P4PQQ0MVMKT9TART6W",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Episode 153",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -95,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4NZK59RZWJGPZ7SG3FY",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Episode 152",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -96,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4NPB28GC68N4BR5G3E3",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Episode 151",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -97,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4N5ZYBBHZ13ZZF1TC88",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Episode 150",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -98,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4MBWY16P1ZZ84EK88SN",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Episode 149",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -99,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4M2R47B771BCXMKNNSY",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Episode 148",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -100,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4KZ8HY05QHAYR3RRDQN",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Episode 147",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -101,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4KM13T75135RRYA3AQ2",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Episode 146",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -102,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4KDZFZTH7PA9YD6PCSG",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Episode 145",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -103,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4K6MGA15EF50C0GQQYE",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Episode 144",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -104,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4K2C5FWMYEJHXFNHWZC",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Episode 143",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -105,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4ABCN8H9YPWW7V1CZ95",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Episode 142",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -106,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ49GE3M06B2MV99X5SK6",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Episode 141",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -107,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ491DPH4TVH5D61ZWSQJ",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Episode 140",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -108,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48R1EMZ7AWQTKGX738W",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Episode 139",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -109,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48HQRY7764WNCWZ9GZ9",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Episode 138",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -110,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ48AZG5PPJE07N8WDW6S",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Episode 137",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -111,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4830N9VR5Q4MBKTH3P9",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Episode 136",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -112,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ47H4WDE51X37Q9TMSXA",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Episode 135",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -113,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ47C6T3F3D09Z0ND3NSW",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Episode 134",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -114,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ478G2B9Y2GDRWYP00QT",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Episode 133",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -115,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ4703PJJTQCG7V1DRKAJ",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Episode 132",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -116,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3XS8FRX5Q9XKV12GCHA",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Episode 131",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -117,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3X99E35QTAB482R608M",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Episode 130",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -118,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3X39SYASW2C8XEJRGMS",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Episode 129",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -119,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3X0EJ78KD3ZRYBV150W",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Episode 128",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -120,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WX0DDWF02SGHF0DDWZ",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Episode 127",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -121,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3WS21Z9057B4J6YPC0P",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Episode 126",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -122,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3HJM7JGRPZR0GEWWY84",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Episode 125",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -123,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3HCFHS4DHG0DGJDMMJ1",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Episode 124",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -124,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3H6V9VGJ5G50F8E2X00",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Episode 123",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -125,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3H3V9VKB1ZE59AGWNF6",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Episode 122",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -126,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3GPJK2Q67D59Q8VTEDW",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Episode 121",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -127,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3GFS2363FGQ8QTA7QCN",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Episode 120",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -128,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3G7P4A73396TFTJ42ZF",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Episode 119",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -129,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36RCTP8447QQXDA46GE",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Episode 118",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -130,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36DD54KHR0AY1NXHJJX",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Episode 117",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -131,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ3680S32Y3QXQWQXGKJQ",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Episode 116",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -132,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BAFH1Z2RPE0AA6H1H",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Episode 115",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -133,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BXB60XDZQQNDH6E2Q",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Episode 114",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -134,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BDCQAC1VPKRH7R1NK",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Episode 113",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -135,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BPYPGZQFYH7EK7ZW2",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Episode 112",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -136,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B762YFZJRDWGG4YA0",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Episode 111",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -137,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B64BYGMQT6TYGD1JQ",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Episode 110",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -138,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B5WR11226C2AHX6JA",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Episode 109",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -139,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2VZ2S7FHJTAA2924",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Episode 108",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -140,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B358R7G4BZPAPW7A5",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Episode 107",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -141,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B3M1ZVGTPE0NCE07T",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Episode 106",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -142,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BATBGW1333RZ42GF0",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Episode 105",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -143,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BM4KZD18V4G5TBNS9",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Episode 104",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -144,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BKJ3220W8BYD334ZT",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Episode 103",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -145,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BP2FW2HWP08PGG2R3",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Episode 102",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -146,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BK9CRX8GA44GW730G",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Episode 101",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -147,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B6G7Q152BT16RFT38",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Episode 100",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -148,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2BVTWP6TJCFVYB7E",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Episode 99",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -149,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B45JCS5KDDW40RVB0",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Episode 98",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -150,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B4ESDGNN9T9K51VPR",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Episode 97",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -151,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BQHK4CSNBHTYX6986",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Episode 96",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -152,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BQKXMN6B53Q320W8N",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Episode 95",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -153,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B7C5RMBM5Y7YDR2PK",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Episode 94",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -154,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BXGQZE18V4W65ZK2N",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Episode 93",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -155,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BXDEDNQSS486GKVZ5",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Episode 92",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -156,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B4JTTY9DKDFN19RE1",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Episode 91",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -157,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B238MCESBVN5BNR4W",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Episode 90",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -158,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BG8DP7KP7AM5XVWN2",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Episode 89",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -159,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BBV6R549NKNR32JMD",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Episode 88",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -160,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B4H9E8F44PV6QJ2SS",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Episode 87",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -161,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BZFHY6QZHWN126JQD",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Episode 86",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -162,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2E17PQ4KMSYN205G",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Episode 85",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -163,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BD4HSMVDBT4T9570N",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Episode 84",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -164,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B5QYF7TTPQQQ4E72Q",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Episode 83",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -165,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B4DV917N8XC1JX1TY",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Episode 82",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -166,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BSN0ZTYWDV6X9XQZW",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Episode 81",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -167,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BP99PMK12YR93002K",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Episode 80",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -168,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BDT03BQ0EXEF73J1H",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Episode 79",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -169,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BFA1Y6C6NRW5JD5NN",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Episode 78",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -170,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BC0Q6752SWNN3Z6M7",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Episode 77",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -171,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BBWAGH3VEDKADC2KN",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Episode 76",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -172,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B6RHFYTA9JNSZPGBY",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Episode 75",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -173,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B26ERN6R1RTH9VNPE",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Episode 74",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -174,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BF6P0ZT2FWDYAY6XN",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Episode 73",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -175,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BM65C0KVMHH8E78B4",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Episode 72",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -176,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BB7VS422AMRYFTRZJ",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Episode 71",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -177,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BJS8QXMMYSPH9RVE6",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Episode 70",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -178,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BBP6NJM7CFHYW3CB4",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Episode 69",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -179,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BPPX8FYJF2DNWE74Y",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Episode 68",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -180,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BYCT9RZMZG7XJQ1GG",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Episode 67",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -181,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B0EZQC9JZCWAKZYYA",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Episode 66",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -182,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B877QZBX5V0V221V9",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Episode 65",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -183,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BE89GJZQHWWSNCXY8",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Episode 64",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -184,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B70MJTXZTCGRGXNQY",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Episode 63",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -185,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BH7J1R042SE5T2G38",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Episode 62",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -186,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B3WV4439YV2HKSE64",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Episode 61",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -187,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B8KSEFJ1T71J003VV",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Episode 60",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -188,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BTPC01AH7QVGTKGSJ",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Episode 59",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -189,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BYJP4FHFRJE3KGCES",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Episode 58",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -190,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BVXXSVTEC4EFKC1T8",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Episode 57",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -191,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2JYQF7C5SHWMRPNP",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Episode 56",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -192,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BD9GQJQ3GA3HXFHDV",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Episode 55",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -193,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B5453P1BGHFW01NMN",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Episode 54",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -194,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B85MX1RRCMJ77E7RN",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Episode 53",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -195,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BVK634CK3PJYAER68",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Episode 52",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -196,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B7MZKS8YZK5T6D7BW",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Episode 51",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -197,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BRXMTESP6XJJTG8XE",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Episode 50",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -198,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B9Y49MTSZHPQ38PEH",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Episode 49",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -199,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2H0TR9PMAEJG650R",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Episode 48",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -200,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BPP6E5CSQA1PYE93X",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Episode 47",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -201,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BANAKTDNRAB5QHEGD",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Episode 46",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -202,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BKSH0AQK4T8ADN34G",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Episode 45",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -203,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B3VN6E5CZ5X5T909F",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Episode 44",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -204,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BZHX9QJ00SCWXB0V1",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Episode 43",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -205,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BT2NA4ZZGSNPD8N4R",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Episode 42",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -206,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BE6CTQ9P2SMVKT981",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Episode 41",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -207,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BKT346FZ5ME3APB0K",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Episode 40",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -208,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B57MQKP25N00GQWTD",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Episode 39",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -209,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BD7EQTXGKRHFN55C7",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Episode 38",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -210,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BZK8YCPT6TZ0KBQDX",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Episode 37",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -211,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BC7Z50R3P801AVV0A",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Episode 36",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -212,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BS364YJEZ9YHA6CZX",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Episode 35",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -213,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BZS1TY6AEHFEBH5Q9",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Episode 34",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -214,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BSAZVSDRRWJ8346N7",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Episode 33",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -215,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B5FAD4M09PF6Q93ZJ",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Episode 32",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -216,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BS0218JGSW7NACX8B",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Episode 31",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -217,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BXFZFKPRC66FYHE0H",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Episode 30",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -218,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BGB72VF2KSJH4P4BM",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Episode 29",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -219,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BNADD7C2JHDYJD38X",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Episode 28",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -220,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BRKS1DHBCR679P6QK",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Episode 27",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -221,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BWDK245BQP7FNFP94",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Episode 26",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -222,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BFFCTX1RGZ11DR63V",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Episode 25",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -223,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BY1GH86XD9VE75R7Q",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Episode 24",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -224,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BMHN793N1Z0EDVTNJ",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Episode 23",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -225,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BKK1ZPDEPYKSZ02PY",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Episode 22",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -226,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BNTTA5HZXEPQ2Y3TP",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Episode 21",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -227,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B97M69177AQ2GFZNH",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Episode 20",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -228,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BRF4X1MQGHBF0Z0ZT",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Episode 19",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -229,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2B9JYTA4APM2KW2N",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Episode 18",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -230,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BFFPFZ31RQGCEP0Q0",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Episode 17",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -231,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B3GMVXAPRAD28RRQX",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Episode 16",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -232,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BG6TW3H3CTQ6Y3PZ7",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Episode 15",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -233,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BEH88X9J71JNWTW6F",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Episode 14",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -234,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BF4NP9YCXCEM3QDSF",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Episode 13",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -235,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BB0HVYDA9R2SSP587",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Episode 12",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -236,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B85Q9XXQ2RQS9FWSS",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Episode 11",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -237,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BP9CE2J6Q3J02PYG2",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Episode 10",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -238,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BHCFRBTYQM7TAW896",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Episode 9",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -239,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BFBSKYQ4PKT07TE4Y",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Episode 8",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -240,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BP1HKQZ3MJ6H0WHBY",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Episode 7",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -241,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BCCFY7JJCWG0H94NA",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Episode 6",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -242,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36B2C0KBFAPERGYA7JN",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Episode 5",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -243,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BTZ3JQ43FPTACED41",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Episode 4",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -244,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BKKZJ6FFPPD5V15SQ",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Episode 3",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -245,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BHMDJ07F2JBZ3HA76",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Episode 2",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -246,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  },
+  {
+   "chapterId": "01J76XZ36BHKNFA0SVP19XVB7C",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Episode 1",
+   "version": "Official",
+   "langCode": "🇬🇧",
+   "sortingIndex": -247,
+   "publishDate": "2024-09-07T17:04:15.717Z"
+  }
+ ]
+}

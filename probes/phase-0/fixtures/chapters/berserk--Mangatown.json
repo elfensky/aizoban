@@ -1,0 +1,4079 @@
+{
+ "work": "berserk",
+ "source": "Mangatown",
+ "matchedTitle": "Berserk",
+ "mangaId": "manga/berserk",
+ "fetchedAt": "2026-08-13T08:40:36.858Z",
+ "chapters": [
+  {
+   "chapterId": "manga/berserk/c386",
+   "chapNum": 386,
+   "volume": 0,
+   "title": "Berserk 386",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c385",
+   "chapNum": 385,
+   "volume": 0,
+   "title": "Berserk 385",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c384",
+   "chapNum": 384,
+   "volume": 0,
+   "title": "Berserk 384",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c383",
+   "chapNum": 383,
+   "volume": 0,
+   "title": "Berserk 383",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c382",
+   "chapNum": 382,
+   "volume": 0,
+   "title": "Berserk 382",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c381",
+   "chapNum": 381,
+   "volume": 0,
+   "title": "Berserk 381",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c380",
+   "chapNum": 380,
+   "volume": 0,
+   "title": "Berserk 380",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c379",
+   "chapNum": 379,
+   "volume": 0,
+   "title": "Berserk 379",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c378",
+   "chapNum": 378,
+   "volume": 0,
+   "title": "Berserk 378",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c377",
+   "chapNum": 377,
+   "volume": 0,
+   "title": "Berserk 377",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c376",
+   "chapNum": 376,
+   "volume": 0,
+   "title": "Berserk 376",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c375",
+   "chapNum": 375,
+   "volume": 0,
+   "title": "Berserk 375",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c374",
+   "chapNum": 374,
+   "volume": 0,
+   "title": "Berserk 374",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c373",
+   "chapNum": 373,
+   "volume": 0,
+   "title": "Berserk 373",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c372",
+   "chapNum": 372,
+   "volume": 0,
+   "title": "Berserk 372",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c371",
+   "chapNum": 371,
+   "volume": 0,
+   "title": "Berserk 371",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c370",
+   "chapNum": 370,
+   "volume": 0,
+   "title": "Berserk 370",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c369",
+   "chapNum": 369,
+   "volume": 0,
+   "title": "Berserk 369",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c368",
+   "chapNum": 368,
+   "volume": 0,
+   "title": "Berserk 368",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c367",
+   "chapNum": 367,
+   "volume": 0,
+   "title": "Berserk 367",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c366",
+   "chapNum": 366,
+   "volume": 0,
+   "title": "Berserk 366",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c365",
+   "chapNum": 365,
+   "volume": 0,
+   "title": "Berserk 365",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c364",
+   "chapNum": 364,
+   "volume": 0,
+   "title": "Berserk 364",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c363",
+   "chapNum": 363,
+   "volume": 0,
+   "title": "Berserk 363",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c362",
+   "chapNum": 362,
+   "volume": 0,
+   "title": "Berserk 362",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c361",
+   "chapNum": 361,
+   "volume": 0,
+   "title": "Berserk 361",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-07-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c360",
+   "chapNum": 360,
+   "volume": 0,
+   "title": "Berserk 360 Cherry Tree Garden",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c359",
+   "chapNum": 359,
+   "volume": 0,
+   "title": "Berserk 359",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c358",
+   "chapNum": 358,
+   "volume": 0,
+   "title": "Berserk 358",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-04-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c357",
+   "chapNum": 357,
+   "volume": 0,
+   "title": "Berserk 357 Triumphant Return by Dawn",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c356.5",
+   "chapNum": 356.5,
+   "volume": 0,
+   "title": "Berserk 356.5 Jötunn (Part Two)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c356.2",
+   "chapNum": 356.2,
+   "volume": 0,
+   "title": "Berserk 356.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c356.1",
+   "chapNum": 356.1,
+   "volume": 0,
+   "title": "Berserk 356.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c356",
+   "chapNum": 356,
+   "volume": 0,
+   "title": "Berserk 356",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-04-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c355",
+   "chapNum": 355,
+   "volume": 0,
+   "title": "Berserk 355",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c354",
+   "chapNum": 354,
+   "volume": 0,
+   "title": "Berserk 354",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c353",
+   "chapNum": 353,
+   "volume": 0,
+   "title": "Berserk 353",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c352",
+   "chapNum": 352,
+   "volume": 0,
+   "title": "Berserk 352",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c351",
+   "chapNum": 351,
+   "volume": 0,
+   "title": "Berserk 351 Forest of Corpses and Needling Pines",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c350.6",
+   "chapNum": 350.6,
+   "volume": 0,
+   "title": "Berserk 350.6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c350.5",
+   "chapNum": 350.5,
+   "volume": 0,
+   "title": "Berserk 350.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c350",
+   "chapNum": 350,
+   "volume": 0,
+   "title": "Berserk 350 Memory Fragments",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c349",
+   "chapNum": 349,
+   "volume": 0,
+   "title": "Berserk 349",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c348",
+   "chapNum": 348,
+   "volume": 0,
+   "title": "Berserk 348",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c347",
+   "chapNum": 347,
+   "volume": 0,
+   "title": "Berserk 347 Flowerstorm King",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c346",
+   "chapNum": 346,
+   "volume": 0,
+   "title": "Berserk 346 Elfhelm",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c345",
+   "chapNum": 345,
+   "volume": 0,
+   "title": "Berserk 345 Archmage",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c344",
+   "chapNum": 344,
+   "volume": 0,
+   "title": "Berserk 344 The Witches’ Village (Evil Genius Ver.)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c343",
+   "chapNum": 343,
+   "volume": 0,
+   "title": "Berserk 343 Blazing Puppet",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c342",
+   "chapNum": 342,
+   "volume": 0,
+   "title": "Berserk 342 Elf Island and Onwards!",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c341",
+   "chapNum": 341,
+   "volume": 0,
+   "title": "Berserk 341 Soaring Flight",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c340",
+   "chapNum": 340,
+   "volume": 0,
+   "title": "Berserk 340 Struggle in the Dark",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c339",
+   "chapNum": 339,
+   "volume": 0,
+   "title": "Berserk 339 Moonlit Capital",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c338",
+   "chapNum": 338,
+   "volume": 0,
+   "title": "Berserk 338 Death Visits at Dusk",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c337",
+   "chapNum": 337,
+   "volume": 0,
+   "title": "Berserk 337 Bridge of Parting",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-10-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c336",
+   "chapNum": 336,
+   "volume": 0,
+   "title": "Berserk 336 Pandaemonium",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c335",
+   "chapNum": 335,
+   "volume": 0,
+   "title": "Berserk 335 Divine Right",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-05-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c334",
+   "chapNum": 334,
+   "volume": 0,
+   "title": "Berserk 334 City of Men",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c333",
+   "chapNum": 333,
+   "volume": 0,
+   "title": "Berserk 333 Paradise",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c332",
+   "chapNum": 332,
+   "volume": 0,
+   "title": "Berserk 332 Caravan",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c331",
+   "chapNum": 331,
+   "volume": 0,
+   "title": "Berserk 331 Shooting Star",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c330",
+   "chapNum": 330,
+   "volume": 0,
+   "title": "Berserk 330 The Spring Blossoms of Another Day 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-07-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c329",
+   "chapNum": 329,
+   "volume": 0,
+   "title": "Berserk 329 The Spring Blossoms of Another Day 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c328",
+   "chapNum": 328,
+   "volume": 0,
+   "title": "Berserk 328 The Spring Blossoms of Another Day 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c327",
+   "chapNum": 327,
+   "volume": 0,
+   "title": "Berserk 327 Surfacing",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c326",
+   "chapNum": 326,
+   "volume": 0,
+   "title": "Berserk 326 Sirens",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c325",
+   "chapNum": 325,
+   "volume": 0,
+   "title": "Berserk 325 Merrow (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c324",
+   "chapNum": 324,
+   "volume": 0,
+   "title": "Berserk 324 Merrow (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c323",
+   "chapNum": 323,
+   "volume": 0,
+   "title": "Berserk 323 Call of the Deep",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c322",
+   "chapNum": 322,
+   "volume": 0,
+   "title": "Berserk 322 The Heart",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c321",
+   "chapNum": 321,
+   "volume": 0,
+   "title": "Berserk 321 The Sea God (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-05-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c320",
+   "chapNum": 320,
+   "volume": 0,
+   "title": "Berserk 320 The Sea God (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c319",
+   "chapNum": 319,
+   "volume": 0,
+   "title": "Berserk 319 The Sea God (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c318",
+   "chapNum": 318,
+   "volume": 0,
+   "title": "Berserk 318 Bestial Warrior",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c317",
+   "chapNum": 317,
+   "volume": 0,
+   "title": "Berserk 317 Full Moon (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c316",
+   "chapNum": 316,
+   "volume": 0,
+   "title": "Berserk 316 Full Moon (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c315",
+   "chapNum": 315,
+   "volume": 0,
+   "title": "Berserk 315 Tentacle Ship",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c314",
+   "chapNum": 314,
+   "volume": 0,
+   "title": "Berserk 314 Human Tentacles",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c313",
+   "chapNum": 313,
+   "volume": 0,
+   "title": "Berserk 313 Beings of the Wicked Ocean",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c312",
+   "chapNum": 312,
+   "volume": 0,
+   "title": "Berserk 312 The Girl in the Howling Shoals",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c311",
+   "chapNum": 311,
+   "volume": 0,
+   "title": "Berserk 311 Solitary Island",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c310",
+   "chapNum": 310,
+   "volume": 0,
+   "title": "Berserk 310 Phantom Shirep (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c309",
+   "chapNum": 309,
+   "volume": 0,
+   "title": "Berserk 309 Phantom Shirep (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c308",
+   "chapNum": 308,
+   "volume": 0,
+   "title": "Berserk 308 Phantom Shirep (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c307",
+   "chapNum": 307,
+   "volume": 0,
+   "title": "Berserk 307 Falconia",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c306",
+   "chapNum": 306,
+   "volume": 0,
+   "title": "Berserk 306 Fantasia",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c305",
+   "chapNum": 305,
+   "volume": 0,
+   "title": "Berserk 305 Foundation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c304",
+   "chapNum": 304,
+   "volume": 0,
+   "title": "Berserk 304 Fissure",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c303",
+   "chapNum": 303,
+   "volume": 0,
+   "title": "Berserk 303 Backlight",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c302",
+   "chapNum": 302,
+   "volume": 0,
+   "title": "Berserk 302 Soar",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c301",
+   "chapNum": 301,
+   "volume": 0,
+   "title": "Berserk 301 Confusion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c300",
+   "chapNum": 300,
+   "volume": 0,
+   "title": "Berserk 300 The Maiden of the Hawk",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c299",
+   "chapNum": 299,
+   "volume": 0,
+   "title": "Berserk 299 Battlefield of the Inhuman",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c298",
+   "chapNum": 298,
+   "volume": 0,
+   "title": "Berserk 298 Demonic Release",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c297",
+   "chapNum": 297,
+   "volume": 0,
+   "title": "Berserk 297 The Blindness of the Great God",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c296",
+   "chapNum": 296,
+   "volume": 0,
+   "title": "Berserk 296 Roaring Heaven",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c295",
+   "chapNum": 295,
+   "volume": 0,
+   "title": "Berserk 295 Ungod",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c294",
+   "chapNum": 294,
+   "volume": 0,
+   "title": "Berserk 294 Exodus",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c293",
+   "chapNum": 293,
+   "volume": 0,
+   "title": "Berserk 293 Quiet Darkness",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c292",
+   "chapNum": 292,
+   "volume": 0,
+   "title": "Berserk 292 Mist of Death",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c291",
+   "chapNum": 291,
+   "volume": 0,
+   "title": "Berserk 291 Foretelling Dreams",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c290",
+   "chapNum": 290,
+   "volume": 0,
+   "title": "Berserk 290 Howl from the Darkness",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c289",
+   "chapNum": 289,
+   "volume": 0,
+   "title": "Berserk 289 Sea Battle (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c288",
+   "chapNum": 288,
+   "volume": 0,
+   "title": "Berserk 288 Sea Battle (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c287",
+   "chapNum": 287,
+   "volume": 0,
+   "title": "Berserk 287 Bubbles",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c286",
+   "chapNum": 286,
+   "volume": 0,
+   "title": "Berserk 286 On Board",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c285",
+   "chapNum": 285,
+   "volume": 0,
+   "title": "Berserk 285 Hero",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c284",
+   "chapNum": 284,
+   "volume": 0,
+   "title": "Berserk 284 Midland Regular Army",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c283",
+   "chapNum": 283,
+   "volume": 0,
+   "title": "Berserk 283 Fierce Gale",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c282",
+   "chapNum": 282,
+   "volume": 0,
+   "title": "Berserk 282 Bursting Battlefield",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c281",
+   "chapNum": 281,
+   "volume": 0,
+   "title": "Berserk 281 Incoming Flight",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c280",
+   "chapNum": 280,
+   "volume": 0,
+   "title": "Berserk 280 The Great Invasion (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c279",
+   "chapNum": 279,
+   "volume": 0,
+   "title": "Berserk 279 The Great Invasion (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c278",
+   "chapNum": 278,
+   "volume": 0,
+   "title": "Berserk 278 Setting Sail",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c277",
+   "chapNum": 277,
+   "volume": 0,
+   "title": "Berserk 277 Flesh Cannon",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c276",
+   "chapNum": 276,
+   "volume": 0,
+   "title": "Berserk 276 Cloud Cluster",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c275",
+   "chapNum": 275,
+   "volume": 0,
+   "title": "Berserk 275 Invasion of the Demonic Forces",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c274",
+   "chapNum": 274,
+   "volume": 0,
+   "title": "Berserk 274 Thunder Emperor",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c273",
+   "chapNum": 273,
+   "volume": 0,
+   "title": "Berserk 273 Explosive Flame",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.7",
+   "chapNum": 272.7,
+   "volume": 0,
+   "title": "Berserk 272.7 The Coiler",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.6",
+   "chapNum": 272.6,
+   "volume": 0,
+   "title": "Berserk 272.6 Eastern Magic",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.5",
+   "chapNum": 272.5,
+   "volume": 0,
+   "title": "Berserk 272.5 Paramarishia Senani",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.4",
+   "chapNum": 272.4,
+   "volume": 0,
+   "title": "Berserk 272.4 Sword Beast",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.3",
+   "chapNum": 272.3,
+   "volume": 0,
+   "title": "Berserk 272.3 Blaze Rod",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.2",
+   "chapNum": 272.2,
+   "volume": 0,
+   "title": "Berserk 272.2 Scorching Bay",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c272.1",
+   "chapNum": 272.1,
+   "volume": 0,
+   "title": "Berserk 272.1 City of Demon Beasts, Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.9",
+   "chapNum": 271.9,
+   "volume": 0,
+   "title": "Berserk 271.9 City of Demon Beasts, Part 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.8",
+   "chapNum": 271.8,
+   "volume": 0,
+   "title": "Berserk 271.8 Divine Revelation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.7",
+   "chapNum": 271.7,
+   "volume": 0,
+   "title": "Berserk 271.7 Demon Beast Invasion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.6",
+   "chapNum": 271.6,
+   "volume": 0,
+   "title": "Berserk 271.6 A Proclamation of War",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.5",
+   "chapNum": 271.5,
+   "volume": 0,
+   "title": "Berserk 271.5 The Rusted Birdcage",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.4",
+   "chapNum": 271.4,
+   "volume": 0,
+   "title": "Berserk 271.4 Intrusion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.3",
+   "chapNum": 271.3,
+   "volume": 0,
+   "title": "Berserk 271.3 Enchanted Tiger",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.2",
+   "chapNum": 271.2,
+   "volume": 0,
+   "title": "Berserk 271.2 Suzerain of the Religious Domain",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271.1",
+   "chapNum": 271.1,
+   "volume": 0,
+   "title": "Berserk 271.1 Duel",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c271",
+   "chapNum": 271,
+   "volume": 0,
+   "title": "Berserk 271 The Colonnade Chamber",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c270",
+   "chapNum": 270,
+   "volume": 0,
+   "title": "Berserk 270 The Ball",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c269",
+   "chapNum": 269,
+   "volume": 0,
+   "title": "Berserk 269 Mother",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c268",
+   "chapNum": 268,
+   "volume": 0,
+   "title": "Berserk 268 The White Lily of the Field",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c267",
+   "chapNum": 267,
+   "volume": 0,
+   "title": "Berserk 267 In the Garden",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c266",
+   "chapNum": 266,
+   "volume": 0,
+   "title": "Berserk 266 Vandimion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c265",
+   "chapNum": 265,
+   "volume": 0,
+   "title": "Berserk 265 Homing",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c264",
+   "chapNum": 264,
+   "volume": 0,
+   "title": "Berserk 264 A Meager Supper",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c263",
+   "chapNum": 263,
+   "volume": 0,
+   "title": "Berserk 263 Warrior",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c262",
+   "chapNum": 262,
+   "volume": 0,
+   "title": "Berserk 262 Bloodshed",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c261",
+   "chapNum": 261,
+   "volume": 0,
+   "title": "Berserk 261 The Kite and the Owl of the Wharf",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c260",
+   "chapNum": 260,
+   "volume": 0,
+   "title": "Berserk 260 City of Humans",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c259",
+   "chapNum": 259,
+   "volume": 0,
+   "title": "Berserk 259 Navy Yard",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c258",
+   "chapNum": 258,
+   "volume": 0,
+   "title": "Berserk 258 Superhuman (Jnanin)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c257",
+   "chapNum": 257,
+   "volume": 0,
+   "title": "Berserk 257 The Roar of the Sea",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c256",
+   "chapNum": 256,
+   "volume": 0,
+   "title": "Berserk 256 Sea Beast",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c255",
+   "chapNum": 255,
+   "volume": 0,
+   "title": "Berserk 255 Supernatural Fog",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c254",
+   "chapNum": 254,
+   "volume": 0,
+   "title": "Berserk 254 Familiars",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c253",
+   "chapNum": 253,
+   "volume": 0,
+   "title": "Berserk 253 The Boy in the Moonlight",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c252",
+   "chapNum": 252,
+   "volume": 0,
+   "title": "Berserk 252 Proclaimed Omens",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c251",
+   "chapNum": 251,
+   "volume": 0,
+   "title": "Berserk 251 The Sound of the Sea",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c250",
+   "chapNum": 250,
+   "volume": 0,
+   "title": "Berserk 250 The Sleeping Princess Awakens",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c249",
+   "chapNum": 249,
+   "volume": 0,
+   "title": "Berserk 249 Demon God",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c248",
+   "chapNum": 248,
+   "volume": 0,
+   "title": "Berserk 248 Demon Knights",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c247",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "Berserk 247 The Daka",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c246",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "Berserk 246 Dread Emperor",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c245",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "Berserk 245 Demon City",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c244",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "Berserk 244 Departure of Flame",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c243",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "Berserk 243 The Depths of Hellfire",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c242",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "Berserk 242 Fire Dragon",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c241",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "Berserk 241 The Berserker Armor, Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c240",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "Berserk 240 The Berserker Armor, Part 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c239",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "Berserk 239 The Blaze, Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c238",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "Berserk 238 The Blaze, Part 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c237",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "Berserk 237 Claw Marks",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c236",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "Berserk 236 Companions",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c235",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "Berserk 235 Whore Princess of the Uterine Sea",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c234",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "Berserk 234 Vicinity of the Netherworld",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c233",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "Berserk 233 Redemption",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c232",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "Berserk 232 Retribution",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c231",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "Berserk 231 Taint",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c230",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "Berserk 230 Qliphoth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c229",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "Berserk 229 Shaman",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c228",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "Berserk 228 Raging Torrent",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c227",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "Berserk 227 Evil Horde, Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c226",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "Berserk 226 Evil Horde, Part 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c225",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "Berserk 225 The Arcana of Invocation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c224",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "Berserk 224 Magic",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c223",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "Berserk 223 Mirror of Sin",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c222",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "Berserk 222 Magic Sword",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c221",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "Berserk 221 Troll Raid",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c220",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "Berserk 220 Ambition and Reflection",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c219",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "Berserk 219 Enoch Village",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c218",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "Berserk 218 Elementals",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c217",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "Berserk 217 Magic Stone",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c216",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "Berserk 216 The Astral World",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c215",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "Berserk 215 Mansion of the Spirit Tree, Part 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c214",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "Berserk 214 Mansion of the Spirit Tree, Part 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c213",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "Berserk 213 The Witch",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c212",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "Berserk 212 Trolls",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c211",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "Berserk 211 Like A Child",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c210",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "Berserk 210 The Night of Falling Stars",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c209",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "Berserk 209 Wings of Light and Darkness",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c208",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "Berserk 208 The Banner of the Flying Sword",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c207",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "Berserk 207 Evil Battle",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c206",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "Berserk 206 Wilderness Reunion",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c205",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "Berserk 205 Fangs of Ego",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c204",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "Berserk 204 Scattered Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c203",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "Berserk 203 Winter Journey 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c202",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "Berserk 202 Winter Journey 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c201",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "Berserk 201 Snow and Fire (Conclusion)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c200",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "Berserk 200 Snow and Fire (Prologue)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c199",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "Berserk 199 Wind of Time 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c198",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "Berserk 198 Wind of Time 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c197",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "Berserk 197 Kusharn Assault",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c196",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "Berserk 196 Preface to the War",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c195",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "Berserk 195 Immutable",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c194",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "Berserk 194 The Beast Swordsman VS The Black Swordsman",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c193",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "Berserk 193 Reunion on the Hill of Swords",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c192",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "Berserk 192 Millennium Falcon: Crusaders the Tattered World",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c191",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "Berserk 191 Retribution the Birth Rite Determination and Departure (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c190",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "Berserk 190 Retribution the Birth Rite Arrival",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c189",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "Berserk 189 Retribution the Birth Rite Dawn",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c188",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "Berserk 188 Retribution the Birth Rite Descending from Heaven",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c187",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "Berserk 187 Retribution the Birth Rite Resonance",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c186",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "Berserk 186 Retribution the Birth Rite Tsunami of Darkness (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c185",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "Berserk 185 Retribution the Birth Rite Tsunami of Darkness (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c184",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "Berserk 184 Retribution the Birth Rite One Who Depends and One Who Struggles",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c183",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "Berserk 183 Retribution the Birth Rite Ghostly Priest (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c182",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "Berserk 182 Retribution the Birth Rite Ghostly Priest (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c181",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "Berserk 181 Retribution the Birth Rite Chougyo(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c180",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "Berserk 180 Retribution the Birth Rite Shadow of An Idea (3)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c179",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "Berserk 179 Retribution the Birth Rite Shadow of An Idea (2)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c178",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "Berserk 178 Retribution the Birth Rite Shadow of An Idea (1)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c177",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "Berserk 177 Retribution the Birth Rite Collapse(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c176",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "Berserk 176 Retribution the Birth Rite Martyr(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c175",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "Berserk 175 Retribution the Birth Rite A Sign(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c174",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "Berserk 174 Retribution the Birth Rite The Threatened(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c173",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "Berserk 173 Retribution the Birth Rite Forgotten Man Underground(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c172",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "Berserk 172 Retribution the Birth Rite Hell’s Angels(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c171",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "Berserk 171 Retribution the Birth Rite In the Sky,On the Ground(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c170",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "Berserk 170 Retribution the Birth Rite Spider’s Thread(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c169",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "Berserk 169 Retribution the Birth Rite Blood of the Dead (2)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c168",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "Berserk 168 Retribution the Birth Rite Blood of the Dead (1)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Berserk 167 Retribution the Birth Rite Iron Maiden(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Berserk 166 Retribution the Birth Rite Captive(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Berserk 165 Retribution the Birth Rite Cliff(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Berserk 164 Retribution the Birth Rite Ambush(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Berserk 163 Retribution the Birth Rite Meeting Again(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Berserk 162 Retribution the Birth Rite Evil Cave(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Berserk 161 Retribution:The Birth Rite: Ambitious Boy(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Berserk 160 Retribution:The Birth Rite: Stray(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Berserk 159 Retribution:The Birth Rite:Black Swordsman on Holy Ground(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Berserk 158 Retribution the Birth Rite Pillar of Flame",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Berserk 157 Retribution the Birth Rite Evil Road (2)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Berserk 156 Retribution the Birth Rite Evil Road (1)(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Berserk 155 Retribution the Birth Rite Witch",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Berserk 154 Retribution the Birth Rite The Inner Sanctum",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Berserk 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Berserk 152 Retribution the Birth Rite Children of the Shadow",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Berserk 151 Retribution the Birth Rite Tower of the Shadow(2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Berserk 150 Retribution the Birth Rite Tower of the Shadow(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Berserk 149 Retribution the Birth Rite Kushan(2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Berserk 148 Retribution the Birth Rite Kushan(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Berserk 147 Retribution the Birth Rite Holy Ground(2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Berserk 146 Retribution the Birth Rite Holy Ground(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Berserk 145 Retribution the Birth Rite Weak Fire",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Berserk 144 Retribution the Birth Rite Crack in A Sword",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Berserk 143 Retribution the Birth Rite Revelation(3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Berserk 142 Retribution the Birth Rite Revelation(2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Berserk 141 Retribution the Birth Rite Revelation(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Berserk 140 Retribution:Bound in Irons Morning Truth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Berserk 139 Retribution:Bound in Irons Coming and Going",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Berserk 138 Retribution:Bound in Irons Miracles of the Evening",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Berserk 137 Retribution:Bound in Irons Blind Woman",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Berserk 136 Retribution:Bound in Irons Hollow Icon",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Berserk 135 Retribution:Bound in Irons Knights of the Holy Iron Chain 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Berserk 134 Retribution:Bound in Irons Knights of the Holy Iron Chain 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Berserk 133 Retribution:Lost Children Beast of Darkness",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Berserk 132 Retribution:Lost Children Elf in the Blue Sky",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Berserk 131 Retribution:Lost Children The Road Home",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Berserk 130 Retribution:Lost Children Firefly",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Berserk 129 Retribution:Lost Children Devil and Man in Close Quarters",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Berserk 128 Fresh Blood in the Evening Sky- The End",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Berserk 127 Retribution:Lost Children Evil in the Air",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Berserk 126 Retribution:Lost Children Monster",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Berserk 125 Retribution:Lost Children Cocoons",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Berserk 124 Retribution:Lost Children Misty Valley (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Berserk 123 Retribution:Lost Children Misty Valley (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Berserk 122 Retribution:Lost Children Pursuers",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Berserk 121 Retribution:Lost Children Guardians (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Berserk 120 Retribution:Lost Children Guardians (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Berserk 119 Retribution:Lost Children The Land of Wings",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Berserk 118 Retribution:Lost Children Childhood Memories",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Berserk 117 Retribution:Lost Children Pirkaf the Red-eyed",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Berserk 116 Retribution:Lost Children Will O’ the Wisp",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Berserk 115 Retribution:Lost Children Queen",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Berserk 114 Retribution:Lost Children Pretty Insects",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Berserk 113 Retribution:Lost Children Flying In",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Berserk 112 Retribution:Lost Children-Jill",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Berserk 111 Retribution:Lost Children-Elves from the Misty Valley",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Berserk 110 The Black Swordsman, Once More",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Berserk 109 He Who Hunts Dragons",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Berserk 108 Armament",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Berserk 107 Demon Infant",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Berserk 106 Vow of Retaliation",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Berserk 105 The Sprint",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Berserk 104 Awakening to a Nightmare",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Berserk 103 Escape (LQ Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-07-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Berserk 102 Afterglow of the Right Eye",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Berserk 101 Birth",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Berserk 100 Quickening",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c099.5",
+   "chapNum": 99.5,
+   "volume": 0,
+   "title": "Berserk 99.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c099",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Berserk 99 Lifeblood",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c098",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Berserk 98 God of the Abyss",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c097",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Berserk 97 Storm of Death (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c096",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Berserk 96 Storm of Death (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c095",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Berserk 95 The Feast",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c094",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Berserk 94 Parting",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c093",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Berserk 93 The Castle",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c092",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Berserk 92 fixed",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c091",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Berserk 91 Advent",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c090",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Berserk 90 The Promised Time",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c089",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Berserk 89 Eclipse",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c088",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Berserk 88 Back Alley Boy",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c087",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Berserk 87 The Warriors of Twilight",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c086",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Berserk 86 Requiem of the Wind",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c085",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Berserk 85 The Immortal Once Again",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c084",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Berserk 84 The Flying One",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c083",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Berserk 83 Armour To The Heart",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c082",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Berserk 82 Mortal Combat (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c081",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Berserk 81 Mortal Combat (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c080",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Berserk 80 Forest of Tragedy",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c079",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Berserk 79 Roar of the Wild Beast",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c078",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Berserk 78 Devil Dogs (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c077",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Berserk 77 Devil Dogs (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c076",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Berserk 76 Devil Dogs (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c075",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Berserk 75 Devil Dogs (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c074",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Berserk 74 Flower of the Stone Castle",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c073",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Berserk 73 Bakiraka (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c072",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Berserk 72 Bakiraka (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c071",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Berserk 71 A Way Through",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c070",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Berserk 70 Reunion in the Abyss",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c069",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Berserk 69 Thousand-Year Fiefdom",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c068",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Berserk 68 Festival’s Eve (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c067",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Berserk 67 Festival’s Eve (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c066",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Berserk 66 Infiltrating Windham (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c065",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Berserk 65 Infiltrating Windham (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c064",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Berserk 64 Sparks From A Sword Tip",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c063",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Berserk 63 Wounds (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c062",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Berserk 62 Wounds (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c061",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Berserk 61 Confession",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c060",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Berserk 60 Comrades In Arms",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c059",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Berserk 59 The Fighter",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c058",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Berserk 58 The Fugitives",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c057",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Berserk 57 Arms Tournament",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c056",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Berserk 56 Demise of a Dream",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c055",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Berserk 55 The Fallen Hawk",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c054",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Berserk 54 Start of the Everlasting Night",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c053",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Berserk 53 Knight of Skeleton (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c052",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Berserk 52 The Morning Departure (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c051",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Berserk 51 The Morning Departure (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c050",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Berserk 50 The Morning Departure (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c049",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Berserk 49 One Snowy Night",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c048",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Berserk 48 Tombstone of Flame (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c047",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Berserk 47 Tombstone of Flame (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c046",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Berserk 46 Moment of Glory (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c045",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Berserk 45 Triumphant Return",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c044",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Berserk 44 The Battle For Doldrey (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c043",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Berserk 43 The Battle For Doldrey (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c042",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Berserk 42 The Battle For Doldrey (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c041",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Berserk 41 The Battle For Doldrey (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c040",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Berserk 40 The Battle For Doldrey (2) (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c039",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Berserk 39 The Battle For Doldrey (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c038",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Berserk 38 Campfire of Dreams",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c037",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Berserk 37 Survival",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c036",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Berserk 36 Prepared For Death (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c035",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Berserk 35 Prepared For Death (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c034",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Berserk 34 Prepared For Death (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c033",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Berserk 33 Casca (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c032",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Berserk 32 Casca (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c031",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Berserk 31 Casca (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c030",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Berserk 30 Engagement",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c029",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Berserk 29 Departure for the Front",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c028",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Berserk 28 Precious Thing",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c027",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Berserk 27 Assassin (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c026",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Berserk 26 Assassin (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c025",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Berserk 25 Assassin (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c024",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Berserk 24 Assassin (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c023",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Berserk 23 Master of the Sword (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c022",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Berserk 22 Master of the Sword (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c021",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Berserk 21 Nosferatu Zodd (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c020",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Berserk 20 Nosferatu Zodd (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c019",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Berserk 19 Nosferatu Zodd (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c018",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Berserk 18 Nosferatu Zodd (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c017",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Berserk 17 Sword Wind",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c016",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Berserk 16 The Golden Age (8)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c015",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Berserk 15 The Golden Age (7)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c014",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Berserk 14 The Golden Age (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c013",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Berserk 13 The Golden Age (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c012",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Berserk 12 The Golden Age (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c011",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Berserk 11 The Golden Age (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c010",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Berserk 10 The Golden Age (2)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c009",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Berserk 9 The Golden Age (1)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c008",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Berserk 8 The Guardians of Desire (6)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c007",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Berserk 7 The Guardians of Desire (5)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c006",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Berserk 6 The Guardians of Desire (4)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c005",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Berserk 5 The Guardians of Desire (3)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c004",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Berserk 4 The Guardians of Desire (2)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c003",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Berserk 3 The Guardians of Desire (1)(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c002",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Berserk 2 The Brand(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/berserk/c001",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Berserk 1 The Black Swordsman(Dark Horse Version)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-23T22:00:00.000Z"
+  }
+ ]
+}

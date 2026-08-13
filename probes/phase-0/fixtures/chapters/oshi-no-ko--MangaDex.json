@@ -1,0 +1,1029 @@
+{
+ "work": "oshi-no-ko",
+ "source": "MangaDex",
+ "matchedTitle": "【My Star】                               ‍",
+ "mangaId": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
+ "fetchedAt": "2026-08-13T08:35:54.602Z",
+ "chapters": [
+  {
+   "chapterId": "41a685db-2f88-44cf-81bc-d4a6a4608034",
+   "chapNum": 166.5,
+   "volume": 16,
+   "title": "Volume 16 Extras",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 102,
+   "publishDate": "2024-12-23T07:40:48.000Z"
+  },
+  {
+   "chapterId": "a7ab6b3f-7894-495b-9317-9c6114fd9386",
+   "chapNum": 152.5,
+   "volume": 15,
+   "title": "TOWARDS THE STARS AND DREAMS",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 101,
+   "publishDate": "2025-02-18T20:45:19.000Z"
+  },
+  {
+   "chapterId": "fe203df9-cb29-4f6b-a039-6183487b58ed",
+   "chapNum": 100.5,
+   "volume": 10,
+   "title": "Special Chapter",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 100,
+   "publishDate": "2023-01-21T19:41:50.000Z"
+  },
+  {
+   "chapterId": "10f75374-d39b-4d7c-8adf-e50d83cad453",
+   "chapNum": 94,
+   "volume": 10,
+   "title": "Breakthrough",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 99,
+   "publishDate": "2022-09-16T11:13:33.000Z"
+  },
+  {
+   "chapterId": "e466e4d9-f60e-432d-88de-c49254f5d5a8",
+   "chapNum": 93,
+   "volume": 10,
+   "title": "Leak",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 98,
+   "publishDate": "2022-09-08T14:14:02.000Z"
+  },
+  {
+   "chapterId": "35fd6b00-f8f6-4b71-9136-a693b4275285",
+   "chapNum": 92,
+   "volume": 10,
+   "title": "Ritual Purification",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 97,
+   "publishDate": "2022-09-02T06:59:15.000Z"
+  },
+  {
+   "chapterId": "d708c0dc-0219-47d5-8c89-1ee30d11f8a8",
+   "chapNum": 91,
+   "volume": 10,
+   "title": "Dig Deep",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 96,
+   "publishDate": "2022-08-25T19:09:43.000Z"
+  },
+  {
+   "chapterId": "84586d43-0f22-458d-9224-1a5426aa53d5",
+   "chapNum": 90.1,
+   "volume": 9,
+   "title": "Special Chapter",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 95,
+   "publishDate": "2022-08-10T14:38:18.000Z"
+  },
+  {
+   "chapterId": "b4ac672a-e4e7-42b8-a066-df8e8ae72110",
+   "chapNum": 90,
+   "volume": 9,
+   "title": "Compliance",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 94,
+   "publishDate": "2022-08-06T07:54:29.000Z"
+  },
+  {
+   "chapterId": "d782e4f1-9f1c-4de8-bd21-8a48957841cb",
+   "chapNum": 89,
+   "volume": 9,
+   "title": "Cosplay",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 93,
+   "publishDate": "2022-07-27T17:46:28.000Z"
+  },
+  {
+   "chapterId": "ae64b7a8-a4c7-4520-b4d9-0047dbf67efe",
+   "chapNum": 88,
+   "volume": 9,
+   "title": "Offer",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 92,
+   "publishDate": "2022-07-21T06:17:55.000Z"
+  },
+  {
+   "chapterId": "148fbe46-b651-4b92-af62-b9a7cba92dd8",
+   "chapNum": 87,
+   "volume": 9,
+   "title": "Lies",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 91,
+   "publishDate": "2022-07-14T14:44:38.000Z"
+  },
+  {
+   "chapterId": "19e9e2e6-0328-454a-913d-779ae03a0a4a",
+   "chapNum": 86,
+   "volume": 9,
+   "title": "Assistant Director",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 90,
+   "publishDate": "2022-07-01T16:20:18.000Z"
+  },
+  {
+   "chapterId": "7dfc7c2a-22c2-4e73-a1a7-20075b7a438c",
+   "chapNum": 85,
+   "volume": 9,
+   "title": "Calculation",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 89,
+   "publishDate": "2022-06-24T11:47:23.000Z"
+  },
+  {
+   "chapterId": "4cabd9fe-7074-4342-9cb7-b0f9a8473ba9",
+   "chapNum": 84,
+   "volume": 9,
+   "title": "Pitching an Idea",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 88,
+   "publishDate": "2022-06-16T07:02:34.000Z"
+  },
+  {
+   "chapterId": "ba1ee58c-1b68-44db-a76a-2a89bd2f46c5",
+   "chapNum": 83,
+   "volume": 9,
+   "title": "Fixation",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 87,
+   "publishDate": "2022-06-09T21:44:45.000Z"
+  },
+  {
+   "chapterId": "b5c6819b-ed00-4417-8358-86d3efc38d5d",
+   "chapNum": 82,
+   "volume": 9,
+   "title": "B-Komachi Nights",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 86,
+   "publishDate": "2022-05-26T14:07:39.000Z"
+  },
+  {
+   "chapterId": "62ffdaca-4d14-454d-b7dc-5181bfd4375d",
+   "chapNum": 81,
+   "volume": 9,
+   "title": "Progress",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 85,
+   "publishDate": "2022-05-20T03:41:53.000Z"
+  },
+  {
+   "chapterId": "875e6dde-7bab-4cd6-868c-4983a612111a",
+   "chapNum": 80,
+   "volume": 8,
+   "title": "Prayers",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 84,
+   "publishDate": "2022-05-11T21:53:16.000Z"
+  },
+  {
+   "chapterId": "12a921f0-f5d0-4e7a-962e-5e5fce865fcf",
+   "chapNum": 79,
+   "volume": 8,
+   "title": "Role",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 83,
+   "publishDate": "2022-04-30T18:05:21.000Z"
+  },
+  {
+   "chapterId": "6de9f6e1-629d-4110-8bc5-187548ea8efc",
+   "chapNum": 78,
+   "volume": 8,
+   "title": "Using",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 82,
+   "publishDate": "2022-04-14T06:24:51.000Z"
+  },
+  {
+   "chapterId": "8e81da6e-2456-4b07-a136-135ce250d1b6",
+   "chapNum": 77,
+   "volume": 8,
+   "title": "Reunion",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 81,
+   "publishDate": "2022-04-08T14:53:17.000Z"
+  },
+  {
+   "chapterId": "b7f9549c-c016-4565-848c-caf214db0269",
+   "chapNum": 76,
+   "volume": 8,
+   "title": "Music Video",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 80,
+   "publishDate": "2022-03-31T20:56:03.000Z"
+  },
+  {
+   "chapterId": "87639043-84bf-45db-9dfe-53496965c016",
+   "chapNum": 75,
+   "volume": 8,
+   "title": "Mother and Mother",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 79,
+   "publishDate": "2022-03-31T20:54:55.000Z"
+  },
+  {
+   "chapterId": "9d8cc52d-12f8-4eb4-a33a-c57b9a47fa90",
+   "chapNum": 74,
+   "volume": 8,
+   "title": "Takachiho",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 78,
+   "publishDate": "2022-03-12T15:32:07.000Z"
+  },
+  {
+   "chapterId": "57f9d04a-8de0-4fb7-ba44-9f4119ca34eb",
+   "chapNum": 73,
+   "volume": 8,
+   "title": "Smart",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 77,
+   "publishDate": "2022-03-08T06:21:16.000Z"
+  },
+  {
+   "chapterId": "cbfc6b8e-0ed9-4f54-8185-1b8fe7aa8eeb",
+   "chapNum": 72,
+   "volume": 8,
+   "title": "Freedom",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 76,
+   "publishDate": "2022-02-25T08:36:03.000Z"
+  },
+  {
+   "chapterId": "7888f3c5-3520-4d62-98e9-07bd29afd906",
+   "chapNum": 71,
+   "volume": 8,
+   "title": "Overhead Bridge",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 75,
+   "publishDate": "2022-02-18T21:09:03.000Z"
+  },
+  {
+   "chapterId": "4bff5faf-b635-45f6-b9e8-f2cc8abfe239",
+   "chapNum": 70,
+   "volume": 7,
+   "title": "Flame",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 74,
+   "publishDate": "2022-02-06T12:00:59.000Z"
+  },
+  {
+   "chapterId": "efd0bdbd-e8df-4377-ae89-c4d4dab3f23a",
+   "chapNum": 69,
+   "volume": 7,
+   "title": "Room Tour",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 73,
+   "publishDate": "2022-01-28T09:08:06.000Z"
+  },
+  {
+   "chapterId": "91032bf6-d00e-41f9-a0b3-9bb3997ec9e6",
+   "chapNum": 68,
+   "volume": 7,
+   "title": "Release",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 72,
+   "publishDate": "2022-01-20T11:12:10.000Z"
+  },
+  {
+   "chapterId": "bd6b0c89-1a7a-41e8-943f-3e4f1eaad5fc",
+   "chapNum": 67,
+   "volume": 7,
+   "title": "Drinking Party",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 71,
+   "publishDate": "2022-01-07T15:12:44.000Z"
+  },
+  {
+   "chapterId": "1d8b4d39-bcb3-4ff1-af0d-4d6ce19b28f2",
+   "chapNum": 66,
+   "volume": 7,
+   "title": "Curtain Call",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 70,
+   "publishDate": "2021-12-23T07:06:25.000Z"
+  },
+  {
+   "chapterId": "1e0c4073-1771-420a-b942-5ec58992917c",
+   "chapNum": 65,
+   "volume": 7,
+   "title": "Regret",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 69,
+   "publishDate": "2021-12-10T07:53:46.000Z"
+  },
+  {
+   "chapterId": "7746fbb0-3af2-419b-b4f9-3cd9f707e353",
+   "chapNum": 64,
+   "volume": 7,
+   "title": "Trigger",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 68,
+   "publishDate": "2021-12-04T16:10:25.000Z"
+  },
+  {
+   "chapterId": "729cdae4-ae04-4fbb-bec5-9fc2ffb7ed5f",
+   "chapNum": 63,
+   "volume": 7,
+   "title": "Genius Actress",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 67,
+   "publishDate": "2021-11-19T13:31:08.000Z"
+  },
+  {
+   "chapterId": "5af4a40a-7fbd-4f98-8d97-574495ed05c8",
+   "chapNum": 62,
+   "volume": 7,
+   "title": "Adlib",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 66,
+   "publishDate": "2021-11-11T00:45:48.000Z"
+  },
+  {
+   "chapterId": "e77920ef-ad94-4fa1-951c-4c2951ff925e",
+   "chapNum": 61,
+   "volume": 7,
+   "title": "Flexibility",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 65,
+   "publishDate": "2021-11-05T09:54:24.000Z"
+  },
+  {
+   "chapterId": "d835b825-7349-4f58-969c-b4773250a9e3",
+   "chapNum": 60,
+   "volume": 6,
+   "title": "The Sun",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 64,
+   "publishDate": "2021-10-21T11:28:04.000Z"
+  },
+  {
+   "chapterId": "2fd36e30-c367-4f24-8788-29e8b7af8bc1",
+   "chapNum": 59,
+   "volume": 6,
+   "title": "Admiration",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 63,
+   "publishDate": "2021-10-14T19:39:33.000Z"
+  },
+  {
+   "chapterId": "484d3cd3-64c8-4f24-a097-8390bd78decb",
+   "chapNum": 58,
+   "volume": 6,
+   "title": "Growth",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 62,
+   "publishDate": "2021-10-06T21:33:10.000Z"
+  },
+  {
+   "chapterId": "826a1d22-8c5f-4f45-9ee9-67a1e9bf6f21",
+   "chapNum": 57,
+   "volume": 6,
+   "title": "Sheer Incompetence",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 61,
+   "publishDate": "2021-09-30T19:25:12.000Z"
+  },
+  {
+   "chapterId": "0849cfc6-cb9e-4f80-964a-228978bb236d",
+   "chapNum": 56,
+   "volume": 6,
+   "title": "The First Battle",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 60,
+   "publishDate": "2021-09-16T08:11:45.000Z"
+  },
+  {
+   "chapterId": "2233b152-69df-4f0a-957e-9e3904a559a1",
+   "chapNum": 55,
+   "volume": 6,
+   "title": "The Curtains Rise",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 59,
+   "publishDate": "2021-09-09T05:08:38.000Z"
+  },
+  {
+   "chapterId": "42a7644d-b310-4fe5-b8b1-0cc1a635fdac",
+   "chapNum": 54,
+   "volume": 6,
+   "title": "Point of Contention",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 58,
+   "publishDate": "2021-09-03T07:17:31.000Z"
+  },
+  {
+   "chapterId": "bfc3cc34-b7e2-4fe4-95b1-e317a787280a",
+   "chapNum": 53,
+   "volume": 6,
+   "title": "Pick-up",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 57,
+   "publishDate": "2021-08-26T22:14:08.000Z"
+  },
+  {
+   "chapterId": "22a5aab8-ab43-4fe0-9b57-c8df7e479028",
+   "chapNum": 52,
+   "volume": 6,
+   "title": "Boyfriend, Girlfriend",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 56,
+   "publishDate": "2021-08-08T09:17:48.000Z"
+  },
+  {
+   "chapterId": "2569ec0f-42a5-4ffb-aba5-a8bd158731e6",
+   "chapNum": 51,
+   "volume": 6,
+   "title": "Deduction",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 55,
+   "publishDate": "2021-07-28T20:32:39.000Z"
+  },
+  {
+   "chapterId": "fc7de820-06f9-4f29-abb0-e9279d25d737",
+   "chapNum": 50,
+   "volume": 5,
+   "title": "Emotional Acting",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 54,
+   "publishDate": "2021-07-15T04:17:50.000Z"
+  },
+  {
+   "chapterId": "feb4887b-51de-4fea-9ad9-1e7979656be0",
+   "chapNum": 49,
+   "volume": 5,
+   "title": "Rewriting",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 53,
+   "publishDate": "2021-07-08T18:24:37.000Z"
+  },
+  {
+   "chapterId": "d075ee60-71ff-4f1b-9da7-285da604a911",
+   "chapNum": 48,
+   "volume": 5,
+   "title": "Crunch Time",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 52,
+   "publishDate": "2021-07-07T16:50:08.000Z"
+  },
+  {
+   "chapterId": "48c32920-0b0f-4f6a-b345-6f7265988742",
+   "chapNum": 47,
+   "volume": 5,
+   "title": "Workplace Visit",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 51,
+   "publishDate": "2021-08-24T12:40:16.000Z"
+  },
+  {
+   "chapterId": "4c8693e7-d9e0-4fd1-8af0-f395dc58f9b1",
+   "chapNum": 46,
+   "volume": 5,
+   "title": "Theater",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 50,
+   "publishDate": "2021-07-07T16:46:15.000Z"
+  },
+  {
+   "chapterId": "a9a3fb5f-893a-4f8e-bc02-3e38d94908d3",
+   "chapNum": 45,
+   "volume": 5,
+   "title": "Telephone Game",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 49,
+   "publishDate": "2021-07-07T16:45:14.000Z"
+  },
+  {
+   "chapterId": "b12ce31d-f90e-4fb1-9c7d-4a98bf1786b4",
+   "chapNum": 44,
+   "volume": 5,
+   "title": "Visiting the Set",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 48,
+   "publishDate": "2021-07-07T16:43:52.000Z"
+  },
+  {
+   "chapterId": "8a0fa572-ca06-4f58-81ff-d9bbb80e6747",
+   "chapNum": 43,
+   "volume": 5,
+   "title": "Designated Loser",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 47,
+   "publishDate": "2021-07-07T16:42:56.000Z"
+  },
+  {
+   "chapterId": "e00a848f-caa6-4fab-ac9e-639114525c36",
+   "chapNum": 42,
+   "volume": 5,
+   "title": "Read-Through",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 46,
+   "publishDate": "2021-07-07T16:41:30.000Z"
+  },
+  {
+   "chapterId": "7b69cb90-ada5-4f39-9779-9caece8955c1",
+   "chapNum": 41,
+   "volume": 5,
+   "title": "Cast Meeting",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 45,
+   "publishDate": "2021-07-07T16:40:04.000Z"
+  },
+  {
+   "chapterId": "2c484989-75d8-4f17-ae42-beb620a717a2",
+   "chapNum": 40.5,
+   "volume": 4,
+   "title": "Volume 4 Extras",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 44,
+   "publishDate": "2021-07-07T16:50:36.000Z"
+  },
+  {
+   "chapterId": "e9e99cd6-0194-4fc3-bfa1-b6e97f3f733f",
+   "chapNum": 40,
+   "volume": 4,
+   "title": "Competitive",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 43,
+   "publishDate": "2021-07-07T16:34:10.000Z"
+  },
+  {
+   "chapterId": "8228a99d-c58d-4f5d-aef7-cc51738adc05",
+   "chapNum": 39,
+   "volume": 4,
+   "title": "A Slightly Enjoyable Job",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 42,
+   "publishDate": "2021-07-07T16:32:18.000Z"
+  },
+  {
+   "chapterId": "7ff854cf-dc17-4fdd-99d4-bc8f5d623b60",
+   "chapNum": 38,
+   "volume": 4,
+   "title": "Not Picking a Favorite",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 41,
+   "publishDate": "2021-07-07T16:21:03.000Z"
+  },
+  {
+   "chapterId": "c02c76c8-ce7f-467e-acad-a62e827d8a46",
+   "chapNum": 37,
+   "volume": 4,
+   "title": "Pressure",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 40,
+   "publishDate": "2021-03-19T01:39:43.000Z"
+  },
+  {
+   "chapterId": "e86a95f8-ccbe-489b-be9d-ecd79f017f84",
+   "chapNum": 36,
+   "volume": 4,
+   "title": "The Night Before",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 39,
+   "publishDate": "2021-03-04T01:23:03.000Z"
+  },
+  {
+   "chapterId": "9be6cfff-c23c-4549-8efd-3e33387d0b23",
+   "chapNum": 35,
+   "volume": 4,
+   "title": "Sense of Responsibility",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 38,
+   "publishDate": "2021-02-26T05:09:27.000Z"
+  },
+  {
+   "chapterId": "cf8c6da7-a763-4d9a-8efa-4705e69658d4",
+   "chapNum": 34,
+   "volume": 4,
+   "title": "Center",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 37,
+   "publishDate": "2021-02-20T03:17:43.000Z"
+  },
+  {
+   "chapterId": "99821e56-2b9b-414c-9206-49326c8dfc0e",
+   "chapNum": 33,
+   "volume": 4,
+   "title": "Motivation",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 36,
+   "publishDate": "2021-02-12T01:43:31.000Z"
+  },
+  {
+   "chapterId": "ac7a07e7-88e2-4c1f-88b5-03eec586d0d3",
+   "chapNum": 32,
+   "volume": 4,
+   "title": "The Proper Age",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 35,
+   "publishDate": "2021-01-29T22:30:02.000Z"
+  },
+  {
+   "chapterId": "cf7f6668-7e4e-4f2c-840e-a0e96f23fe06",
+   "chapNum": 31,
+   "volume": 4,
+   "title": "LoveNow",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 34,
+   "publishDate": "2021-01-22T11:22:40.000Z"
+  },
+  {
+   "chapterId": "031cba4b-3d09-4f74-b84a-c4207f46db6c",
+   "chapNum": 30.5,
+   "volume": 3,
+   "title": "Volume 3 Extras",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 33,
+   "publishDate": "2021-07-07T16:38:34.000Z"
+  },
+  {
+   "chapterId": "f0111f40-f9fd-4482-9c81-b7a88c434d7e",
+   "chapNum": 30,
+   "volume": 3,
+   "title": "The First Time",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 32,
+   "publishDate": "2021-01-09T02:08:08.000Z"
+  },
+  {
+   "chapterId": "21298ee7-007f-46be-a416-0a6d5ef092aa",
+   "chapNum": 29,
+   "volume": 3,
+   "title": "Carbon  Copy",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 31,
+   "publishDate": "2020-12-25T17:20:12.000Z"
+  },
+  {
+   "chapterId": "fe582f1b-19a6-41fe-ae36-bf8e1d841690",
+   "chapNum": 28,
+   "volume": 3,
+   "title": "Getting Into Character",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 30,
+   "publishDate": "2020-12-11T01:00:40.000Z"
+  },
+  {
+   "chapterId": "6a433692-52de-419b-8a98-9785460bd667",
+   "chapNum": 27,
+   "volume": 3,
+   "title": "Buzz",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 29,
+   "publishDate": "2020-12-05T01:30:21.000Z"
+  },
+  {
+   "chapterId": "d8877b2e-7ae4-4325-9d90-989ab4d6b4e6",
+   "chapNum": 26,
+   "volume": 3,
+   "title": "Tempest",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 28,
+   "publishDate": "2020-11-27T20:05:06.000Z"
+  },
+  {
+   "chapterId": "aaf9f449-b21f-4854-bd89-4a1008e36083",
+   "chapNum": 25,
+   "volume": 3,
+   "title": "Outrage",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 27,
+   "publishDate": "2020-11-21T07:05:47.000Z"
+  },
+  {
+   "chapterId": "2dcf2552-0457-49c7-90ad-e434afee3836",
+   "chapNum": 24,
+   "volume": 3,
+   "title": "Ego Search",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 26,
+   "publishDate": "2020-11-07T01:50:34.000Z"
+  },
+  {
+   "chapterId": "962a68b8-2939-4aca-adde-0a6b82b16979",
+   "chapNum": 23,
+   "volume": 3,
+   "title": "Leaving a Mark",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 25,
+   "publishDate": "2020-10-31T07:15:19.000Z"
+  },
+  {
+   "chapterId": "210e010d-8eef-4c5e-8b45-362a6d368961",
+   "chapNum": 22,
+   "volume": 3,
+   "title": "Self-Proclaimed Idols",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 24,
+   "publishDate": "2020-10-23T06:57:18.000Z"
+  },
+  {
+   "chapterId": "055e8f8f-e6b4-4ce9-ae6c-5d8cbf817f8e",
+   "chapNum": 21,
+   "volume": 3,
+   "title": "Reality Dating Show",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 23,
+   "publishDate": "2020-10-16T23:09:11.000Z"
+  },
+  {
+   "chapterId": "096aa9f7-315e-46f6-9320-6c49d1b3c620",
+   "chapNum": 20.5,
+   "volume": 2,
+   "title": "Volume 2 Extras",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 22,
+   "publishDate": "2020-10-14T01:40:56.000Z"
+  },
+  {
+   "chapterId": "786818a9-08c4-41da-ad6d-0013de265184",
+   "chapNum": 20,
+   "volume": 2,
+   "title": "Joining",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 21,
+   "publishDate": "2020-10-02T20:48:22.000Z"
+  },
+  {
+   "chapterId": "81cfebe9-1886-4c54-8fc4-59ad92bcfe3b",
+   "chapNum": 19,
+   "volume": 2,
+   "title": "Performing Arts Program",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 20,
+   "publishDate": "2020-09-25T00:20:05.000Z"
+  },
+  {
+   "chapterId": "00eeed19-ef2f-4598-a0e3-c4cb31d50f68",
+   "chapNum": 18,
+   "volume": 2,
+   "title": "A Bit of Praise",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 19,
+   "publishDate": "2020-09-18T15:48:49.000Z"
+  },
+  {
+   "chapterId": "a6a88845-1d6c-4334-8b5d-aea6c27b46ed",
+   "chapNum": 17,
+   "volume": 2,
+   "title": "Staging",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 18,
+   "publishDate": "2020-09-11T02:40:31.000Z"
+  },
+  {
+   "chapterId": "432445bd-681f-4230-8e17-58d2bdcb61cb",
+   "chapNum": 16,
+   "volume": 2,
+   "title": "Acting Ability",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 17,
+   "publishDate": "2020-09-03T22:50:32.000Z"
+  },
+  {
+   "chapterId": "d5689f43-dfbe-4708-b733-deda7cc45b41",
+   "chapNum": 15,
+   "volume": 2,
+   "title": "Live Action Manga Adaptation",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 16,
+   "publishDate": "2020-08-28T00:11:20.000Z"
+  },
+  {
+   "chapterId": "63470b5c-fe8a-4f37-b935-9043af01ac4f",
+   "chapNum": 14,
+   "volume": 2,
+   "title": "Connection",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 15,
+   "publishDate": "2020-08-21T01:07:45.000Z"
+  },
+  {
+   "chapterId": "79c55cca-ede6-426f-a855-b4800ea26441",
+   "chapNum": 13,
+   "volume": 2,
+   "title": "Formalities",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 14,
+   "publishDate": "2020-08-06T16:55:20.000Z"
+  },
+  {
+   "chapterId": "75a9aa6c-353f-4332-bbe1-85c2fa0a151b",
+   "chapNum": 12,
+   "volume": 2,
+   "title": "The Third Option",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 13,
+   "publishDate": "2020-07-30T08:13:04.000Z"
+  },
+  {
+   "chapterId": "bc983292-377f-48de-8728-0141640f600c",
+   "chapNum": 11,
+   "volume": 2,
+   "title": "Audition",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 12,
+   "publishDate": "2020-08-08T23:47:55.000Z"
+  },
+  {
+   "chapterId": "d4be275b-57c5-4b0a-9c6c-fbeba5511577",
+   "chapNum": 11,
+   "volume": 2,
+   "title": "Audition",
+   "version": "Ai's fanclub",
+   "langCode": "🇬🇧",
+   "sortingIndex": 11,
+   "publishDate": "2020-07-21T11:05:46.000Z"
+  },
+  {
+   "chapterId": "f12ef01a-58de-4228-98e1-bcd1f7ceff43",
+   "chapNum": 10,
+   "volume": 1,
+   "title": "Introduction",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 10,
+   "publishDate": "2020-07-25T05:44:25.000Z"
+  },
+  {
+   "chapterId": "f1eab481-e51c-406a-b9b8-7996be7eac11",
+   "chapNum": 9,
+   "volume": 1,
+   "title": "Hoshino Ai - Fallout",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 9,
+   "publishDate": "2020-07-25T05:43:51.000Z"
+  },
+  {
+   "chapterId": "b246252d-5ef0-4a57-a53f-0faef396d621",
+   "chapNum": 8,
+   "volume": 1,
+   "title": "Hoshino Ai - Prequel",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 8,
+   "publishDate": "2020-07-25T05:43:19.000Z"
+  },
+  {
+   "chapterId": "138cc271-28ed-4e19-8742-ac18c0849437",
+   "chapNum": 7,
+   "volume": 1,
+   "title": "Failure Stems from Fear of Failure",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 7,
+   "publishDate": "2020-06-29T04:59:26.000Z"
+  },
+  {
+   "chapterId": "7c529e7d-b02f-4d7c-9027-f97a96379273",
+   "chapNum": 6,
+   "volume": 1,
+   "title": "Child Actors",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 6,
+   "publishDate": "2020-06-27T06:46:40.000Z"
+  },
+  {
+   "chapterId": "43b2078a-19d8-42b7-8a9d-244e8fa11b58",
+   "chapNum": 5,
+   "volume": 1,
+   "title": "Director and Actress",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 5,
+   "publishDate": "2020-06-27T06:46:14.000Z"
+  },
+  {
+   "chapterId": "6c571cfc-e297-48f8-874b-45a644c0eeef",
+   "chapNum": 4,
+   "volume": 1,
+   "title": "How to Create a Smile",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 4,
+   "publishDate": "2020-06-12T00:04:56.000Z"
+  },
+  {
+   "chapterId": "89326241-8e6f-4fe6-b176-9595735461b8",
+   "chapNum": 3,
+   "volume": 1,
+   "title": "Babysitter",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 3,
+   "publishDate": "2020-06-12T00:04:33.000Z"
+  },
+  {
+   "chapterId": "7553dd20-43e2-4647-a8b0-9d2c6a4b4c26",
+   "chapNum": 2,
+   "volume": 1,
+   "title": "Brother and Sister",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 2,
+   "publishDate": "2020-05-10T05:57:49.000Z"
+  },
+  {
+   "chapterId": "8d59fde4-14ed-4ae5-a1f9-3e9966efd67a",
+   "chapNum": 1,
+   "volume": 1,
+   "title": "Mother and Child",
+   "version": "Jaimini's~box~",
+   "langCode": "🇬🇧",
+   "sortingIndex": 1,
+   "publishDate": "2020-05-04T00:23:07.000Z"
+  }
+ ]
+}

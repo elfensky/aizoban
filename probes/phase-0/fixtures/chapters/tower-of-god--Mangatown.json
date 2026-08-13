@@ -1,0 +1,6569 @@
+{
+ "work": "tower-of-god",
+ "source": "Mangatown",
+ "matchedTitle": "Tower of God",
+ "mangaId": "manga/tower_of_god",
+ "fetchedAt": "2026-08-13T08:40:41.677Z",
+ "chapters": [
+  {
+   "chapterId": "manga/tower_of_god/c652",
+   "chapNum": 652,
+   "volume": 0,
+   "title": "Tower of God 652",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c651",
+   "chapNum": 651,
+   "volume": 0,
+   "title": "Tower of God 651",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c650",
+   "chapNum": 650,
+   "volume": 0,
+   "title": "Tower of God 650",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c649",
+   "chapNum": 649,
+   "volume": 0,
+   "title": "Tower of God 649",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c648",
+   "chapNum": 648,
+   "volume": 0,
+   "title": "Tower of God 648",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c647",
+   "chapNum": 647,
+   "volume": 0,
+   "title": "Tower of God 647",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c646",
+   "chapNum": 646,
+   "volume": 0,
+   "title": "Tower of God 646",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c645",
+   "chapNum": 645,
+   "volume": 0,
+   "title": "Tower of God 645",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c644",
+   "chapNum": 644,
+   "volume": 0,
+   "title": "Tower of God 644",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c643",
+   "chapNum": 643,
+   "volume": 0,
+   "title": "Tower of God 643",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c642",
+   "chapNum": 642,
+   "volume": 0,
+   "title": "Tower of God 642",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c641",
+   "chapNum": 641,
+   "volume": 0,
+   "title": "Tower of God 641",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c640",
+   "chapNum": 640,
+   "volume": 0,
+   "title": "Tower of God 640",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c639",
+   "chapNum": 639,
+   "volume": 0,
+   "title": "Tower of God 639",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c638",
+   "chapNum": 638,
+   "volume": 0,
+   "title": "Tower of God 638",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c637",
+   "chapNum": 637,
+   "volume": 0,
+   "title": "Tower of God 637",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c636",
+   "chapNum": 636,
+   "volume": 0,
+   "title": "Tower of God 636",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c635",
+   "chapNum": 635,
+   "volume": 0,
+   "title": "Tower of God 635",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c634",
+   "chapNum": 634,
+   "volume": 0,
+   "title": "Tower of God 634",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c633",
+   "chapNum": 633,
+   "volume": 0,
+   "title": "Tower of God 633",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c632",
+   "chapNum": 632,
+   "volume": 0,
+   "title": "Tower of God 632",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c631",
+   "chapNum": 631,
+   "volume": 0,
+   "title": "Tower of God 631",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c630",
+   "chapNum": 630,
+   "volume": 0,
+   "title": "Tower of God 630",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c629",
+   "chapNum": 629,
+   "volume": 0,
+   "title": "Tower of God 629",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c628",
+   "chapNum": 628,
+   "volume": 0,
+   "title": "Tower of God 628",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c627",
+   "chapNum": 627,
+   "volume": 0,
+   "title": "Tower of God 627",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c626",
+   "chapNum": 626,
+   "volume": 0,
+   "title": "Tower of God 626",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c625",
+   "chapNum": 625,
+   "volume": 0,
+   "title": "Tower of God 625",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c624",
+   "chapNum": 624,
+   "volume": 0,
+   "title": "Tower of God 624",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c623",
+   "chapNum": 623,
+   "volume": 0,
+   "title": "Tower of God 623",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c622",
+   "chapNum": 622,
+   "volume": 0,
+   "title": "Tower of God 622",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c621",
+   "chapNum": 621,
+   "volume": 0,
+   "title": "Tower of God 621",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c620",
+   "chapNum": 620,
+   "volume": 0,
+   "title": "Tower of God 620",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c619",
+   "chapNum": 619,
+   "volume": 0,
+   "title": "Tower of God 619",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c618",
+   "chapNum": 618,
+   "volume": 0,
+   "title": "Tower of God 618",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c617",
+   "chapNum": 617,
+   "volume": 0,
+   "title": "Tower of God 617",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c616",
+   "chapNum": 616,
+   "volume": 0,
+   "title": "Tower of God 616",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c615",
+   "chapNum": 615,
+   "volume": 0,
+   "title": "Tower of God 615",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c614",
+   "chapNum": 614,
+   "volume": 0,
+   "title": "Tower of God 614",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c613",
+   "chapNum": 613,
+   "volume": 0,
+   "title": "Tower of God 613",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c612",
+   "chapNum": 612,
+   "volume": 0,
+   "title": "Tower of God 612",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c611",
+   "chapNum": 611,
+   "volume": 0,
+   "title": "Tower of God 611",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c610",
+   "chapNum": 610,
+   "volume": 0,
+   "title": "Tower of God 610",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c609",
+   "chapNum": 609,
+   "volume": 0,
+   "title": "Tower of God 609",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-02-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c608",
+   "chapNum": 608,
+   "volume": 0,
+   "title": "Tower of God 608",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c607",
+   "chapNum": 607,
+   "volume": 0,
+   "title": "Tower of God 607",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c606",
+   "chapNum": 606,
+   "volume": 0,
+   "title": "Tower of God 606",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c605",
+   "chapNum": 605,
+   "volume": 0,
+   "title": "Tower of God 605",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c604",
+   "chapNum": 604,
+   "volume": 0,
+   "title": "Tower of God 604",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c603",
+   "chapNum": 603,
+   "volume": 0,
+   "title": "Tower of God 603",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c602",
+   "chapNum": 602,
+   "volume": 0,
+   "title": "Tower of God 602",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c601",
+   "chapNum": 601,
+   "volume": 0,
+   "title": "Tower of God 601",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c600",
+   "chapNum": 600,
+   "volume": 0,
+   "title": "Tower of God 600",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c599",
+   "chapNum": 599,
+   "volume": 0,
+   "title": "Tower of God 599",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c598",
+   "chapNum": 598,
+   "volume": 0,
+   "title": "Tower of God 598",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c597",
+   "chapNum": 597,
+   "volume": 0,
+   "title": "Tower of God 597",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c596",
+   "chapNum": 596,
+   "volume": 0,
+   "title": "Tower of God 596",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c595",
+   "chapNum": 595,
+   "volume": 0,
+   "title": "Tower of God 595",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c594",
+   "chapNum": 594,
+   "volume": 0,
+   "title": "Tower of God 594",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c593",
+   "chapNum": 593,
+   "volume": 0,
+   "title": "Tower of God 593",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c592",
+   "chapNum": 592,
+   "volume": 0,
+   "title": "Tower of God 592",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c591",
+   "chapNum": 591,
+   "volume": 0,
+   "title": "Tower of God 591",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c590",
+   "chapNum": 590,
+   "volume": 0,
+   "title": "Tower of God 590",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c589",
+   "chapNum": 589,
+   "volume": 0,
+   "title": "Tower of God 589",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c588",
+   "chapNum": 588,
+   "volume": 0,
+   "title": "Tower of God 588",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c587",
+   "chapNum": 587,
+   "volume": 0,
+   "title": "Tower of God 587",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c586",
+   "chapNum": 586,
+   "volume": 0,
+   "title": "Tower of God 586",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c585",
+   "chapNum": 585,
+   "volume": 0,
+   "title": "Tower of God 585",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c584",
+   "chapNum": 584,
+   "volume": 0,
+   "title": "Tower of God 584",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c583",
+   "chapNum": 583,
+   "volume": 0,
+   "title": "Tower of God 583",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c582",
+   "chapNum": 582,
+   "volume": 0,
+   "title": "Tower of God 582",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c581",
+   "chapNum": 581,
+   "volume": 0,
+   "title": "Tower of God 581",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c580",
+   "chapNum": 580,
+   "volume": 0,
+   "title": "Tower of God 580",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c579",
+   "chapNum": 579,
+   "volume": 0,
+   "title": "Tower of God 579",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c578",
+   "chapNum": 578,
+   "volume": 0,
+   "title": "Tower of God 578",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c577",
+   "chapNum": 577,
+   "volume": 0,
+   "title": "Tower of God 577",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c576",
+   "chapNum": 576,
+   "volume": 0,
+   "title": "Tower of God 576",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c575",
+   "chapNum": 575,
+   "volume": 0,
+   "title": "Tower of God 575",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c574",
+   "chapNum": 574,
+   "volume": 0,
+   "title": "Tower of God 574",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c573",
+   "chapNum": 573,
+   "volume": 0,
+   "title": "Tower of God 573",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c572",
+   "chapNum": 572,
+   "volume": 0,
+   "title": "Tower of God 572",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c571",
+   "chapNum": 571,
+   "volume": 0,
+   "title": "Tower of God 571",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c570",
+   "chapNum": 570,
+   "volume": 0,
+   "title": "Tower of God 570",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c569",
+   "chapNum": 569,
+   "volume": 0,
+   "title": "Tower of God 569",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c568",
+   "chapNum": 568,
+   "volume": 0,
+   "title": "Tower of God 568",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c567",
+   "chapNum": 567,
+   "volume": 0,
+   "title": "Tower of God 567",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c566",
+   "chapNum": 566,
+   "volume": 0,
+   "title": "Tower of God 566",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c565",
+   "chapNum": 565,
+   "volume": 0,
+   "title": "Tower of God 565",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c564",
+   "chapNum": 564,
+   "volume": 0,
+   "title": "Tower of God 564",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c563",
+   "chapNum": 563,
+   "volume": 0,
+   "title": "Tower of God 563",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c562",
+   "chapNum": 562,
+   "volume": 0,
+   "title": "Tower of God 562",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c561",
+   "chapNum": 561,
+   "volume": 0,
+   "title": "Tower of God 561",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c560",
+   "chapNum": 560,
+   "volume": 0,
+   "title": "Tower of God 560",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c559",
+   "chapNum": 559,
+   "volume": 0,
+   "title": "Tower of God 559",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c558",
+   "chapNum": 558,
+   "volume": 0,
+   "title": "Tower of God 558",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c557",
+   "chapNum": 557,
+   "volume": 0,
+   "title": "Tower of God 557",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c556",
+   "chapNum": 556,
+   "volume": 0,
+   "title": "Tower of God 556",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c555",
+   "chapNum": 555,
+   "volume": 0,
+   "title": "Tower of God 555",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c554",
+   "chapNum": 554,
+   "volume": 0,
+   "title": "Tower of God 554",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c553",
+   "chapNum": 553,
+   "volume": 0,
+   "title": "Tower of God 553",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c552",
+   "chapNum": 552,
+   "volume": 0,
+   "title": "Tower of God 552",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-03-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c551",
+   "chapNum": 551,
+   "volume": 0,
+   "title": "Tower of God 551",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-02-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c550.5",
+   "chapNum": 550.5,
+   "volume": 0,
+   "title": "Tower of God 550.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c550",
+   "chapNum": 550,
+   "volume": 0,
+   "title": "Tower of God 550",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c549",
+   "chapNum": 549,
+   "volume": 0,
+   "title": "Tower of God 549",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c548",
+   "chapNum": 548,
+   "volume": 0,
+   "title": "Tower of God 548",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c547",
+   "chapNum": 547,
+   "volume": 0,
+   "title": "Tower of God 547",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c546",
+   "chapNum": 546,
+   "volume": 0,
+   "title": "Tower of God 546",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c545",
+   "chapNum": 545,
+   "volume": 0,
+   "title": "Tower of God 545",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c544",
+   "chapNum": 544,
+   "volume": 0,
+   "title": "Tower of God 544",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c543",
+   "chapNum": 543,
+   "volume": 0,
+   "title": "Tower of God 543",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c542",
+   "chapNum": 542,
+   "volume": 0,
+   "title": "Tower of God 542",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c541",
+   "chapNum": 541,
+   "volume": 0,
+   "title": "Tower of God 541",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c540",
+   "chapNum": 540,
+   "volume": 0,
+   "title": "Tower of God 540",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c539",
+   "chapNum": 539,
+   "volume": 0,
+   "title": "Tower of God 539",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c538",
+   "chapNum": 538,
+   "volume": 0,
+   "title": "Tower of God 538",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c537",
+   "chapNum": 537,
+   "volume": 0,
+   "title": "Tower of God 537",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c536",
+   "chapNum": 536,
+   "volume": 0,
+   "title": "Tower of God 536",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c535",
+   "chapNum": 535,
+   "volume": 0,
+   "title": "Tower of God 535",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c534",
+   "chapNum": 534,
+   "volume": 0,
+   "title": "Tower of God 534",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c533",
+   "chapNum": 533,
+   "volume": 0,
+   "title": "Tower of God 533",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c532",
+   "chapNum": 532,
+   "volume": 0,
+   "title": "Tower of God 532",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c531",
+   "chapNum": 531,
+   "volume": 0,
+   "title": "Tower of God 531",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c530",
+   "chapNum": 530,
+   "volume": 0,
+   "title": "Tower of God 530",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c529",
+   "chapNum": 529,
+   "volume": 0,
+   "title": "Tower of God 529",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c528",
+   "chapNum": 528,
+   "volume": 0,
+   "title": "Tower of God 528",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c527",
+   "chapNum": 527,
+   "volume": 0,
+   "title": "Tower of God 527",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c526",
+   "chapNum": 526,
+   "volume": 0,
+   "title": "Tower of God 526",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c525",
+   "chapNum": 525,
+   "volume": 0,
+   "title": "Tower of God 525",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c524",
+   "chapNum": 524,
+   "volume": 0,
+   "title": "Tower of God 524",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c523",
+   "chapNum": 523,
+   "volume": 0,
+   "title": "Tower of God 523",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c522",
+   "chapNum": 522,
+   "volume": 0,
+   "title": "Tower of God 522",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c521",
+   "chapNum": 521,
+   "volume": 0,
+   "title": "Tower of God 521",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c520",
+   "chapNum": 520,
+   "volume": 0,
+   "title": "Tower of God 520",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c519",
+   "chapNum": 519,
+   "volume": 0,
+   "title": "Tower of God 519",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c518",
+   "chapNum": 518,
+   "volume": 0,
+   "title": "Tower of God 518",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c517",
+   "chapNum": 517,
+   "volume": 0,
+   "title": "Tower of God 517",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c516",
+   "chapNum": 516,
+   "volume": 0,
+   "title": "Tower of God 516",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c515",
+   "chapNum": 515,
+   "volume": 0,
+   "title": "Tower of God 515",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c514",
+   "chapNum": 514,
+   "volume": 0,
+   "title": "Tower of God 514",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c513",
+   "chapNum": 513,
+   "volume": 0,
+   "title": "Tower of God 513",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c512",
+   "chapNum": 512,
+   "volume": 0,
+   "title": "Tower of God 512",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c511",
+   "chapNum": 511,
+   "volume": 0,
+   "title": "Tower of God 511",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c510",
+   "chapNum": 510,
+   "volume": 0,
+   "title": "Tower of God 510",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c509",
+   "chapNum": 509,
+   "volume": 0,
+   "title": "Tower of God 509",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c508",
+   "chapNum": 508,
+   "volume": 0,
+   "title": "Tower of God 508",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c507",
+   "chapNum": 507,
+   "volume": 0,
+   "title": "Tower of God 507",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c506",
+   "chapNum": 506,
+   "volume": 0,
+   "title": "Tower of God 506",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c505",
+   "chapNum": 505,
+   "volume": 0,
+   "title": "Tower of God 505",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c504",
+   "chapNum": 504,
+   "volume": 0,
+   "title": "Tower of God 504",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c503",
+   "chapNum": 503,
+   "volume": 0,
+   "title": "Tower of God 503",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c502",
+   "chapNum": 502,
+   "volume": 0,
+   "title": "Tower of God 502",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c501",
+   "chapNum": 501,
+   "volume": 0,
+   "title": "Tower of God 501",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c500",
+   "chapNum": 500,
+   "volume": 0,
+   "title": "Tower of God 500",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c499",
+   "chapNum": 499,
+   "volume": 0,
+   "title": "Tower of God 499",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c498",
+   "chapNum": 498,
+   "volume": 0,
+   "title": "Tower of God 498",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c497",
+   "chapNum": 497,
+   "volume": 0,
+   "title": "Tower of God 497",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c496",
+   "chapNum": 496,
+   "volume": 0,
+   "title": "Tower of God 496",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c495",
+   "chapNum": 495,
+   "volume": 0,
+   "title": "Tower of God 495",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c494",
+   "chapNum": 494,
+   "volume": 0,
+   "title": "Tower of God 494",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c493",
+   "chapNum": 493,
+   "volume": 0,
+   "title": "Tower of God 493",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c492",
+   "chapNum": 492,
+   "volume": 0,
+   "title": "Tower of God 492",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c491",
+   "chapNum": 491,
+   "volume": 0,
+   "title": "Tower of God 491",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c490",
+   "chapNum": 490,
+   "volume": 0,
+   "title": "Tower of God 490",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c489",
+   "chapNum": 489,
+   "volume": 0,
+   "title": "Tower of God 489",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c488",
+   "chapNum": 488,
+   "volume": 0,
+   "title": "Tower of God 488",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c487",
+   "chapNum": 487,
+   "volume": 0,
+   "title": "Tower of God 487",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c486",
+   "chapNum": 486,
+   "volume": 0,
+   "title": "Tower of God 486",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c485",
+   "chapNum": 485,
+   "volume": 0,
+   "title": "Tower of God 485",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c484",
+   "chapNum": 484,
+   "volume": 0,
+   "title": "Tower of God 484",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c483",
+   "chapNum": 483,
+   "volume": 0,
+   "title": "Tower of God 483",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c482",
+   "chapNum": 482,
+   "volume": 0,
+   "title": "Tower of God 482",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-08-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c481",
+   "chapNum": 481,
+   "volume": 0,
+   "title": "Tower of God 481",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c480",
+   "chapNum": 480,
+   "volume": 0,
+   "title": "Tower of God 480",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c479",
+   "chapNum": 479,
+   "volume": 0,
+   "title": "Tower of God 479",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c478",
+   "chapNum": 478,
+   "volume": 0,
+   "title": "Tower of God 478",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c477",
+   "chapNum": 477,
+   "volume": 0,
+   "title": "Tower of God 477",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c476",
+   "chapNum": 476,
+   "volume": 0,
+   "title": "Tower of God 476",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c475",
+   "chapNum": 475,
+   "volume": 0,
+   "title": "Tower of God 475",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c474",
+   "chapNum": 474,
+   "volume": 0,
+   "title": "Tower of God 474",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c473",
+   "chapNum": 473,
+   "volume": 0,
+   "title": "Tower of God 473",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-04-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c472",
+   "chapNum": 472,
+   "volume": 0,
+   "title": "Tower of God 472",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c471",
+   "chapNum": 471,
+   "volume": 0,
+   "title": "Tower of God 471",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c470",
+   "chapNum": 470,
+   "volume": 0,
+   "title": "Tower of God 470",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c469",
+   "chapNum": 469,
+   "volume": 0,
+   "title": "Tower of God 469",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-06-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c468",
+   "chapNum": 468,
+   "volume": 0,
+   "title": "Tower of God 468",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c467",
+   "chapNum": 467,
+   "volume": 0,
+   "title": "Tower of God 467",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-03-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c466",
+   "chapNum": 466,
+   "volume": 0,
+   "title": "Tower of God 466",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c465",
+   "chapNum": 465,
+   "volume": 0,
+   "title": "Tower of God 465",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c464",
+   "chapNum": 464,
+   "volume": 0,
+   "title": "Tower of God 464",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c463",
+   "chapNum": 463,
+   "volume": 0,
+   "title": "Tower of God 463",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c462",
+   "chapNum": 462,
+   "volume": 0,
+   "title": "Tower of God 462",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c461",
+   "chapNum": 461,
+   "volume": 0,
+   "title": "Tower of God 461",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c460",
+   "chapNum": 460,
+   "volume": 0,
+   "title": "Tower of God 460",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c459",
+   "chapNum": 459,
+   "volume": 0,
+   "title": "Tower of God 459",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c458",
+   "chapNum": 458,
+   "volume": 0,
+   "title": "Tower of God 458",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c457",
+   "chapNum": 457,
+   "volume": 0,
+   "title": "Tower of God 457",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c456",
+   "chapNum": 456,
+   "volume": 0,
+   "title": "Tower of God 456",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c455",
+   "chapNum": 455,
+   "volume": 0,
+   "title": "Tower of God 455",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c454",
+   "chapNum": 454,
+   "volume": 0,
+   "title": "Tower of God 454",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c453",
+   "chapNum": 453,
+   "volume": 0,
+   "title": "Tower of God 453",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c452",
+   "chapNum": 452,
+   "volume": 0,
+   "title": "Tower of God 452",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c451",
+   "chapNum": 451,
+   "volume": 0,
+   "title": "Tower of God 451",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c450",
+   "chapNum": 450,
+   "volume": 0,
+   "title": "Tower of God 450",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-12-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c449",
+   "chapNum": 449,
+   "volume": 0,
+   "title": "Tower of God 449",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c448",
+   "chapNum": 448,
+   "volume": 0,
+   "title": "Tower of God 448",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c447",
+   "chapNum": 447,
+   "volume": 0,
+   "title": "Tower of God 447",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c446",
+   "chapNum": 446,
+   "volume": 0,
+   "title": "Tower of God 446",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c445",
+   "chapNum": 445,
+   "volume": 0,
+   "title": "Tower of God 445",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c444",
+   "chapNum": 444,
+   "volume": 0,
+   "title": "Tower of God 444",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c443",
+   "chapNum": 443,
+   "volume": 0,
+   "title": "Tower of God 443",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c442",
+   "chapNum": 442,
+   "volume": 0,
+   "title": "Tower of God 442",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c441",
+   "chapNum": 441,
+   "volume": 0,
+   "title": "Tower of God 441",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c440",
+   "chapNum": 440,
+   "volume": 0,
+   "title": "Tower of God 440",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c439",
+   "chapNum": 439,
+   "volume": 0,
+   "title": "Tower of God 439",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c438",
+   "chapNum": 438,
+   "volume": 0,
+   "title": "Tower of God 438",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c437",
+   "chapNum": 437,
+   "volume": 0,
+   "title": "Tower of God 437",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c436",
+   "chapNum": 436,
+   "volume": 0,
+   "title": "Tower of God 436",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c435",
+   "chapNum": 435,
+   "volume": 0,
+   "title": "Tower of God 435",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-09-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c434",
+   "chapNum": 434,
+   "volume": 0,
+   "title": "Tower of God 434",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c433",
+   "chapNum": 433,
+   "volume": 0,
+   "title": "Tower of God 433",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c432",
+   "chapNum": 432,
+   "volume": 0,
+   "title": "Tower of God 432",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c431",
+   "chapNum": 431,
+   "volume": 0,
+   "title": "Tower of God 431",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c430",
+   "chapNum": 430,
+   "volume": 0,
+   "title": "Tower of God 430",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c429",
+   "chapNum": 429,
+   "volume": 0,
+   "title": "Tower of God 429",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c428",
+   "chapNum": 428,
+   "volume": 0,
+   "title": "Tower of God 428",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c427",
+   "chapNum": 427,
+   "volume": 0,
+   "title": "Tower of God 427",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c426",
+   "chapNum": 426,
+   "volume": 0,
+   "title": "Tower of God 426",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c425",
+   "chapNum": 425,
+   "volume": 0,
+   "title": "Tower of God 425",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c424",
+   "chapNum": 424,
+   "volume": 0,
+   "title": "Tower of God 424",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c423",
+   "chapNum": 423,
+   "volume": 0,
+   "title": "Tower of God 423",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c422",
+   "chapNum": 422,
+   "volume": 0,
+   "title": "Tower of God 422",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c421",
+   "chapNum": 421,
+   "volume": 0,
+   "title": "Tower of God 421",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c420",
+   "chapNum": 420,
+   "volume": 0,
+   "title": "Tower of God 420",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c419",
+   "chapNum": 419,
+   "volume": 0,
+   "title": "Tower of God 419",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c418",
+   "chapNum": 418,
+   "volume": 0,
+   "title": "Tower of God 418 3-1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c417",
+   "chapNum": 417,
+   "volume": 0,
+   "title": "Tower of God 417",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c416",
+   "chapNum": 416,
+   "volume": 0,
+   "title": "Tower of God 416",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c415",
+   "chapNum": 415,
+   "volume": 0,
+   "title": "Tower of God 415",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c414",
+   "chapNum": 414,
+   "volume": 0,
+   "title": "Tower of God 414",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2019-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c413",
+   "chapNum": 413,
+   "volume": 0,
+   "title": "Tower of God 413",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c412",
+   "chapNum": 412,
+   "volume": 0,
+   "title": "Tower of God 412",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c411",
+   "chapNum": 411,
+   "volume": 0,
+   "title": "Tower of God 411",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c410",
+   "chapNum": 410,
+   "volume": 0,
+   "title": "Tower of God 410",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c409",
+   "chapNum": 409,
+   "volume": 0,
+   "title": "Tower of God 409",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c408",
+   "chapNum": 408,
+   "volume": 0,
+   "title": "Tower of God 408",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c407",
+   "chapNum": 407,
+   "volume": 0,
+   "title": "Tower of God 407",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c406",
+   "chapNum": 406,
+   "volume": 0,
+   "title": "Tower of God 406",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c405",
+   "chapNum": 405,
+   "volume": 0,
+   "title": "Tower of God 405",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c404",
+   "chapNum": 404,
+   "volume": 0,
+   "title": "Tower of God 404",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c403",
+   "chapNum": 403,
+   "volume": 0,
+   "title": "Tower of God 403",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c402",
+   "chapNum": 402,
+   "volume": 0,
+   "title": "Tower of God 402",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c401",
+   "chapNum": 401,
+   "volume": 0,
+   "title": "Tower of God 401",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c400",
+   "chapNum": 400,
+   "volume": 0,
+   "title": "Tower of God 400",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c399",
+   "chapNum": 399,
+   "volume": 0,
+   "title": "Tower of God 399",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c398",
+   "chapNum": 398,
+   "volume": 0,
+   "title": "Tower of God 398",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c397",
+   "chapNum": 397,
+   "volume": 0,
+   "title": "Tower of God 397",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c396",
+   "chapNum": 396,
+   "volume": 0,
+   "title": "Tower of God 396",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c395",
+   "chapNum": 395,
+   "volume": 0,
+   "title": "Tower of God 395",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c394",
+   "chapNum": 394,
+   "volume": 0,
+   "title": "Tower of God 394",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c393",
+   "chapNum": 393,
+   "volume": 0,
+   "title": "Tower of God 393",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c392",
+   "chapNum": 392,
+   "volume": 0,
+   "title": "Tower of God 392",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c391",
+   "chapNum": 391,
+   "volume": 0,
+   "title": "Tower of God 391",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c390",
+   "chapNum": 390,
+   "volume": 0,
+   "title": "Tower of God 390",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c389",
+   "chapNum": 389,
+   "volume": 0,
+   "title": "Tower of God 389",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c388",
+   "chapNum": 388,
+   "volume": 0,
+   "title": "Tower of God 388",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c387",
+   "chapNum": 387,
+   "volume": 0,
+   "title": "Tower of God 387",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c386",
+   "chapNum": 386,
+   "volume": 0,
+   "title": "Tower of God 386",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c385",
+   "chapNum": 385,
+   "volume": 0,
+   "title": "Tower of God 385",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c384",
+   "chapNum": 384,
+   "volume": 0,
+   "title": "Tower of God 384",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c383",
+   "chapNum": 383,
+   "volume": 0,
+   "title": "Tower of God 383",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c382",
+   "chapNum": 382,
+   "volume": 0,
+   "title": "Tower of God 382",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c381",
+   "chapNum": 381,
+   "volume": 0,
+   "title": "Tower of God 381",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c380",
+   "chapNum": 380,
+   "volume": 0,
+   "title": "Tower of God 380 [Season 2] Ep. 300",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c379",
+   "chapNum": 379,
+   "volume": 0,
+   "title": "Tower of God 379 [Season 2] Ep. 299",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c378",
+   "chapNum": 378,
+   "volume": 0,
+   "title": "Tower of God 378 [Season 2] Ep. 298",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c377",
+   "chapNum": 377,
+   "volume": 0,
+   "title": "Tower of God 377 [Season 2] Ep. 297",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c376",
+   "chapNum": 376,
+   "volume": 0,
+   "title": "Tower of God 376 [Season 2] Ep. 296",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c375",
+   "chapNum": 375,
+   "volume": 0,
+   "title": "Tower of God 375 [Season 2] Ep. 295",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c374",
+   "chapNum": 374,
+   "volume": 0,
+   "title": "Tower of God 374 [Season 2] Ep. 294",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-05-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c373",
+   "chapNum": 373,
+   "volume": 0,
+   "title": "Tower of God 373",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c372",
+   "chapNum": 372,
+   "volume": 0,
+   "title": "Tower of God 372",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c371",
+   "chapNum": 371,
+   "volume": 0,
+   "title": "Tower of God 371",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c370",
+   "chapNum": 370,
+   "volume": 0,
+   "title": "Tower of God 370",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c369",
+   "chapNum": 369,
+   "volume": 0,
+   "title": "Tower of God 369",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c368",
+   "chapNum": 368,
+   "volume": 0,
+   "title": "Tower of God 368",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c367",
+   "chapNum": 367,
+   "volume": 0,
+   "title": "Tower of God 367",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-02-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c366",
+   "chapNum": 366,
+   "volume": 0,
+   "title": "Tower of God 366",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c365",
+   "chapNum": 365,
+   "volume": 0,
+   "title": "Tower of God 365",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c364",
+   "chapNum": 364,
+   "volume": 0,
+   "title": "Tower of God 364",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c363",
+   "chapNum": 363,
+   "volume": 0,
+   "title": "Tower of God 363",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c362",
+   "chapNum": 362,
+   "volume": 0,
+   "title": "Tower of God 362",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c361",
+   "chapNum": 361,
+   "volume": 0,
+   "title": "Tower of God 361",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c360",
+   "chapNum": 360,
+   "volume": 0,
+   "title": "Tower of God 360",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-12-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c359",
+   "chapNum": 359,
+   "volume": 0,
+   "title": "Tower of God 359",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c358",
+   "chapNum": 358,
+   "volume": 0,
+   "title": "Tower of God 358",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2018-01-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c357",
+   "chapNum": 357,
+   "volume": 0,
+   "title": "Tower of God 357",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c356",
+   "chapNum": 356,
+   "volume": 0,
+   "title": "Tower of God 356",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c355",
+   "chapNum": 355,
+   "volume": 0,
+   "title": "Tower of God 355",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c354",
+   "chapNum": 354,
+   "volume": 0,
+   "title": "Tower of God 354",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-11-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c353",
+   "chapNum": 353,
+   "volume": 0,
+   "title": "Tower of God 353",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c352",
+   "chapNum": 352,
+   "volume": 0,
+   "title": "Tower of God 352",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c351",
+   "chapNum": 351,
+   "volume": 0,
+   "title": "Tower of God 351",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c350",
+   "chapNum": 350,
+   "volume": 0,
+   "title": "Tower of God 350",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c349",
+   "chapNum": 349,
+   "volume": 0,
+   "title": "Tower of God 349",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c348",
+   "chapNum": 348,
+   "volume": 0,
+   "title": "Tower of God 348",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c347",
+   "chapNum": 347,
+   "volume": 0,
+   "title": "Tower of God 347",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c346",
+   "chapNum": 346,
+   "volume": 0,
+   "title": "Tower of God 346",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c345",
+   "chapNum": 345,
+   "volume": 0,
+   "title": "Tower of God 345 [Season 2] Ep. 265",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c344",
+   "chapNum": 344,
+   "volume": 0,
+   "title": "Tower of God 344",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c343",
+   "chapNum": 343,
+   "volume": 0,
+   "title": "Tower of God 343",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c342",
+   "chapNum": 342,
+   "volume": 0,
+   "title": "Tower of God 342",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c341",
+   "chapNum": 341,
+   "volume": 0,
+   "title": "Tower of God 341",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c340",
+   "chapNum": 340,
+   "volume": 0,
+   "title": "Tower of God 340",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c339",
+   "chapNum": 339,
+   "volume": 0,
+   "title": "Tower of God 339",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c338",
+   "chapNum": 338,
+   "volume": 0,
+   "title": "Tower of God 338",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c337",
+   "chapNum": 337,
+   "volume": 0,
+   "title": "Tower of God 337",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-07-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c336",
+   "chapNum": 336,
+   "volume": 0,
+   "title": "Tower of God 336",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c335",
+   "chapNum": 335,
+   "volume": 0,
+   "title": "Tower of God 335",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c334",
+   "chapNum": 334,
+   "volume": 0,
+   "title": "Tower of God 334",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c333",
+   "chapNum": 333,
+   "volume": 0,
+   "title": "Tower of God 333",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c332",
+   "chapNum": 332,
+   "volume": 0,
+   "title": "Tower of God 332 v.2 c.252",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c331",
+   "chapNum": 331,
+   "volume": 0,
+   "title": "Tower of God 331",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c330",
+   "chapNum": 330,
+   "volume": 0,
+   "title": "Tower of God 330",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c329",
+   "chapNum": 329,
+   "volume": 0,
+   "title": "Tower of God 329",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c328",
+   "chapNum": 328,
+   "volume": 0,
+   "title": "Tower of God 328",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c327",
+   "chapNum": 327,
+   "volume": 0,
+   "title": "Tower of God 327",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c326",
+   "chapNum": 326,
+   "volume": 0,
+   "title": "Tower of God 326",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c325",
+   "chapNum": 325,
+   "volume": 0,
+   "title": "Tower of God 325",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c324",
+   "chapNum": 324,
+   "volume": 0,
+   "title": "Tower of God 324",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c323",
+   "chapNum": 323,
+   "volume": 0,
+   "title": "Tower of God 323",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c322",
+   "chapNum": 322,
+   "volume": 0,
+   "title": "Tower of God 322",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c321",
+   "chapNum": 321,
+   "volume": 0,
+   "title": "Tower of God 321",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c320",
+   "chapNum": 320,
+   "volume": 0,
+   "title": "Tower of God 320",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c319",
+   "chapNum": 319,
+   "volume": 0,
+   "title": "Tower of God 319",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c318",
+   "chapNum": 318,
+   "volume": 0,
+   "title": "Tower of God 318",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c317",
+   "chapNum": 317,
+   "volume": 0,
+   "title": "Tower of God 317",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c316",
+   "chapNum": 316,
+   "volume": 0,
+   "title": "Tower of God 316",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-02-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c315",
+   "chapNum": 315,
+   "volume": 0,
+   "title": "Tower of God 315",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c314",
+   "chapNum": 314,
+   "volume": 0,
+   "title": "Tower of God 314",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c313",
+   "chapNum": 313,
+   "volume": 0,
+   "title": "Tower of God 313",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c312",
+   "chapNum": 312,
+   "volume": 0,
+   "title": "Tower of God 312",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c311",
+   "chapNum": 311,
+   "volume": 0,
+   "title": "Tower of God 311",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2017-01-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c310",
+   "chapNum": 310,
+   "volume": 0,
+   "title": "Tower of God 310",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c309",
+   "chapNum": 309,
+   "volume": 0,
+   "title": "Tower of God 309",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c308",
+   "chapNum": 308,
+   "volume": 0,
+   "title": "Tower of God 308",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c307",
+   "chapNum": 307,
+   "volume": 0,
+   "title": "Tower of God 307",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-12-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c306",
+   "chapNum": 306,
+   "volume": 0,
+   "title": "Tower of God 306",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c305",
+   "chapNum": 305,
+   "volume": 0,
+   "title": "Tower of God 305",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c304",
+   "chapNum": 304,
+   "volume": 0,
+   "title": "Tower of God 304",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c303",
+   "chapNum": 303,
+   "volume": 0,
+   "title": "Tower of God 303",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c302",
+   "chapNum": 302,
+   "volume": 0,
+   "title": "Tower of God 302",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c301",
+   "chapNum": 301,
+   "volume": 0,
+   "title": "Tower of God 301",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c300",
+   "chapNum": 300,
+   "volume": 0,
+   "title": "Tower of God 300",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c299",
+   "chapNum": 299,
+   "volume": 0,
+   "title": "Tower of God 299",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c298",
+   "chapNum": 298,
+   "volume": 0,
+   "title": "Tower of God 298",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-10-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c297",
+   "chapNum": 297,
+   "volume": 0,
+   "title": "Tower of God 297",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c296",
+   "chapNum": 296,
+   "volume": 0,
+   "title": "Tower of God 296",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c295",
+   "chapNum": 295,
+   "volume": 0,
+   "title": "Tower of God 295",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c294",
+   "chapNum": 294,
+   "volume": 0,
+   "title": "Tower of God 294",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-09-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c293",
+   "chapNum": 293,
+   "volume": 0,
+   "title": "Tower of God 293",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c292",
+   "chapNum": 292,
+   "volume": 0,
+   "title": "Tower of God 292",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c291",
+   "chapNum": 291,
+   "volume": 0,
+   "title": "Tower of God 291",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c290",
+   "chapNum": 290,
+   "volume": 0,
+   "title": "Tower of God 290",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c289",
+   "chapNum": 289,
+   "volume": 0,
+   "title": "Tower of God 289",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c288",
+   "chapNum": 288,
+   "volume": 0,
+   "title": "Tower of God 288",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c287",
+   "chapNum": 287,
+   "volume": 0,
+   "title": "Tower of God 287",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c286",
+   "chapNum": 286,
+   "volume": 0,
+   "title": "Tower of God 286",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c285",
+   "chapNum": 285,
+   "volume": 0,
+   "title": "Tower of God 285",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c284",
+   "chapNum": 284,
+   "volume": 0,
+   "title": "Tower of God 284",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c283",
+   "chapNum": 283,
+   "volume": 0,
+   "title": "Tower of God 283",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c282",
+   "chapNum": 282,
+   "volume": 0,
+   "title": "Tower of God 282",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c281",
+   "chapNum": 281,
+   "volume": 0,
+   "title": "Tower of God 281",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c280",
+   "chapNum": 280,
+   "volume": 0,
+   "title": "Tower of God 280",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c279",
+   "chapNum": 279,
+   "volume": 0,
+   "title": "Tower of God 279",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c278",
+   "chapNum": 278,
+   "volume": 0,
+   "title": "Tower of God 278",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c277",
+   "chapNum": 277,
+   "volume": 0,
+   "title": "Tower of God 277",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c276",
+   "chapNum": 276,
+   "volume": 0,
+   "title": "Tower of God 276",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-05-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c275",
+   "chapNum": 275,
+   "volume": 0,
+   "title": "Tower of God 275",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c274",
+   "chapNum": 274,
+   "volume": 0,
+   "title": "Tower of God 274",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c273",
+   "chapNum": 273,
+   "volume": 0,
+   "title": "Tower of God 273",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c272",
+   "chapNum": 272,
+   "volume": 0,
+   "title": "Tower of God 272",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-03-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c271",
+   "chapNum": 271,
+   "volume": 0,
+   "title": "Tower of God 271",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-02-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c270",
+   "chapNum": 270,
+   "volume": 0,
+   "title": "Tower of God 270",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-02-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c269",
+   "chapNum": 269,
+   "volume": 0,
+   "title": "Tower of God 269",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-02-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c268",
+   "chapNum": 268,
+   "volume": 0,
+   "title": "Tower of God 268",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-02-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c267",
+   "chapNum": 267,
+   "volume": 0,
+   "title": "Tower of God 267",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c266",
+   "chapNum": 266,
+   "volume": 0,
+   "title": "Tower of God 266 38F - The Hell Train -The Dallar Show- (15)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c265",
+   "chapNum": 265,
+   "volume": 0,
+   "title": "Tower of God 265 38F - The Hell Train -The Dallar Show- (14)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c264",
+   "chapNum": 264,
+   "volume": 0,
+   "title": "Tower of God 264 38F - The Hell Train -The Dallar Show- (13)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c263",
+   "chapNum": 263,
+   "volume": 0,
+   "title": "Tower of God 263 38F - The Hell Train -The Dallar Show- (12)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2016-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c262.2",
+   "chapNum": 262.2,
+   "volume": 0,
+   "title": "Tower of God 262.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c262",
+   "chapNum": 262,
+   "volume": 0,
+   "title": "Tower of God 262 38F - The Hell Train -The Dallar Show- (11)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c261",
+   "chapNum": 261,
+   "volume": 0,
+   "title": "Tower of God 261 38F - The Hell Train -The Dallar Show- (10)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c260",
+   "chapNum": 260,
+   "volume": 0,
+   "title": "Tower of God 260 38F - The Hell Train -The Dallar Show- (09)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c259",
+   "chapNum": 259,
+   "volume": 0,
+   "title": "Tower of God 259 38F - The Hell Train -The Dallar Show- (08)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c258",
+   "chapNum": 258,
+   "volume": 0,
+   "title": "Tower of God 258 38F - The Hell Train -The Dallar Show- (07)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c257",
+   "chapNum": 257,
+   "volume": 0,
+   "title": "Tower of God 257 38F - The Hell Train -The Dallar Show- (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c256",
+   "chapNum": 256,
+   "volume": 0,
+   "title": "Tower of God 256 38F - The Hell Train -The Dallar Show- (05)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c255",
+   "chapNum": 255,
+   "volume": 0,
+   "title": "Tower of God 255 38F - The Hell Train -The Dallar Show- (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c254",
+   "chapNum": 254,
+   "volume": 0,
+   "title": "Tower of God 254 38F - The Hell Train -The Dallar Show- (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-11-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c253",
+   "chapNum": 253,
+   "volume": 0,
+   "title": "Tower of God 253 38F - The Hell Train -The Dallar Show- (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c252",
+   "chapNum": 252,
+   "volume": 0,
+   "title": "Tower of God 252 38F - The Hell Train -The Dallar Show- (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c251",
+   "chapNum": 251,
+   "volume": 0,
+   "title": "Tower of God 251 38F - The Hell Train -A Month- (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c250",
+   "chapNum": 250,
+   "volume": 0,
+   "title": "Tower of God 250 38F - The Hell Train -A Month- (05)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-10-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c249",
+   "chapNum": 249,
+   "volume": 0,
+   "title": "Tower of God 249 37F - The Hell Train -A Month- (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c248",
+   "chapNum": 248,
+   "volume": 0,
+   "title": "Tower of God 248 37F - The Hell Train -A Month- (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c247",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "Tower of God 247 37F - The Hell Train -A Month- (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c246",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "Tower of God 246 37F - The Hell Train -A Month- (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-09-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c245",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "Tower of God 245 37F - The Hell Train -Wooden Horse- (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c244",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "Tower of God 244 37F - The Hell Train -Wooden Horse- 05",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c243",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "Tower of God 243 37F - The Hell Train -Wooden Horse- 04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c242",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "Tower of God 242 37F - The Hell Train -Wooden Horse- 03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c241",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "Tower of God 241 37F - The Hell Train -Wooden Horse- 02(Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-08-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c240",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "Tower of God 240 37F - The Hell Train -Wooden Horse- 01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c239",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "Tower of God 239 36F - The Hell Train -Hoaqin- 07",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-07-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c238",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "Tower of God 238 36F - The Hell Train -Hoaqin- 06",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-07-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c237",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "Tower of God 237 36F - The Hell Train -Hoaqin- 05",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c236",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "Tower of God 236 36F - The Hell Train -Hoaqin- 04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c235",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "Tower of God 235 36F - The Hell Train- Hoaqin- 03(fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c234",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "Tower of God 234 36F - The Hell Train- Hoaqin- 02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-06-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c233",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "Tower of God 233 36F - The Hell Train- Hoaqin- 01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-06-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c232",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "Tower of God 232 30F - The Hell Train-Revolution Road-39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c231",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "Tower of God 231 30F - The Hell Train-Revolution Road-38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-05-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c230",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "Tower of God 230 The Hell Train-Revolution Road-37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-05-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c229",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "Tower of God 229 The Hell Train-Revolution Road-36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-05-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c228",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "Tower of God 228 The Hell Train-Revolution Road-35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c227",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "Tower of God 227 The Hell Train-Revolution Road-34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c226",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "Tower of God 226 The Hell Train-Revolution Road-33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c225",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "Tower of God 225 The Hell Train-Revolution Road-32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c224",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "Tower of God 224 The Hell Train-Revolution Road-31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-03-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c223",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "Tower of God 223 The Hell Train - Revolution Road-30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-03-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c222",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "Tower of God 222 The Hell Train - Revolution Road-29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-03-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c221",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "Tower of God 221 The Hell Train-Revolution Road-28",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c220",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "Tower of God 220 The Hell Train - Revolution Road-27",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c219",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "Tower of God 219 The Hell Train-Revolution Road-26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c218",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "Tower of God 218 The Hell Train-Revolution Road-25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-04-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c217",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "Tower of God 217 The Hell Train-Revolution Road-24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-02-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c216",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "Tower of God 216 The Hell Train-Revolution Road-23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-02-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c215",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "Tower of God 215 The Hell Train-Revolution Road-22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c214",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "Tower of God 214 The Hell Train-Revolution Road-21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-01-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c213",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "Tower of God 213 The Hell Train-Revolution Road-20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-01-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c212",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "Tower of God 212 The Hell Train-Revolution Road-19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2015-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c211",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "Tower of God 211 The Hell Train-Revolution Road-18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-12-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c210",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "Tower of God 210 The Hell Train-Revolution Road-17 (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c209",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "Tower of God 209 The Hell Train-Revolution Road-17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-12-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c208",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "Tower of God 208 The Hell Train-Revolution Road-16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-12-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c207",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "Tower of God 207 The Hell Train-Revolution Road-15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c206",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "Tower of God 206 The Hell Train-Revolution Road-14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-11-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c205",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "Tower of God 205 The Hell Train-Revolution Road-13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c204",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "Tower of God 204 The Hell Train-Revolution Road-12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-11-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c203",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "Tower of God 203 The Hell Train-Revolution Road-11 (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-11-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c202",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "Tower of God 202 The Hell Train-Revolution Road-10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-10-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c201",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "Tower of God 201 The Hell Train-Revolution Road-09",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c200",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "Tower of God 200 The Hell Train-Revolution Road-08",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-10-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c199",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "Tower of God 199 The Hell Train-Revolution Road-07",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-10-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c198",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "Tower of God 198 The Hell Train-Revolution Road-06 (Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-09-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c197",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "Tower of God 197 The Hell Train-Revolution Road-05",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-09-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c196",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "Tower of God 196 The Hell Train-Revolution Road-04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c195",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "Tower of God 195 The Hell Train-Revolution Road-03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c194",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "Tower of God 194 The Hell Train-Revolution Road-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c193",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "Tower of God 193 The Hell Train-Revolution Road-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c192",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "Tower of God 192 The Hell Train-Prologue-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c191",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "Tower of God 191 The Hell Train-Prologue-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c190",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "Tower of God 190 The Workshop Tournament-Conclusion-03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-05-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c189",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "Tower of God 189 The Workshop Tournament-Conclusion-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-04-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c188",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "Tower of God 188 The Workshop Tournament-Conclusion-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-04-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c187",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "Tower of God 187 The Workshop Battle – Conclusion–13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c186",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "Tower of God 186 The Workshop Battle – Conclusion–12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-04-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c185",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "Tower of God 185 The Workshop Battle – Conclusion–11(Fixed)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-03-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c184",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "Tower of God 184 The Workshop Battle – Conclusion–10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c183",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "Tower of God 183 The Workshop Battle – Conclusion–09",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-03-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c182",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "Tower of God 182 The Workshop Battle – Conclusion–08",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-03-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c181",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "Tower of God 181 The Workshop Battle – Conclusion–07",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c180",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "Tower of God 180 The Workshop Battle – Conclusion–06",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c179",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "Tower of God 179 The Workshop Battle – Conclusion–05",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c178",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "Tower of God 178 The Workshop Battle – Conclusion–04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-02-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c177",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "Tower of God 177 The Workshop Battle – Conclusion–03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c176",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "Tower of God 176 The Workshop Battle – Conclusion–02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c175",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "Tower of God 175 The Workshop Battle – Conclusion–01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c174",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "Tower of God 174 The Workshop Battle – Summon–04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2014-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c173",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "Tower of God 173 The Workshop Battle – Summon–03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c172",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "Tower of God 172 The Workshop Battle – Summon–02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c171",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "Tower of God 171 The Workshop Battle – Summon–01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c170",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "Tower of God 170 The Workshop Battle-Thorn-06",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c169",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "Tower of God 169 The Workshop Battle-Thorn-05",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-12-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c168",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "Tower of God 168 The Workshop Battle-Thorn-04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-11-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "Tower of God 167 The Workshop Battle-Thorn-03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-11-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "Tower of God 166 The Workshop Battle-Thorn-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "Tower of God 165 The Workshop Battle-Thorn-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-11-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "Tower of God 164 The Workshop Battle-Tournament-04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "Tower of God 163 The Workshop Battle-Tournament-03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "Tower of God 162 The Workshop Battle-Tournament-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "Tower of God 161 The Workshop Battle-Tournament-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-09-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "Tower of God 160 The Workshop Battle-The Truth-04",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-09-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "Tower of God 159 The Workshop Battle-The Truth-03",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "Tower of God 158 The Workshop Battle-The Truth-02",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-09-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "Tower of God 157 The Workshop Battle-The Truth-01",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "Tower of God 156 The Workshop Battle-Battle X Gamble- (8)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-08-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "Tower of God 155 The Workshop Battle-Battle X Gamble- (7)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-08-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "Tower of God 154 The Workshop Battle-Battle X Gamble- (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "Tower of God 153 The Workshop Battle-Battle X Gamble- (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "Tower of God 152 The Workshop Battle-Battle X Gamble- (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-07-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "Tower of God 151 The Workshop Battle-Battle X Gamble- (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-07-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "Tower of God 150 The Workshop Battle-Battle X Gamble- (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-07-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "Tower of God 149 The Workshop Battle-Battle X Gamble- (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "Tower of God 148 The Workshop Battle –Archimedes– (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "Tower of God 147 30F--The Workshop Battle-Archimedes",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "Tower of God 146 30F – The Workshop Battle -One Shot, One Opportunity- (08) – End",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "Tower of God 145 30F – One Shot, One Opportunity (End)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "Tower of God 144 30F – The Workshop Battle -One Shot, One Opportunity- (07)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-05-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "Tower of God 143 30F – The Workshop Battle -One Shot, One Opportunity- (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-05-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "Tower of God 142 30F – The Workshop Battle -One Shot, One Opportunity- (05)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "Tower of God 141 The Tournament-One Shot Opportunity(4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "Tower of God 140 The Tournament-One Shot Opportunity(3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "Tower of God 139 The Tournament-One Shot Opportunity(2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "Tower of God 138 The Tournament-One Shot Opportunity(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "Tower of God 137 The Tournament (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "Tower of God 136 Factory Round",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "Tower of God 135 Bet (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "Tower of God 134 Bet (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-03-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "Tower of God 133 Bet (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "Tower of God 132 Bet (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "Tower of God 131 The Devil of the Right Arm (10)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "Tower of God 130 The Devil of the Right Arm (09)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Tower of God 129 The Devil of the Right Arm (08)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-01-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "Tower of God 128 The Devil of the Right Arm (07)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "Tower of God 127 The Devil of the Right Arm (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "Tower of God 126 The Devil of the Right Arm (05)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Tower of God 125 The Devil of the Right Arm (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-02-03T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Tower of God 124 The Devil of the Right Arm (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-12-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Tower of God 123 The Devil of the Right Arm (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Tower of God 122 The Devil of the Right Arm (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-12-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "Tower of God 121 29F - Connection - End -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "Tower of God 120 Connection (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Tower of God 119 Connection (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-11-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Tower of God 118 The Workshop Battle - Prologue: Emile",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Tower of God 117 Extra Floor – The Suspicious Arcade",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Tower of God 116 Extra Floor – Slayer",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Tower of God 115 Path (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Tower of God 114 21 F Epilogue Path(1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-10-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "Tower of God 113 Flower of Zygaena (5) - End -",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Tower of God 112 21F The Flower of Zygaena",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Tower of God 111 Flower of Zygaena (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Tower of God 110 Flower of Zygaena (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-09-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "Tower of God 109 Flower of Zygaena (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "Tower of God 108 FUG (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Tower of God 107 FUG (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Tower of God 106 FUG (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-08-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Tower of God 105 Completing Fences (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-07-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "Tower of God 104 Knot of Wool (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-07-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Tower of God 103 Knot of Wool (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-07-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Tower of God 102 Epilogue",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Tower of God 101 The Preys (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Tower of God 100 The Preys (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c099",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Tower of God 99 The Preys (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c098",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Tower of God 98 The Untrustworthy Room (08)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-06-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c097",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Tower of God 97 The Untrustworthy Room (07)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-05-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c096",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "Tower of God 96 The Untrustworthy Room (06)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-05-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c095",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "Tower of God 95 20F – The Untrustworthy Room (05)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-05-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c094",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "Tower of God 94 The Untrustworthy Room (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c093",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Tower of God 93 The Untrustworthy Room (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-05-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c092",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "Tower of God 92 The Untrustworthy Room (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c091",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Tower of God 91 The Untrustworthy Room (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c090",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Tower of God 90 20F – Bath (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-04-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c089",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "Tower of God 89 20F – Bath (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-04-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c088",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Tower of God 88 20F - The Strongest Regular (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-03-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c087",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Tower of God 87 20F - The Strongest Regular (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-03-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c086",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Tower of God 86 20F - The Strongest Regular (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-03-17T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c085",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Tower of God 85 20F - Last Chance (5) -End-",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-03-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c084",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Tower of God 84 20F – Last Chance – (04)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c083",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Tower of God 83 20F – Last Chance – (03)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c082",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Tower of God 82 20F – Last Chance – (02)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c081",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Tower of God 81 20F – Last Chance – (01)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c080",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Tower of God 80 Season 2: Prologue",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2013-06-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c079",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "Tower of God 79 Season 1 - epilogue",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c078",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "Tower of God 78 2F - Epilogue -Rachel- (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2012-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c077",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Tower of God 77 2F - Epilogue -Rachel- (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-12-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c076",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Tower of God 76 2F - Epilogue -Rachel- (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-12-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c075",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "Tower of God 75 2F - Epilogue -Rachel- (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c074",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Tower of God 74 2F - Last Examination (18)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c073",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Tower of God 73 2F - Last Examination (17)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c072",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Tower of God 72 2F - Last Examination (16)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c071",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Tower of God 71 2F - Last Examination (15)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-11-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c070",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Tower of God 70 2F - Last Examination (14)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c069",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Tower of God 69 2F - Last Examination (13)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c068",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Tower of God 68 2F - Last Examination (12)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c067",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Tower of God 67 2F - Last Examination (11)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c066",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "Tower of God 66 2F - Last Examination (10)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c065",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "Tower of God 65 2F - Last Examination (9)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c064",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Tower of God 64 2F - Last Examination (8)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c063",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "Tower of God 63 2F - Last Examination (7)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c062",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Tower of God 62 2F - Last Examination (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c061",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Tower of God 61 2F - Last Examination (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-09-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c060",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Tower of God 60 2F - Last Examination (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-08-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c059",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Tower of God 59 2F - Last Examination (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-08-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c058",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Tower of God 58 2F - Last Examination (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-08-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c057",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Tower of God 57 2F - Last Examination (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c056",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Tower of God 56 2F - Submerged Fish (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c055",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Tower of God 55 2F - Submerged Fish (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c054",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Tower of God 54 2F - Submerged Fish (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c053",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Tower of God 53 2F - Submerged Fish (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c052",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Tower of God 52 2F - Submerged Fish (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c051",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Tower of God 51 2F - Hide-and-Seek (17)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c050",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Tower of God 50 2F - Hide-and-Seek (16)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c049",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Tower of God 49 2F - Hide-and-Seek (15)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c048",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Tower of God 48 2F - Hide-and-Seek (14)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c047",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Tower of God 47 2F - Hide-and-Seek (13)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c046",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "Tower of God 46 2F - Hide-and-Seek (12)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-05-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c045",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Tower of God 45 2F - Hide-and-Seek (11)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-05-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c044",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "Tower of God 44 2F - Hide-and-Seek (10)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c043",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Tower of God 43 2F - Hide-and-Seek (9)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c042",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Tower of God 42 Hide and seek",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c041",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Tower of God 41 2F - Hide-and-Seek (7)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c040",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Tower of God 40 2F - Hide-and-Seek (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c039",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Tower of God 39 2F - Hide-and-Seek (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-04-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c038",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Tower of God 38 2F - Hide-and-Seek (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-03-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c037",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "Tower of God 37 2F - Hide-and-Seek (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c036",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Tower of God 36 2F - Hide-and-Seek (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c035",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Tower of God 35 2F - Hide-and-Seek (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c034.4",
+   "chapNum": 34.4,
+   "volume": 0,
+   "title": "Tower of God 34.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c034",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Tower of God 34 2F - Zahard’s Princess (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c033",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Tower of God 33 2F - Zahard’s Princess (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c032",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Tower of God 32 2F - Zahard’s Princess (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-02-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c031",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Tower of God 31 2F - Zahard’s Princess (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-02-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c030",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Tower of God 30 2F - Position Test (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-01-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c029",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "Tower of God 29 2F - Position Test (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-01-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c028",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Tower of God 28 2F - Position Test (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-01-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c027",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Tower of God 27 2F - Rest (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-01-09T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c026",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Tower of God 26 2F - Rest (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2011-01-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c025",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Tower of God 25 2F - Crown Game (End)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c024",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Tower of God 24 2F - Crown Game (11)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c023",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Tower of God 23 2F - Crown Game (10)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-12-10T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c022",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Tower of God 22 2F - Crown Game (9)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-30T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c021",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Tower of God 21 2F - Crown Game (8)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c020",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Tower of God 20 2F - Crown Game (7)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c019",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Tower of God 19 2F - Crown Game (6)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c018",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Tower of God 18 2F - Crown Game (5)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c017",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Tower of God 17 2F - Crown Game (4)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c016",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Tower of God 16 2F - Crown Game (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c015",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Tower of God 15 2F - Crown Game (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c014",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Tower of God 14 2F - Crown Game (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c013",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Tower of God 13 2F - Yu Han-sung’s Examination (End)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c012",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Tower of God 12 2F - Yu Han-sung’s Examination (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c011",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Tower of God 11 2F - Yu Han-sung’s Examination (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c010",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Tower of God 10 2F - Lero-ro’s Test (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c009",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Tower of God 9 2F - Lero-ro’s Test (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-31T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c008",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Tower of God 8 2F - Evankhell’s Hell (End)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-29T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c007",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Tower of God 7 2F - Evankhell’s Hell (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c006",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Tower of God 6 2F - Evankhell’s Hell (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c005",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Tower of God 5 2F - Evankhell’s Hell (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c004",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Tower of God 4 1F - Headon’s Floor (End)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-08-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c003",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Tower of God 3 1F - Headon’s Floor (3)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c002",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Tower of God 2 1F - Headon’s Floor (2)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c001",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Tower of God 1 1F - Headon’s Floor (1)",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/tower_of_god/c000",
+   "chapNum": 0,
+   "volume": 0,
+   "title": "Tower of God Season 1 Prologue",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2010-09-03T22:00:00.000Z"
+  }
+ ]
+}

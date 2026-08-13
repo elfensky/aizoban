@@ -1,0 +1,5709 @@
+{
+ "work": "tales-of-demons",
+ "source": "MangaDex",
+ "matchedTitle": "Tales of Demons and Gods                               ‍",
+ "mangaId": "812f9696-048f-496d-9ed4-84c99345d1fb",
+ "fetchedAt": "2026-08-13T08:34:50.686Z",
+ "chapters": [
+  {
+   "chapterId": "36b01ad9-e860-44ce-b38c-7b44694b4505",
+   "chapNum": 468,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 570,
+   "publishDate": "2024-04-30T10:46:43.000Z"
+  },
+  {
+   "chapterId": "4b6c3aa4-791c-4385-9dd2-f3b19a448cf6",
+   "chapNum": 467,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 569,
+   "publishDate": "2024-04-30T10:46:16.000Z"
+  },
+  {
+   "chapterId": "8cb9e137-9a66-4988-b019-e948be072bcb",
+   "chapNum": 466,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 568,
+   "publishDate": "2024-04-30T10:45:55.000Z"
+  },
+  {
+   "chapterId": "c079e30f-1325-4f94-9da4-2cb0f5414b53",
+   "chapNum": 465,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 567,
+   "publishDate": "2024-04-30T10:45:31.000Z"
+  },
+  {
+   "chapterId": "9ff18539-cb0d-483e-90ea-6a9b603e316b",
+   "chapNum": 464,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 566,
+   "publishDate": "2024-04-30T10:45:06.000Z"
+  },
+  {
+   "chapterId": "8fefd269-93ef-40e5-9e98-af2abfb7da79",
+   "chapNum": 463.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 565,
+   "publishDate": "2024-04-30T10:44:26.000Z"
+  },
+  {
+   "chapterId": "0e3b92e9-bceb-4317-869f-12f72dbca283",
+   "chapNum": 463,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 564,
+   "publishDate": "2024-04-30T10:44:07.000Z"
+  },
+  {
+   "chapterId": "272818e2-fb4e-41ea-bac1-72715f7ad7c6",
+   "chapNum": 462.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 563,
+   "publishDate": "2024-02-01T14:25:11.000Z"
+  },
+  {
+   "chapterId": "132cdcd2-9ca8-414b-b4aa-3125c3800ec7",
+   "chapNum": 462,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 562,
+   "publishDate": "2024-01-24T08:29:13.000Z"
+  },
+  {
+   "chapterId": "1af6b425-0a81-4729-97fa-2e1f07443bee",
+   "chapNum": 461.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 561,
+   "publishDate": "2024-01-24T08:29:01.000Z"
+  },
+  {
+   "chapterId": "a44f9589-2fa4-4a0a-a2fc-94dc4e4b0455",
+   "chapNum": 461,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 560,
+   "publishDate": "2024-01-24T06:59:55.000Z"
+  },
+  {
+   "chapterId": "8dcc34e0-e6db-467a-9e63-9f4dff8da706",
+   "chapNum": 460.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 559,
+   "publishDate": "2024-01-24T06:59:42.000Z"
+  },
+  {
+   "chapterId": "3bcf8bac-6e07-4609-ac4c-8e7ddf32572e",
+   "chapNum": 460,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 558,
+   "publishDate": "2024-01-24T06:59:33.000Z"
+  },
+  {
+   "chapterId": "d1c3cb8f-ee15-4db8-9c5e-5b40281a208f",
+   "chapNum": 459.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 557,
+   "publishDate": "2024-01-24T06:59:28.000Z"
+  },
+  {
+   "chapterId": "6ce4e00c-b568-4fc3-b025-589f84f581b6",
+   "chapNum": 459,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 556,
+   "publishDate": "2024-01-24T06:59:15.000Z"
+  },
+  {
+   "chapterId": "642de4ce-413a-417a-be19-7c79cd864297",
+   "chapNum": 458.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 555,
+   "publishDate": "2024-01-24T06:59:06.000Z"
+  },
+  {
+   "chapterId": "c9f8c8da-becb-472e-bc2b-7d73da19fc67",
+   "chapNum": 458,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 554,
+   "publishDate": "2024-01-24T06:58:57.000Z"
+  },
+  {
+   "chapterId": "ac102c62-8ddd-4adf-a000-84865aac9eb2",
+   "chapNum": 457.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 553,
+   "publishDate": "2024-01-24T06:58:40.000Z"
+  },
+  {
+   "chapterId": "f3ba6eaf-060c-4d8c-bc65-a1ab19d5a15b",
+   "chapNum": 457,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 552,
+   "publishDate": "2024-01-24T06:58:33.000Z"
+  },
+  {
+   "chapterId": "143d53ea-6db2-41f6-9ce3-f5d2aabaaf6a",
+   "chapNum": 456.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 551,
+   "publishDate": "2024-01-24T06:58:24.000Z"
+  },
+  {
+   "chapterId": "dcb6f5e9-d85d-4027-8b16-83e3229d8abc",
+   "chapNum": 456,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 550,
+   "publishDate": "2024-01-24T06:58:16.000Z"
+  },
+  {
+   "chapterId": "0a335480-0c7f-495a-9d9a-bd4ab56bc833",
+   "chapNum": 455.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 549,
+   "publishDate": "2024-01-24T06:58:06.000Z"
+  },
+  {
+   "chapterId": "478ca22f-b767-4f4e-9170-48b6f1fa79f8",
+   "chapNum": 455,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 548,
+   "publishDate": "2024-01-24T06:57:56.000Z"
+  },
+  {
+   "chapterId": "fdcb71ba-f8a5-4aba-a832-3cc016daf65b",
+   "chapNum": 454.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 547,
+   "publishDate": "2024-01-24T06:57:46.000Z"
+  },
+  {
+   "chapterId": "9d32b7b3-357e-4beb-aaf1-953e64aa61ea",
+   "chapNum": 454,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 546,
+   "publishDate": "2024-01-24T06:57:37.000Z"
+  },
+  {
+   "chapterId": "3b8be69f-8e07-4bfc-830c-655caeda6d22",
+   "chapNum": 453.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 545,
+   "publishDate": "2024-01-24T06:57:27.000Z"
+  },
+  {
+   "chapterId": "4b0d2147-689e-4d55-b195-24129d3ef934",
+   "chapNum": 453,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 544,
+   "publishDate": "2024-01-24T06:57:15.000Z"
+  },
+  {
+   "chapterId": "07ee5b9d-36bc-4a07-a03e-808756a89c90",
+   "chapNum": 452.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 543,
+   "publishDate": "2024-01-24T06:57:04.000Z"
+  },
+  {
+   "chapterId": "a6597b20-bd5a-4719-a9f0-575fa14af437",
+   "chapNum": 452,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 542,
+   "publishDate": "2024-01-24T06:56:51.000Z"
+  },
+  {
+   "chapterId": "7698453e-f8cb-4ef7-b249-bedf902e475b",
+   "chapNum": 451.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 541,
+   "publishDate": "2024-01-24T06:56:40.000Z"
+  },
+  {
+   "chapterId": "3bb9bf5a-e50f-42c5-b4ff-918cabad854d",
+   "chapNum": 451,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 540,
+   "publishDate": "2024-01-24T06:56:31.000Z"
+  },
+  {
+   "chapterId": "fe2436f2-a89d-4abc-a737-48c8ddd6d893",
+   "chapNum": 450.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 539,
+   "publishDate": "2024-01-24T06:56:22.000Z"
+  },
+  {
+   "chapterId": "7764709e-ba4b-4156-8a2f-59c02fc34f1d",
+   "chapNum": 450,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 538,
+   "publishDate": "2024-01-24T06:56:11.000Z"
+  },
+  {
+   "chapterId": "18895822-9fac-4814-bb84-70041d056283",
+   "chapNum": 449.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 537,
+   "publishDate": "2024-01-24T06:55:58.000Z"
+  },
+  {
+   "chapterId": "3c47b581-6b38-4565-b239-2de147761490",
+   "chapNum": 449,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 536,
+   "publishDate": "2024-01-24T06:55:48.000Z"
+  },
+  {
+   "chapterId": "28d1c1e8-a593-4ab7-8e39-df39d19deef2",
+   "chapNum": 448.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 535,
+   "publishDate": "2024-01-24T06:55:38.000Z"
+  },
+  {
+   "chapterId": "7fd01528-9c4d-431d-a8a0-bd8a0c7e5f5e",
+   "chapNum": 448,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 534,
+   "publishDate": "2024-01-24T06:55:29.000Z"
+  },
+  {
+   "chapterId": "712df63f-4d95-4bd2-ae89-4b9cf2784e89",
+   "chapNum": 447.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 533,
+   "publishDate": "2024-01-24T06:55:19.000Z"
+  },
+  {
+   "chapterId": "ed96b231-9454-47b6-9e4b-90e3d1fdfbd0",
+   "chapNum": 447,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 532,
+   "publishDate": "2024-01-24T06:55:02.000Z"
+  },
+  {
+   "chapterId": "3b68f87f-87d3-474a-bfc4-8e4f41eb4dde",
+   "chapNum": 446.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 531,
+   "publishDate": "2024-01-24T06:54:52.000Z"
+  },
+  {
+   "chapterId": "16e5f0ed-bb92-4cd0-8e52-40eb08afe7dc",
+   "chapNum": 446,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 530,
+   "publishDate": "2024-01-24T06:54:43.000Z"
+  },
+  {
+   "chapterId": "be6dee0c-3964-40f5-9d25-fdb832f74325",
+   "chapNum": 445.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 529,
+   "publishDate": "2024-01-24T06:54:31.000Z"
+  },
+  {
+   "chapterId": "b533a86d-1621-4b6f-bf40-8e2f98bbb155",
+   "chapNum": 445,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 528,
+   "publishDate": "2024-01-24T06:54:20.000Z"
+  },
+  {
+   "chapterId": "20b77af8-672c-4fa7-ac6e-bfc12f56a112",
+   "chapNum": 444.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 527,
+   "publishDate": "2024-01-24T06:54:12.000Z"
+  },
+  {
+   "chapterId": "b3397072-424f-464b-82b5-f5b060036f66",
+   "chapNum": 444,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 526,
+   "publishDate": "2024-01-24T06:53:54.000Z"
+  },
+  {
+   "chapterId": "eccb16bb-2351-4c38-bfaa-bf62ae496ab2",
+   "chapNum": 443.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 525,
+   "publishDate": "2024-01-24T06:53:43.000Z"
+  },
+  {
+   "chapterId": "f04f5282-64b6-4930-a8fd-fe29260b08fe",
+   "chapNum": 443,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 524,
+   "publishDate": "2024-01-24T06:53:24.000Z"
+  },
+  {
+   "chapterId": "8fd4c3c0-f529-4cd1-a400-bb3d30d16b43",
+   "chapNum": 442.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 523,
+   "publishDate": "2024-01-24T06:53:16.000Z"
+  },
+  {
+   "chapterId": "b6682851-0dec-4f5e-b5b9-94ba5f031f38",
+   "chapNum": 442,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 522,
+   "publishDate": "2024-01-24T06:53:03.000Z"
+  },
+  {
+   "chapterId": "5cc00e64-418e-4d74-8c36-caef7dff8cf1",
+   "chapNum": 441.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 521,
+   "publishDate": "2024-01-24T06:52:51.000Z"
+  },
+  {
+   "chapterId": "1d57aa5a-1032-4c96-981d-85b7b94a526a",
+   "chapNum": 441,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 520,
+   "publishDate": "2024-01-24T06:52:32.000Z"
+  },
+  {
+   "chapterId": "98bafe4f-1ec3-4194-b91b-a6db3f0f9877",
+   "chapNum": 440.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 519,
+   "publishDate": "2024-01-24T06:52:22.000Z"
+  },
+  {
+   "chapterId": "c3dabafb-0213-408e-8d60-6132941f500d",
+   "chapNum": 440,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 518,
+   "publishDate": "2024-01-24T06:52:03.000Z"
+  },
+  {
+   "chapterId": "062a2018-4a04-4d74-9e99-0d05a979079b",
+   "chapNum": 439.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 517,
+   "publishDate": "2024-01-24T06:51:54.000Z"
+  },
+  {
+   "chapterId": "d1042a30-26e6-481f-ab3b-ab2b463d454f",
+   "chapNum": 439,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 516,
+   "publishDate": "2024-01-24T06:51:43.000Z"
+  },
+  {
+   "chapterId": "36915895-bebd-4982-abd5-69685870559e",
+   "chapNum": 438.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 515,
+   "publishDate": "2024-01-24T06:51:33.000Z"
+  },
+  {
+   "chapterId": "8fac604b-e7bf-451c-ae27-9fbed475668c",
+   "chapNum": 438,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 514,
+   "publishDate": "2024-01-24T06:51:17.000Z"
+  },
+  {
+   "chapterId": "41d13cb3-3c7b-480b-82ae-79fb0b981d31",
+   "chapNum": 437.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 513,
+   "publishDate": "2024-01-24T06:51:05.000Z"
+  },
+  {
+   "chapterId": "27762327-856f-49db-959c-f9230341d9ed",
+   "chapNum": 437,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 512,
+   "publishDate": "2024-01-24T06:50:54.000Z"
+  },
+  {
+   "chapterId": "80e1500c-0e35-4143-ac0b-950b0f5e5b6d",
+   "chapNum": 436.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 511,
+   "publishDate": "2024-01-24T06:50:38.000Z"
+  },
+  {
+   "chapterId": "78f296ce-856a-4616-8ca3-532333b77085",
+   "chapNum": 436,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 510,
+   "publishDate": "2024-01-24T06:50:21.000Z"
+  },
+  {
+   "chapterId": "78a6e491-8f7a-4de0-87f8-0f13d6df3726",
+   "chapNum": 435.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 509,
+   "publishDate": "2024-01-24T06:50:11.000Z"
+  },
+  {
+   "chapterId": "23ce1cc7-2e8d-4e90-89a8-de07f9f3d529",
+   "chapNum": 435,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 508,
+   "publishDate": "2024-01-24T06:50:00.000Z"
+  },
+  {
+   "chapterId": "278e0033-c6de-4651-a969-83849438b5f6",
+   "chapNum": 434.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 507,
+   "publishDate": "2024-01-24T06:49:50.000Z"
+  },
+  {
+   "chapterId": "fca2f2fe-8701-4df5-b17d-e865f132ee74",
+   "chapNum": 434,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 506,
+   "publishDate": "2024-01-24T06:49:40.000Z"
+  },
+  {
+   "chapterId": "8c8fe18d-997e-41e1-afd7-329e7ed125d7",
+   "chapNum": 433.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 505,
+   "publishDate": "2024-01-24T06:49:25.000Z"
+  },
+  {
+   "chapterId": "13f29291-9a97-4686-8720-4a6131b91c4d",
+   "chapNum": 433,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 504,
+   "publishDate": "2024-01-24T06:49:17.000Z"
+  },
+  {
+   "chapterId": "a086b1cc-2913-477f-a452-b9edaf1bf0f0",
+   "chapNum": 432.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 503,
+   "publishDate": "2024-01-24T06:49:06.000Z"
+  },
+  {
+   "chapterId": "844806d1-d8b5-4a37-ab27-ad8eb7fe4994",
+   "chapNum": 432,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 502,
+   "publishDate": "2024-01-24T06:48:53.000Z"
+  },
+  {
+   "chapterId": "4350825b-971c-4a6f-93a2-d9876e95d48c",
+   "chapNum": 431.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 501,
+   "publishDate": "2024-01-24T06:48:38.000Z"
+  },
+  {
+   "chapterId": "bfa2d62a-a64e-483f-9c3f-168840121c7f",
+   "chapNum": 431,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 500,
+   "publishDate": "2024-01-24T06:48:24.000Z"
+  },
+  {
+   "chapterId": "6040dad8-f35c-4e70-ab58-e55a58589225",
+   "chapNum": 430.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 499,
+   "publishDate": "2024-01-24T06:48:12.000Z"
+  },
+  {
+   "chapterId": "868354f2-5fd5-4910-a262-2d43ffcef2b9",
+   "chapNum": 430,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 498,
+   "publishDate": "2024-01-24T06:47:59.000Z"
+  },
+  {
+   "chapterId": "5fe3e9da-fad9-4cac-b003-50bff9da5d00",
+   "chapNum": 429.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 497,
+   "publishDate": "2024-01-24T06:47:49.000Z"
+  },
+  {
+   "chapterId": "09a48b49-9eac-4355-a94a-1ffe20dc2400",
+   "chapNum": 429,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 496,
+   "publishDate": "2024-01-24T06:47:37.000Z"
+  },
+  {
+   "chapterId": "66dc058a-c6c9-4d0c-9fbc-7b2e7febc26d",
+   "chapNum": 428.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 495,
+   "publishDate": "2024-01-24T06:47:18.000Z"
+  },
+  {
+   "chapterId": "bba91cd5-a032-4f1f-a38f-f419a5e4baea",
+   "chapNum": 428,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 494,
+   "publishDate": "2024-01-24T06:47:09.000Z"
+  },
+  {
+   "chapterId": "1d904fe7-bdb9-4026-93c6-7c92d6e95dcb",
+   "chapNum": 427.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 493,
+   "publishDate": "2024-01-24T06:46:58.000Z"
+  },
+  {
+   "chapterId": "a7cf95aa-e340-4501-8548-dd6b57b3f470",
+   "chapNum": 427,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 492,
+   "publishDate": "2024-01-24T06:46:47.000Z"
+  },
+  {
+   "chapterId": "f5c514ef-2af6-46d8-b8f6-b46cd5e45d4d",
+   "chapNum": 426.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 491,
+   "publishDate": "2024-01-24T06:46:38.000Z"
+  },
+  {
+   "chapterId": "415f18a9-1051-47d1-a08c-4e2f8762e28d",
+   "chapNum": 426,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 490,
+   "publishDate": "2024-01-24T06:46:26.000Z"
+  },
+  {
+   "chapterId": "dd83feec-3253-45d5-ad78-4308c706d231",
+   "chapNum": 425.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 489,
+   "publishDate": "2024-01-24T06:46:17.000Z"
+  },
+  {
+   "chapterId": "0d360ae4-846d-48c7-bdf9-41f5ba473ddb",
+   "chapNum": 425,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 488,
+   "publishDate": "2024-01-24T06:46:06.000Z"
+  },
+  {
+   "chapterId": "d3ddbaf2-08f7-4abf-b13b-66d7784ef1e1",
+   "chapNum": 424.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 487,
+   "publishDate": "2024-01-24T06:45:55.000Z"
+  },
+  {
+   "chapterId": "b461b67d-967d-4f7c-ac3b-e60c84cd67b3",
+   "chapNum": 424,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 486,
+   "publishDate": "2024-01-24T06:45:43.000Z"
+  },
+  {
+   "chapterId": "ffb4ddf1-c5b4-4a6e-ac8d-100ce311537c",
+   "chapNum": 423.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 485,
+   "publishDate": "2024-01-24T06:45:34.000Z"
+  },
+  {
+   "chapterId": "bd06fdfe-3dc5-4167-9735-a8ae3b475f3a",
+   "chapNum": 423,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 484,
+   "publishDate": "2024-01-24T06:45:23.000Z"
+  },
+  {
+   "chapterId": "671da5d7-934f-414f-b61e-536038495bfd",
+   "chapNum": 422.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 483,
+   "publishDate": "2024-01-24T06:45:14.000Z"
+  },
+  {
+   "chapterId": "e29262f8-4214-47f6-95dd-57a835e86549",
+   "chapNum": 422,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 482,
+   "publishDate": "2024-01-24T06:45:03.000Z"
+  },
+  {
+   "chapterId": "759f4ab2-20a7-4541-8019-4862b19d310e",
+   "chapNum": 421.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 481,
+   "publishDate": "2024-01-24T06:44:51.000Z"
+  },
+  {
+   "chapterId": "8381df88-36d1-4840-ae26-9da1dc16c103",
+   "chapNum": 421,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 480,
+   "publishDate": "2024-01-24T06:44:42.000Z"
+  },
+  {
+   "chapterId": "911138d4-5355-4486-9f31-9fe50302c2f5",
+   "chapNum": 420.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 479,
+   "publishDate": "2024-01-24T06:44:31.000Z"
+  },
+  {
+   "chapterId": "88a68362-6cf1-4214-8b69-15a535576f9f",
+   "chapNum": 420,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 478,
+   "publishDate": "2024-01-24T06:44:14.000Z"
+  },
+  {
+   "chapterId": "91e65854-b382-4884-b39b-5f2c479da92c",
+   "chapNum": 419.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 477,
+   "publishDate": "2024-01-24T06:44:03.000Z"
+  },
+  {
+   "chapterId": "75da7c4b-eed6-4f62-9861-ba135c0d87d8",
+   "chapNum": 419,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 476,
+   "publishDate": "2024-01-24T06:43:47.000Z"
+  },
+  {
+   "chapterId": "37ccb476-d506-414c-9ba8-617ddffea7d2",
+   "chapNum": 418.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 475,
+   "publishDate": "2024-01-24T06:43:38.000Z"
+  },
+  {
+   "chapterId": "4662ecca-520e-47a3-b2b2-0c495568edf7",
+   "chapNum": 418,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 474,
+   "publishDate": "2024-01-24T06:43:20.000Z"
+  },
+  {
+   "chapterId": "4ef38f79-4c65-4962-81b7-e802953e66c3",
+   "chapNum": 417.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 473,
+   "publishDate": "2024-01-24T06:43:08.000Z"
+  },
+  {
+   "chapterId": "c86c945c-f221-4a1e-ab42-5b70044aa211",
+   "chapNum": 417,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 472,
+   "publishDate": "2024-01-24T06:42:56.000Z"
+  },
+  {
+   "chapterId": "3fe9ac75-acf7-4c30-9c1a-0acdcaaee523",
+   "chapNum": 416.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 471,
+   "publishDate": "2024-01-24T06:42:44.000Z"
+  },
+  {
+   "chapterId": "c86a6e4e-d81e-4c30-8996-a9912610fc8a",
+   "chapNum": 416,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 470,
+   "publishDate": "2024-01-24T06:42:33.000Z"
+  },
+  {
+   "chapterId": "8af93d76-ce4e-43bf-9b0d-3e53eb162a88",
+   "chapNum": 415.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 469,
+   "publishDate": "2024-01-24T06:42:22.000Z"
+  },
+  {
+   "chapterId": "c6e6b1d8-66df-490d-a06e-2234858bb047",
+   "chapNum": 415,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 468,
+   "publishDate": "2024-01-24T06:42:02.000Z"
+  },
+  {
+   "chapterId": "1b69dde8-f40e-4d48-ade7-b1d1d552006a",
+   "chapNum": 414.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 467,
+   "publishDate": "2024-01-24T06:41:51.000Z"
+  },
+  {
+   "chapterId": "6e52a129-d49b-4b98-804d-8bc26ff78650",
+   "chapNum": 414,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 466,
+   "publishDate": "2024-01-24T06:41:39.000Z"
+  },
+  {
+   "chapterId": "a265bff5-3ad5-4f63-9c9a-604371835fe5",
+   "chapNum": 413.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 465,
+   "publishDate": "2024-01-24T06:41:26.000Z"
+  },
+  {
+   "chapterId": "166532c2-eeb3-449f-8b7f-713d1ede2dca",
+   "chapNum": 413,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 464,
+   "publishDate": "2024-01-24T06:41:15.000Z"
+  },
+  {
+   "chapterId": "025a2889-e93e-498d-845c-6ea2bbe8b19d",
+   "chapNum": 412.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 463,
+   "publishDate": "2024-01-24T06:41:00.000Z"
+  },
+  {
+   "chapterId": "4b8ec7df-2bc7-4098-99ff-dc65495190e9",
+   "chapNum": 412,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 462,
+   "publishDate": "2024-01-24T06:40:46.000Z"
+  },
+  {
+   "chapterId": "8e53341a-dc0f-423a-a127-2be0cf0aa387",
+   "chapNum": 411.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 461,
+   "publishDate": "2024-01-24T06:40:31.000Z"
+  },
+  {
+   "chapterId": "12afc840-942d-41ca-8253-6e9cfe023a22",
+   "chapNum": 411,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 460,
+   "publishDate": "2024-01-24T06:40:21.000Z"
+  },
+  {
+   "chapterId": "8b06bd60-104b-4e51-8c44-8f9d09378b85",
+   "chapNum": 410.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 459,
+   "publishDate": "2024-01-24T06:40:11.000Z"
+  },
+  {
+   "chapterId": "b0d8da82-1ecb-4df3-8b30-7ac9ee6dbc88",
+   "chapNum": 410,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 458,
+   "publishDate": "2024-01-24T06:40:02.000Z"
+  },
+  {
+   "chapterId": "0ef3616e-669d-4f6f-82a3-0b420a5b4b6a",
+   "chapNum": 409.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 457,
+   "publishDate": "2024-01-24T06:39:53.000Z"
+  },
+  {
+   "chapterId": "201f6cdf-2cfa-4efe-b3ff-6e703c152f2b",
+   "chapNum": 409,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 456,
+   "publishDate": "2024-01-24T06:39:43.000Z"
+  },
+  {
+   "chapterId": "98cf8e74-ebfd-48ab-ad86-c8862bea4591",
+   "chapNum": 408.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 455,
+   "publishDate": "2024-01-24T06:39:31.000Z"
+  },
+  {
+   "chapterId": "c361878f-d325-4e4a-a42c-cc105674a0c2",
+   "chapNum": 408,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 454,
+   "publishDate": "2024-01-24T06:39:19.000Z"
+  },
+  {
+   "chapterId": "338cfd8d-ea46-4fa8-b24d-2925260031cc",
+   "chapNum": 407.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 453,
+   "publishDate": "2024-01-24T06:39:09.000Z"
+  },
+  {
+   "chapterId": "e43bea7d-76d5-4851-a0d2-f682b6cbf026",
+   "chapNum": 407,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 452,
+   "publishDate": "2024-01-24T06:38:59.000Z"
+  },
+  {
+   "chapterId": "31668072-3d15-4cf6-8927-e2e0ab604fff",
+   "chapNum": 406.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 451,
+   "publishDate": "2024-01-24T06:38:49.000Z"
+  },
+  {
+   "chapterId": "9be8c15f-6d8a-4a8d-9c9d-4fc3ae014f27",
+   "chapNum": 406,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 450,
+   "publishDate": "2024-01-24T06:38:39.000Z"
+  },
+  {
+   "chapterId": "27034f06-46d3-4e6c-b759-d8634593c8e7",
+   "chapNum": 405.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 449,
+   "publishDate": "2024-01-24T06:38:34.000Z"
+  },
+  {
+   "chapterId": "46289722-f94a-4ba9-8710-05ebcad8781c",
+   "chapNum": 405,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 448,
+   "publishDate": "2024-01-24T06:38:18.000Z"
+  },
+  {
+   "chapterId": "0705a64a-0788-498f-af11-0bfc0ad08b3a",
+   "chapNum": 404.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 447,
+   "publishDate": "2024-01-24T06:38:04.000Z"
+  },
+  {
+   "chapterId": "0db174e1-5f68-4efc-8577-fe932c00b5a3",
+   "chapNum": 404,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 446,
+   "publishDate": "2024-01-24T06:37:36.000Z"
+  },
+  {
+   "chapterId": "596cfc0f-a452-41df-b787-e73fec2aea05",
+   "chapNum": 403.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 445,
+   "publishDate": "2024-01-24T06:37:25.000Z"
+  },
+  {
+   "chapterId": "08149876-4912-4512-a356-759157191df9",
+   "chapNum": 403,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 444,
+   "publishDate": "2024-01-24T06:37:15.000Z"
+  },
+  {
+   "chapterId": "45b3190a-dd4b-4d71-9dd2-f15a1c7ca0d8",
+   "chapNum": 402.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 443,
+   "publishDate": "2024-01-24T06:37:05.000Z"
+  },
+  {
+   "chapterId": "e33e0b2d-1092-477f-a6a5-7f565b17f48a",
+   "chapNum": 402,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 442,
+   "publishDate": "2024-01-24T06:36:55.000Z"
+  },
+  {
+   "chapterId": "749dc60d-8559-457c-8782-4181d6fa1524",
+   "chapNum": 401.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 441,
+   "publishDate": "2024-01-24T06:36:44.000Z"
+  },
+  {
+   "chapterId": "82a5f7b2-bb21-411b-bfad-c7b09b35a7af",
+   "chapNum": 401,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 440,
+   "publishDate": "2024-01-24T06:36:29.000Z"
+  },
+  {
+   "chapterId": "cc0a03e4-3cc4-41fb-a2e2-db27179b5b22",
+   "chapNum": 400.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 439,
+   "publishDate": "2024-01-24T06:36:19.000Z"
+  },
+  {
+   "chapterId": "f0a11719-79e9-48ad-a459-cdbc6816af8c",
+   "chapNum": 400,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 438,
+   "publishDate": "2024-01-24T06:36:11.000Z"
+  },
+  {
+   "chapterId": "089f790b-c4f0-4462-8256-9814d71e2b05",
+   "chapNum": 399.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 437,
+   "publishDate": "2024-01-24T06:36:00.000Z"
+  },
+  {
+   "chapterId": "06777197-898a-4b85-ad0a-911e59affdd4",
+   "chapNum": 399,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 436,
+   "publishDate": "2024-01-24T06:35:50.000Z"
+  },
+  {
+   "chapterId": "915ed38a-2e47-42f3-a034-cdc143fad0c0",
+   "chapNum": 398.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 435,
+   "publishDate": "2024-01-24T06:35:40.000Z"
+  },
+  {
+   "chapterId": "974474b8-5f68-41fe-bc0a-80bce6ac7ed8",
+   "chapNum": 398,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 434,
+   "publishDate": "2024-01-24T06:35:23.000Z"
+  },
+  {
+   "chapterId": "5b63de96-c438-4532-a5e8-d8f91e1451aa",
+   "chapNum": 397.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 433,
+   "publishDate": "2024-01-24T06:35:15.000Z"
+  },
+  {
+   "chapterId": "e54177e1-636e-4469-bc50-89d00a4cf9a2",
+   "chapNum": 397,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 432,
+   "publishDate": "2024-01-24T06:35:02.000Z"
+  },
+  {
+   "chapterId": "2b996fb4-4942-48c0-92b2-234c395afacf",
+   "chapNum": 396.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 431,
+   "publishDate": "2024-01-24T06:34:52.000Z"
+  },
+  {
+   "chapterId": "d4597828-6564-4594-a22d-fb55f8cbf447",
+   "chapNum": 396,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 430,
+   "publishDate": "2024-01-24T06:34:41.000Z"
+  },
+  {
+   "chapterId": "0e62c6ad-6235-4a51-94d9-fe6b79841ad4",
+   "chapNum": 395.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 429,
+   "publishDate": "2024-01-24T06:34:31.000Z"
+  },
+  {
+   "chapterId": "8acffad9-d562-4308-9064-18d92b69f6d3",
+   "chapNum": 395,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 428,
+   "publishDate": "2024-01-24T06:34:20.000Z"
+  },
+  {
+   "chapterId": "c5f4cfa1-89aa-4b67-b9c9-6ff0958b6a7a",
+   "chapNum": 394.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 427,
+   "publishDate": "2024-01-24T06:34:02.000Z"
+  },
+  {
+   "chapterId": "4b787d50-58e8-4252-a573-c963a608c734",
+   "chapNum": 394,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 426,
+   "publishDate": "2024-01-24T06:33:51.000Z"
+  },
+  {
+   "chapterId": "a98ab764-43b5-413b-9edd-202ffa277f48",
+   "chapNum": 393.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 425,
+   "publishDate": "2024-01-24T06:33:42.000Z"
+  },
+  {
+   "chapterId": "0390885a-17c2-4b5a-8552-bc3f4b91d259",
+   "chapNum": 393,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 424,
+   "publishDate": "2024-01-24T06:33:32.000Z"
+  },
+  {
+   "chapterId": "afdfa0d2-24b2-4734-abb3-d8f1accaf9a8",
+   "chapNum": 392.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 423,
+   "publishDate": "2024-01-24T06:33:16.000Z"
+  },
+  {
+   "chapterId": "4474c431-ce4e-4709-8884-d4b6232ac7cb",
+   "chapNum": 392,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 422,
+   "publishDate": "2024-01-24T06:33:07.000Z"
+  },
+  {
+   "chapterId": "77d30b4b-e8f1-4aff-ad4b-67e1dca765f3",
+   "chapNum": 391.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 421,
+   "publishDate": "2024-01-24T06:32:55.000Z"
+  },
+  {
+   "chapterId": "409013ff-717d-4d90-9280-f0ae4a4fddaa",
+   "chapNum": 391,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 420,
+   "publishDate": "2024-01-24T06:32:46.000Z"
+  },
+  {
+   "chapterId": "63b7d5ce-045f-49f5-ad6f-deb9620e212a",
+   "chapNum": 390.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 419,
+   "publishDate": "2024-01-24T06:32:35.000Z"
+  },
+  {
+   "chapterId": "33744784-b200-4723-84cd-6e284d0ce256",
+   "chapNum": 390,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 418,
+   "publishDate": "2024-01-24T06:32:24.000Z"
+  },
+  {
+   "chapterId": "ee2444a2-841a-4717-a758-b058902bf1a5",
+   "chapNum": 389.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 417,
+   "publishDate": "2024-01-24T06:32:11.000Z"
+  },
+  {
+   "chapterId": "45013801-fe37-4511-9a9c-a48f56e18ba2",
+   "chapNum": 389,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 416,
+   "publishDate": "2024-01-24T06:31:54.000Z"
+  },
+  {
+   "chapterId": "f599e9a6-9041-4d54-b96c-28c153e5047a",
+   "chapNum": 388.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 415,
+   "publishDate": "2024-01-24T06:31:45.000Z"
+  },
+  {
+   "chapterId": "525df78a-5f26-4f8c-8ea6-2a9954445ee7",
+   "chapNum": 388,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 414,
+   "publishDate": "2024-01-24T06:31:28.000Z"
+  },
+  {
+   "chapterId": "a1429d31-a5ec-406b-91a2-134483f9ec4a",
+   "chapNum": 387.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 413,
+   "publishDate": "2024-01-24T06:31:09.000Z"
+  },
+  {
+   "chapterId": "63ecf575-dfff-4292-8a16-b559273e1495",
+   "chapNum": 387,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 412,
+   "publishDate": "2024-01-24T06:31:00.000Z"
+  },
+  {
+   "chapterId": "7eef0aa5-4da4-427c-913f-776f32803669",
+   "chapNum": 386.6,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 411,
+   "publishDate": "2024-01-24T06:30:47.000Z"
+  },
+  {
+   "chapterId": "a5186574-2ae1-47c3-9ec9-303a4e22131c",
+   "chapNum": 386,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 410,
+   "publishDate": "2024-01-24T06:30:32.000Z"
+  },
+  {
+   "chapterId": "e31e09c2-67b0-4d73-9c41-a65a0b1ecf4a",
+   "chapNum": 385.6,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 409,
+   "publishDate": "2024-01-24T06:30:17.000Z"
+  },
+  {
+   "chapterId": "b46ec12d-2ca9-4bfd-9498-acd83642c0e7",
+   "chapNum": 385,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 408,
+   "publishDate": "2024-01-24T06:30:05.000Z"
+  },
+  {
+   "chapterId": "bbd1e85c-9ef9-49e7-b1e1-0954e5970d62",
+   "chapNum": 384.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 407,
+   "publishDate": "2024-01-24T06:29:44.000Z"
+  },
+  {
+   "chapterId": "ae5830e2-9b80-482d-8891-c37a239203b2",
+   "chapNum": 384,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 406,
+   "publishDate": "2024-01-24T06:29:31.000Z"
+  },
+  {
+   "chapterId": "7508eef8-9541-4c8e-8845-c06101dff06c",
+   "chapNum": 383.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 405,
+   "publishDate": "2024-01-24T06:29:16.000Z"
+  },
+  {
+   "chapterId": "a4141581-a7d5-466f-8434-bf2adba6bdbd",
+   "chapNum": 383,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 404,
+   "publishDate": "2024-01-24T06:28:57.000Z"
+  },
+  {
+   "chapterId": "a79080fb-6164-4d6a-bb11-d79eff5765cd",
+   "chapNum": 382.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 403,
+   "publishDate": "2024-01-24T06:28:35.000Z"
+  },
+  {
+   "chapterId": "eec53445-d048-4105-be92-2e0278a22fe1",
+   "chapNum": 382,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 402,
+   "publishDate": "2024-01-24T06:28:28.000Z"
+  },
+  {
+   "chapterId": "1aead07c-6894-4c58-9379-dbfc62da6732",
+   "chapNum": 381.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 401,
+   "publishDate": "2024-01-24T06:27:59.000Z"
+  },
+  {
+   "chapterId": "b034142e-3f6f-43d8-868f-ea3f9bcd0f70",
+   "chapNum": 381,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 400,
+   "publishDate": "2024-01-24T06:27:49.000Z"
+  },
+  {
+   "chapterId": "b0abe156-7d71-4824-b12a-c00da39c8e68",
+   "chapNum": 380.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 399,
+   "publishDate": "2024-01-24T06:27:37.000Z"
+  },
+  {
+   "chapterId": "979d4928-bbd5-4659-9299-06361dd8a59d",
+   "chapNum": 380,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 398,
+   "publishDate": "2024-01-24T06:27:25.000Z"
+  },
+  {
+   "chapterId": "cf143bf9-2045-49fd-9ca2-6dc7ad577cda",
+   "chapNum": 379.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 397,
+   "publishDate": "2024-01-24T06:27:09.000Z"
+  },
+  {
+   "chapterId": "560e8520-8823-429e-bcec-c0a579bfd0bc",
+   "chapNum": 379,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 396,
+   "publishDate": "2024-01-24T06:26:57.000Z"
+  },
+  {
+   "chapterId": "071d58a2-21af-47e2-a8b4-e55bb83ff31a",
+   "chapNum": 378.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 395,
+   "publishDate": "2024-01-24T06:26:46.000Z"
+  },
+  {
+   "chapterId": "d1865c65-8eb2-4622-b1c4-f68d3c77b8ea",
+   "chapNum": 378,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 394,
+   "publishDate": "2024-01-24T06:26:38.000Z"
+  },
+  {
+   "chapterId": "c1a6a503-5f84-4ebe-ae11-a6dd20ad51b9",
+   "chapNum": 377.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 393,
+   "publishDate": "2024-01-24T06:26:22.000Z"
+  },
+  {
+   "chapterId": "7449568d-8f4c-4364-9f14-7190f3f0fca5",
+   "chapNum": 377,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 392,
+   "publishDate": "2024-01-24T06:26:14.000Z"
+  },
+  {
+   "chapterId": "09a55cd6-76c8-4b94-bea3-28e87c1c4560",
+   "chapNum": 376.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 391,
+   "publishDate": "2024-01-24T06:25:57.000Z"
+  },
+  {
+   "chapterId": "e2af50ce-572f-4c64-a269-2e2d79f99570",
+   "chapNum": 376,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 390,
+   "publishDate": "2024-01-24T06:25:43.000Z"
+  },
+  {
+   "chapterId": "8db25352-6839-448b-8f85-fe33c76bda2d",
+   "chapNum": 375.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 389,
+   "publishDate": "2024-01-24T06:25:31.000Z"
+  },
+  {
+   "chapterId": "8e8904c3-9f63-4d6d-b8fe-488c09eba738",
+   "chapNum": 375,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 388,
+   "publishDate": "2024-01-24T06:25:13.000Z"
+  },
+  {
+   "chapterId": "d22a2284-5fac-497c-8a5d-8e2f30d20e7f",
+   "chapNum": 374.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 387,
+   "publishDate": "2024-01-24T06:25:02.000Z"
+  },
+  {
+   "chapterId": "2ed082a7-6807-4b65-a023-489edbed8115",
+   "chapNum": 374,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 386,
+   "publishDate": "2024-01-24T06:24:50.000Z"
+  },
+  {
+   "chapterId": "72ab0838-9944-4526-bc61-4e96acb98e74",
+   "chapNum": 373.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 385,
+   "publishDate": "2024-01-24T06:24:38.000Z"
+  },
+  {
+   "chapterId": "1b220a1c-3f03-4c77-b7c3-91b16ae04be6",
+   "chapNum": 373,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 384,
+   "publishDate": "2024-01-24T06:24:29.000Z"
+  },
+  {
+   "chapterId": "fdbc61e2-77e2-488a-99f6-33004b45ca4b",
+   "chapNum": 372.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 383,
+   "publishDate": "2024-01-24T06:24:18.000Z"
+  },
+  {
+   "chapterId": "b87b50eb-e68a-4485-a745-fd221a378e7c",
+   "chapNum": 372,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 382,
+   "publishDate": "2024-01-24T06:24:03.000Z"
+  },
+  {
+   "chapterId": "0c9d075b-4504-455e-a783-87de2acac8c1",
+   "chapNum": 371.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 381,
+   "publishDate": "2024-01-24T06:23:51.000Z"
+  },
+  {
+   "chapterId": "5aaa5332-8dc6-4db0-9871-3fb7162ef1fa",
+   "chapNum": 371,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 380,
+   "publishDate": "2024-01-24T06:23:39.000Z"
+  },
+  {
+   "chapterId": "9e52f48c-5b15-4f20-8e39-d76e3e1f5b84",
+   "chapNum": 370.6,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 379,
+   "publishDate": "2024-01-24T06:23:29.000Z"
+  },
+  {
+   "chapterId": "1bfa530b-edda-4627-be64-48de0a1956c3",
+   "chapNum": 370,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 378,
+   "publishDate": "2024-01-24T06:23:15.000Z"
+  },
+  {
+   "chapterId": "0033f2f7-2e0b-42a2-a743-edc3073d34fc",
+   "chapNum": 369.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 377,
+   "publishDate": "2024-01-24T06:23:03.000Z"
+  },
+  {
+   "chapterId": "2f584151-8fec-452c-81d6-32854b5205d7",
+   "chapNum": 369,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 376,
+   "publishDate": "2024-01-24T06:22:51.000Z"
+  },
+  {
+   "chapterId": "d79788c6-d621-4035-bde0-0df815d3d682",
+   "chapNum": 368.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 375,
+   "publishDate": "2024-01-24T06:22:17.000Z"
+  },
+  {
+   "chapterId": "da5554b1-a4cb-4298-9045-58e5ab1dcc29",
+   "chapNum": 368,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 374,
+   "publishDate": "2024-01-24T06:22:06.000Z"
+  },
+  {
+   "chapterId": "eab3ca10-5aaf-4eb3-85cd-6a8943ff0dc6",
+   "chapNum": 367.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 373,
+   "publishDate": "2024-01-24T06:21:57.000Z"
+  },
+  {
+   "chapterId": "a83c8878-adb7-4413-a12c-f1d2124a7558",
+   "chapNum": 367,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 372,
+   "publishDate": "2024-01-24T06:21:45.000Z"
+  },
+  {
+   "chapterId": "22d62cba-fcc2-48d3-834c-24a6178a1004",
+   "chapNum": 366.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 371,
+   "publishDate": "2024-01-24T06:21:28.000Z"
+  },
+  {
+   "chapterId": "dee9d572-7006-45a4-b616-2f86dd4f0f30",
+   "chapNum": 366,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 370,
+   "publishDate": "2024-01-24T06:21:07.000Z"
+  },
+  {
+   "chapterId": "d64e3869-f50d-41e5-a85f-06d8d8ce94a3",
+   "chapNum": 365.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 369,
+   "publishDate": "2024-01-24T06:20:52.000Z"
+  },
+  {
+   "chapterId": "3e048e94-990b-4558-a503-6360eecd8557",
+   "chapNum": 365,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 368,
+   "publishDate": "2024-01-24T06:20:41.000Z"
+  },
+  {
+   "chapterId": "662b629e-d167-40c4-b122-e855b9c18564",
+   "chapNum": 364.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 367,
+   "publishDate": "2024-01-24T06:20:31.000Z"
+  },
+  {
+   "chapterId": "54d05110-6581-4fe6-923b-6d281a446286",
+   "chapNum": 364,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 366,
+   "publishDate": "2024-01-24T06:20:18.000Z"
+  },
+  {
+   "chapterId": "ef03901e-3169-4535-aa91-494dc8ca009a",
+   "chapNum": 363.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 365,
+   "publishDate": "2024-01-24T06:20:04.000Z"
+  },
+  {
+   "chapterId": "e812623b-de17-44cb-8a91-e4679159db51",
+   "chapNum": 363,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 364,
+   "publishDate": "2024-01-24T06:19:50.000Z"
+  },
+  {
+   "chapterId": "6a76eba7-4def-496b-aa1e-66eb0c039bc4",
+   "chapNum": 362.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 363,
+   "publishDate": "2024-01-24T06:19:37.000Z"
+  },
+  {
+   "chapterId": "0b95a973-e9ba-44e4-a2c5-83d33e5b8b56",
+   "chapNum": 362,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 362,
+   "publishDate": "2024-01-24T06:19:22.000Z"
+  },
+  {
+   "chapterId": "ab486bb1-acda-47b3-bf2e-0605166e3af7",
+   "chapNum": 361.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 361,
+   "publishDate": "2024-01-24T06:19:05.000Z"
+  },
+  {
+   "chapterId": "c667ebd2-b2e1-43a0-8485-bb4583aa4cd3",
+   "chapNum": 361,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 360,
+   "publishDate": "2024-01-24T06:18:54.000Z"
+  },
+  {
+   "chapterId": "d7d08c36-5102-4c55-9460-9db53e5ab742",
+   "chapNum": 360.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 359,
+   "publishDate": "2024-01-24T06:18:44.000Z"
+  },
+  {
+   "chapterId": "d580e38e-e700-4b50-b71d-db4ecfc4734a",
+   "chapNum": 360,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 358,
+   "publishDate": "2024-01-24T06:18:32.000Z"
+  },
+  {
+   "chapterId": "43e0e9c1-5f4a-4f7b-95b3-6c939d933529",
+   "chapNum": 359.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 357,
+   "publishDate": "2024-01-24T06:18:14.000Z"
+  },
+  {
+   "chapterId": "5de19dab-b77e-434a-a3b4-704c70722bca",
+   "chapNum": 359,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 356,
+   "publishDate": "2024-01-24T06:18:04.000Z"
+  },
+  {
+   "chapterId": "5d94b07d-384d-47bd-8c97-4766f9067f7f",
+   "chapNum": 358.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 355,
+   "publishDate": "2024-01-24T06:17:52.000Z"
+  },
+  {
+   "chapterId": "daca7db1-c442-4b97-917d-272151c7facf",
+   "chapNum": 358,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 354,
+   "publishDate": "2024-01-24T06:17:40.000Z"
+  },
+  {
+   "chapterId": "eeccbfa2-6de9-4446-850c-0fc8aab16cf2",
+   "chapNum": 357.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 353,
+   "publishDate": "2024-01-24T06:17:29.000Z"
+  },
+  {
+   "chapterId": "39ec8ba2-f602-4812-a9be-9f6d8c02e2db",
+   "chapNum": 357,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 352,
+   "publishDate": "2024-01-24T06:17:14.000Z"
+  },
+  {
+   "chapterId": "e2472829-9cee-4e25-b321-5ae25171ee3d",
+   "chapNum": 356.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 351,
+   "publishDate": "2024-01-24T06:16:59.000Z"
+  },
+  {
+   "chapterId": "ed1b27bb-d079-4d77-9fae-a5ba136a9c30",
+   "chapNum": 356,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 350,
+   "publishDate": "2024-01-24T06:16:37.000Z"
+  },
+  {
+   "chapterId": "5642f9f8-1c47-4f08-b70a-c61efe06daaa",
+   "chapNum": 355.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 349,
+   "publishDate": "2024-01-24T06:16:26.000Z"
+  },
+  {
+   "chapterId": "650cee3b-cf0d-4dff-b313-48a002f8eb9a",
+   "chapNum": 355,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 348,
+   "publishDate": "2024-01-24T06:16:15.000Z"
+  },
+  {
+   "chapterId": "b0c4f7fe-6a45-47b3-b207-39dec5a104a9",
+   "chapNum": 354.6,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 347,
+   "publishDate": "2024-01-24T06:16:05.000Z"
+  },
+  {
+   "chapterId": "a8c814b6-10cd-4dff-831d-39d63964ddab",
+   "chapNum": 354,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 346,
+   "publishDate": "2024-01-24T06:15:53.000Z"
+  },
+  {
+   "chapterId": "833ea7d1-d1aa-4f45-82f8-d73f193d6ba1",
+   "chapNum": 353.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 345,
+   "publishDate": "2024-01-24T06:15:47.000Z"
+  },
+  {
+   "chapterId": "f6e39a3a-882b-4754-9d0b-3cda82fb7add",
+   "chapNum": 353,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 344,
+   "publishDate": "2024-01-24T06:15:34.000Z"
+  },
+  {
+   "chapterId": "0d4f1155-f42f-4130-a621-b26f951bd31a",
+   "chapNum": 352.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 343,
+   "publishDate": "2024-01-24T06:15:19.000Z"
+  },
+  {
+   "chapterId": "123b77f4-25b8-483d-8dee-1faa8cdf094d",
+   "chapNum": 352,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 342,
+   "publishDate": "2024-01-24T06:15:11.000Z"
+  },
+  {
+   "chapterId": "12755beb-1d99-455e-b01b-52a4d09805c5",
+   "chapNum": 351.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 341,
+   "publishDate": "2024-01-24T06:15:00.000Z"
+  },
+  {
+   "chapterId": "7d546ad8-0e79-4297-8aa6-4140df71281e",
+   "chapNum": 351,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 340,
+   "publishDate": "2024-01-24T06:14:49.000Z"
+  },
+  {
+   "chapterId": "a2695593-c4e1-4985-99df-fe188043f54a",
+   "chapNum": 350.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 339,
+   "publishDate": "2024-01-24T06:14:40.000Z"
+  },
+  {
+   "chapterId": "cad94e70-76bf-4c0e-a96e-390cd7ccef2f",
+   "chapNum": 350,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 338,
+   "publishDate": "2024-01-24T06:14:27.000Z"
+  },
+  {
+   "chapterId": "9f45bac4-2e75-47c9-ad30-e9172d45dfa6",
+   "chapNum": 349.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 337,
+   "publishDate": "2024-01-24T06:14:16.000Z"
+  },
+  {
+   "chapterId": "5024e53a-d3b7-4d2e-a41f-96a5bd733b35",
+   "chapNum": 349,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 336,
+   "publishDate": "2024-01-24T06:14:07.000Z"
+  },
+  {
+   "chapterId": "42adcc56-8637-4350-a762-3817181c43a0",
+   "chapNum": 348.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 335,
+   "publishDate": "2024-01-24T06:13:56.000Z"
+  },
+  {
+   "chapterId": "8e68c137-3595-4c94-8a28-80665bf06125",
+   "chapNum": 348,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 334,
+   "publishDate": "2024-01-24T06:13:47.000Z"
+  },
+  {
+   "chapterId": "4a3fce49-0fdb-40df-841e-1326b786f428",
+   "chapNum": 347.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 333,
+   "publishDate": "2024-01-24T06:13:36.000Z"
+  },
+  {
+   "chapterId": "2b68b0e1-e834-4ccf-9754-5eceaa3c0142",
+   "chapNum": 347,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 332,
+   "publishDate": "2024-01-24T06:13:20.000Z"
+  },
+  {
+   "chapterId": "058d9ea4-9363-4d78-a502-bd9a320e939d",
+   "chapNum": 346.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 331,
+   "publishDate": "2024-01-24T06:13:09.000Z"
+  },
+  {
+   "chapterId": "467c5ec7-dc1b-44ca-8d09-fd281454789a",
+   "chapNum": 346,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 330,
+   "publishDate": "2024-01-24T06:13:00.000Z"
+  },
+  {
+   "chapterId": "3b88b301-1e9e-433a-be0a-4a5a8d26d2e9",
+   "chapNum": 345.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 329,
+   "publishDate": "2024-01-24T06:12:48.000Z"
+  },
+  {
+   "chapterId": "c3f5cb1b-ac58-4f52-a775-c61f830a9f59",
+   "chapNum": 345,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 328,
+   "publishDate": "2024-01-24T06:12:39.000Z"
+  },
+  {
+   "chapterId": "bb3c0b5b-5266-4e92-8b8d-1553e79e9fbc",
+   "chapNum": 344.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 327,
+   "publishDate": "2024-01-24T06:12:22.000Z"
+  },
+  {
+   "chapterId": "5e0c9998-8f7f-45c0-a743-85209e49f802",
+   "chapNum": 344,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 326,
+   "publishDate": "2024-01-24T06:12:11.000Z"
+  },
+  {
+   "chapterId": "50c41313-c66a-4f53-a41c-df65649839ae",
+   "chapNum": 343.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 325,
+   "publishDate": "2024-01-24T06:12:00.000Z"
+  },
+  {
+   "chapterId": "58da6e24-0682-4795-a1ce-35d559fb18dd",
+   "chapNum": 343,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 324,
+   "publishDate": "2024-01-24T06:11:42.000Z"
+  },
+  {
+   "chapterId": "4e6593ec-ae9b-4564-9e25-bf8b0cd05c59",
+   "chapNum": 342.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 323,
+   "publishDate": "2024-01-24T06:11:32.000Z"
+  },
+  {
+   "chapterId": "9234bda8-1f07-4078-8698-06b1a4496566",
+   "chapNum": 342,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 322,
+   "publishDate": "2024-01-24T06:11:21.000Z"
+  },
+  {
+   "chapterId": "a4d905de-2842-4053-854a-e511e1682e18",
+   "chapNum": 341.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 321,
+   "publishDate": "2024-01-24T06:11:05.000Z"
+  },
+  {
+   "chapterId": "a0b303d0-43d6-4f5a-a2ed-5b8b4b6473ef",
+   "chapNum": 341,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 320,
+   "publishDate": "2021-08-18T12:29:24.000Z"
+  },
+  {
+   "chapterId": "f2efe237-62e2-4ff0-bb9b-509bcd4f32a0",
+   "chapNum": 340.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 319,
+   "publishDate": "2021-08-18T12:24:49.000Z"
+  },
+  {
+   "chapterId": "43682a5f-51da-4f08-aa58-ae69383a8c27",
+   "chapNum": 340,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 318,
+   "publishDate": "2021-08-18T12:22:19.000Z"
+  },
+  {
+   "chapterId": "5d8fe31e-8e0e-4f25-98b1-5e22eac25c7c",
+   "chapNum": 339.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 317,
+   "publishDate": "2021-08-28T19:02:42.000Z"
+  },
+  {
+   "chapterId": "25bcb3c3-67cd-4f24-9964-847e8a3feb42",
+   "chapNum": 339,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 316,
+   "publishDate": "2021-08-04T13:40:57.000Z"
+  },
+  {
+   "chapterId": "50f4f6e3-d64b-4f4b-a6b0-68f0b9d85ba8",
+   "chapNum": 338.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 315,
+   "publishDate": "2021-07-31T14:03:29.000Z"
+  },
+  {
+   "chapterId": "d115807e-2428-4f48-b6a5-59abccde53e5",
+   "chapNum": 338,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 314,
+   "publishDate": "2021-07-28T14:36:47.000Z"
+  },
+  {
+   "chapterId": "b19b48f4-5cbc-4f46-9557-6d418c0428d2",
+   "chapNum": 337.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 313,
+   "publishDate": "2021-07-28T14:35:24.000Z"
+  },
+  {
+   "chapterId": "cd16260e-aedb-4ff0-9f55-67debe2d8ca6",
+   "chapNum": 337,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 312,
+   "publishDate": "2021-07-21T14:42:37.000Z"
+  },
+  {
+   "chapterId": "e86a425d-5f27-4f1c-85b0-1eb56d6ad565",
+   "chapNum": 336.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 311,
+   "publishDate": "2021-07-17T13:44:02.000Z"
+  },
+  {
+   "chapterId": "b741934f-3900-4f2a-8226-3b091eb2cb15",
+   "chapNum": 336,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 310,
+   "publishDate": "2021-07-14T14:51:15.000Z"
+  },
+  {
+   "chapterId": "60d6831b-e281-4ffa-9981-eb9818a90145",
+   "chapNum": 335.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 309,
+   "publishDate": "2021-07-10T13:50:19.000Z"
+  },
+  {
+   "chapterId": "79e16875-d6a4-4f6f-96a9-bdf1caa9bed0",
+   "chapNum": 335,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 308,
+   "publishDate": "2021-07-12T10:17:11.000Z"
+  },
+  {
+   "chapterId": "b20bf247-8557-4f48-87d8-4ff3efe380a7",
+   "chapNum": 334.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 307,
+   "publishDate": "2021-07-12T10:15:50.000Z"
+  },
+  {
+   "chapterId": "1c95ad80-d895-4fca-89b0-be3f1fd64ada",
+   "chapNum": 334,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 306,
+   "publishDate": "2021-07-12T10:14:49.000Z"
+  },
+  {
+   "chapterId": "032248f3-c98f-4f67-830d-dc7218712563",
+   "chapNum": 333.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 305,
+   "publishDate": "2021-07-12T10:12:52.000Z"
+  },
+  {
+   "chapterId": "b2971506-b4c0-4fcd-b030-a529f4cc6926",
+   "chapNum": 333,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 304,
+   "publishDate": "2021-07-12T10:11:34.000Z"
+  },
+  {
+   "chapterId": "aad90ab4-1754-4ff7-bc12-5a70ce9e6566",
+   "chapNum": 332.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 303,
+   "publishDate": "2021-07-12T10:10:46.000Z"
+  },
+  {
+   "chapterId": "b605a1ff-86d1-4f08-9349-cd9e0e9d6438",
+   "chapNum": 332,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 302,
+   "publishDate": "2021-07-12T10:09:50.000Z"
+  },
+  {
+   "chapterId": "7ab3a7c1-3717-4fbe-bc4f-c0b69f4f2cf5",
+   "chapNum": 331.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 301,
+   "publishDate": "2021-07-12T10:07:29.000Z"
+  },
+  {
+   "chapterId": "355fbf6a-8d3c-4f3b-b8c4-88756fa13fdb",
+   "chapNum": 331,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 300,
+   "publishDate": "2021-07-12T10:05:07.000Z"
+  },
+  {
+   "chapterId": "1ee202e7-613b-4f3a-b1d5-6e5f3b42f579",
+   "chapNum": 330.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 299,
+   "publishDate": "2021-07-12T10:04:19.000Z"
+  },
+  {
+   "chapterId": "4e28912b-4407-4f53-8f3f-18a84ba812ba",
+   "chapNum": 330,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 298,
+   "publishDate": "2021-07-12T10:01:55.000Z"
+  },
+  {
+   "chapterId": "2af33320-8ac9-4f7c-9cc0-52bdc2964576",
+   "chapNum": 329.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 297,
+   "publishDate": "2021-07-12T10:00:28.000Z"
+  },
+  {
+   "chapterId": "a1452c74-492c-4f0d-b7d2-56d24546936f",
+   "chapNum": 329,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 296,
+   "publishDate": "2021-07-12T09:59:30.000Z"
+  },
+  {
+   "chapterId": "30706bf2-5a2c-4f9c-95ce-8f0a61d5ea6a",
+   "chapNum": 328.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 295,
+   "publishDate": "2021-07-12T09:58:59.000Z"
+  },
+  {
+   "chapterId": "69fb02ea-9eec-4fcb-9385-3a7f41678165",
+   "chapNum": 328,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 294,
+   "publishDate": "2021-07-12T09:58:12.000Z"
+  },
+  {
+   "chapterId": "8e7e66ad-aa5c-4f12-a282-e1de394960fb",
+   "chapNum": 327.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 293,
+   "publishDate": "2021-07-12T09:56:52.000Z"
+  },
+  {
+   "chapterId": "0111532a-3f45-4fc0-9d76-76fa13d282d7",
+   "chapNum": 327,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 292,
+   "publishDate": "2021-07-12T09:56:00.000Z"
+  },
+  {
+   "chapterId": "5f6dc67b-f2ab-4fd0-b844-dec2bcc0ea26",
+   "chapNum": 326.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 291,
+   "publishDate": "2021-07-12T09:55:21.000Z"
+  },
+  {
+   "chapterId": "c1ded6f4-f882-4fc3-ab95-4db50bd003ec",
+   "chapNum": 326,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 290,
+   "publishDate": "2021-07-12T09:54:33.000Z"
+  },
+  {
+   "chapterId": "fbb3058c-f3b1-4f26-90ed-e6622da15345",
+   "chapNum": 325,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 289,
+   "publishDate": "2021-07-08T07:06:46.000Z"
+  },
+  {
+   "chapterId": "284acc62-082b-4f24-a903-8512cf94f77f",
+   "chapNum": 324.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 288,
+   "publishDate": "2021-07-12T09:52:52.000Z"
+  },
+  {
+   "chapterId": "188b6b49-c964-4fb1-a05e-ab4466d26595",
+   "chapNum": 324,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs",
+   "langCode": "🇬🇧",
+   "sortingIndex": 287,
+   "publishDate": "2021-07-12T09:52:16.000Z"
+  },
+  {
+   "chapterId": "4f2fda33-7866-4f4e-91ad-3a336771f6e8",
+   "chapNum": 323.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 286,
+   "publishDate": "2021-07-08T06:54:09.000Z"
+  },
+  {
+   "chapterId": "f7d59e5e-9965-4f5c-b7d0-a3265f19e88c",
+   "chapNum": 323,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 285,
+   "publishDate": "2021-07-08T06:52:40.000Z"
+  },
+  {
+   "chapterId": "a1555bb7-c14a-4f4e-9f53-8721f4eee23a",
+   "chapNum": 322.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 284,
+   "publishDate": "2021-07-08T06:50:11.000Z"
+  },
+  {
+   "chapterId": "3b626b15-a1b6-4f41-9340-65c07032d03d",
+   "chapNum": 322,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 283,
+   "publishDate": "2021-07-08T06:48:11.000Z"
+  },
+  {
+   "chapterId": "918cd060-b6f0-4f3f-a365-8c941b0ccce3",
+   "chapNum": 321.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 282,
+   "publishDate": "2021-07-08T06:46:21.000Z"
+  },
+  {
+   "chapterId": "5518fdf0-d57d-4f1b-a322-d907aed8c004",
+   "chapNum": 321,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 281,
+   "publishDate": "2021-07-08T06:40:31.000Z"
+  },
+  {
+   "chapterId": "1aa9ecc0-e928-4fd1-a821-bf0932e9aff3",
+   "chapNum": 320.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 280,
+   "publishDate": "2021-07-08T06:36:58.000Z"
+  },
+  {
+   "chapterId": "7517c7a4-6856-4fc0-95e0-5c35e482a879",
+   "chapNum": 320,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 279,
+   "publishDate": "2021-07-08T05:19:29.000Z"
+  },
+  {
+   "chapterId": "cbfa42df-794e-4f11-a295-911ecd571d6f",
+   "chapNum": 319.5,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 278,
+   "publishDate": "2021-07-08T05:17:42.000Z"
+  },
+  {
+   "chapterId": "83cd2ad1-c533-4f6e-b576-2aa2cccb51cb",
+   "chapNum": 319,
+   "volume": 0,
+   "title": "",
+   "version": "Social Weebs, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 277,
+   "publishDate": "2021-07-08T05:13:53.000Z"
+  },
+  {
+   "chapterId": "29648e76-9a57-4677-9f4f-e81bf6199c95",
+   "chapNum": 318.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 276,
+   "publishDate": "2021-03-19T08:04:37.000Z"
+  },
+  {
+   "chapterId": "9935ad34-3612-4356-8c24-bd3f1a53e65f",
+   "chapNum": 318,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 275,
+   "publishDate": "2021-03-18T08:33:12.000Z"
+  },
+  {
+   "chapterId": "3f366fee-1450-4cb7-957b-53a5d374c2b1",
+   "chapNum": 317.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 274,
+   "publishDate": "2021-03-07T11:43:40.000Z"
+  },
+  {
+   "chapterId": "434bcecc-a76c-4194-ae87-05829c704aac",
+   "chapNum": 317,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 273,
+   "publishDate": "2021-03-06T14:33:40.000Z"
+  },
+  {
+   "chapterId": "fcf64424-6369-4d6e-933c-3283e66a46f1",
+   "chapNum": 317,
+   "volume": 0,
+   "title": "",
+   "version": "Dragon God Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 272,
+   "publishDate": "2021-03-06T12:15:24.000Z"
+  },
+  {
+   "chapterId": "08f9a63d-7709-4f8f-b291-1874af0d233c",
+   "chapNum": 316.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 271,
+   "publishDate": "2021-02-27T16:38:33.000Z"
+  },
+  {
+   "chapterId": "7b1b2bd3-e7a3-41c8-816b-675873ad3404",
+   "chapNum": 316,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 270,
+   "publishDate": "2021-02-24T14:48:04.000Z"
+  },
+  {
+   "chapterId": "c3ab9315-ea75-424b-a0e3-3c3459b80146",
+   "chapNum": 315.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 269,
+   "publishDate": "2021-02-21T08:26:33.000Z"
+  },
+  {
+   "chapterId": "0448fd71-d9b8-4afc-9793-bc7f8d1c1c45",
+   "chapNum": 315,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 268,
+   "publishDate": "2021-02-20T11:17:03.000Z"
+  },
+  {
+   "chapterId": "e02721f6-257e-4903-968e-fc71c0cf6d4c",
+   "chapNum": 314.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 267,
+   "publishDate": "2021-02-13T14:11:51.000Z"
+  },
+  {
+   "chapterId": "edd470a9-b050-4050-8e6d-a2e2b1d13092",
+   "chapNum": 314,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 266,
+   "publishDate": "2021-02-10T13:23:38.000Z"
+  },
+  {
+   "chapterId": "68d99bc7-68ed-4d18-ac0a-a2a0643bc7eb",
+   "chapNum": 313.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 265,
+   "publishDate": "2021-02-10T12:45:21.000Z"
+  },
+  {
+   "chapterId": "4d9874c3-f538-4b3f-9d19-49627ef0a422",
+   "chapNum": 313,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 264,
+   "publishDate": "2021-02-08T09:27:25.000Z"
+  },
+  {
+   "chapterId": "cd55047a-9f53-46e0-8c9d-ada1fb0cdcde",
+   "chapNum": 312.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 263,
+   "publishDate": "2021-01-30T14:51:25.000Z"
+  },
+  {
+   "chapterId": "b612709f-e52d-47ad-af67-739e90a0893b",
+   "chapNum": 312,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 262,
+   "publishDate": "2021-01-27T14:21:23.000Z"
+  },
+  {
+   "chapterId": "ff5fcd11-cb64-46c4-938b-11facff66987",
+   "chapNum": 311.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 261,
+   "publishDate": "2021-01-23T15:19:53.000Z"
+  },
+  {
+   "chapterId": "4e628c0d-a18a-4696-8705-6afe239c7fa2",
+   "chapNum": 311,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 260,
+   "publishDate": "2021-01-20T15:21:44.000Z"
+  },
+  {
+   "chapterId": "87d0cdc3-87c3-4561-a783-28b6c351ba57",
+   "chapNum": 310.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 259,
+   "publishDate": "2021-01-17T15:16:52.000Z"
+  },
+  {
+   "chapterId": "1d000bb8-980e-4fa2-ae30-156ae304e47a",
+   "chapNum": 310,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 258,
+   "publishDate": "2021-01-14T03:48:33.000Z"
+  },
+  {
+   "chapterId": "02b6b2d9-69a2-4f49-bd96-e3646e25d345",
+   "chapNum": 309.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 257,
+   "publishDate": "2021-01-13T12:46:24.000Z"
+  },
+  {
+   "chapterId": "0920ce07-f1a3-4631-8718-d23112407d08",
+   "chapNum": 309,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 256,
+   "publishDate": "2021-01-06T16:28:11.000Z"
+  },
+  {
+   "chapterId": "a9cb50b5-040b-4327-b166-f4cce90e79ea",
+   "chapNum": 308.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 255,
+   "publishDate": "2021-01-06T14:43:19.000Z"
+  },
+  {
+   "chapterId": "6e7fa138-005f-42ed-834d-02219b870ba7",
+   "chapNum": 308,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 254,
+   "publishDate": "2020-12-31T06:51:20.000Z"
+  },
+  {
+   "chapterId": "11c1a466-574a-4948-a4f3-ffcea1bbdf3c",
+   "chapNum": 307.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 253,
+   "publishDate": "2020-12-29T08:26:20.000Z"
+  },
+  {
+   "chapterId": "3ea1529e-2b9d-4e4f-abe5-9765a577e2f9",
+   "chapNum": 307,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 252,
+   "publishDate": "2020-12-23T14:41:50.000Z"
+  },
+  {
+   "chapterId": "042c8faf-44e5-4dc9-8bb5-8806d5c60eaf",
+   "chapNum": 306.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 251,
+   "publishDate": "2020-12-19T17:21:46.000Z"
+  },
+  {
+   "chapterId": "51d3e399-500a-4c83-a295-b0c23c1e43f5",
+   "chapNum": 306,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 250,
+   "publishDate": "2020-12-18T10:35:23.000Z"
+  },
+  {
+   "chapterId": "49460650-4956-4395-85c5-2a7f914b0ea8",
+   "chapNum": 305.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 249,
+   "publishDate": "2020-12-12T13:42:28.000Z"
+  },
+  {
+   "chapterId": "1c892df5-509f-4e80-aad8-e87dc3aa958f",
+   "chapNum": 305,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 248,
+   "publishDate": "2020-12-09T14:40:52.000Z"
+  },
+  {
+   "chapterId": "17232181-396b-425a-bfc5-14c3e4bc5b1b",
+   "chapNum": 304.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 247,
+   "publishDate": "2020-12-05T13:43:02.000Z"
+  },
+  {
+   "chapterId": "fbee1ca9-cc18-4449-9509-16099d58b983",
+   "chapNum": 304,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 246,
+   "publishDate": "2020-12-02T13:06:30.000Z"
+  },
+  {
+   "chapterId": "39c9ca6f-df91-4807-a3e7-3132b7c19ee6",
+   "chapNum": 303.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 245,
+   "publishDate": "2020-11-30T09:33:23.000Z"
+  },
+  {
+   "chapterId": "6fbf9711-d4bc-498a-8ff4-f801ef572b28",
+   "chapNum": 303,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 244,
+   "publishDate": "2020-11-26T15:05:36.000Z"
+  },
+  {
+   "chapterId": "659c8ecb-a76f-4add-8304-f40ea867aa3f",
+   "chapNum": 302.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 243,
+   "publishDate": "2020-11-21T13:36:40.000Z"
+  },
+  {
+   "chapterId": "136108a6-5bcb-4c92-9fa6-e1a5f6f17fc6",
+   "chapNum": 302,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 242,
+   "publishDate": "2020-11-18T14:30:56.000Z"
+  },
+  {
+   "chapterId": "84ec956b-b323-4fea-9e23-e1c7269b3a95",
+   "chapNum": 301.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 241,
+   "publishDate": "2020-11-14T13:39:12.000Z"
+  },
+  {
+   "chapterId": "f71bd8a7-4670-4b35-9742-f3252e0fe52d",
+   "chapNum": 301,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 240,
+   "publishDate": "2020-11-11T16:30:01.000Z"
+  },
+  {
+   "chapterId": "233eea38-c83a-4b34-b136-6f6a4704f2de",
+   "chapNum": 300.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 239,
+   "publishDate": "2020-11-07T15:21:16.000Z"
+  },
+  {
+   "chapterId": "7cc1ebdb-a55d-4d54-82d3-1dae5c291e52",
+   "chapNum": 300,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 238,
+   "publishDate": "2020-11-04T13:25:17.000Z"
+  },
+  {
+   "chapterId": "849c98b4-d8a0-42cc-9337-5caef59da072",
+   "chapNum": 299.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 237,
+   "publishDate": "2020-10-31T15:26:30.000Z"
+  },
+  {
+   "chapterId": "55f2eb3e-32d2-4203-a3d3-e6ee8b4b5c1f",
+   "chapNum": 299,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 236,
+   "publishDate": "2020-10-28T14:28:46.000Z"
+  },
+  {
+   "chapterId": "1a025bd2-fe5c-4965-8988-8def1e71acd6",
+   "chapNum": 298.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 235,
+   "publishDate": "2020-10-24T13:51:33.000Z"
+  },
+  {
+   "chapterId": "867ff130-7762-4bb8-81c5-296e0e5db907",
+   "chapNum": 298,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 234,
+   "publishDate": "2020-10-21T14:16:30.000Z"
+  },
+  {
+   "chapterId": "0a9f54e5-f746-4be4-9205-4d801476fc78",
+   "chapNum": 297.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 233,
+   "publishDate": "2020-10-18T11:50:52.000Z"
+  },
+  {
+   "chapterId": "93c4b7a6-07fd-4eff-824d-867330598c46",
+   "chapNum": 297.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 232,
+   "publishDate": "2020-10-17T16:51:24.000Z"
+  },
+  {
+   "chapterId": "aa0ef7ec-b4f2-4455-ae34-df363de30442",
+   "chapNum": 297,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 231,
+   "publishDate": "2020-10-14T13:11:36.000Z"
+  },
+  {
+   "chapterId": "b38f6343-41d0-49a4-a906-c3904c857a6c",
+   "chapNum": 296.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 230,
+   "publishDate": "2020-10-10T12:55:20.000Z"
+  },
+  {
+   "chapterId": "4cdd607b-c99f-4620-98ff-79b929892f37",
+   "chapNum": 296,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 229,
+   "publishDate": "2020-10-07T13:31:02.000Z"
+  },
+  {
+   "chapterId": "4b109af1-04fa-410d-877c-f8a91c36a3bf",
+   "chapNum": 296,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 228,
+   "publishDate": "2020-10-07T13:09:05.000Z"
+  },
+  {
+   "chapterId": "2c0dc75d-0095-48f8-8388-a5f0655f755b",
+   "chapNum": 295.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 227,
+   "publishDate": "2020-10-03T13:03:50.000Z"
+  },
+  {
+   "chapterId": "2d8d8535-ba32-4003-8cd1-ce2cdc44b421",
+   "chapNum": 295.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 226,
+   "publishDate": "2020-10-03T12:59:20.000Z"
+  },
+  {
+   "chapterId": "bf528df4-19c9-4ade-a98d-02fab167d8ed",
+   "chapNum": 295,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 225,
+   "publishDate": "2020-10-01T11:41:24.000Z"
+  },
+  {
+   "chapterId": "c6e845b5-0501-4db2-9d8a-55cfb81a2017",
+   "chapNum": 295,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 224,
+   "publishDate": "2020-10-01T09:51:15.000Z"
+  },
+  {
+   "chapterId": "84d8f8e3-8105-43f4-8bfa-eeb3ed5f5944",
+   "chapNum": 294.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 223,
+   "publishDate": "2020-09-26T12:57:21.000Z"
+  },
+  {
+   "chapterId": "c46fd455-f081-4b6a-a91d-5ebf6ec57819",
+   "chapNum": 294.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 222,
+   "publishDate": "2020-09-26T12:57:03.000Z"
+  },
+  {
+   "chapterId": "7404359b-eafe-48f4-a284-464128e6979e",
+   "chapNum": 294,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 221,
+   "publishDate": "2020-09-23T12:32:17.000Z"
+  },
+  {
+   "chapterId": "f87d8180-c3ec-4963-9b3c-e8cde38a51b1",
+   "chapNum": 294,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 220,
+   "publishDate": "2020-09-23T12:16:33.000Z"
+  },
+  {
+   "chapterId": "aaa7f937-fcfb-49c5-b78f-1a8cd9b8b597",
+   "chapNum": 293.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 219,
+   "publishDate": "2020-09-19T13:04:13.000Z"
+  },
+  {
+   "chapterId": "cabc8260-07a5-44a2-bfab-047c2b86313e",
+   "chapNum": 293.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 218,
+   "publishDate": "2020-09-19T12:58:20.000Z"
+  },
+  {
+   "chapterId": "74298f07-615d-4c16-bcf4-185d1c63bf8f",
+   "chapNum": 293,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 217,
+   "publishDate": "2020-09-16T11:34:16.000Z"
+  },
+  {
+   "chapterId": "c6d61c2f-d91c-4eaa-a2bb-c0d667a3ce47",
+   "chapNum": 293,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 216,
+   "publishDate": "2020-09-16T10:43:27.000Z"
+  },
+  {
+   "chapterId": "3a4fd8a8-4a0b-4af1-8e45-f93e0e95a5f8",
+   "chapNum": 292.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 215,
+   "publishDate": "2020-09-13T12:04:11.000Z"
+  },
+  {
+   "chapterId": "82df2621-48bf-43ac-bde2-81f0688c7c7e",
+   "chapNum": 292.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 214,
+   "publishDate": "2020-09-13T11:59:52.000Z"
+  },
+  {
+   "chapterId": "b27669f3-a048-4db4-b54f-774347e7a68a",
+   "chapNum": 292,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 213,
+   "publishDate": "2020-09-09T13:53:50.000Z"
+  },
+  {
+   "chapterId": "c6b0aa40-3621-476d-80db-5bb5bd96877f",
+   "chapNum": 292,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 212,
+   "publishDate": "2020-09-09T11:50:15.000Z"
+  },
+  {
+   "chapterId": "f6e5df05-27c2-4c10-b03c-72ea5929dc0c",
+   "chapNum": 291.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 211,
+   "publishDate": "2020-09-05T13:44:59.000Z"
+  },
+  {
+   "chapterId": "bcada1de-6c1a-4163-b014-4160a32ea984",
+   "chapNum": 291.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 210,
+   "publishDate": "2020-09-05T13:16:05.000Z"
+  },
+  {
+   "chapterId": "a21ce82f-324a-48c0-b5b9-0f60837df938",
+   "chapNum": 291,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 209,
+   "publishDate": "2020-09-10T04:58:35.000Z"
+  },
+  {
+   "chapterId": "34134fda-7e6c-4043-8800-c4d4f1eceaab",
+   "chapNum": 291,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 208,
+   "publishDate": "2020-09-02T14:01:47.000Z"
+  },
+  {
+   "chapterId": "7f0dc234-bd83-4166-826f-0f3c7109a6e5",
+   "chapNum": 290.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 207,
+   "publishDate": "2020-09-10T04:53:16.000Z"
+  },
+  {
+   "chapterId": "bcf6c0cc-f518-4f20-ad57-ee4fe1e5ce2d",
+   "chapNum": 290.5,
+   "volume": 0,
+   "title": "",
+   "version": "",
+   "langCode": "🇬🇧",
+   "sortingIndex": 206,
+   "publishDate": "2020-08-29T18:49:41.000Z"
+  },
+  {
+   "chapterId": "482e4f42-2340-45d2-94ea-bf09717246c1",
+   "chapNum": 290,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 205,
+   "publishDate": "2020-08-26T13:11:15.000Z"
+  },
+  {
+   "chapterId": "db16a458-97ea-441c-a616-09f74fc4b3cf",
+   "chapNum": 289.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 204,
+   "publishDate": "2020-08-22T13:17:21.000Z"
+  },
+  {
+   "chapterId": "bd6bb01a-5f83-40c0-b44a-f9ba4ebb95a4",
+   "chapNum": 289,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 203,
+   "publishDate": "2020-08-19T12:39:49.000Z"
+  },
+  {
+   "chapterId": "3a401d31-3efb-49bb-8ce8-fd0707d7692d",
+   "chapNum": 288.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 202,
+   "publishDate": "2020-08-15T13:33:22.000Z"
+  },
+  {
+   "chapterId": "b14b1cc3-51f9-4be4-be80-fbde4495dbe1",
+   "chapNum": 288,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 201,
+   "publishDate": "2020-08-12T14:06:16.000Z"
+  },
+  {
+   "chapterId": "6a6db198-d92f-4b21-9b67-f95ed3084ac0",
+   "chapNum": 287.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 200,
+   "publishDate": "2020-08-08T15:39:38.000Z"
+  },
+  {
+   "chapterId": "68848778-58af-41fc-ab9e-ed330aafcf69",
+   "chapNum": 287,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 199,
+   "publishDate": "2020-08-05T13:56:13.000Z"
+  },
+  {
+   "chapterId": "f89d1a3a-df2d-4e46-9894-7904b6f227b8",
+   "chapNum": 286.6,
+   "volume": 0,
+   "title": "Extra Chapter",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 198,
+   "publishDate": "2020-08-03T14:47:08.000Z"
+  },
+  {
+   "chapterId": "dd8c680e-8927-4828-8b3b-6f4c12b7deb8",
+   "chapNum": 286.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 197,
+   "publishDate": "2020-08-01T14:29:17.000Z"
+  },
+  {
+   "chapterId": "5c96584b-2cb3-45ea-a07f-e10f5b4863bc",
+   "chapNum": 286,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 196,
+   "publishDate": "2020-07-29T15:31:06.000Z"
+  },
+  {
+   "chapterId": "e9b7ab64-990b-4127-ac88-2024952a5049",
+   "chapNum": 285.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 195,
+   "publishDate": "2020-07-26T10:43:13.000Z"
+  },
+  {
+   "chapterId": "34e28e77-c00e-4790-bd7b-49f4f1fd9959",
+   "chapNum": 285,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 194,
+   "publishDate": "2020-07-22T18:57:27.000Z"
+  },
+  {
+   "chapterId": "670701b4-1312-4432-b08b-ea86724c0333",
+   "chapNum": 284.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 193,
+   "publishDate": "2020-07-18T20:21:29.000Z"
+  },
+  {
+   "chapterId": "8de3aabc-2c0d-4e0d-8282-ece67e1b9781",
+   "chapNum": 284,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 192,
+   "publishDate": "2020-07-15T19:14:47.000Z"
+  },
+  {
+   "chapterId": "d1293cf8-5136-4362-983c-cd1f97d2b9c9",
+   "chapNum": 283.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 191,
+   "publishDate": "2020-07-11T23:52:29.000Z"
+  },
+  {
+   "chapterId": "e3584b01-edbe-4882-9b8b-093ea261a36f",
+   "chapNum": 283,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 190,
+   "publishDate": "2020-07-08T18:55:41.000Z"
+  },
+  {
+   "chapterId": "d7bfd865-2161-40d9-9884-23329896ba85",
+   "chapNum": 282.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 189,
+   "publishDate": "2020-07-04T18:56:43.000Z"
+  },
+  {
+   "chapterId": "1e42c2d2-3816-4918-aa6e-3c9b56383db5",
+   "chapNum": 282,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 188,
+   "publishDate": "2020-07-01T18:31:18.000Z"
+  },
+  {
+   "chapterId": "6be1846e-58ce-4393-9d22-938a435987a5",
+   "chapNum": 281.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 187,
+   "publishDate": "2020-06-27T17:31:26.000Z"
+  },
+  {
+   "chapterId": "5937ac2c-25b1-4b30-b3c6-58197a25f93c",
+   "chapNum": 281,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 186,
+   "publishDate": "2020-06-24T18:28:43.000Z"
+  },
+  {
+   "chapterId": "7c95c78d-e15c-4a9f-be90-6c5526137805",
+   "chapNum": 280.5,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 185,
+   "publishDate": "2020-06-21T05:28:28.000Z"
+  },
+  {
+   "chapterId": "af584273-e418-4bda-9c91-68d87d11c209",
+   "chapNum": 280,
+   "volume": 0,
+   "title": "",
+   "version": "Setsu Scans, Hero Manhua",
+   "langCode": "🇬🇧",
+   "sortingIndex": 184,
+   "publishDate": "2020-06-18T06:25:19.000Z"
+  },
+  {
+   "chapterId": "924c0fc5-1489-4e8e-8ebb-f3e6c72f725f",
+   "chapNum": 279.5,
+   "volume": 0,
+   "title": "Convincing with Logic (Part 2)",
+   "version": "Unknown",
+   "langCode": "🇬🇧",
+   "sortingIndex": 183,
+   "publishDate": "2020-06-14T07:17:15.000Z"
+  },
+  {
+   "chapterId": "c00dfeff-842d-4e67-bb6e-4b899903d2f7",
+   "chapNum": 279,
+   "volume": 0,
+   "title": "Convincing with Logic",
+   "version": "Unknown",
+   "langCode": "🇬🇧",
+   "sortingIndex": 182,
+   "publishDate": "2020-06-12T16:49:43.000Z"
+  },
+  {
+   "chapterId": "84c00e09-295a-43ef-b5a5-86be6a40e1c6",
+   "chapNum": 131.5,
+   "volume": 0,
+   "title": "The Black-Gold Demon Spiritualists Face Off [Part 2]",
+   "version": "Unknown",
+   "langCode": "🇬🇧",
+   "sortingIndex": 181,
+   "publishDate": "2020-10-17T03:14:42.000Z"
+  },
+  {
+   "chapterId": "429355e5-0fba-46ce-90bf-3f0ceb42ca35",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "The Black-Gold Demon Spiritualists Face Off",
+   "version": "Unknown",
+   "langCode": "🇬🇧",
+   "sortingIndex": 180,
+   "publishDate": "2020-10-17T03:13:08.000Z"
+  },
+  {
+   "chapterId": "9837592d-c2ac-4b2a-9008-30414f417d3f",
+   "chapNum": 130.5,
+   "volume": 0,
+   "title": "The City Lord's Mansion is Under Attack!  [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 179,
+   "publishDate": "2018-03-10T20:09:57.000Z"
+  },
+  {
+   "chapterId": "c625f7bc-afac-41a1-8dcf-03bba08b913a",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "The City Lord's Mansion is Under Attack!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 178,
+   "publishDate": "2020-10-16T07:00:59.000Z"
+  },
+  {
+   "chapterId": "6856f49a-3851-48ec-a98a-9ecd1f2f600f",
+   "chapNum": 129.5,
+   "volume": 0,
+   "title": "Applying Medicine [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 177,
+   "publishDate": "2020-10-16T06:56:02.000Z"
+  },
+  {
+   "chapterId": "0653a05c-e1fe-4847-a890-1997aa3cd3bb",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "Applying Medicine",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 176,
+   "publishDate": "2020-10-16T06:53:32.000Z"
+  },
+  {
+   "chapterId": "300b76d8-a120-4725-8c11-a7640a825694",
+   "chapNum": 128.5,
+   "volume": 0,
+   "title": "The City Lord is Being Shameless [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 175,
+   "publishDate": "2020-10-16T06:51:16.000Z"
+  },
+  {
+   "chapterId": "d057ea57-dfa0-4ef9-8001-22f4cf00d0b0",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "The City Lord is Being Shameless!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 174,
+   "publishDate": "2020-10-16T06:48:48.000Z"
+  },
+  {
+   "chapterId": "e0d3bae1-bf8a-465b-b270-d8104fad9b88",
+   "chapNum": 127.5,
+   "volume": 0,
+   "title": "The Match is Decided! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 173,
+   "publishDate": "2020-10-16T06:47:15.000Z"
+  },
+  {
+   "chapterId": "1dd60dc4-ff9d-42f7-bad6-cb818c970617",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "The Match is Decided!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 172,
+   "publishDate": "2020-10-16T06:44:43.000Z"
+  },
+  {
+   "chapterId": "15f2ba4d-15ed-4c6c-bcc5-86162f1f82b5",
+   "chapNum": 126.5,
+   "volume": 0,
+   "title": "City Lord's Power [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 171,
+   "publishDate": "2020-10-16T06:43:14.000Z"
+  },
+  {
+   "chapterId": "f6f37d32-6519-430d-8be3-a17c5313ca6b",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "City Lord's Power",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 170,
+   "publishDate": "2020-10-16T06:40:48.000Z"
+  },
+  {
+   "chapterId": "658177cf-f177-455b-b947-fd66d5e8d529",
+   "chapNum": 125.5,
+   "volume": 0,
+   "title": "Tai Yi Killing Array [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 169,
+   "publishDate": "2020-10-16T06:39:10.000Z"
+  },
+  {
+   "chapterId": "68996f2a-b922-4f72-aa59-c726ca53362d",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "Tai Yi Killing Array",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 168,
+   "publishDate": "2020-10-16T06:37:25.000Z"
+  },
+  {
+   "chapterId": "34654975-b1c3-46a6-a8e9-d0a31a540a9c",
+   "chapNum": 124.5,
+   "volume": 0,
+   "title": "Restoring Justice [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 167,
+   "publishDate": "2020-10-16T06:34:12.000Z"
+  },
+  {
+   "chapterId": "3443e312-ba7f-497f-ace5-766761912855",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "Restoring Justice",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 166,
+   "publishDate": "2020-10-16T01:54:49.000Z"
+  },
+  {
+   "chapterId": "3b06584c-302c-48db-9e19-a324bce25150",
+   "chapNum": 123.5,
+   "volume": 0,
+   "title": "Secretly Observing [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 165,
+   "publishDate": "2020-10-16T00:40:35.000Z"
+  },
+  {
+   "chapterId": "a8a493cf-52e9-4237-8b00-fb3f31b46eaa",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "Secretly Observing",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 164,
+   "publishDate": "2018-03-07T16:05:19.000Z"
+  },
+  {
+   "chapterId": "82b4f791-ed76-4e70-a19f-adeddbf7e228",
+   "chapNum": 122.5,
+   "volume": 0,
+   "title": "Start the Arrangement [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 163,
+   "publishDate": "2018-03-07T16:05:01.000Z"
+  },
+  {
+   "chapterId": "91fddb35-85bc-4d20-a864-2425763023dc",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "Start the Arrangement",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 162,
+   "publishDate": "2018-03-07T16:04:45.000Z"
+  },
+  {
+   "chapterId": "6ef5a195-8109-4598-b487-bf933142dc39",
+   "chapNum": 121.5,
+   "volume": 0,
+   "title": "City Lord Agreed! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 161,
+   "publishDate": "2018-03-07T16:04:24.000Z"
+  },
+  {
+   "chapterId": "a032248c-9d95-4378-a85e-78b864537151",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "City Lord Agreed!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 160,
+   "publishDate": "2018-03-07T16:04:02.000Z"
+  },
+  {
+   "chapterId": "fcb8f714-585d-477a-b83d-ab535553add0",
+   "chapNum": 120.5,
+   "volume": 0,
+   "title": "The Impassable Threshold [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 159,
+   "publishDate": "2018-03-07T16:03:37.000Z"
+  },
+  {
+   "chapterId": "f0c5002e-cca8-4635-8a06-5102f0548e81",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "The Impassable Threshold",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 158,
+   "publishDate": "2018-03-07T16:03:16.000Z"
+  },
+  {
+   "chapterId": "1dd280c9-50da-4f1c-91d5-1e7ae0cf696b",
+   "chapNum": 119.5,
+   "volume": 0,
+   "title": "Not Free [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 157,
+   "publishDate": "2018-03-07T16:02:55.000Z"
+  },
+  {
+   "chapterId": "7d076663-67e0-4bfb-b1a1-696edff5b9ce",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "Not Free",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 156,
+   "publishDate": "2018-03-07T16:02:35.000Z"
+  },
+  {
+   "chapterId": "704a4750-1d48-4a7f-ab0f-f8fbbc359505",
+   "chapNum": 118.5,
+   "volume": 0,
+   "title": "Mysterious Book [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 155,
+   "publishDate": "2018-03-07T16:02:21.000Z"
+  },
+  {
+   "chapterId": "51bad459-3668-4f22-90d1-ba7a69186a8a",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "Mysterious Book",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 154,
+   "publishDate": "2018-03-07T16:02:01.000Z"
+  },
+  {
+   "chapterId": "6ad00262-6134-4ba7-a809-cc4380ed3ce5",
+   "chapNum": 117.5,
+   "volume": 0,
+   "title": "Cause [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 153,
+   "publishDate": "2018-03-07T16:01:38.000Z"
+  },
+  {
+   "chapterId": "4c99fa04-b00c-4b91-8509-e3b9dea1166d",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "Cause",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 152,
+   "publishDate": "2018-03-07T16:01:28.000Z"
+  },
+  {
+   "chapterId": "03d54052-f363-4f36-9b8f-9e732d1fefa9",
+   "chapNum": 116.5,
+   "volume": 0,
+   "title": "Battle at the Corn Field [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 151,
+   "publishDate": "2018-03-07T16:01:20.000Z"
+  },
+  {
+   "chapterId": "e2abd945-f298-4787-a235-38fa6ebc7b72",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "Battle at the Corn Field",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 150,
+   "publishDate": "2018-03-07T16:01:13.000Z"
+  },
+  {
+   "chapterId": "a81e79c1-198b-42c0-898b-36a4ca8fbd2f",
+   "chapNum": 115.5,
+   "volume": 0,
+   "title": "Soul Puppet [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 149,
+   "publishDate": "2018-03-07T16:01:02.000Z"
+  },
+  {
+   "chapterId": "b6a2bae6-aaa7-4da9-aeba-1047b1036739",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "Soul Puppet",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 148,
+   "publishDate": "2018-03-07T16:00:54.000Z"
+  },
+  {
+   "chapterId": "5aad0c8f-5577-47c9-adfd-cb56c2f79188",
+   "chapNum": 114.5,
+   "volume": 0,
+   "title": "Subduing the Thunder God’s Meteorite Sword [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 147,
+   "publishDate": "2018-03-07T16:00:44.000Z"
+  },
+  {
+   "chapterId": "70ba3e99-9764-4765-90a8-4454d406cb68",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "Subduing the Thunder God’s Meteorite Sword",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 146,
+   "publishDate": "2018-03-07T16:00:34.000Z"
+  },
+  {
+   "chapterId": "989c9520-86fa-4b76-a672-39756ff2f6f3",
+   "chapNum": 113.5,
+   "volume": 0,
+   "title": "The Depths of Heavenly Sacred Border [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 145,
+   "publishDate": "2018-03-07T15:59:56.000Z"
+  },
+  {
+   "chapterId": "1d0fb8dc-0f11-4840-9368-4a0bb37d5ee7",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "The Depths of Heavenly Sacred Border",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 144,
+   "publishDate": "2018-03-07T15:59:45.000Z"
+  },
+  {
+   "chapterId": "4e102047-cf1f-4fe6-bbd4-7e5647e1eb2b",
+   "chapNum": 112.5,
+   "volume": 0,
+   "title": "Ancestral Founder Ye Yan [Part 2]",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 143,
+   "publishDate": "2018-03-07T15:59:35.000Z"
+  },
+  {
+   "chapterId": "543cf917-c56c-4d21-b013-f95f989be5c8",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "Ancestral Founder Ye Yan",
+   "version": "Someone's Scans",
+   "langCode": "🇬🇧",
+   "sortingIndex": 142,
+   "publishDate": "2018-03-07T15:59:30.000Z"
+  },
+  {
+   "chapterId": "8484a7f9-147b-422c-8b61-65fd8df339ae",
+   "chapNum": 111.5,
+   "volume": 0,
+   "title": "Inside the Heavenly Sacred Border... [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 141,
+   "publishDate": "2018-03-07T15:59:19.000Z"
+  },
+  {
+   "chapterId": "7f87fd0b-9f3c-4996-bd7e-727135f8e57f",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "Inside the Heavenly Sacred Border…",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 140,
+   "publishDate": "2018-03-07T15:59:12.000Z"
+  },
+  {
+   "chapterId": "951008ab-b1d2-442d-b1eb-04ba820d1245",
+   "chapNum": 110.5,
+   "volume": 0,
+   "title": "Won't Stop Till I Die! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 139,
+   "publishDate": "2018-03-07T15:59:00.000Z"
+  },
+  {
+   "chapterId": "af186b9f-5a5b-47e8-b1be-251b6bc5b41d",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "Won't Stop Till I Die!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 138,
+   "publishDate": "2018-03-07T15:58:43.000Z"
+  },
+  {
+   "chapterId": "d9c7b91b-7dce-49e4-8ed6-a146c582d1c0",
+   "chapNum": 109.5,
+   "volume": 0,
+   "title": "The City Lord is Coming [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 137,
+   "publishDate": "2018-03-07T15:58:24.000Z"
+  },
+  {
+   "chapterId": "e5d1db48-8b22-434f-829a-06cbe07a4589",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "The City Lord is Coming",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 136,
+   "publishDate": "2018-03-07T15:58:01.000Z"
+  },
+  {
+   "chapterId": "3a8c153e-2f5f-457f-99ae-708605616134",
+   "chapNum": 108.5,
+   "volume": 0,
+   "title": "City Lord Mansion [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 135,
+   "publishDate": "2018-03-07T15:57:42.000Z"
+  },
+  {
+   "chapterId": "fa376465-a4db-4597-a0c9-c505c86495db",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "City Lord Mansion",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 134,
+   "publishDate": "2018-03-07T15:57:24.000Z"
+  },
+  {
+   "chapterId": "a8a93d3d-efcb-40b1-bea2-f3a34894c2b6",
+   "chapNum": 107.5,
+   "volume": 0,
+   "title": "Four Hundred and Fifty Million [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 133,
+   "publishDate": "2018-03-07T15:57:12.000Z"
+  },
+  {
+   "chapterId": "29ba8f62-8e04-444c-98e8-d93a8a70c4e6",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "Four Hundred and Fifty Million",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 132,
+   "publishDate": "2018-03-07T15:56:55.000Z"
+  },
+  {
+   "chapterId": "cf24f031-ce4f-4d28-9333-4eefb1364ef8",
+   "chapNum": 106.5,
+   "volume": 0,
+   "title": "Victory [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 131,
+   "publishDate": "2018-03-07T15:56:34.000Z"
+  },
+  {
+   "chapterId": "b702ea95-251d-4ae8-8204-f572a066e9df",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "Victory",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 130,
+   "publishDate": "2018-03-07T15:56:11.000Z"
+  },
+  {
+   "chapterId": "05cf4a47-8435-4475-a9e8-7d95e4b37e9f",
+   "chapNum": 105.5,
+   "volume": 0,
+   "title": "Gold Rank Demon Spiritualist Shen Xiao [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 129,
+   "publishDate": "2018-03-07T15:55:49.000Z"
+  },
+  {
+   "chapterId": "66f7214f-42c5-4678-81a2-1258e7956eeb",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "Gold Rank Demon Spiritualist Shen Xiao",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 128,
+   "publishDate": "2018-03-07T15:55:28.000Z"
+  },
+  {
+   "chapterId": "3033415a-7730-4e17-a139-0cc0c0db9891",
+   "chapNum": 104.5,
+   "volume": 0,
+   "title": "...Close Win [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 127,
+   "publishDate": "2018-03-07T15:55:03.000Z"
+  },
+  {
+   "chapterId": "b8247a9b-3393-44a4-8477-98a873d706db",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "…Close Win",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 126,
+   "publishDate": "2018-03-07T15:54:46.000Z"
+  },
+  {
+   "chapterId": "cb05d6ec-77c7-43b4-af15-dbe39362148c",
+   "chapNum": 103.5,
+   "volume": 0,
+   "title": "Predicament...? [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 125,
+   "publishDate": "2018-03-07T15:54:16.000Z"
+  },
+  {
+   "chapterId": "2b96a487-8b20-474a-b26c-52aaa84af4c4",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "Predicament…?",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 124,
+   "publishDate": "2018-03-07T15:53:52.000Z"
+  },
+  {
+   "chapterId": "40708625-c96e-4d32-be18-678b8634a9f3",
+   "chapNum": 102.5,
+   "volume": 0,
+   "title": "Outcome [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 123,
+   "publishDate": "2018-03-07T15:53:28.000Z"
+  },
+  {
+   "chapterId": "cdfa9bb4-f5cc-46a0-824d-dd7d33f4ef9f",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "Outcome",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 122,
+   "publishDate": "2018-03-07T15:53:13.000Z"
+  },
+  {
+   "chapterId": "119a41e4-2d39-469c-8274-46ab822a1a0f",
+   "chapNum": 101.5,
+   "volume": 0,
+   "title": "Thunderous Strike [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 121,
+   "publishDate": "2018-03-07T15:52:55.000Z"
+  },
+  {
+   "chapterId": "d6d3610e-9fb8-4986-9d7b-8b301dc1670c",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "Thunderous Strike",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 120,
+   "publishDate": "2018-03-07T15:52:30.000Z"
+  },
+  {
+   "chapterId": "b6f55b44-6df2-4104-8590-ac9fb4182e62",
+   "chapNum": 100.5,
+   "volume": 0,
+   "title": "Bet [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 119,
+   "publishDate": "2018-03-07T19:42:25.000Z"
+  },
+  {
+   "chapterId": "1ff4286d-6566-4df8-8723-ce5319054934",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "Bet",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 118,
+   "publishDate": "2018-03-07T19:42:06.000Z"
+  },
+  {
+   "chapterId": "d2825985-e184-4387-87b7-399e73ba57bc",
+   "chapNum": 99.5,
+   "volume": 0,
+   "title": "Family Treasury [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 117,
+   "publishDate": "2018-03-07T19:41:48.000Z"
+  },
+  {
+   "chapterId": "bcafe396-8fac-4b67-90fa-7c1f35b062aa",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "Family Treasury",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 116,
+   "publishDate": "2018-03-07T19:41:37.000Z"
+  },
+  {
+   "chapterId": "4fc0f704-11ab-43c8-bdaf-74ac8b965a0f",
+   "chapNum": 98.5,
+   "volume": 0,
+   "title": "Apology [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 115,
+   "publishDate": "2018-03-07T19:40:23.000Z"
+  },
+  {
+   "chapterId": "2e8340aa-1d1b-45fc-96a6-a173fbaafb57",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "Apology",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 114,
+   "publishDate": "2018-03-07T19:39:18.000Z"
+  },
+  {
+   "chapterId": "1f849708-1d15-4fe4-b440-18b29ded5059",
+   "chapNum": 97.5,
+   "volume": 0,
+   "title": "Fanged Panda [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 113,
+   "publishDate": "2018-03-07T19:38:57.000Z"
+  },
+  {
+   "chapterId": "d8942075-7023-4bbc-ab71-78a53a6192a7",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "Fanged Panda",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 112,
+   "publishDate": "2018-03-07T19:38:40.000Z"
+  },
+  {
+   "chapterId": "da5565a7-81ca-4964-b975-4495d08d66c1",
+   "chapNum": 96.5,
+   "volume": 0,
+   "title": "The Use of the Nightmare Demon Pot [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 111,
+   "publishDate": "2018-03-07T19:38:23.000Z"
+  },
+  {
+   "chapterId": "915c1aa2-0a55-404e-ad46-69c7362caa4d",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "The Use of the Nightmare Demon Pot",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 110,
+   "publishDate": "2018-03-07T19:38:04.000Z"
+  },
+  {
+   "chapterId": "8bcc1427-c6c3-4723-b449-16c68c538bc6",
+   "chapNum": 95.5,
+   "volume": 0,
+   "title": "One Hundred and Twenty Million! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 109,
+   "publishDate": "2018-03-07T19:37:41.000Z"
+  },
+  {
+   "chapterId": "e4c6a557-196d-461d-9512-c5c7b880725e",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "One Hundred and Twenty Million!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 108,
+   "publishDate": "2018-03-07T19:37:20.000Z"
+  },
+  {
+   "chapterId": "4bd2984d-e084-40a0-8205-ae843d4ff34d",
+   "chapNum": 94.5,
+   "volume": 0,
+   "title": "The Last Treasure! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 107,
+   "publishDate": "2018-03-07T19:37:02.000Z"
+  },
+  {
+   "chapterId": "58720f50-a35c-4254-8de0-3be0463873b4",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "The Last Treasure!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 106,
+   "publishDate": "2018-03-07T19:36:42.000Z"
+  },
+  {
+   "chapterId": "47227ad6-c44d-4599-920f-267f4101a69d",
+   "chapNum": 93.5,
+   "volume": 0,
+   "title": "Sky High Price Elixir's [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 105,
+   "publishDate": "2018-03-07T19:36:23.000Z"
+  },
+  {
+   "chapterId": "b0469c6b-3507-4307-a29d-790d7d147bac",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "Sky High Price Elixir's",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 104,
+   "publishDate": "2018-03-07T19:36:04.000Z"
+  },
+  {
+   "chapterId": "4292d44d-2a65-4883-8488-fd4af7ebca6d",
+   "chapNum": 92.5,
+   "volume": 0,
+   "title": "A Single Person's Auction [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 103,
+   "publishDate": "2018-03-07T19:34:39.000Z"
+  },
+  {
+   "chapterId": "54663393-ff8b-42c9-810e-3f94f9cfe564",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "A Single Person's Auction",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 102,
+   "publishDate": "2018-03-07T19:34:22.000Z"
+  },
+  {
+   "chapterId": "0e09960c-e488-4cbd-9e0e-14aaef41a92c",
+   "chapNum": 91.5,
+   "volume": 0,
+   "title": "Going to Hong Yue Family [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 101,
+   "publishDate": "2018-03-07T19:32:54.000Z"
+  },
+  {
+   "chapterId": "ecf885f1-a1ea-48cb-a063-38666b6aa9d8",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "Going to Hong Yue Family",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 100,
+   "publishDate": "2018-03-07T19:32:33.000Z"
+  },
+  {
+   "chapterId": "b6cde481-e253-45c0-9c74-7c72125c94f8",
+   "chapNum": 90.5,
+   "volume": 0,
+   "title": "Director Yang's Visit [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 99,
+   "publishDate": "2018-03-07T19:31:13.000Z"
+  },
+  {
+   "chapterId": "f441be08-a752-49e3-a92d-23c40d6c4eee",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "Director Yang's Visit",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 98,
+   "publishDate": "2018-03-07T19:29:58.000Z"
+  },
+  {
+   "chapterId": "38d68e62-99e6-4b1f-97f3-4de54ffcce37",
+   "chapNum": 89.5,
+   "volume": 0,
+   "title": "The Enforcing Elder [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 97,
+   "publishDate": "2018-03-07T19:28:22.000Z"
+  },
+  {
+   "chapterId": "7ba7e8bc-fc39-4ff2-8469-e32c85024eec",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "The Enforcing Elder",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 96,
+   "publishDate": "2018-03-07T19:28:00.000Z"
+  },
+  {
+   "chapterId": "ffdc28cd-0bad-4c6f-9c4f-e71bc3c9d4a5",
+   "chapNum": 88.5,
+   "volume": 0,
+   "title": "Nie Li vs Deacon Yun Hua [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 95,
+   "publishDate": "2018-03-07T19:26:44.000Z"
+  },
+  {
+   "chapterId": "3a56822c-57b9-4b6f-9152-91a8b1a495e6",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "Nie Li vs Deacon Yun Hua",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 94,
+   "publishDate": "2018-03-07T19:24:55.000Z"
+  },
+  {
+   "chapterId": "b9d7444e-0cd0-4adf-98b6-fd30d2b05f31",
+   "chapNum": 87.5,
+   "volume": 0,
+   "title": "Powers [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 93,
+   "publishDate": "2018-03-07T19:23:15.000Z"
+  },
+  {
+   "chapterId": "825b8753-3f1b-4bcf-899d-1a54eef0e944",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "Powers",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 92,
+   "publishDate": "2018-03-07T19:21:33.000Z"
+  },
+  {
+   "chapterId": "3395c670-b5c9-41f4-baec-1d3b13bc1776",
+   "chapNum": 86.5,
+   "volume": 0,
+   "title": "Shadow Devil Merge! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 91,
+   "publishDate": "2018-03-07T19:19:51.000Z"
+  },
+  {
+   "chapterId": "feab22f8-b6d4-4abe-9734-f9b93a7e117e",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "Shadow Devil Merge!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 90,
+   "publishDate": "2018-03-07T19:19:32.000Z"
+  },
+  {
+   "chapterId": "0d9795ff-ceb5-4aba-9c28-664ea03f2edd",
+   "chapNum": 85.5,
+   "volume": 0,
+   "title": "Homecoming [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 89,
+   "publishDate": "2018-03-07T19:19:13.000Z"
+  },
+  {
+   "chapterId": "0e10f06c-3a65-444d-8c83-bf2d4e970f45",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "Homecoming",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 88,
+   "publishDate": "2018-03-07T19:18:56.000Z"
+  },
+  {
+   "chapterId": "d71504fc-6505-480c-a3b6-4f30b552e8e1",
+   "chapNum": 84.5,
+   "volume": 0,
+   "title": "Results... [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 87,
+   "publishDate": "2018-03-07T19:18:47.000Z"
+  },
+  {
+   "chapterId": "19da18c0-bce1-409e-b377-0a6f2a7e08bb",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "Results…",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 86,
+   "publishDate": "2018-03-07T19:18:31.000Z"
+  },
+  {
+   "chapterId": "e961d177-9544-401d-9fb3-1915274dd8f8",
+   "chapNum": 83.5,
+   "volume": 0,
+   "title": "Soul Crystal Exploded! [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 85,
+   "publishDate": "2018-03-07T19:18:21.000Z"
+  },
+  {
+   "chapterId": "5bb2b04e-c76f-4570-a9cb-1b4bd1d58f15",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "Soul Crystal Exploded!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 84,
+   "publishDate": "2018-03-07T19:18:10.000Z"
+  },
+  {
+   "chapterId": "ac462389-dabe-470f-922a-853bdebbc8c5",
+   "chapNum": 82.5,
+   "volume": 0,
+   "title": "Fighter Apprentice Class [Part 2]",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 83,
+   "publishDate": "2018-03-07T19:18:02.000Z"
+  },
+  {
+   "chapterId": "2dee8cd0-0561-468e-a3e4-7ecae4907de2",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "Fighter Apprentice Class",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 82,
+   "publishDate": "2018-03-07T19:17:54.000Z"
+  },
+  {
+   "chapterId": "b42de6af-8915-4ba2-9ec9-68f736b3ab8f",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "Shen Fei's Challenge",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 81,
+   "publishDate": "2018-03-07T19:17:46.000Z"
+  },
+  {
+   "chapterId": "d0c0f035-abc9-4978-9ce3-0a181ea6608f",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "Ning'er's Fiance",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 80,
+   "publishDate": "2018-03-07T19:16:32.000Z"
+  },
+  {
+   "chapterId": "548a291c-707b-47de-9d63-9346135f9f41",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "The Encounter on the School Field",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 79,
+   "publishDate": "2018-03-07T19:16:24.000Z"
+  },
+  {
+   "chapterId": "d62854a6-e463-42ac-bf8e-091d31085e72",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "The Yearly Examination is Coming!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 78,
+   "publishDate": "2018-03-07T19:16:14.000Z"
+  },
+  {
+   "chapterId": "cd48e7ef-6819-4c08-afe6-71d5698a4a28",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "Five Elixirs",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 77,
+   "publishDate": "2018-03-07T19:14:58.000Z"
+  },
+  {
+   "chapterId": "8507277a-c51a-4e54-afd8-0b958a84a8c4",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "Amazing Talent",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 76,
+   "publishDate": "2018-03-07T19:14:49.000Z"
+  },
+  {
+   "chapterId": "54cc4dd8-4604-40a3-a45f-eb49237dbe9d",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "First Exam Passed!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 75,
+   "publishDate": "2018-03-07T19:14:41.000Z"
+  },
+  {
+   "chapterId": "c2ce5d2d-4e4b-4d0d-b8ac-14266ed3f2d8",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "Four Hours Later……",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 74,
+   "publishDate": "2018-03-07T19:14:33.000Z"
+  },
+  {
+   "chapterId": "96cbd543-2df8-4f1b-b965-32dd506d12d3",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "Masters",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 73,
+   "publishDate": "2018-03-07T19:14:25.000Z"
+  },
+  {
+   "chapterId": "ddf424a7-94ef-4440-9899-a077e8f1487d",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "Primary Alchemist Master Exam",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 72,
+   "publishDate": "2018-03-07T19:14:16.000Z"
+  },
+  {
+   "chapterId": "8794ba56-33f7-440b-88e8-07647bdb33f7",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "Alchemist Association",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 71,
+   "publishDate": "2018-03-07T19:13:16.000Z"
+  },
+  {
+   "chapterId": "f6fd869e-16ba-4533-b69e-b5d966c84783",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "Passing By",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 70,
+   "publishDate": "2018-03-07T19:13:07.000Z"
+  },
+  {
+   "chapterId": "dd2d417c-5e4f-4528-a49c-8085bcc0b868",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "Green Hat",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 69,
+   "publishDate": "2018-03-07T19:12:58.000Z"
+  },
+  {
+   "chapterId": "073a4fb6-7718-4346-a18c-a7683d5b9617",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "Returning with Treasure",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 68,
+   "publishDate": "2018-03-07T19:12:50.000Z"
+  },
+  {
+   "chapterId": "78c35605-1bfe-48ac-9d82-f8a5cfdffc47",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "Rescued!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 67,
+   "publishDate": "2018-03-07T19:12:41.000Z"
+  },
+  {
+   "chapterId": "9ea122bc-3cdd-4a07-97da-b1ed5f7ffa0d",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "No Exits?",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 66,
+   "publishDate": "2018-03-07T19:12:33.000Z"
+  },
+  {
+   "chapterId": "4b664d8c-a956-477e-962c-43d3d4d5c0fa",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "The Abstruse Gemstone",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 65,
+   "publishDate": "2018-03-07T19:12:23.000Z"
+  },
+  {
+   "chapterId": "653c6b4d-c250-433e-be9a-654d5bb1cf97",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "Injury",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 64,
+   "publishDate": "2018-03-07T19:12:14.000Z"
+  },
+  {
+   "chapterId": "a3abc71a-fd34-4ab1-aa32-4927e781fcc7",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "In the White Light",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 63,
+   "publishDate": "2018-03-07T19:12:06.000Z"
+  },
+  {
+   "chapterId": "0c6be175-c3c8-4b47-995f-0a64c35f1fe6",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "Emperor Kong Ming's Stone Coffin",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 62,
+   "publishDate": "2018-03-07T19:11:57.000Z"
+  },
+  {
+   "chapterId": "a956a2d5-1b56-4c63-9c1f-0b4992195cb8",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "Shelter",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 61,
+   "publishDate": "2018-03-07T19:11:49.000Z"
+  },
+  {
+   "chapterId": "e429479e-392f-4c33-9873-4c160ec62293",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "Road to North",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 60,
+   "publishDate": "2018-03-07T19:11:42.000Z"
+  },
+  {
+   "chapterId": "929d1efb-d8c4-4c0c-b87d-046e39b39551",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "Fall!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 59,
+   "publishDate": "2018-03-07T19:11:34.000Z"
+  },
+  {
+   "chapterId": "bf04d627-50f1-41ca-bcdf-bdebaac0e8d5",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "Troubled Waters from the East",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 58,
+   "publishDate": "2018-03-07T20:27:37.000Z"
+  },
+  {
+   "chapterId": "17dbbbfc-f86e-4a35-877f-2a0c6a32b39f",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "Lin Jian's Pursuit",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 57,
+   "publishDate": "2018-03-07T20:27:30.000Z"
+  },
+  {
+   "chapterId": "862858a9-f9c0-4fa8-90eb-c2ea1b13100c",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "Rear",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 56,
+   "publishDate": "2018-03-07T20:27:08.000Z"
+  },
+  {
+   "chapterId": "09eddd02-db95-4b1a-934d-d37b7998c300",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "Probe",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 55,
+   "publishDate": "2018-03-07T20:26:58.000Z"
+  },
+  {
+   "chapterId": "bca93350-c05c-4728-b2e0-8478cdf66a3c",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "Spirit Grade Demon Beast Appears!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 54,
+   "publishDate": "2018-03-07T20:26:26.000Z"
+  },
+  {
+   "chapterId": "e93ec1fe-4ea5-4a1a-884d-e1a05c3df6a5",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "Archery Skills",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 53,
+   "publishDate": "2018-03-07T20:26:17.000Z"
+  },
+  {
+   "chapterId": "657faf73-6e68-462c-828f-2145595876c1",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "Target is _",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 52,
+   "publishDate": "2018-03-07T20:25:46.000Z"
+  },
+  {
+   "chapterId": "1f0f5836-28a9-4d51-ae34-601774f5a8af",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "Reaching Ancient Orchid City!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 51,
+   "publishDate": "2018-03-07T20:25:39.000Z"
+  },
+  {
+   "chapterId": "9b623b25-cd43-4e85-a58f-876a90d1596d",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "Pestered!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 50,
+   "publishDate": "2018-03-07T20:25:30.000Z"
+  },
+  {
+   "chapterId": "323c500d-84a2-4aa4-9005-673184d8681e",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "Snow Sakura Demon Spirit",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 49,
+   "publishDate": "2018-03-07T20:25:21.000Z"
+  },
+  {
+   "chapterId": "985f1a24-a99f-4e33-99ed-38a04b4d9877",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "Soul Power Confrontation",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 48,
+   "publishDate": "2018-03-07T20:24:58.000Z"
+  },
+  {
+   "chapterId": "a8ac77dc-b3ef-498a-b8d0-db75be05bb64",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "Chu Yuan's Retaliation",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 47,
+   "publishDate": "2018-03-07T20:24:34.000Z"
+  },
+  {
+   "chapterId": "5551a45b-1b6d-49cf-a90a-891e13d1970b",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "The First Move",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 46,
+   "publishDate": "2018-03-07T20:24:03.000Z"
+  },
+  {
+   "chapterId": "801ca40d-5708-4f16-9fb5-1b10dac4db32",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "Challenge",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 45,
+   "publishDate": "2018-03-07T20:23:31.000Z"
+  },
+  {
+   "chapterId": "6cd6936c-40ac-45e3-84fd-bd848ae0d707",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 44,
+   "publishDate": "2018-03-07T20:23:07.000Z"
+  },
+  {
+   "chapterId": "4bf69460-b6ae-4ba1-b064-2f0228dcec2b",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "Sacred Family's Pursuers",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 43,
+   "publishDate": "2018-03-07T20:22:37.000Z"
+  },
+  {
+   "chapterId": "69cc4f92-d267-4994-bc2d-0c04f657efaf",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "Fox Bear Nest",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 42,
+   "publishDate": "2018-03-07T20:22:06.000Z"
+  },
+  {
+   "chapterId": "9c8690e7-ea01-47d0-94bd-aae891a52043",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "Soul Forming",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 41,
+   "publishDate": "2018-03-07T20:21:34.000Z"
+  },
+  {
+   "chapterId": "ccd48c33-f088-45eb-afb6-916c8e1da76d",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "Whereabouts of the Purple Haze Herbs",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 40,
+   "publishDate": "2018-03-07T20:21:05.000Z"
+  },
+  {
+   "chapterId": "c9f6dd09-17b6-4059-a5e8-f1da3dd00b13",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "Winged Dragon Family",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 39,
+   "publishDate": "2018-03-07T20:20:42.000Z"
+  },
+  {
+   "chapterId": "32ab1edf-858d-41d4-bc3e-bd61ba348d4c",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "Set Off Day",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 38,
+   "publishDate": "2018-03-07T20:20:34.000Z"
+  },
+  {
+   "chapterId": "df9081f5-ec7d-401e-a001-11a21b5209fc",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "You Just Wait!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 37,
+   "publishDate": "2018-03-07T20:20:01.000Z"
+  },
+  {
+   "chapterId": "2a01a8ce-f4ef-40b5-9e0d-aa33ee88676d",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "Stop It!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 36,
+   "publishDate": "2018-03-07T20:19:51.000Z"
+  },
+  {
+   "chapterId": "1cc30440-a2c1-4405-a4bd-41d847b4c59f",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "Murder!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 35,
+   "publishDate": "2018-03-07T20:19:42.000Z"
+  },
+  {
+   "chapterId": "735aee5f-502a-4882-8bd8-8e32c98053ca",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "Brawl",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 34,
+   "publishDate": "2018-03-07T20:19:10.000Z"
+  },
+  {
+   "chapterId": "4ba636c3-84ce-4d1f-86fd-aa00bf2546bb",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "Shopping",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 33,
+   "publishDate": "2018-03-07T20:18:36.000Z"
+  },
+  {
+   "chapterId": "24e7103a-8873-41d3-a803-83fb98cca277",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "Butterfly",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 32,
+   "publishDate": "2018-03-07T20:18:28.000Z"
+  },
+  {
+   "chapterId": "3d09cdf5-5caf-434c-881b-c2714ef54852",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "Ice Phoenix",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 31,
+   "publishDate": "2018-03-07T20:17:49.000Z"
+  },
+  {
+   "chapterId": "28014500-d850-4140-8bc5-5fa14be24475",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "Shocking Medicine Effects",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 30,
+   "publishDate": "2018-03-07T20:17:39.000Z"
+  },
+  {
+   "chapterId": "b99223ab-0458-4ea7-9b89-d8d4e6122ab2",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "We're Rich!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 29,
+   "publishDate": "2018-03-07T20:17:30.000Z"
+  },
+  {
+   "chapterId": "889076ef-f5b7-449e-b996-f0ce1873de3e",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "Effects of Purple Mist Grass",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 28,
+   "publishDate": "2018-03-07T20:17:20.000Z"
+  },
+  {
+   "chapterId": "af88a69b-0bbe-4a36-bb44-d1d39ae54567",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "Collaboration",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 27,
+   "publishDate": "2018-03-07T20:16:25.000Z"
+  },
+  {
+   "chapterId": "deb66b15-eec9-480f-9819-3cf8f57aa573",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "Chen LinJian",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 26,
+   "publishDate": "2018-03-07T20:16:16.000Z"
+  },
+  {
+   "chapterId": "e3b3da8f-bd71-48b4-af9c-116a15a59cc9",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "Wind Lightning Winged Dragon Technique",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 25,
+   "publishDate": "2018-03-07T20:15:26.000Z"
+  },
+  {
+   "chapterId": "613104e7-06fb-494a-a044-737695396625",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "Late Night",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 24,
+   "publishDate": "2018-03-07T20:15:18.000Z"
+  },
+  {
+   "chapterId": "0effdd8c-a3c2-47b3-a7cf-790d0c6e3022",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "Purple Mist Grass",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 23,
+   "publishDate": "2018-03-07T20:15:09.000Z"
+  },
+  {
+   "chapterId": "fae2a571-2f54-4fb0-ac19-e76f6008b351",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "Soul Force Battle",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 22,
+   "publishDate": "2018-03-07T20:14:19.000Z"
+  },
+  {
+   "chapterId": "8402619b-da78-4e88-911d-fd6ad7170781",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "Nie Li Knows Demonic Arts?",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 21,
+   "publishDate": "2018-03-07T20:13:24.000Z"
+  },
+  {
+   "chapterId": "effeaf45-3dc8-4127-b376-ecde5caa85f8",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "Lin Feng Zou Xue Inscription",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 20,
+   "publishDate": "2018-03-07T20:13:14.000Z"
+  },
+  {
+   "chapterId": "29c80571-628d-4380-b38c-da070d70c812",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "Consult",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 19,
+   "publishDate": "2018-03-07T20:13:06.000Z"
+  },
+  {
+   "chapterId": "2c1013c5-9e69-468e-90b3-efd3cc3fcd51",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "Chance Meeting",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 18,
+   "publishDate": "2018-03-07T20:12:56.000Z"
+  },
+  {
+   "chapterId": "b2c5ea9d-b8a0-40f9-82c8-80caba1aeb3f",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "Heavenly God Tactics",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 17,
+   "publishDate": "2018-03-07T20:11:45.000Z"
+  },
+  {
+   "chapterId": "3d46b62a-3f5a-4611-86b6-4a5ea3b59025",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "Top Grade Techniques!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 16,
+   "publishDate": "2018-03-07T20:10:59.000Z"
+  },
+  {
+   "chapterId": "768264d1-84d7-40c8-a3bf-840361f4ac89",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "Practice!",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 15,
+   "publishDate": "2018-03-07T20:10:01.000Z"
+  },
+  {
+   "chapterId": "009e30bf-2e5f-471e-ad11-6d3464ffc027",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "Quit School?",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 14,
+   "publishDate": "2018-03-07T20:09:53.000Z"
+  },
+  {
+   "chapterId": "77fb4928-702e-40ef-ae0f-42d5c9a9364a",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "Copying?",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 13,
+   "publishDate": "2018-03-07T20:09:43.000Z"
+  },
+  {
+   "chapterId": "de5a1e18-2915-442f-8135-495876a05b68",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "Red Blaze Scorching Explosion Inscription",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 12,
+   "publishDate": "2018-03-07T20:09:33.000Z"
+  },
+  {
+   "chapterId": "4fb0cd1b-b029-4ff5-834e-91feffdb5336",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "Accident",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 11,
+   "publishDate": "2018-03-07T20:09:22.000Z"
+  },
+  {
+   "chapterId": "36ef959f-bc51-494b-9974-a1388c6d7e6e",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "Before Class…",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 10,
+   "publishDate": "2018-03-07T20:09:13.000Z"
+  },
+  {
+   "chapterId": "b5127825-dfce-4626-b905-8e00d37e6983",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "Xiao Ning Er's Attitude",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 9,
+   "publishDate": "2018-03-07T20:09:06.000Z"
+  },
+  {
+   "chapterId": "8a5eefab-1b0e-4fd3-8a45-d8a4eff90367",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "Healing Injuries",
+   "version": "ReadManga.Today",
+   "langCode": "🇬🇧",
+   "sortingIndex": 8,
+   "publishDate": "2018-03-07T20:08:20.000Z"
+  },
+  {
+   "chapterId": "9ec51c83-241e-4de2-9efb-3a2f05c95796",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "Xiao NingEr",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 7,
+   "publishDate": "2018-03-07T20:08:07.000Z"
+  },
+  {
+   "chapterId": "ccb49331-5a27-4657-9830-6f5a78c07cfe",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "Horned Sheep Hunter",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 6,
+   "publishDate": "2018-03-07T20:07:52.000Z"
+  },
+  {
+   "chapterId": "cf67a488-babc-4862-80e5-e30d776db7e1",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "Operation Begins",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 5,
+   "publishDate": "2018-03-07T20:06:51.000Z"
+  },
+  {
+   "chapterId": "482c6824-9b14-4aed-b787-415f6490470a",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "Money makes the world go round",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 4,
+   "publishDate": "2018-03-07T20:06:33.000Z"
+  },
+  {
+   "chapterId": "35ff226b-9e60-4610-bae9-100cc22c5a04",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "Brothers",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 3,
+   "publishDate": "2018-03-07T20:06:21.000Z"
+  },
+  {
+   "chapterId": "c87c6a80-ab65-4895-abe6-c5e693aae12a",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "Viewing the Sky From the Bottom of the Well",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 2,
+   "publishDate": "2018-03-07T20:06:11.000Z"
+  },
+  {
+   "chapterId": "73c1e0c2-209e-43d2-af5d-80262094ed7b",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "Rebirth",
+   "version": "Thyaeria",
+   "langCode": "🇬🇧",
+   "sortingIndex": 1,
+   "publishDate": "2018-03-07T19:19:53.000Z"
+  }
+ ]
+}

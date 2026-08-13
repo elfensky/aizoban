@@ -1,0 +1,2599 @@
+{
+ "work": "tbate",
+ "source": "Mangatown",
+ "matchedTitle": "The Beginning After the End",
+ "mangaId": "manga/the_beginning_after_the_end",
+ "fetchedAt": "2026-08-13T08:40:42.683Z",
+ "chapters": [
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c247",
+   "chapNum": 247,
+   "volume": 0,
+   "title": "The Beginning After the End 247",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-08-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c246",
+   "chapNum": 246,
+   "volume": 0,
+   "title": "The Beginning After the End 246",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c245",
+   "chapNum": 245,
+   "volume": 0,
+   "title": "The Beginning After the End 245",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c244",
+   "chapNum": 244,
+   "volume": 0,
+   "title": "The Beginning After the End 244",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c243",
+   "chapNum": 243,
+   "volume": 0,
+   "title": "The Beginning After the End 243",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c242",
+   "chapNum": 242,
+   "volume": 0,
+   "title": "The Beginning After the End 242",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c241",
+   "chapNum": 241,
+   "volume": 0,
+   "title": "The Beginning After the End 241",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c240",
+   "chapNum": 240,
+   "volume": 0,
+   "title": "The Beginning After the End 240",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c239",
+   "chapNum": 239,
+   "volume": 0,
+   "title": "The Beginning After the End 239",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c238",
+   "chapNum": 238,
+   "volume": 0,
+   "title": "The Beginning After the End 238",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c237",
+   "chapNum": 237,
+   "volume": 0,
+   "title": "The Beginning After the End 237",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c236",
+   "chapNum": 236,
+   "volume": 0,
+   "title": "The Beginning After the End 236",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c235",
+   "chapNum": 235,
+   "volume": 0,
+   "title": "The Beginning After the End 235",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c234",
+   "chapNum": 234,
+   "volume": 0,
+   "title": "The Beginning After the End 234",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c233",
+   "chapNum": 233,
+   "volume": 0,
+   "title": "The Beginning After the End 233",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c232",
+   "chapNum": 232,
+   "volume": 0,
+   "title": "The Beginning After the End 232",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c231",
+   "chapNum": 231,
+   "volume": 0,
+   "title": "The Beginning After the End 231",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c230",
+   "chapNum": 230,
+   "volume": 0,
+   "title": "The Beginning After the End 230",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c229",
+   "chapNum": 229,
+   "volume": 0,
+   "title": "The Beginning After the End 229",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c228",
+   "chapNum": 228,
+   "volume": 0,
+   "title": "The Beginning After the End 228",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-03-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c227",
+   "chapNum": 227,
+   "volume": 0,
+   "title": "The Beginning After the End 227",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c226",
+   "chapNum": 226,
+   "volume": 0,
+   "title": "The Beginning After the End 226",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2026-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c225.5",
+   "chapNum": 225.5,
+   "volume": 0,
+   "title": "The Beginning After the End 225.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c225",
+   "chapNum": 225,
+   "volume": 0,
+   "title": "The Beginning After the End 225",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-07-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c224",
+   "chapNum": 224,
+   "volume": 0,
+   "title": "The Beginning After the End 224",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c223",
+   "chapNum": 223,
+   "volume": 0,
+   "title": "The Beginning After the End 223",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c222",
+   "chapNum": 222,
+   "volume": 0,
+   "title": "The Beginning After the End 222",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-12T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c221",
+   "chapNum": 221,
+   "volume": 0,
+   "title": "The Beginning After the End 221",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c220",
+   "chapNum": 220,
+   "volume": 0,
+   "title": "The Beginning After the End 220",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-06-05T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c219",
+   "chapNum": 219,
+   "volume": 0,
+   "title": "The Beginning After the End 219",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c218",
+   "chapNum": 218,
+   "volume": 0,
+   "title": "The Beginning After the End 218",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c217",
+   "chapNum": 217,
+   "volume": 0,
+   "title": "The Beginning After the End 217",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c216",
+   "chapNum": 216,
+   "volume": 0,
+   "title": "The Beginning After the End 216",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-05-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c215",
+   "chapNum": 215,
+   "volume": 0,
+   "title": "The Beginning After the End 215",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c214",
+   "chapNum": 214,
+   "volume": 0,
+   "title": "The Beginning After the End 214",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c213",
+   "chapNum": 213,
+   "volume": 0,
+   "title": "The Beginning After the End 213",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c212",
+   "chapNum": 212,
+   "volume": 0,
+   "title": "The Beginning After the End 212",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c211",
+   "chapNum": 211,
+   "volume": 0,
+   "title": "The Beginning After the End 211",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c210",
+   "chapNum": 210,
+   "volume": 0,
+   "title": "The Beginning After the End 210",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c209",
+   "chapNum": 209,
+   "volume": 0,
+   "title": "The Beginning After the End 209",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c208",
+   "chapNum": 208,
+   "volume": 0,
+   "title": "The Beginning After the End 208",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c207",
+   "chapNum": 207,
+   "volume": 0,
+   "title": "The Beginning After the End 207",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c206",
+   "chapNum": 206,
+   "volume": 0,
+   "title": "The Beginning After the End 206",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c205",
+   "chapNum": 205,
+   "volume": 0,
+   "title": "The Beginning After the End 205",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c204",
+   "chapNum": 204,
+   "volume": 0,
+   "title": "The Beginning After the End 204",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c203",
+   "chapNum": 203,
+   "volume": 0,
+   "title": "The Beginning After the End 203",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-03-23T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c202",
+   "chapNum": 202,
+   "volume": 0,
+   "title": "The Beginning After the End 202",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c201",
+   "chapNum": 201,
+   "volume": 0,
+   "title": "The Beginning After the End 201",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c200",
+   "chapNum": 200,
+   "volume": 0,
+   "title": "The Beginning After the End 200",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c199",
+   "chapNum": 199,
+   "volume": 0,
+   "title": "The Beginning After the End 199",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c198",
+   "chapNum": 198,
+   "volume": 0,
+   "title": "The Beginning After the End 198",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-01-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c197",
+   "chapNum": 197,
+   "volume": 0,
+   "title": "The Beginning After the End 197",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-12-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c196",
+   "chapNum": 196,
+   "volume": 0,
+   "title": "The Beginning After the End 196",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c195",
+   "chapNum": 195,
+   "volume": 0,
+   "title": "The Beginning After the End 195",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c194",
+   "chapNum": 194,
+   "volume": 0,
+   "title": "The Beginning After the End 194",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c193",
+   "chapNum": 193,
+   "volume": 0,
+   "title": "The Beginning After the End 193",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c192",
+   "chapNum": 192,
+   "volume": 0,
+   "title": "The Beginning After the End 192",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c191",
+   "chapNum": 191,
+   "volume": 0,
+   "title": "The Beginning After the End 191",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c190",
+   "chapNum": 190,
+   "volume": 0,
+   "title": "The Beginning After the End 190",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c189",
+   "chapNum": 189,
+   "volume": 0,
+   "title": "The Beginning After the End 189",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c188.5",
+   "chapNum": 188.5,
+   "volume": 0,
+   "title": "The Beginning After the End 188.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c188.1",
+   "chapNum": 188.1,
+   "volume": 0,
+   "title": "The Beginning After the End 188.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c188",
+   "chapNum": 188,
+   "volume": 0,
+   "title": "The Beginning After the End 188",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-08-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c187",
+   "chapNum": 187,
+   "volume": 0,
+   "title": "The Beginning After the End 187",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c186",
+   "chapNum": 186,
+   "volume": 0,
+   "title": "The Beginning After the End 186",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c185",
+   "chapNum": 185,
+   "volume": 0,
+   "title": "The Beginning After the End 185",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c184",
+   "chapNum": 184,
+   "volume": 0,
+   "title": "The Beginning After the End 184",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c183",
+   "chapNum": 183,
+   "volume": 0,
+   "title": "The Beginning After the End 183",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c182",
+   "chapNum": 182,
+   "volume": 0,
+   "title": "The Beginning After the End 182",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c181",
+   "chapNum": 181,
+   "volume": 0,
+   "title": "The Beginning After the End 181",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c180",
+   "chapNum": 180,
+   "volume": 0,
+   "title": "The Beginning After the End 180",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c179",
+   "chapNum": 179,
+   "volume": 0,
+   "title": "The Beginning After the End 179",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-06-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c178",
+   "chapNum": 178,
+   "volume": 0,
+   "title": "The Beginning After the End 178",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c177",
+   "chapNum": 177,
+   "volume": 0,
+   "title": "The Beginning After the End 177",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c176",
+   "chapNum": 176,
+   "volume": 0,
+   "title": "The Beginning After the End 176",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-05-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175.9",
+   "chapNum": 175.9,
+   "volume": 0,
+   "title": "The Beginning After the End 175.9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175.4",
+   "chapNum": 175.4,
+   "volume": 0,
+   "title": "The Beginning After the End 175.4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175.3",
+   "chapNum": 175.3,
+   "volume": 0,
+   "title": "The Beginning After the End 175.3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175.2",
+   "chapNum": 175.2,
+   "volume": 0,
+   "title": "The Beginning After the End 175.2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2025-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175.1",
+   "chapNum": 175.1,
+   "volume": 0,
+   "title": "The Beginning After the End 175.1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-07-18T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c175",
+   "chapNum": 175,
+   "volume": 0,
+   "title": "The Beginning After the End 175",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-24T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c174",
+   "chapNum": 174,
+   "volume": 0,
+   "title": "The Beginning After the End 174",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c173",
+   "chapNum": 173,
+   "volume": 0,
+   "title": "The Beginning After the End 173",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2023-01-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c172",
+   "chapNum": 172,
+   "volume": 0,
+   "title": "The Beginning After the End 172",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c171",
+   "chapNum": 171,
+   "volume": 0,
+   "title": "The Beginning After the End 171",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c170",
+   "chapNum": 170,
+   "volume": 0,
+   "title": "The Beginning After the End 170",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-06T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c169.5",
+   "chapNum": 169.5,
+   "volume": 0,
+   "title": "The Beginning After the End 169.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-12-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c169",
+   "chapNum": 169,
+   "volume": 0,
+   "title": "The Beginning After the End 169",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c168",
+   "chapNum": 168,
+   "volume": 0,
+   "title": "The Beginning After the End 168",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c167",
+   "chapNum": 167,
+   "volume": 0,
+   "title": "The Beginning After the End 167",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-16T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c166",
+   "chapNum": 166,
+   "volume": 0,
+   "title": "The Beginning After the End 166",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c165",
+   "chapNum": 165,
+   "volume": 0,
+   "title": "The Beginning After the End 165",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c164",
+   "chapNum": 164,
+   "volume": 0,
+   "title": "The Beginning After the End 164",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c163",
+   "chapNum": 163,
+   "volume": 0,
+   "title": "The Beginning After the End 163",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-10-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c162",
+   "chapNum": 162,
+   "volume": 0,
+   "title": "The Beginning After the End 162",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c161",
+   "chapNum": 161,
+   "volume": 0,
+   "title": "The Beginning After the End 161",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c160",
+   "chapNum": 160,
+   "volume": 0,
+   "title": "The Beginning After the End 160",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c159",
+   "chapNum": 159,
+   "volume": 0,
+   "title": "The Beginning After the End 159",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c158",
+   "chapNum": 158,
+   "volume": 0,
+   "title": "The Beginning After the End 158",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-26T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c157",
+   "chapNum": 157,
+   "volume": 0,
+   "title": "The Beginning After the End 157",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-09-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c156",
+   "chapNum": 156,
+   "volume": 0,
+   "title": "The Beginning After the End 156",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c155",
+   "chapNum": 155,
+   "volume": 0,
+   "title": "The Beginning After the End 155",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-08-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c154.5",
+   "chapNum": 154.5,
+   "volume": 0,
+   "title": "The Beginning After the End 154.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-10-19T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c154",
+   "chapNum": 154,
+   "volume": 0,
+   "title": "The Beginning After the End 154",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c153",
+   "chapNum": 153,
+   "volume": 0,
+   "title": "The Beginning After the End 153",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c152",
+   "chapNum": 152,
+   "volume": 0,
+   "title": "The Beginning After the End 152",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-07-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c151",
+   "chapNum": 151,
+   "volume": 0,
+   "title": "The Beginning After the End 151",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c150",
+   "chapNum": 150,
+   "volume": 0,
+   "title": "The Beginning After the End 150",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c149",
+   "chapNum": 149,
+   "volume": 0,
+   "title": "The Beginning After the End 149",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c148",
+   "chapNum": 148,
+   "volume": 0,
+   "title": "The Beginning After the End 148",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-06-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c147",
+   "chapNum": 147,
+   "volume": 0,
+   "title": "The Beginning After the End 147",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c146",
+   "chapNum": 146,
+   "volume": 0,
+   "title": "The Beginning After the End 146",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c145",
+   "chapNum": 145,
+   "volume": 0,
+   "title": "The Beginning After the End 145",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c144",
+   "chapNum": 144,
+   "volume": 0,
+   "title": "The Beginning After the End 144",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c143",
+   "chapNum": 143,
+   "volume": 0,
+   "title": "The Beginning After the End 143",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-05-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c142",
+   "chapNum": 142,
+   "volume": 0,
+   "title": "The Beginning After the End 142",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c141",
+   "chapNum": 141,
+   "volume": 0,
+   "title": "The Beginning After the End 141",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c140",
+   "chapNum": 140,
+   "volume": 0,
+   "title": "The Beginning After the End 140",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-06T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c139",
+   "chapNum": 139,
+   "volume": 0,
+   "title": "The Beginning After the End 139",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-04-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c138",
+   "chapNum": 138,
+   "volume": 0,
+   "title": "The Beginning After the End 138",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c137",
+   "chapNum": 137,
+   "volume": 0,
+   "title": "The Beginning After the End 137",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c136",
+   "chapNum": 136,
+   "volume": 0,
+   "title": "The Beginning After the End 136",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c135",
+   "chapNum": 135,
+   "volume": 0,
+   "title": "The Beginning After the End 135",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-03-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c134",
+   "chapNum": 134,
+   "volume": 0,
+   "title": "The Beginning After the End 134",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c133",
+   "chapNum": 133,
+   "volume": 0,
+   "title": "The Beginning After the End 133",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-18T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c132",
+   "chapNum": 132,
+   "volume": 0,
+   "title": "The Beginning After the End 132",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-11T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c131",
+   "chapNum": 131,
+   "volume": 0,
+   "title": "The Beginning After the End 131",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-04T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c130",
+   "chapNum": 130,
+   "volume": 0,
+   "title": "The Beginning After the End 130",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-28T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c129",
+   "chapNum": 129,
+   "volume": 0,
+   "title": "The Beginning After the End 129",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c128",
+   "chapNum": 128,
+   "volume": 0,
+   "title": "The Beginning After the End 128",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-14T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c127",
+   "chapNum": 127,
+   "volume": 0,
+   "title": "The Beginning After the End 127",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-01-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c126",
+   "chapNum": 126,
+   "volume": 0,
+   "title": "The Beginning After the End 126",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-12-31T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c125.5",
+   "chapNum": 125.5,
+   "volume": 0,
+   "title": "The Beginning After the End 125.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2024-11-21T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c125",
+   "chapNum": 125,
+   "volume": 0,
+   "title": "The Beginning After the End 125",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-15T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c124",
+   "chapNum": 124,
+   "volume": 0,
+   "title": "The Beginning After the End 124",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-08T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c123",
+   "chapNum": 123,
+   "volume": 0,
+   "title": "The Beginning After the End 123",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-10-01T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c122",
+   "chapNum": 122,
+   "volume": 0,
+   "title": "The Beginning After the End 122",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-24T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c121",
+   "chapNum": 121,
+   "volume": 0,
+   "title": "The Beginning After the End 121",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-17T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c120",
+   "chapNum": 120,
+   "volume": 0,
+   "title": "The Beginning After the End 120",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c119",
+   "chapNum": 119,
+   "volume": 0,
+   "title": "The Beginning After the End 119",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-09-03T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c118",
+   "chapNum": 118,
+   "volume": 0,
+   "title": "The Beginning After the End 118",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-27T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c117",
+   "chapNum": 117,
+   "volume": 0,
+   "title": "The Beginning After the End 117",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-20T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c116",
+   "chapNum": 116,
+   "volume": 0,
+   "title": "The Beginning After the End 116",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-13T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c115",
+   "chapNum": 115,
+   "volume": 0,
+   "title": "The Beginning After the End 115",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-08-10T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c114",
+   "chapNum": 114,
+   "volume": 0,
+   "title": "The Beginning After the End 114",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c113",
+   "chapNum": 113,
+   "volume": 0,
+   "title": "The Beginning After the End 113",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c112",
+   "chapNum": 112,
+   "volume": 0,
+   "title": "The Beginning After the End 112",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-07-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c111",
+   "chapNum": 111,
+   "volume": 0,
+   "title": "The Beginning After the End 111",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c110",
+   "chapNum": 110,
+   "volume": 0,
+   "title": "The Beginning After the End 110",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-22T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c109",
+   "chapNum": 109,
+   "volume": 0,
+   "title": "The Beginning After the End 109",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-11T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c108",
+   "chapNum": 108,
+   "volume": 0,
+   "title": "The Beginning After the End 108",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-06-04T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c107",
+   "chapNum": 107,
+   "volume": 0,
+   "title": "The Beginning After the End 107",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-28T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c106",
+   "chapNum": 106,
+   "volume": 0,
+   "title": "The Beginning After the End 106",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-21T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c105",
+   "chapNum": 105,
+   "volume": 0,
+   "title": "The Beginning After the End 105",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-14T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c104",
+   "chapNum": 104,
+   "volume": 0,
+   "title": "The Beginning After the End 104",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-05-07T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c103",
+   "chapNum": 103,
+   "volume": 0,
+   "title": "The Beginning After the End 103",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-30T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c102",
+   "chapNum": 102,
+   "volume": 0,
+   "title": "The Beginning After the End 102",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-23T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c101",
+   "chapNum": 101,
+   "volume": 0,
+   "title": "The Beginning After the End 101",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-16T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c100",
+   "chapNum": 100,
+   "volume": 0,
+   "title": "The Beginning After the End 100",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-09T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c099",
+   "chapNum": 99,
+   "volume": 0,
+   "title": "The Beginning After the End 99",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-02T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c098",
+   "chapNum": 98,
+   "volume": 0,
+   "title": "The Beginning After the End 98",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c097",
+   "chapNum": 97,
+   "volume": 0,
+   "title": "The Beginning After the End 97",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c096",
+   "chapNum": 96,
+   "volume": 0,
+   "title": "The Beginning After the End 96",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c095",
+   "chapNum": 95,
+   "volume": 0,
+   "title": "The Beginning After the End 95",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-03-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c094",
+   "chapNum": 94,
+   "volume": 0,
+   "title": "The Beginning After the End 94",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-26T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c093",
+   "chapNum": 93,
+   "volume": 0,
+   "title": "The Beginning After the End 93",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-19T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c092",
+   "chapNum": 92,
+   "volume": 0,
+   "title": "The Beginning After the End 92",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-12T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c091",
+   "chapNum": 91,
+   "volume": 0,
+   "title": "The Beginning After the End 91",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-02-05T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c090",
+   "chapNum": 90,
+   "volume": 0,
+   "title": "The Beginning After the End 90",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-29T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c089",
+   "chapNum": 89,
+   "volume": 0,
+   "title": "The Beginning After the End 89",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-22T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c088",
+   "chapNum": 88,
+   "volume": 0,
+   "title": "The Beginning After the End 88",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-15T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c087",
+   "chapNum": 87,
+   "volume": 0,
+   "title": "The Beginning After the End 87",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-08T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c086",
+   "chapNum": 86,
+   "volume": 0,
+   "title": "The Beginning After the End 86",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-01-01T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c085",
+   "chapNum": 85,
+   "volume": 0,
+   "title": "The Beginning After the End 85",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-27T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c084",
+   "chapNum": 84,
+   "volume": 0,
+   "title": "The Beginning After the End 84",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-20T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c083",
+   "chapNum": 83,
+   "volume": 0,
+   "title": "The Beginning After the End 83",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c082",
+   "chapNum": 82,
+   "volume": 0,
+   "title": "The Beginning After the End 82",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-07T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c081",
+   "chapNum": 81,
+   "volume": 0,
+   "title": "The Beginning After the End 81",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-11-02T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c080",
+   "chapNum": 80,
+   "volume": 0,
+   "title": "The Beginning After the End 80",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c079",
+   "chapNum": 79,
+   "volume": 0,
+   "title": "The Beginning After the End 79",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c078",
+   "chapNum": 78,
+   "volume": 0,
+   "title": "The Beginning After the End 78",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c077",
+   "chapNum": 77,
+   "volume": 0,
+   "title": "The Beginning After the End 77",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c076",
+   "chapNum": 76,
+   "volume": 0,
+   "title": "The Beginning After the End 76",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c075",
+   "chapNum": 75,
+   "volume": 0,
+   "title": "The Beginning After the End 75",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c074",
+   "chapNum": 74,
+   "volume": 0,
+   "title": "The Beginning After the End 74",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c073",
+   "chapNum": 73,
+   "volume": 0,
+   "title": "The Beginning After the End 73",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c072",
+   "chapNum": 72,
+   "volume": 0,
+   "title": "The Beginning After the End 72",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c071",
+   "chapNum": 71,
+   "volume": 0,
+   "title": "The Beginning After the End 71",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c070",
+   "chapNum": 70,
+   "volume": 0,
+   "title": "The Beginning After the End 70",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2021-04-25T22:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c069",
+   "chapNum": 69,
+   "volume": 0,
+   "title": "The Beginning After the End 69",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c068",
+   "chapNum": 68,
+   "volume": 0,
+   "title": "The Beginning After the End 68",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c067",
+   "chapNum": 67,
+   "volume": 0,
+   "title": "The Beginning After the End 67",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c066",
+   "chapNum": 66,
+   "volume": 0,
+   "title": "The Beginning After the End 66",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c065",
+   "chapNum": 65,
+   "volume": 0,
+   "title": "The Beginning After the End 65",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c064",
+   "chapNum": 64,
+   "volume": 0,
+   "title": "The Beginning After the End 64",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c063",
+   "chapNum": 63,
+   "volume": 0,
+   "title": "The Beginning After the End 63",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c062",
+   "chapNum": 62,
+   "volume": 0,
+   "title": "The Beginning After the End 62",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c061",
+   "chapNum": 61,
+   "volume": 0,
+   "title": "The Beginning After the End 61",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c060",
+   "chapNum": 60,
+   "volume": 0,
+   "title": "The Beginning After the End 60",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c059",
+   "chapNum": 59,
+   "volume": 0,
+   "title": "The Beginning After the End 59",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c058",
+   "chapNum": 58,
+   "volume": 0,
+   "title": "The Beginning After the End 58",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c057",
+   "chapNum": 57,
+   "volume": 0,
+   "title": "The Beginning After the End 57",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c056",
+   "chapNum": 56,
+   "volume": 0,
+   "title": "The Beginning After the End 56",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c055",
+   "chapNum": 55,
+   "volume": 0,
+   "title": "The Beginning After the End 55",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c054",
+   "chapNum": 54,
+   "volume": 0,
+   "title": "The Beginning After the End 54",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c053",
+   "chapNum": 53,
+   "volume": 0,
+   "title": "The Beginning After the End 53",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c052",
+   "chapNum": 52,
+   "volume": 0,
+   "title": "The Beginning After the End 52",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c051",
+   "chapNum": 51,
+   "volume": 0,
+   "title": "The Beginning After the End 51",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c050",
+   "chapNum": 50,
+   "volume": 0,
+   "title": "The Beginning After the End 50",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c049",
+   "chapNum": 49,
+   "volume": 0,
+   "title": "The Beginning After the End 49",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c048",
+   "chapNum": 48,
+   "volume": 0,
+   "title": "The Beginning After the End 48",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c047",
+   "chapNum": 47,
+   "volume": 0,
+   "title": "The Beginning After the End 47",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c046",
+   "chapNum": 46,
+   "volume": 0,
+   "title": "The Beginning After the End 46",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c045",
+   "chapNum": 45,
+   "volume": 0,
+   "title": "The Beginning After the End 45",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c044",
+   "chapNum": 44,
+   "volume": 0,
+   "title": "The Beginning After the End 44",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c043",
+   "chapNum": 43,
+   "volume": 0,
+   "title": "The Beginning After the End 43",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c042",
+   "chapNum": 42,
+   "volume": 0,
+   "title": "The Beginning After the End 42",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c041",
+   "chapNum": 41,
+   "volume": 0,
+   "title": "The Beginning After the End 41",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c040",
+   "chapNum": 40,
+   "volume": 0,
+   "title": "The Beginning After the End 40",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c039",
+   "chapNum": 39,
+   "volume": 0,
+   "title": "The Beginning After the End 39",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c038.5",
+   "chapNum": 38.5,
+   "volume": 0,
+   "title": "The Beginning After the End 38.5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2022-02-13T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c038",
+   "chapNum": 38,
+   "volume": 0,
+   "title": "The Beginning After the End 38",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c037",
+   "chapNum": 37,
+   "volume": 0,
+   "title": "The Beginning After the End 37",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c036",
+   "chapNum": 36,
+   "volume": 0,
+   "title": "The Beginning After the End 36",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c035",
+   "chapNum": 35,
+   "volume": 0,
+   "title": "The Beginning After the End 35",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c034",
+   "chapNum": 34,
+   "volume": 0,
+   "title": "The Beginning After the End 34",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c033",
+   "chapNum": 33,
+   "volume": 0,
+   "title": "The Beginning After the End 33",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c032",
+   "chapNum": 32,
+   "volume": 0,
+   "title": "The Beginning After the End 32",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c031",
+   "chapNum": 31,
+   "volume": 0,
+   "title": "The Beginning After the End 31",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c030",
+   "chapNum": 30,
+   "volume": 0,
+   "title": "The Beginning After the End 30",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c029",
+   "chapNum": 29,
+   "volume": 0,
+   "title": "The Beginning After the End 29",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c028",
+   "chapNum": 28,
+   "volume": 0,
+   "title": "The Beginning After the End 28",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c027",
+   "chapNum": 27,
+   "volume": 0,
+   "title": "The Beginning After the End 27",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c026",
+   "chapNum": 26,
+   "volume": 0,
+   "title": "The Beginning After the End 26",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c025",
+   "chapNum": 25,
+   "volume": 0,
+   "title": "The Beginning After the End 25",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c024",
+   "chapNum": 24,
+   "volume": 0,
+   "title": "The Beginning After the End 24",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c023",
+   "chapNum": 23,
+   "volume": 0,
+   "title": "The Beginning After the End 23",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c022",
+   "chapNum": 22,
+   "volume": 0,
+   "title": "The Beginning After the End 22",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c021",
+   "chapNum": 21,
+   "volume": 0,
+   "title": "The Beginning After the End 21",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c020",
+   "chapNum": 20,
+   "volume": 0,
+   "title": "The Beginning After the End 20",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c019",
+   "chapNum": 19,
+   "volume": 0,
+   "title": "The Beginning After the End 19",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c018",
+   "chapNum": 18,
+   "volume": 0,
+   "title": "The Beginning After the End 18",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c017",
+   "chapNum": 17,
+   "volume": 0,
+   "title": "The Beginning After the End 17",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c016",
+   "chapNum": 16,
+   "volume": 0,
+   "title": "The Beginning After the End 16",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c015",
+   "chapNum": 15,
+   "volume": 0,
+   "title": "The Beginning After the End 15",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c014",
+   "chapNum": 14,
+   "volume": 0,
+   "title": "The Beginning After the End 14",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c013",
+   "chapNum": 13,
+   "volume": 0,
+   "title": "The Beginning After the End 13",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c012",
+   "chapNum": 12,
+   "volume": 0,
+   "title": "The Beginning After the End 12",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c011",
+   "chapNum": 11,
+   "volume": 0,
+   "title": "The Beginning After the End 11",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c010",
+   "chapNum": 10,
+   "volume": 0,
+   "title": "The Beginning After the End 10",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c009",
+   "chapNum": 9,
+   "volume": 0,
+   "title": "The Beginning After the End 9",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c008",
+   "chapNum": 8,
+   "volume": 0,
+   "title": "The Beginning After the End 8",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c007",
+   "chapNum": 7,
+   "volume": 0,
+   "title": "The Beginning After the End 7",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c006",
+   "chapNum": 6,
+   "volume": 0,
+   "title": "The Beginning After the End 6",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c005",
+   "chapNum": 5,
+   "volume": 0,
+   "title": "The Beginning After the End 5",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c004",
+   "chapNum": 4,
+   "volume": 0,
+   "title": "The Beginning After the End 4",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c003",
+   "chapNum": 3,
+   "volume": 0,
+   "title": "The Beginning After the End 3",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c002",
+   "chapNum": 2,
+   "volume": 0,
+   "title": "The Beginning After the End 2",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  },
+  {
+   "chapterId": "manga/the_beginning_after_the_end/c001",
+   "chapNum": 1,
+   "volume": 0,
+   "title": "The Beginning After the End 1",
+   "version": null,
+   "langCode": "🇬🇧",
+   "sortingIndex": null,
+   "publishDate": "2020-10-25T23:00:00.000Z"
+  }
+ ]
+}

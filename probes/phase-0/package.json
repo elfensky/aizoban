@@ -1,0 +1,19 @@
+{
+  "name": "aizoban-phase0-probes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "@paperback/runtime-polyfills": "^1.0.0-alpha.64",
+    "@paperback/types": "^1.0.0-alpha.64",
+    "sharp": "^0.35.3"
+  }
+}
