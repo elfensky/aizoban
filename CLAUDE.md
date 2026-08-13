@@ -1,7 +1,9 @@
 # CLAUDE.md — Aizoban
 
 Self-hosted manga download/library/metadata manager. **No reader** — output is CBZ + ComicInfo.xml
-plus a Komga-compatible API. Planning stage; nothing implemented yet.
+plus a Komga-compatible API. **Phase 0 (de-risk) is measured and closed** — see `probes/phase-0/README.md`
+for the numbers and `docs/decisions/` for what they decided. Current milestone: Phase 1 — skeleton.
+No application code yet.
 
 ## Life cockpit
 
@@ -39,6 +41,24 @@ change.
 - **YAML site definitions carry config, never selectors.** Identity and capability are data;
   behaviour is code. Projects that ignored this rule died.
 
+## Measured facts (Phase 0, 2026-08-13 — don't re-litigate without new data)
+
+- **Acquisition is the JS worker only** — decision `docs/decisions/0001`. The Kotlin/Suwayomi
+  half was deleted unbuilt; Suwayomi is the escape hatch behind the source-backend interface,
+  with written switching triggers in the decision record.
+- **Keep raw chapter labels alongside parsed numbers.** Witness parsers lie (converted MangaFox
+  returns the *volume* as chapNum). Parsing is testimony, not truth.
+- **Naive number matching silently misaligns renumbered witnesses** (per-season numbering makes
+  different chapters "match"). Chapter identity claims need content verification, not just
+  number agreement.
+- **Page comparison must be content-aligned** (mutual nearest neighbour), never page-index-based,
+  with template pages (recurring ads/credits) excluded first and a page-count guard for stitched
+  webtoons. Validated pHash threshold ≈14 bits on 64-bit hashes.
+- `@paperback/runtime-polyfills` has two known bugs to fix in any host: the interceptor chain
+  passes the original request to every interceptor, and `formDidChange` is called but not
+  implemented. Patch in `probes/phase-0/patches/`.
+
 ## Stack
 
-Next.js + TypeScript + Postgres + `pg-boss`. Workers are separate processes.
+Next.js + TypeScript + Postgres + `pg-boss`. Workers are separate processes:
+`js-worker` (+ `solver` once the Cloudflare work lands) — nothing else, per decision 0001.

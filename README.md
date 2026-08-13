@@ -6,7 +6,14 @@ A self-hosted manga **download, library and metadata manager**. It deliberately 
 reading happens in Kavita, Komga, Paperback, Panels or Mihon. Aizoban acquires chapters, works out
 what they actually are, files them properly, and serves them to whatever reader you already use.
 
-> Status: **planning.** Nothing is implemented yet.
+> Status: **Phase 0 (de-risk) measured and closed, 2026-08-13.** No application code yet —
+> current milestone is [Phase 1 — skeleton](https://github.com/elfensky/aizoban/milestone/2).
+> The theses survived measurement: ordinal drift is real (**10.4%** across 10 works × 7
+> sources — and renumbering proved *invisible* to naive number matching), page verification
+> by perceptual hash separates cleanly when content-aligned (**1 miss / 0 false accepts in
+> ~3,000 comparisons**), and **222/418** community extensions pass end-to-end in a plain-Node
+> host. Method and numbers: [`probes/phase-0/`](probes/phase-0/); the architecture decision
+> they produced: [`docs/decisions/0001`](docs/decisions/0001-acquisition-make-or-buy.md).
 
 ## Why this exists
 
