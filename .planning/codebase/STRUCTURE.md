@@ -14,7 +14,7 @@ No application source tree exists yet. Directories marked **(planned)** do not e
 ## Directory Layout
 
 ```
-night-gsd-standard/                  # git worktree root (.worktrees/aizoban/night-gsd-standard)
+aizoban/                             # repository root
 ├── AGENTS.md                        # Agent instructions, theses, hard rules, stack (tracked)
 ├── CLAUDE.md -> AGENTS.md           # Symlink to AGENTS.md (tracked)
 ├── README.md                        # Product overview and Phase 0 status (tracked)
