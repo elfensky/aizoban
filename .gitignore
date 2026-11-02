@@ -13,7 +13,6 @@ probes/phase-0/results/*.log
 .planning/milestone.lock
 .planning/research/.cache/
 .planning/intel/
-.planning/debug/
 .planning/ui-reviews/
 
 # Playwright MCP captures
