@@ -144,12 +144,70 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (filled by the roadmapper) | | |
+| FOUND-01 | Phase 1 | Pending |
+| FOUND-02 | Phase 1 | Pending |
+| FOUND-03 | Phase 1 | Pending |
+| FOUND-04 | Phase 1 | Pending |
+| FOUND-05 | Phase 1 | Pending |
+| HOST-01 | Phase 1 | Pending |
+| HOST-02 | Phase 1 | Pending |
+| HOST-03 | Phase 1 | Pending |
+| HOST-04 | Phase 1 | Pending |
+| HOST-05 | Phase 1 | Pending |
+| HOST-06 | Phase 1 | Pending |
+| HOST-07 | Phase 1 | Pending |
+| HOST-08 | Phase 1 | Pending |
+| STAGE-01 | Phase 1 | Pending |
+| STAGE-02 | Phase 1 | Pending |
+| STAGE-03 | Phase 1 | Pending |
+| STAGE-04 | Phase 1 | Pending |
+| STAGE-05 | Phase 1 | Pending |
+| DEPL-01 | Phase 1 | Pending |
+| DEPL-02 | Phase 1 | Pending |
+| DEPL-03 | Phase 1 | Pending |
+| RCPE-01 | Phase 2 | Pending |
+| RCPE-02 | Phase 2 | Pending |
+| RCPE-03 | Phase 2 | Pending |
+| RCPE-04 | Phase 2 | Pending |
+| LIB-01 | Phase 3 | Pending |
+| LIB-02 | Phase 3 | Pending |
+| LIB-03 | Phase 3 | Pending |
+| LIB-04 | Phase 3 | Pending |
+| LIB-05 | Phase 3 | Pending |
+| LIB-06 | Phase 3 | Pending |
+| CENS-01 | Phase 4 | Pending |
+| CENS-02 | Phase 4 | Pending |
+| CENS-03 | Phase 4 | Pending |
+| CENS-04 | Phase 4 | Pending |
+| CENS-05 | Phase 4 | Pending |
+| CENS-06 | Phase 4 | Pending |
+| CENS-07 | Phase 4 | Pending |
+| ASSY-01 | Phase 5 | Pending |
+| ASSY-02 | Phase 5 | Pending |
+| ASSY-03 | Phase 5 | Pending |
+| ASSY-04 | Phase 5 | Pending |
+| ASSY-05 | Phase 5 | Pending |
+| ASSY-06 | Phase 5 | Pending |
+| ASSY-07 | Phase 5 | Pending |
+| READ-01 | Phase 6 | Pending |
+| READ-02 | Phase 6 | Pending |
+| READ-03 | Phase 6 | Pending |
+| READ-04 | Phase 6 | Pending |
+| READ-05 | Phase 6 | Pending |
+| SCAL-01 | Phase 7 | Pending |
+| SCAL-02 | Phase 7 | Pending |
+| SCAL-03 | Phase 7 | Pending |
+| SCAL-04 | Phase 7 | Pending |
+| SCAL-05 | Phase 7 | Pending |
+| POL-01 | Phase 8 | Pending |
+| POL-02 | Phase 8 | Pending |
+| POL-03 | Phase 8 | Pending |
+| POL-04 | Phase 8 | Pending |
 
 **Coverage:**
 - v1 requirements: 59 total
-- Mapped to phases: 0
-- Unmapped: 59 ⚠️
+- Mapped to phases: 59 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-11-02*
