@@ -5,3 +5,15 @@ probes/phase-0/fixtures/pages-full/
 probes/phase-0/results/*.log
 .DS_Store
 .worktrees/
+
+# GSD runtime state (not planning documents)
+.gsd/
+.planning/state.json
+.planning/estimation-calibration.json
+.planning/milestone.lock
+.planning/research/.cache/
+.planning/intel/
+.planning/ui-reviews/
+
+# Playwright MCP captures
+.playwright-mcp/
